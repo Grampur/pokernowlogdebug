@@ -13,6 +13,12 @@ from player import Player
 from seat import Seat
 from utils import PNLogParsingException, eval_final_hand
 
+import random, os
+from datetime import datetime
+
+
+random.seed(datetime.now().timestamp())
+
 
 @dataclass
 class Hand:
@@ -117,6 +123,8 @@ class Hand:
     river_actions: List[Action] = field(default_factory=list)
     showdown_actions: List[Action] = field(default_factory=list)
     run_it_twice_showdown_actions: List[Action] = field(default_factory=list)
+
+
 
     def get_seat_by_player_name_with_id(self, player_name_with_id: str) -> Seat:
         """ Gets a seat in this hand where a given player is sat, if it exists.
@@ -237,9 +245,8 @@ class Hand:
 
         # For hand id generate a random number, but deterministic if the seed parameter is supplied
         # This keeps hand ids consistent between generations.
-        random_seed = f"{Path(file_path_seed).stem}-{self.hand_number}" if file_path_seed else None
-        seed(a=random_seed)
         hand_id = getrandbits(64)
+
 
         # Currency formatting
         big_blind = f"{currency_symbol}{self.big_blind_amount:,.2f}"

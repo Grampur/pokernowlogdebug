@@ -1,4 +1,4 @@
-PokerStars Hand #15758344406958860120: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:53:39 GMT
+PokerStars Hand #13583860004112517390: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:53:39 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($20.00 in chips)
 Seat 2: daze ($20.00 in chips)
@@ -50,7 +50,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #2286606602552514167: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:54:33 GMT
+PokerStars Hand #4591211940063387789: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:54:33 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($20.00 in chips)
 Seat 2: daze ($19.30 in chips)
@@ -97,7 +97,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #300219641519607086: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:55:37 GMT
+PokerStars Hand #4982321489862461031: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:55:37 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($20.00 in chips)
 Seat 2: daze ($18.70 in chips)
@@ -146,7 +146,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #13535289782165616963: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:56:36 GMT
+PokerStars Hand #8599895038646178055: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:56:36 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($20.00 in chips)
 Seat 2: daze ($18.70 in chips)
@@ -194,7 +194,7 @@ Seat 10: goot (big blind) folded on the Turn
 
 
 
-PokerStars Hand #16842737417148483979: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:57:14 GMT
+PokerStars Hand #17447892916656912583: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:57:14 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($22.25 in chips)
 Seat 2: daze ($18.70 in chips)
@@ -245,7 +245,7 @@ Seat 10: goot (small blind) folded before Flop
 
 
 
-PokerStars Hand #12914607124357980212: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:58:34 GMT
+PokerStars Hand #16518887180408607924: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:58:34 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($22.05 in chips)
 Seat 2: daze ($18.70 in chips)
@@ -293,7 +293,7 @@ Seat 10: goot (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #3207941536039996055: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:59:15 GMT
+PokerStars Hand #11072782270960979274: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:59:15 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($21.95 in chips)
 Seat 2: daze ($25.10 in chips)
@@ -331,7 +331,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #13354108215713958567: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:59:51 GMT
+PokerStars Hand #8011828072008285328: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 02:59:51 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($21.95 in chips)
 Seat 2: daze ($25.00 in chips)
@@ -369,7 +369,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #17630737491033011874: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:00:31 GMT
+PokerStars Hand #15646296132245710001: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:00:31 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($21.95 in chips)
 Seat 2: daze ($25.30 in chips)
@@ -420,7 +420,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #14499339653683252351: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:01:46 GMT
+PokerStars Hand #6374504477389401526: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:01:46 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($21.95 in chips)
 Seat 2: daze ($25.30 in chips)
@@ -469,7 +469,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #3090698850825393219: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:02:22 GMT
+PokerStars Hand #15960555685812206255: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:02:22 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($24.05 in chips)
 Seat 2: daze ($25.30 in chips)
@@ -514,7 +514,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #12703307054476463539: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:03:03 GMT
+PokerStars Hand #6022912580598143266: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:03:03 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($23.45 in chips)
 Seat 2: daze ($25.30 in chips)
@@ -566,7 +566,7 @@ Seat 10: goot (big blind) folded on the River
 
 
 
-PokerStars Hand #7537775023560704481: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:03:53 GMT
+PokerStars Hand #12142853555552795822: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:03:53 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($23.45 in chips)
 Seat 2: daze ($16.13 in chips)
@@ -608,7 +608,7 @@ Seat 10: goot (small blind) folded before Flop
 
 
 
-PokerStars Hand #10510955719813830854: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:04:33 GMT
+PokerStars Hand #694598670959690909: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:04:33 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($23.25 in chips)
 Seat 2: daze ($16.13 in chips)
@@ -655,7 +655,7 @@ Seat 10: goot (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #7724013652144361569: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:05:31 GMT
+PokerStars Hand #205323337997739398: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:05:31 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($23.15 in chips)
 Seat 2: daze ($33.56 in chips)
@@ -693,7 +693,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #17158142147514915820: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:06:00 GMT
+PokerStars Hand #11825666716439679771: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:06:00 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($23.15 in chips)
 Seat 2: daze ($33.46 in chips)
@@ -730,7 +730,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #4420929825679615731: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:06:17 GMT
+PokerStars Hand #16571533013921478215: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:06:17 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($23.15 in chips)
 Seat 2: daze ($33.46 in chips)
@@ -776,7 +776,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #34972600627343514: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:07:07 GMT
+PokerStars Hand #6209054925673840830: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:07:07 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 2: daze ($57.61 in chips)
 Seat 3: doublex ($21.40 in chips)
@@ -817,7 +817,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #6627248244884209161: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:07:51 GMT
+PokerStars Hand #18172965914679180393: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:07:51 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($20.00 in chips)
 Seat 2: daze ($56.86 in chips)
@@ -865,7 +865,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #10926498630243234474: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:08:43 GMT
+PokerStars Hand #12974230850082395313: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:08:43 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($20.00 in chips)
 Seat 2: daze ($56.86 in chips)
@@ -910,7 +910,7 @@ Seat 10: goot (big blind) folded before Flop
 
 
 
-PokerStars Hand #1745012628693487824: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:09:28 GMT
+PokerStars Hand #15853237356752658029: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:09:28 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($20.00 in chips)
 Seat 2: daze ($54.36 in chips)
@@ -958,7 +958,7 @@ Seat 10: goot (small blind) folded on the Turn
 
 
 
-PokerStars Hand #10024949684498731829: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:10:28 GMT
+PokerStars Hand #6671701245985856423: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:10:28 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($19.80 in chips)
 Seat 2: daze ($54.36 in chips)
@@ -1009,7 +1009,7 @@ Seat 10: goot (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #9012527507233348949: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:11:31 GMT
+PokerStars Hand #13664352929025018636: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:11:31 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($17.00 in chips)
 Seat 2: daze ($54.16 in chips)
@@ -1048,7 +1048,7 @@ Seat 10: goot collected ($1.70)
 
 
 
-PokerStars Hand #10984040829171121509: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:11:54 GMT
+PokerStars Hand #9063282300560129752: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:11:54 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($17.00 in chips)
 Seat 2: daze ($54.06 in chips)
@@ -1098,7 +1098,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #15311024451652748997: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:12:58 GMT
+PokerStars Hand #17919937848638471327: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:12:58 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($17.00 in chips)
 Seat 2: daze ($54.06 in chips)
@@ -1146,7 +1146,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #17372669113962416095: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:13:49 GMT
+PokerStars Hand #3045422465554745438: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:13:49 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($17.00 in chips)
 Seat 2: daze ($51.16 in chips)
@@ -1196,7 +1196,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #16298904688870381920: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:14:48 GMT
+PokerStars Hand #13068264709496945896: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:14:48 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($17.00 in chips)
 Seat 2: daze ($51.16 in chips)
@@ -1243,7 +1243,7 @@ Seat 10: goot showed [Qd Qs] and lost with two pair, Queens and Threes
 
 
 
-PokerStars Hand #11337466357153381495: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:15:43 GMT
+PokerStars Hand #8717100206840821201: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:15:43 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($17.00 in chips)
 Seat 2: daze ($50.41 in chips)
@@ -1277,7 +1277,7 @@ Seat 8: Mikky (small blind) folded before Flop
 
 
 
-PokerStars Hand #4390125566348740184: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:16:16 GMT
+PokerStars Hand #10501409402744396408: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:16:16 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($17.10 in chips)
 Seat 2: daze ($50.41 in chips)
@@ -1326,7 +1326,7 @@ Seat 8: Mikky (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #17114554171421759838: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:17:08 GMT
+PokerStars Hand #11225851753947839536: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:17:08 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($17.00 in chips)
 Seat 2: daze ($50.21 in chips)
@@ -1373,7 +1373,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #15348865847204858046: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:17:57 GMT
+PokerStars Hand #3387875811787159945: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:17:57 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($15.70 in chips)
 Seat 2: daze ($48.91 in chips)
@@ -1425,7 +1425,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #9917335575976121806: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:19:27 GMT
+PokerStars Hand #15467188781309310132: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:19:27 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($15.70 in chips)
 Seat 2: daze ($48.91 in chips)
@@ -1479,7 +1479,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #4233436416581404180: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:20:37 GMT
+PokerStars Hand #18222913234140535369: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:20:37 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($15.00 in chips)
 Seat 2: daze ($44.71 in chips)
@@ -1523,7 +1523,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #10214449014170675609: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:21:18 GMT
+PokerStars Hand #16697600496918345229: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:21:18 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($15.00 in chips)
 Seat 2: daze ($45.38 in chips)
@@ -1576,7 +1576,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #13253120675150241662: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:22:11 GMT
+PokerStars Hand #4490980018504508096: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:22:11 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($30.30 in chips)
 Seat 2: daze ($45.38 in chips)
@@ -1620,7 +1620,7 @@ Seat 10: goot (big blind) folded on the Flop
 
 
 
-PokerStars Hand #8244154645152639642: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:22:57 GMT
+PokerStars Hand #635510002098405538: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:22:57 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($31.60 in chips)
 Seat 2: daze ($45.38 in chips)
@@ -1666,7 +1666,7 @@ Seat 10: goot (small blind) folded before Flop
 
 
 
-PokerStars Hand #3846378414367137065: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:24:06 GMT
+PokerStars Hand #8976706108701408840: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:24:06 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($31.40 in chips)
 Seat 2: daze ($45.38 in chips)
@@ -1711,7 +1711,7 @@ Seat 10: goot (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #425416437474433423: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:25:04 GMT
+PokerStars Hand #9337485749107861892: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:25:04 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($31.30 in chips)
 Seat 2: daze ($45.18 in chips)
@@ -1748,7 +1748,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #12444974211603606565: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:25:18 GMT
+PokerStars Hand #5674664935213682817: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:25:18 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($31.30 in chips)
 Seat 2: daze ($45.08 in chips)
@@ -1794,7 +1794,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #11022967379033533651: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:26:12 GMT
+PokerStars Hand #10502290652112963844: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:26:12 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($32.40 in chips)
 Seat 2: daze ($45.08 in chips)
@@ -1845,7 +1845,7 @@ Seat 10: goot showed [Ac Kd] and won ($10.90) with a pair of Kings
 
 
 
-PokerStars Hand #16263943883546212944: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:27:22 GMT
+PokerStars Hand #17458453167995897709: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:27:22 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($32.40 in chips)
 Seat 2: daze ($36.68 in chips)
@@ -1890,7 +1890,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #2541548647208377038: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:28:20 GMT
+PokerStars Hand #7908478829291351462: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:28:20 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($32.40 in chips)
 Seat 2: daze ($36.68 in chips)
@@ -1937,7 +1937,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #11016010770502939279: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:29:11 GMT
+PokerStars Hand #13749634781815858060: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:29:11 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($32.40 in chips)
 Seat 2: daze ($36.68 in chips)
@@ -1996,7 +1996,7 @@ Seat 10: goot (big blind) folded on the Turn
 
 
 
-PokerStars Hand #6696665811440800977: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:30:53 GMT
+PokerStars Hand #4763508073640535609: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:30:53 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($32.40 in chips)
 Seat 2: daze ($36.68 in chips)
@@ -2052,7 +2052,7 @@ Seat 10: goot (small blind) folded before Flop
 
 
 
-PokerStars Hand #3587146035996901603: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:32:24 GMT
+PokerStars Hand #10414171542605051758: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:32:24 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($32.20 in chips)
 Seat 2: daze ($36.68 in chips)
@@ -2100,7 +2100,7 @@ Seat 10: goot (button) folded before Flop
 
 
 
-PokerStars Hand #3060808058707119028: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:33:37 GMT
+PokerStars Hand #3770941024383779806: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:33:37 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($32.10 in chips)
 Seat 2: daze ($53.83 in chips)
@@ -2137,7 +2137,7 @@ Seat 10: goot collected ($2.30)
 
 
 
-PokerStars Hand #8403918166073449856: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:34:04 GMT
+PokerStars Hand #2716559944308331318: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:34:04 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($32.10 in chips)
 Seat 2: daze ($53.73 in chips)
@@ -2188,7 +2188,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #205153758754055161: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:34:54 GMT
+PokerStars Hand #3421994714148569127: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:34:54 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($32.10 in chips)
 Seat 2: daze ($53.73 in chips)
@@ -2232,7 +2232,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #605165607852025156: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:35:21 GMT
+PokerStars Hand #11075084951816355866: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:35:21 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($32.10 in chips)
 Seat 2: daze ($53.73 in chips)
@@ -2285,7 +2285,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #14650255770618961316: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:36:19 GMT
+PokerStars Hand #12214908879312844038: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:36:19 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($32.10 in chips)
 Seat 2: daze ($53.73 in chips)
@@ -2325,7 +2325,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #12795018238881810416: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:36:54 GMT
+PokerStars Hand #6836654373089610444: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:36:54 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($31.50 in chips)
 Seat 2: daze ($53.73 in chips)
@@ -2375,7 +2375,7 @@ Seat 10: goot (big blind) folded on the Flop
 
 
 
-PokerStars Hand #18406315635158728647: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:37:48 GMT
+PokerStars Hand #16369087036201213788: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:37:48 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($31.50 in chips)
 Seat 2: daze ($53.73 in chips)
@@ -2431,7 +2431,7 @@ Seat 10: goot (small blind) folded before Flop
 
 
 
-PokerStars Hand #9904054636605865999: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:38:55 GMT
+PokerStars Hand #15157381334689909913: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:38:55 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($31.30 in chips)
 Seat 2: daze ($53.73 in chips)
@@ -2479,7 +2479,7 @@ Seat 10: goot (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #14359265020719819137: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:39:54 GMT
+PokerStars Hand #1845736498369419833: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:39:54 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($51.98 in chips)
 Seat 2: daze ($50.63 in chips)
@@ -2525,7 +2525,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #12776881144273490839: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:40:35 GMT
+PokerStars Hand #9932365980396828813: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:40:35 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($51.98 in chips)
 Seat 2: daze ($50.53 in chips)
@@ -2574,7 +2574,7 @@ Seat 10: goot showed [8d 8h] and won ($26.10) with a pair of Eights
 
 
 
-PokerStars Hand #8922064585141837810: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:41:43 GMT
+PokerStars Hand #8418111019164310414: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:41:43 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($51.98 in chips)
 Seat 2: daze ($50.53 in chips)
@@ -2625,7 +2625,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #5350523206542584561: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:42:30 GMT
+PokerStars Hand #1917461658851928141: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:42:30 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($51.98 in chips)
 Seat 2: daze ($49.83 in chips)
@@ -2676,7 +2676,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #18268162627669655317: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:43:26 GMT
+PokerStars Hand #15882010133342388983: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:43:26 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($51.98 in chips)
 Seat 2: daze ($49.83 in chips)
@@ -2726,7 +2726,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #17655068126513428357: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:44:01 GMT
+PokerStars Hand #1472363859979134989: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:44:01 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($51.98 in chips)
 Seat 2: daze ($49.83 in chips)
@@ -2776,7 +2776,7 @@ Seat 10: goot (big blind) folded on the Turn
 
 
 
-PokerStars Hand #14901622178927978500: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:44:50 GMT
+PokerStars Hand #9561150884398635613: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:44:50 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($51.98 in chips)
 Seat 2: daze ($49.83 in chips)
@@ -2827,7 +2827,7 @@ Seat 10: goot (small blind) folded before Flop
 
 
 
-PokerStars Hand #10881857744739542598: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:45:37 GMT
+PokerStars Hand #8977930465753916089: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:45:37 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($51.78 in chips)
 Seat 2: daze ($43.64 in chips)
@@ -2877,7 +2877,7 @@ Seat 10: goot (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #3959675160070877468: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:46:15 GMT
+PokerStars Hand #1396747693169264126: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:46:15 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($51.68 in chips)
 Seat 2: daze ($43.44 in chips)
@@ -2915,7 +2915,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #12268003627447064289: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:46:46 GMT
+PokerStars Hand #14324817434976039950: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:46:46 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($51.68 in chips)
 Seat 2: daze ($43.34 in chips)
@@ -2954,7 +2954,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #7474593472676297191: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:47:10 GMT
+PokerStars Hand #14531265434371997978: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:47:10 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($51.68 in chips)
 Seat 2: daze ($43.34 in chips)
@@ -2998,7 +2998,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #2469084479762129729: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:47:55 GMT
+PokerStars Hand #1026239150790145435: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:47:55 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($53.93 in chips)
 Seat 2: daze ($43.34 in chips)
@@ -3033,7 +3033,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #16023652263337581923: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:48:11 GMT
+PokerStars Hand #5687915250198094959: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:48:11 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($53.93 in chips)
 Seat 2: daze ($43.64 in chips)
@@ -3073,7 +3073,7 @@ Seat 10: goot (big blind) folded before Flop
 
 
 
-PokerStars Hand #12439024530431309402: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:48:36 GMT
+PokerStars Hand #7410229910481233207: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:48:36 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($53.93 in chips)
 Seat 2: daze ($43.64 in chips)
@@ -3118,7 +3118,7 @@ Seat 10: goot (small blind) folded before Flop
 
 
 
-PokerStars Hand #314549408646316111: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:49:14 GMT
+PokerStars Hand #13298096881594763933: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:49:14 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($53.73 in chips)
 Seat 2: daze ($43.64 in chips)
@@ -3163,7 +3163,7 @@ Seat 10: goot (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #7182286873374131194: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:50:12 GMT
+PokerStars Hand #13661746345420703083: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:50:12 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($53.63 in chips)
 Seat 2: daze ($43.44 in chips)
@@ -3208,7 +3208,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #8616551999158795810: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:51:11 GMT
+PokerStars Hand #12690897881433818070: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:51:11 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($53.63 in chips)
 Seat 2: daze ($48.44 in chips)
@@ -3253,7 +3253,7 @@ Seat 10: goot showed [Ad Ks] and lost with high card Ace
 
 
 
-PokerStars Hand #11529373709930033918: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:51:47 GMT
+PokerStars Hand #2085192770080043595: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:51:47 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($53.63 in chips)
 Seat 2: daze ($48.44 in chips)
@@ -3293,7 +3293,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #11090193112412648512: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:52:19 GMT
+PokerStars Hand #18264693391341212050: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:52:19 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($53.63 in chips)
 Seat 2: daze ($47.87 in chips)
@@ -3343,7 +3343,7 @@ Seat 10: goot didn't show and lost
 
 
 
-PokerStars Hand #10099408885006111744: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:53:01 GMT
+PokerStars Hand #12999398780571838200: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:53:01 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($53.63 in chips)
 Seat 2: daze ($47.87 in chips)
@@ -3386,7 +3386,7 @@ Seat 10: goot (big blind) folded on the Flop
 
 
 
-PokerStars Hand #10864335139889354746: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:53:56 GMT
+PokerStars Hand #5636172386847877013: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:53:56 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($53.63 in chips)
 Seat 2: daze ($47.87 in chips)
@@ -3435,7 +3435,7 @@ Seat 10: goot (small blind) folded before Flop
 
 
 
-PokerStars Hand #10580186671752715769: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:54:54 GMT
+PokerStars Hand #6195268029151375271: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:54:54 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($53.43 in chips)
 Seat 2: daze ($47.87 in chips)
@@ -3481,7 +3481,7 @@ Seat 10: goot (button) collected ($15.50)
 
 
 
-PokerStars Hand #4896265824074128126: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:55:40 GMT
+PokerStars Hand #15862711164489998202: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:55:40 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($53.33 in chips)
 Seat 2: daze ($47.67 in chips)
@@ -3517,7 +3517,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #7121985884939817268: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:55:55 GMT
+PokerStars Hand #17729059960170839982: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:55:55 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($54.33 in chips)
 Seat 2: daze ($47.57 in chips)
@@ -3563,7 +3563,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #15196546809463705416: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:56:18 GMT
+PokerStars Hand #14536991886752748117: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:56:18 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($54.33 in chips)
 Seat 2: daze ($47.57 in chips)
@@ -3609,7 +3609,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #18395644235347281322: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:57:07 GMT
+PokerStars Hand #18349503612457617993: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:57:07 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($54.33 in chips)
 Seat 2: daze ($13.64 in chips)
@@ -3651,7 +3651,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #10152309465387612921: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:57:37 GMT
+PokerStars Hand #14788270550097125496: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:57:37 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($54.33 in chips)
 Seat 2: daze ($13.44 in chips)
@@ -3701,7 +3701,7 @@ Seat 10: goot (big blind) folded on the River
 
 
 
-PokerStars Hand #3117294230481264373: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:59:00 GMT
+PokerStars Hand #7127456563660289093: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:59:00 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($54.33 in chips)
 Seat 2: daze ($16.74 in chips)
@@ -3749,7 +3749,7 @@ Seat 10: goot (small blind) folded before Flop
 
 
 
-PokerStars Hand #12091618946998565132: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:59:35 GMT
+PokerStars Hand #13350713152048065196: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 03:59:35 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($54.13 in chips)
 Seat 2: daze ($14.39 in chips)
@@ -3797,7 +3797,7 @@ Seat 10: goot (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #3238793884224757187: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:01:02 GMT
+PokerStars Hand #696028791933626261: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:01:02 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($54.03 in chips)
 Seat 2: daze ($13.69 in chips)
@@ -3848,7 +3848,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #2625947648411183166: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:01:51 GMT
+PokerStars Hand #3755136288629287996: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:01:51 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($53.23 in chips)
 Seat 2: daze ($13.59 in chips)
@@ -3898,7 +3898,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #12726560478308128747: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:02:39 GMT
+PokerStars Hand #15528854406866831368: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:02:39 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($51.23 in chips)
 Seat 2: daze ($13.59 in chips)
@@ -3941,7 +3941,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #4665037170194883608: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:03:12 GMT
+PokerStars Hand #6332380714025384091: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:03:12 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($51.23 in chips)
 Seat 2: daze ($12.89 in chips)
@@ -3991,7 +3991,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #10017738226208571609: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:04:09 GMT
+PokerStars Hand #10919900427541449725: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:04:09 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($49.13 in chips)
 Seat 2: daze ($12.89 in chips)
@@ -4042,7 +4042,7 @@ Seat 10: goot folded before Flop
 
 
 
-PokerStars Hand #14893956345841596870: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:05:03 GMT
+PokerStars Hand #7357170867760595442: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:05:03 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($48.53 in chips)
 Seat 2: daze ($12.29 in chips)
@@ -4091,7 +4091,7 @@ Seat 10: goot (big blind) folded before Flop
 
 
 
-PokerStars Hand #18052106777543847730: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:06:00 GMT
+PokerStars Hand #13349737251705505514: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:06:00 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($48.53 in chips)
 Seat 2: daze ($12.29 in chips)
@@ -4135,7 +4135,7 @@ Seat 10: goot (small blind) folded before Flop
 
 
 
-PokerStars Hand #16360605265645224524: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:06:37 GMT
+PokerStars Hand #3953678646379583276: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:06:37 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($48.33 in chips)
 Seat 2: daze ($12.29 in chips)
@@ -4180,7 +4180,7 @@ Seat 10: goot (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #14046170013820498726: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:07:21 GMT
+PokerStars Hand #14343158008974236171: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:07:21 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($47.43 in chips)
 Seat 2: daze ($11.39 in chips)
@@ -4225,7 +4225,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #10366008352441005654: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:08:00 GMT
+PokerStars Hand #6625311208709480348: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:08:00 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($46.83 in chips)
 Seat 2: daze ($11.29 in chips)
@@ -4275,7 +4275,7 @@ Seat 10: goot collected ($18.60)
 
 
 
-PokerStars Hand #16670066648855677101: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:09:22 GMT
+PokerStars Hand #17454039768221260727: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:09:22 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($46.83 in chips)
 Seat 2: daze ($11.29 in chips)
@@ -4313,7 +4313,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #8208950656113889479: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:09:42 GMT
+PokerStars Hand #6536167521367428004: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:09:42 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($46.83 in chips)
 Seat 2: daze ($11.29 in chips)
@@ -4363,7 +4363,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #495259567162649044: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:10:26 GMT
+PokerStars Hand #9639429948684344031: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:10:26 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($46.83 in chips)
 Seat 2: daze ($11.29 in chips)
@@ -4408,7 +4408,7 @@ Seat 10: goot folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #6456949652469830598: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:11:10 GMT
+PokerStars Hand #8693963482241298124: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:11:10 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($46.83 in chips)
 Seat 2: daze ($11.09 in chips)
@@ -4453,7 +4453,7 @@ Seat 9: ad (small blind) folded before Flop
 
 
 
-PokerStars Hand #7832735661455476848: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:11:53 GMT
+PokerStars Hand #13319364689692734159: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:11:53 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($46.63 in chips)
 Seat 2: daze ($0.37 in chips)
@@ -4508,7 +4508,7 @@ Seat 9: ad (button) folded on the Turn
 
 
 
-PokerStars Hand #3100328623385301439: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:12:56 GMT
+PokerStars Hand #9552708140131532038: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:12:56 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($46.03 in chips)
 Seat 2: daze ($2.22 in chips)
@@ -4555,7 +4555,7 @@ Seat 9: ad folded on the Turn
 
 
 
-PokerStars Hand #13766094606108141462: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:13:32 GMT
+PokerStars Hand #10683461985874070298: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:13:32 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($46.03 in chips)
 Seat 4: Eugene ($45.14 in chips)
@@ -4587,7 +4587,7 @@ Seat 9: ad folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #1058997440653836630: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:13:50 GMT
+PokerStars Hand #10764603773403190868: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:13:50 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($46.03 in chips)
 Seat 4: Eugene ($45.04 in chips)
@@ -4625,7 +4625,7 @@ Seat 9: ad folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #371468060848522445: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:14:15 GMT
+PokerStars Hand #221560933489599026: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:14:15 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($47.13 in chips)
 Seat 4: Eugene ($45.04 in chips)
@@ -4674,7 +4674,7 @@ Seat 9: ad folded on the Turn
 
 
 
-PokerStars Hand #2789323974433315207: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:15:06 GMT
+PokerStars Hand #5936548580711552898: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:15:06 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($44.38 in chips)
 Seat 4: Eugene ($45.04 in chips)
@@ -4718,7 +4718,7 @@ Seat 9: ad (big blind) folded before Flop
 
 
 
-PokerStars Hand #8982000745015965787: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:15:37 GMT
+PokerStars Hand #7475577557412042937: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:15:37 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($44.38 in chips)
 Seat 4: Eugene ($45.04 in chips)
@@ -4766,7 +4766,7 @@ Seat 9: ad (small blind) folded before Flop
 
 
 
-PokerStars Hand #10384440013011957153: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:16:44 GMT
+PokerStars Hand #7648243483213603751: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:16:44 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($44.18 in chips)
 Seat 4: Eugene ($44.44 in chips)
@@ -4809,7 +4809,7 @@ Seat 9: ad (button) folded before Flop (didn't bet) [3s Qd]
 
 
 
-PokerStars Hand #13812739108845255374: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:17:32 GMT
+PokerStars Hand #15291172675605315274: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:17:32 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($44.08 in chips)
 Seat 4: Eugene ($44.74 in chips)
@@ -4854,7 +4854,7 @@ Seat 9: ad folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #17418304030588684766: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:18:41 GMT
+PokerStars Hand #5251922835156216995: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:18:41 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($44.08 in chips)
 Seat 4: Eugene ($44.64 in chips)
@@ -4903,7 +4903,7 @@ Seat 9: ad folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #6467303246667358409: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:19:29 GMT
+PokerStars Hand #9118429074501456448: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:19:29 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($43.38 in chips)
 Seat 2: JG ($25.00 in chips)
@@ -4953,7 +4953,7 @@ Seat 9: ad folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #18276262034095932759: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:20:47 GMT
+PokerStars Hand #16161495777341043024: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:20:47 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 2: JG ($25.00 in chips)
 Seat 4: Eugene ($30.17 in chips)
@@ -4992,7 +4992,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #60567000938647259: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:21:10 GMT
+PokerStars Hand #3423467167857545296: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:21:10 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 2: JG ($25.00 in chips)
 Seat 4: Eugene ($30.17 in chips)
@@ -5043,7 +5043,7 @@ Seat 10: 4pf folded on the Flop
 
 
 
-PokerStars Hand #1118772308706648834: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:22:06 GMT
+PokerStars Hand #7069988026081812264: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:22:06 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 2: JG ($28.80 in chips)
 Seat 4: Eugene ($30.17 in chips)
@@ -5080,7 +5080,7 @@ Seat 10: 4pf (big blind) folded before Flop
 
 
 
-PokerStars Hand #14810828345743756211: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:22:37 GMT
+PokerStars Hand #7102780625508546414: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:22:37 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 2: JG ($28.80 in chips)
 Seat 4: Eugene ($30.17 in chips)
@@ -5126,7 +5126,7 @@ Seat 10: 4pf (small blind) folded before Flop
 
 
 
-PokerStars Hand #2822841240838506486: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:23:19 GMT
+PokerStars Hand #11506512187869042861: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:23:19 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 2: JG ($28.60 in chips)
 Seat 4: Eugene ($30.17 in chips)
@@ -5184,7 +5184,7 @@ Seat 10: 4pf (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #9970202144967538500: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:24:42 GMT
+PokerStars Hand #9342794565121880053: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:24:42 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 2: JG ($24.30 in chips)
 Seat 4: Eugene ($29.97 in chips)
@@ -5233,7 +5233,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #13216198418527507181: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:25:37 GMT
+PokerStars Hand #3709461200323666545: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:25:37 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 2: JG ($23.40 in chips)
 Seat 4: Eugene ($29.87 in chips)
@@ -5283,7 +5283,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #518977255549788317: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:26:27 GMT
+PokerStars Hand #3332059710670021769: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:26:27 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 2: JG ($23.40 in chips)
 Seat 4: Eugene ($29.87 in chips)
@@ -5326,7 +5326,7 @@ Seat 10: 4pf folded on the Flop
 
 
 
-PokerStars Hand #7685922038333502505: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:26:52 GMT
+PokerStars Hand #7234544267805169764: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:26:52 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 2: JG ($23.40 in chips)
 Seat 4: Eugene ($29.87 in chips)
@@ -5378,7 +5378,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #13992836304380214478: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:28:16 GMT
+PokerStars Hand #5017015437325086256: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:28:16 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 2: JG ($23.40 in chips)
 Seat 4: Eugene ($29.87 in chips)
@@ -5415,7 +5415,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #9169374927541649826: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:28:30 GMT
+PokerStars Hand #12915705316258953583: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:28:30 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 2: JG ($23.40 in chips)
 Seat 4: Eugene ($29.87 in chips)
@@ -5463,7 +5463,7 @@ Seat 10: 4pf (big blind) showed [6d 7h] and won ($9.80) with three of a kind, Si
 
 
 
-PokerStars Hand #18349068303485479709: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:29:20 GMT
+PokerStars Hand #14224610725632741992: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:29:20 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 2: JG ($23.40 in chips)
 Seat 4: Eugene ($29.87 in chips)
@@ -5500,7 +5500,7 @@ Seat 10: 4pf (small blind) folded before Flop
 
 
 
-PokerStars Hand #11548781497134968881: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:29:46 GMT
+PokerStars Hand #7368736060004927363: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:29:46 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 2: JG ($23.20 in chips)
 Seat 4: Eugene ($29.87 in chips)
@@ -5553,7 +5553,7 @@ Seat 10: 4pf (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #1912164706664328223: Hold'em No Limit ($0.00/$0.20 USD) - 2024/05/28 04:30:52 GMT
+PokerStars Hand #11591922880462493083: Hold'em No Limit ($0.00/$0.20 USD) - 2024/05/28 04:30:52 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 2: JG ($23.10 in chips)
 Seat 5: Nolski ($24.92 in chips)
@@ -5598,7 +5598,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #1700813362668656621: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:31:32 GMT
+PokerStars Hand #2948446605893803507: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:31:32 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 2: JG ($23.10 in chips)
 Seat 5: Nolski ($22.92 in chips)
@@ -5649,7 +5649,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #7668086351092527946: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:32:16 GMT
+PokerStars Hand #8435316966414790292: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:32:16 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 2: JG ($41.05 in chips)
 Seat 5: Nolski ($22.82 in chips)
@@ -5683,7 +5683,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #4940931474740430082: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:32:28 GMT
+PokerStars Hand #7805537330808020301: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:32:28 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 2: JG ($41.05 in chips)
 Seat 5: Nolski ($22.82 in chips)
@@ -5730,7 +5730,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #15382552871561414565: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:33:47 GMT
+PokerStars Hand #7755295486145730435: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:33:47 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($43.38 in chips)
 Seat 2: JG ($41.05 in chips)
@@ -5782,7 +5782,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #9114586388642411155: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:34:42 GMT
+PokerStars Hand #13054165571036213193: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:34:42 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($52.28 in chips)
 Seat 2: JG ($37.50 in chips)
@@ -5836,7 +5836,7 @@ Seat 10: 4pf (big blind) folded before Flop
 
 
 
-PokerStars Hand #5806613134792817452: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:35:39 GMT
+PokerStars Hand #3604333704251282580: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:35:39 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($59.53 in chips)
 Seat 2: JG ($37.50 in chips)
@@ -5884,7 +5884,7 @@ Seat 10: 4pf (small blind) folded before Flop
 
 
 
-PokerStars Hand #6500804021315508847: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:36:24 GMT
+PokerStars Hand #15011466264404823053: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:36:24 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($59.33 in chips)
 Seat 2: JG ($36.18 in chips)
@@ -5926,7 +5926,7 @@ Seat 10: 4pf (button) folded on the Flop
 
 
 
-PokerStars Hand #2060378272571386016: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:36:53 GMT
+PokerStars Hand #179202410113602459: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:36:53 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($59.23 in chips)
 Seat 2: JG ($35.98 in chips)
@@ -5973,7 +5973,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #3862538752628909397: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:37:26 GMT
+PokerStars Hand #5068412331254354842: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:37:26 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($59.23 in chips)
 Seat 2: JG ($35.88 in chips)
@@ -6030,7 +6030,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #7283230287521244030: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:38:49 GMT
+PokerStars Hand #10464736582290965738: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:38:49 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($69.28 in chips)
 Seat 2: JG ($35.18 in chips)
@@ -6080,7 +6080,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #657879395193305094: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:39:50 GMT
+PokerStars Hand #2051168526733967623: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:39:50 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($68.38 in chips)
 Seat 2: JG ($35.18 in chips)
@@ -6124,7 +6124,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #12782339218543871447: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:40:22 GMT
+PokerStars Hand #2225461659248064574: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:40:22 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($68.38 in chips)
 Seat 2: JG ($35.18 in chips)
@@ -6168,7 +6168,7 @@ Seat 10: 4pf (big blind) collected ($16.80)
 
 
 
-PokerStars Hand #2588122986514232234: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:41:02 GMT
+PokerStars Hand #13983340997084929893: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:41:02 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($67.78 in chips)
 Seat 2: JG ($35.18 in chips)
@@ -6212,7 +6212,7 @@ Seat 10: 4pf (small blind) folded before Flop
 
 
 
-PokerStars Hand #3494877663854433127: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:41:51 GMT
+PokerStars Hand #6838266111115014510: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:41:51 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($67.58 in chips)
 Seat 2: JG ($34.28 in chips)
@@ -6262,7 +6262,7 @@ Seat 10: 4pf (button) collected ($7.00)
 
 
 
-PokerStars Hand #17625154970322406932: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:42:30 GMT
+PokerStars Hand #7778307137306047355: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:42:30 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($66.88 in chips)
 Seat 2: JG ($32.18 in chips)
@@ -6305,7 +6305,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #1079498822732012373: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:43:06 GMT
+PokerStars Hand #2880313713272462683: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:43:06 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($66.28 in chips)
 Seat 2: JG ($32.08 in chips)
@@ -6352,7 +6352,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #11768538674820784566: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:43:36 GMT
+PokerStars Hand #13312348644991041073: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:43:36 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($66.28 in chips)
 Seat 2: JG ($32.08 in chips)
@@ -6401,7 +6401,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #15967549323311418814: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:44:31 GMT
+PokerStars Hand #5373702461299515253: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:44:31 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($66.28 in chips)
 Seat 2: JG ($32.08 in chips)
@@ -6455,7 +6455,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #4001351997691967155: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:45:28 GMT
+PokerStars Hand #14712305584785389174: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:45:28 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($76.00 in chips)
 Seat 2: JG ($27.37 in chips)
@@ -6505,7 +6505,7 @@ Seat 10: 4pf showed [Ts Tc] and lost with two pair, Aces and Tens
 
 
 
-PokerStars Hand #2235179967317449767: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:46:15 GMT
+PokerStars Hand #7664785724215383425: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:46:15 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($76.00 in chips)
 Seat 2: JG ($27.37 in chips)
@@ -6554,7 +6554,7 @@ Seat 10: 4pf (big blind) collected ($11.70)
 
 
 
-PokerStars Hand #11853129311825970196: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:46:58 GMT
+PokerStars Hand #11535798389040479334: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:46:58 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($70.50 in chips)
 Seat 2: JG ($26.77 in chips)
@@ -6598,7 +6598,7 @@ Seat 10: 4pf (small blind) folded before Flop
 
 
 
-PokerStars Hand #12787240330400677482: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:47:29 GMT
+PokerStars Hand #2422756431691197369: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:47:29 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($70.30 in chips)
 Seat 2: JG ($25.97 in chips)
@@ -6653,7 +6653,7 @@ Seat 10: 4pf (button) folded on the Flop
 
 
 
-PokerStars Hand #16703188042914090773: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:48:57 GMT
+PokerStars Hand #7462753186680407157: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:48:57 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($70.20 in chips)
 Seat 2: JG ($25.77 in chips)
@@ -6715,7 +6715,7 @@ Seat 10: 4pf didn't show and lost
 
 
 
-PokerStars Hand #17055963924095401032: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:49:54 GMT
+PokerStars Hand #14274387907095155706: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:49:54 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($68.90 in chips)
 Seat 2: JG ($25.67 in chips)
@@ -6767,7 +6767,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #8988951435061836397: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:50:47 GMT
+PokerStars Hand #1460951153382086617: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:50:47 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($68.30 in chips)
 Seat 2: JG ($25.67 in chips)
@@ -6823,7 +6823,7 @@ Seat 10: 4pf collected ($13.80)
 
 
 
-PokerStars Hand #6354578903981576834: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:51:44 GMT
+PokerStars Hand #9841588588928871491: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:51:44 GMT
 Table 'PNLogConverter' 10-max Seat #6 is the button
 Seat 1: rampurge ($68.30 in chips)
 Seat 2: JG ($25.67 in chips)
@@ -6875,7 +6875,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #13868308562053564918: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:52:43 GMT
+PokerStars Hand #12309281111058085047: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:52:43 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($68.30 in chips)
 Seat 2: JG ($22.67 in chips)
@@ -6923,7 +6923,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #1669643208605388909: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:53:26 GMT
+PokerStars Hand #3395445838432091850: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:53:26 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($68.30 in chips)
 Seat 2: JG ($22.67 in chips)
@@ -6975,7 +6975,7 @@ Seat 10: 4pf (big blind) showed [Qh Kd] and won ($51.63) with a straight, Nine t
 
 
 
-PokerStars Hand #7225008129690632995: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:54:37 GMT
+PokerStars Hand #14986815377821354521: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:54:37 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($65.83 in chips)
 Seat 2: JG ($22.67 in chips)
@@ -7027,7 +7027,7 @@ Seat 10: 4pf (small blind) folded on the River
 
 
 
-PokerStars Hand #11765223848011947111: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:55:24 GMT
+PokerStars Hand #3410270195236724327: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:55:24 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($66.43 in chips)
 Seat 2: JG ($22.67 in chips)
@@ -7083,7 +7083,7 @@ Seat 10: 4pf (button) folded on the Flop
 
 
 
-PokerStars Hand #16499070809224371012: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:56:29 GMT
+PokerStars Hand #11925389942225064353: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:56:29 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($66.33 in chips)
 Seat 2: JG ($22.47 in chips)
@@ -7135,7 +7135,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #1415502413096768544: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:57:11 GMT
+PokerStars Hand #1829596395689714305: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:57:11 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($66.33 in chips)
 Seat 2: JG ($22.47 in chips)
@@ -7197,7 +7197,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #9343572720813451967: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:59:16 GMT
+PokerStars Hand #13952140803427545853: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 04:59:16 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($94.53 in chips)
 Seat 2: JG ($22.47 in chips)
@@ -7251,7 +7251,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #4796355613263312874: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:00:11 GMT
+PokerStars Hand #15130637446021982102: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:00:11 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($91.83 in chips)
 Seat 2: JG ($28.17 in chips)
@@ -7298,7 +7298,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #10307858201642254713: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:00:54 GMT
+PokerStars Hand #2733763360974290306: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:00:54 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($91.83 in chips)
 Seat 2: JG ($56.64 in chips)
@@ -7344,7 +7344,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #2122731224155270702: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:01:50 GMT
+PokerStars Hand #11593635358221910748: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:01:50 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($91.83 in chips)
 Seat 2: JG ($64.22 in chips)
@@ -7404,7 +7404,7 @@ Seat 10: 4pf (big blind) folded on the Flop
 
 
 
-PokerStars Hand #7835013529256197085: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:03:48 GMT
+PokerStars Hand #16915095806255744473: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:03:48 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($127.33 in chips)
 Seat 2: JG ($64.22 in chips)
@@ -7461,7 +7461,7 @@ Seat 10: 4pf (small blind) folded on the Flop
 
 
 
-PokerStars Hand #875268326434148423: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:05:12 GMT
+PokerStars Hand #6754974611342540047: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:05:12 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($109.18 in chips)
 Seat 2: JG ($64.22 in chips)
@@ -7514,7 +7514,7 @@ Seat 10: 4pf (button) folded on the Flop
 
 
 
-PokerStars Hand #1349488336813165907: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:06:14 GMT
+PokerStars Hand #1345436407780351356: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:06:14 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($109.08 in chips)
 Seat 2: JG ($61.82 in chips)
@@ -7563,7 +7563,7 @@ Seat 10: 4pf folded on the Flop
 
 
 
-PokerStars Hand #2961607661998136998: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:07:02 GMT
+PokerStars Hand #14367269806979389059: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:07:02 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($109.08 in chips)
 Seat 2: JG ($58.02 in chips)
@@ -7601,7 +7601,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #8731399658023718771: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:07:20 GMT
+PokerStars Hand #7543613467901168008: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:07:20 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($109.08 in chips)
 Seat 2: JG ($58.02 in chips)
@@ -7648,7 +7648,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #1234562653456682770: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:08:23 GMT
+PokerStars Hand #6956319480880406582: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:08:23 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($108.28 in chips)
 Seat 2: JG ($58.02 in chips)
@@ -7697,7 +7697,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #17091026071962687727: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:09:09 GMT
+PokerStars Hand #12530406472102784985: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:09:09 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($108.28 in chips)
 Seat 2: JG ($58.02 in chips)
@@ -7751,7 +7751,7 @@ Seat 10: 4pf didn't show and lost
 
 
 
-PokerStars Hand #6635380910348287659: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:10:07 GMT
+PokerStars Hand #5994553778570336429: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:10:07 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($108.28 in chips)
 Seat 2: JG ($56.92 in chips)
@@ -7803,7 +7803,7 @@ Seat 10: 4pf (big blind) folded on the Flop
 
 
 
-PokerStars Hand #17541511358623094103: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:10:37 GMT
+PokerStars Hand #14355207507486114313: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:10:37 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($108.28 in chips)
 Seat 2: JG ($60.92 in chips)
@@ -7847,7 +7847,7 @@ Seat 10: 4pf (small blind) folded on the Flop
 
 
 
-PokerStars Hand #5285946935678822072: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:11:04 GMT
+PokerStars Hand #10548598565996659857: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:11:04 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($108.08 in chips)
 Seat 2: JG ($60.92 in chips)
@@ -7897,7 +7897,7 @@ Seat 10: 4pf (button) folded on the River
 
 
 
-PokerStars Hand #9748187706198350774: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:11:49 GMT
+PokerStars Hand #4107891866188099227: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:11:49 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($107.98 in chips)
 Seat 2: JG ($60.22 in chips)
@@ -7944,7 +7944,7 @@ Seat 10: 4pf folded on the Flop
 
 
 
-PokerStars Hand #8128827077566506745: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:12:21 GMT
+PokerStars Hand #15252457879357627272: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:12:21 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($107.98 in chips)
 Seat 2: JG ($60.02 in chips)
@@ -7997,7 +7997,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #609537754865208832: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:13:09 GMT
+PokerStars Hand #7895081525796946305: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:13:09 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($107.98 in chips)
 Seat 2: JG ($58.82 in chips)
@@ -8052,7 +8052,7 @@ Seat 10: 4pf folded on the River
 
 
 
-PokerStars Hand #8724639378856128266: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:14:08 GMT
+PokerStars Hand #13950271580702925992: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:14:08 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($104.53 in chips)
 Seat 2: JG ($58.82 in chips)
@@ -8105,7 +8105,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #5663519079399756995: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:14:51 GMT
+PokerStars Hand #11270478092182761953: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:14:51 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($104.53 in chips)
 Seat 2: JG ($57.92 in chips)
@@ -8156,7 +8156,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #15234236204231743324: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:15:33 GMT
+PokerStars Hand #11660042869199961411: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:15:33 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($104.53 in chips)
 Seat 2: JG ($57.92 in chips)
@@ -8206,7 +8206,7 @@ Seat 10: 4pf (big blind) folded before Flop
 
 
 
-PokerStars Hand #5095198039069941145: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:16:06 GMT
+PokerStars Hand #5590328286268106795: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:16:06 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($104.53 in chips)
 Seat 2: JG ($59.52 in chips)
@@ -8257,7 +8257,7 @@ Seat 10: 4pf (small blind) folded before Flop
 
 
 
-PokerStars Hand #17872081411594422691: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:17:05 GMT
+PokerStars Hand #10547536754885195920: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:17:05 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($104.33 in chips)
 Seat 2: JG ($59.32 in chips)
@@ -8307,7 +8307,7 @@ Seat 10: 4pf (button) folded on the Flop
 
 
 
-PokerStars Hand #7437619175530690019: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:18:00 GMT
+PokerStars Hand #5614134548422902730: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:18:00 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($104.23 in chips)
 Seat 2: JG ($51.32 in chips)
@@ -8360,7 +8360,7 @@ Seat 10: 4pf showed [9h Qc] and won ($27.00) with two pair, Queens and Nines
 
 
 
-PokerStars Hand #2660717510237517119: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:18:39 GMT
+PokerStars Hand #10130916873964266177: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:18:39 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($104.23 in chips)
 Seat 2: JG ($50.12 in chips)
@@ -8422,7 +8422,7 @@ Seat 10: 4pf folded on the Turn
 
 
 
-PokerStars Hand #14212752022730251055: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:20:03 GMT
+PokerStars Hand #2882297174563451388: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:20:03 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($104.23 in chips)
 Seat 2: JG ($55.46 in chips)
@@ -8477,7 +8477,7 @@ Seat 10: 4pf collected ($31.66)
 
 
 
-PokerStars Hand #11047881319862416524: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:21:10 GMT
+PokerStars Hand #9347626611584297522: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:21:10 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($104.23 in chips)
 Seat 2: JG ($43.77 in chips)
@@ -8531,7 +8531,7 @@ Seat 10: 4pf showed [As Qd] and lost with a pair of Queens
 
 
 
-PokerStars Hand #16502335785629063408: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:22:05 GMT
+PokerStars Hand #10253621403904847030: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:22:05 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($104.23 in chips)
 Seat 2: JG ($39.99 in chips)
@@ -8581,7 +8581,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #17959471694218324766: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:22:43 GMT
+PokerStars Hand #17206606218964717085: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:22:43 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($102.13 in chips)
 Seat 2: JG ($39.99 in chips)
@@ -8630,7 +8630,7 @@ Seat 10: 4pf (big blind) folded on the Flop
 
 
 
-PokerStars Hand #15439670433667500161: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:23:27 GMT
+PokerStars Hand #3746227426649870342: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:23:27 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($102.13 in chips)
 Seat 2: JG ($39.99 in chips)
@@ -8683,7 +8683,7 @@ Seat 10: 4pf (small blind) showed [2h Ad] and won ($9.00) with two pair, Aces an
 
 
 
-PokerStars Hand #17578421340235338307: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:24:05 GMT
+PokerStars Hand #8805119425871092743: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:24:05 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($102.13 in chips)
 Seat 2: JG ($39.99 in chips)
@@ -8736,7 +8736,7 @@ Seat 10: 4pf (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #5374616060633357813: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:25:10 GMT
+PokerStars Hand #3121591973962822829: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:25:10 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($102.03 in chips)
 Seat 2: JG ($12.52 in chips)
@@ -8781,7 +8781,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #17644047403076271060: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:26:22 GMT
+PokerStars Hand #9282883492055374200: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:26:22 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($102.03 in chips)
 Seat 3: whale ($58.84 in chips)
@@ -8817,7 +8817,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #17606211361253374742: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:26:41 GMT
+PokerStars Hand #16356192616898678115: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:26:41 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($102.03 in chips)
 Seat 3: whale ($58.74 in chips)
@@ -8857,7 +8857,7 @@ Seat 10: 4pf folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #4947353214218123033: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:27:16 GMT
+PokerStars Hand #13389273144764801086: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:27:16 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($102.03 in chips)
 Seat 3: whale ($60.29 in chips)
@@ -8916,7 +8916,7 @@ Seat 10: 4pf showed [7h 3h] and lost with two pair, Sevens and Threes
 
 
 
-PokerStars Hand #5921546583135733381: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:29:01 GMT
+PokerStars Hand #14344025216377099994: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:29:01 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($218.83 in chips)
 Seat 3: whale ($55.74 in chips)
@@ -8958,7 +8958,7 @@ Seat 9: ad (big blind) collected ($1.50)
 
 
 
-PokerStars Hand #5016204848063108201: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:29:26 GMT
+PokerStars Hand #14225639478825435129: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:29:26 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($218.83 in chips)
 Seat 3: whale ($55.04 in chips)
@@ -8995,7 +8995,7 @@ Seat 9: ad (small blind) folded on the Flop
 
 
 
-PokerStars Hand #9057449858192665681: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:29:48 GMT
+PokerStars Hand #13690875320452970637: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:29:48 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($218.63 in chips)
 Seat 3: whale ($55.94 in chips)
@@ -9038,7 +9038,7 @@ Seat 9: ad (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #12625500021068907781: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:30:39 GMT
+PokerStars Hand #6452962189635834092: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:30:39 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($217.83 in chips)
 Seat 3: whale ($30.94 in chips)
@@ -9080,7 +9080,7 @@ Seat 9: ad folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #10590087016264929865: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:31:05 GMT
+PokerStars Hand #14205011899454789547: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:31:05 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($217.83 in chips)
 Seat 3: whale ($32.44 in chips)
@@ -9115,7 +9115,7 @@ Seat 9: ad folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #1653490305823349385: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:31:39 GMT
+PokerStars Hand #10948959648515027591: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:31:39 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($217.83 in chips)
 Seat 3: whale ($32.74 in chips)
@@ -9166,7 +9166,7 @@ Seat 9: ad folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #13037122330523685724: Hold'em No Limit ($0.00/$0.20 USD) - 2024/05/28 05:32:52 GMT
+PokerStars Hand #2433081678409848966: Hold'em No Limit ($0.00/$0.20 USD) - 2024/05/28 05:32:52 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($217.83 in chips)
 Seat 3: whale ($26.40 in chips)
@@ -9202,7 +9202,7 @@ Seat 10: ctol folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #12750044874934281854: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:33:34 GMT
+PokerStars Hand #5945471610925915976: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:33:34 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($218.03 in chips)
 Seat 3: whale ($26.40 in chips)
@@ -9250,7 +9250,7 @@ Seat 10: ctol didn't show and lost
 
 
 
-PokerStars Hand #453022901058868669: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:34:35 GMT
+PokerStars Hand #15792140488296544487: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:34:35 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($218.03 in chips)
 Seat 3: whale ($25.50 in chips)
@@ -9300,7 +9300,7 @@ Seat 10: ctol (big blind) didn't show and lost
 
 
 
-PokerStars Hand #11282526389617679617: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:35:17 GMT
+PokerStars Hand #12918250677748628096: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:35:17 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($218.03 in chips)
 Seat 3: whale ($36.70 in chips)
@@ -9354,7 +9354,7 @@ Seat 10: ctol (small blind) folded before Flop
 
 
 
-PokerStars Hand #15860855420073112389: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:36:01 GMT
+PokerStars Hand #4685489021365313370: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:36:01 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($217.33 in chips)
 Seat 3: whale ($36.00 in chips)
@@ -9399,7 +9399,7 @@ Seat 10: ctol (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #15505442223118994004: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:37:11 GMT
+PokerStars Hand #8835765097209156276: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:37:11 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($216.53 in chips)
 Seat 3: whale ($23.75 in chips)
@@ -9449,7 +9449,7 @@ Seat 10: ctol folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #4940617645867778336: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:38:13 GMT
+PokerStars Hand #3718862377718331759: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:38:13 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($216.53 in chips)
 Seat 3: whale ($50.10 in chips)
@@ -9498,7 +9498,7 @@ Seat 10: ctol folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #5822794555341569415: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:38:47 GMT
+PokerStars Hand #13052231225605281398: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:38:47 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($216.53 in chips)
 Seat 3: whale ($58.40 in chips)
@@ -9549,7 +9549,7 @@ Seat 10: ctol folded on the River
 
 
 
-PokerStars Hand #13433613751301740570: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:39:26 GMT
+PokerStars Hand #12708421049376977787: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:39:26 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($216.53 in chips)
 Seat 3: whale ($63.05 in chips)
@@ -9598,7 +9598,7 @@ Seat 10: ctol folded before Flop
 
 
 
-PokerStars Hand #11905121004163739094: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:40:16 GMT
+PokerStars Hand #10518857628045160775: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:40:16 GMT
 Table 'PNLogConverter' 10-max Seat #8 is the button
 Seat 1: rampurge ($216.53 in chips)
 Seat 3: whale ($126.50 in chips)
@@ -9638,7 +9638,7 @@ Seat 10: ctol (big blind) folded on the Flop
 
 
 
-PokerStars Hand #10465903105040545890: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:40:49 GMT
+PokerStars Hand #1660744069973259790: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:40:49 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($216.53 in chips)
 Seat 3: whale ($127.30 in chips)
@@ -9686,7 +9686,7 @@ Seat 10: ctol (small blind) showed [9d 5c] and won ($113.60) with a straight, Fi
 
 
 
-PokerStars Hand #15250898455286530347: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:41:33 GMT
+PokerStars Hand #2475782117995303589: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:41:33 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($216.33 in chips)
 Seat 3: whale ($70.95 in chips)
@@ -9726,7 +9726,7 @@ Seat 10: ctol (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #13538920932080362213: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:42:03 GMT
+PokerStars Hand #16204129917975863117: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:42:03 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($216.23 in chips)
 Seat 3: whale ($70.15 in chips)
@@ -9763,7 +9763,7 @@ Seat 10: ctol folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #15146550555396689176: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:42:32 GMT
+PokerStars Hand #2287562370139017848: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:42:32 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($216.23 in chips)
 Seat 3: whale ($72.95 in chips)
@@ -9809,7 +9809,7 @@ Seat 10: ctol showed [Ac 5s] and won ($8.70) with a pair of Aces
 
 
 
-PokerStars Hand #1227347887701842263: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:43:05 GMT
+PokerStars Hand #224718542793220408: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:43:05 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($216.23 in chips)
 Seat 3: whale ($69.15 in chips)
@@ -9850,7 +9850,7 @@ Seat 10: ctol collected ($46.80)
 
 
 
-PokerStars Hand #14609716073526688826: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:43:43 GMT
+PokerStars Hand #13152274593933800916: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:43:43 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($216.23 in chips)
 Seat 3: whale ($45.90 in chips)
@@ -9891,7 +9891,7 @@ Seat 10: ctol (big blind) folded on the Flop
 
 
 
-PokerStars Hand #2921117041266129663: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:44:14 GMT
+PokerStars Hand #1976085080432494560: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:44:14 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($216.23 in chips)
 Seat 3: whale ($43.75 in chips)
@@ -9935,7 +9935,7 @@ Seat 10: ctol (small blind) showed [Ad 2s] and won ($24.42) with a straight, Ace
 
 
 
-PokerStars Hand #17103483424479106614: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:44:43 GMT
+PokerStars Hand #9712724970437492728: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:44:43 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($216.03 in chips)
 Seat 3: whale ($31.99 in chips)
@@ -9974,7 +9974,7 @@ Seat 10: ctol (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #10366057047444713351: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:45:06 GMT
+PokerStars Hand #14009497646108286399: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:45:06 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($215.93 in chips)
 Seat 3: whale ($29.99 in chips)
@@ -10008,7 +10008,7 @@ Seat 10: ctol folded before Flop
 
 
 
-PokerStars Hand #15072726850776758026: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:45:31 GMT
+PokerStars Hand #10850269052109902987: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:45:31 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($215.73 in chips)
 Seat 3: whale ($30.59 in chips)
@@ -10058,7 +10058,7 @@ Seat 10: ctol folded on the River
 
 
 
-PokerStars Hand #10477000016326899940: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:46:24 GMT
+PokerStars Hand #13260657965724872172: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:46:24 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($215.73 in chips)
 Seat 3: whale ($29.69 in chips)
@@ -10113,7 +10113,7 @@ Seat 10: ctol folded on the River
 
 
 
-PokerStars Hand #4217260356742491705: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:47:28 GMT
+PokerStars Hand #15857484281764943595: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:47:28 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($214.43 in chips)
 Seat 3: whale ($25.14 in chips)
@@ -10163,7 +10163,7 @@ Seat 10: ctol (big blind) showed [Th Tc] and won ($28.50) with two pair, Tens an
 
 
 
-PokerStars Hand #9605395568594961280: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:48:14 GMT
+PokerStars Hand #5161742808375405815: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:48:14 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($213.83 in chips)
 Seat 3: whale ($15.84 in chips)
@@ -10200,7 +10200,7 @@ Seat 10: ctol (small blind) collected ($5.90)
 
 
 
-PokerStars Hand #921752970952163301: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:48:44 GMT
+PokerStars Hand #4826153992685557267: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:48:44 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($213.63 in chips)
 Seat 3: whale ($12.99 in chips)
@@ -10253,7 +10253,7 @@ Seat 10: ctol (button) showed [6s Ah] and won ($4.00) with a pair of Sixes
 
 
 
-PokerStars Hand #4331562643365038858: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:49:23 GMT
+PokerStars Hand #16476949236779978114: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:49:23 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($212.63 in chips)
 Seat 3: whale ($11.99 in chips)
@@ -10299,7 +10299,7 @@ Seat 10: ctol folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #8432774807973242966: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:50:02 GMT
+PokerStars Hand #3123329320116566144: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:50:02 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($212.63 in chips)
 Seat 4: JG ($64.29 in chips)
@@ -10339,7 +10339,7 @@ Seat 10: ctol folded on the Flop
 
 
 
-PokerStars Hand #10383198594419479198: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:50:51 GMT
+PokerStars Hand #7229077595039426698: Hold'em No Limit ($0.10/$0.20 USD) - 2024/05/28 05:50:51 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($212.63 in chips)
 Seat 3: whale ($100.00 in chips)
@@ -10388,7 +10388,7 @@ Seat 10: ctol folded on the Flop
 
 
 
-PokerStars Hand #7007826854599108059: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:51:44 GMT
+PokerStars Hand #16575384843064105217: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:51:44 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($212.63 in chips)
 Seat 3: whale ($110.20 in chips)
@@ -10424,7 +10424,7 @@ Seat 10: ctol (big blind) folded before Flop
 
 
 
-PokerStars Hand #17257640633215312469: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:52:02 GMT
+PokerStars Hand #781699013190101658: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:52:02 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($214.43 in chips)
 Seat 3: whale ($109.00 in chips)
@@ -10470,7 +10470,7 @@ Seat 10: ctol (small blind) folded before Flop
 
 
 
-PokerStars Hand #476385927312464132: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:53:10 GMT
+PokerStars Hand #1734915677359355821: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:53:10 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($214.03 in chips)
 Seat 3: whale ($38.52 in chips)
@@ -10516,7 +10516,7 @@ Seat 10: ctol (button) folded on the Flop
 
 
 
-PokerStars Hand #18293621639961716986: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:53:48 GMT
+PokerStars Hand #9596039356483179930: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:53:48 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($213.83 in chips)
 Seat 3: whale ($45.67 in chips)
@@ -10552,7 +10552,7 @@ Seat 10: ctol folded on the Flop
 
 
 
-PokerStars Hand #12376551566707539819: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:54:07 GMT
+PokerStars Hand #7095380421672610531: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:54:07 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($213.83 in chips)
 Seat 3: whale ($45.47 in chips)
@@ -10589,7 +10589,7 @@ Seat 10: ctol folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #4564871569281028547: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:54:29 GMT
+PokerStars Hand #4526227733270526839: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:54:29 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($213.83 in chips)
 Seat 3: whale ($47.07 in chips)
@@ -10627,7 +10627,7 @@ Seat 10: ctol folded on the Flop
 
 
 
-PokerStars Hand #6424281801549428102: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:54:51 GMT
+PokerStars Hand #5845419055793964225: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:54:51 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($213.83 in chips)
 Seat 3: whale ($49.47 in chips)
@@ -10675,7 +10675,7 @@ Seat 10: ctol (big blind) folded before Flop
 
 
 
-PokerStars Hand #9657833965055590593: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:55:40 GMT
+PokerStars Hand #2178504902240531618: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:55:40 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($213.83 in chips)
 Seat 3: whale ($25.07 in chips)
@@ -10721,7 +10721,7 @@ Seat 10: ctol (small blind) showed [Jc 8c] and lost with high card King
 
 
 
-PokerStars Hand #6292709219526562704: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:56:04 GMT
+PokerStars Hand #7971683085768310726: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:56:04 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($213.43 in chips)
 Seat 3: whale ($23.67 in chips)
@@ -10759,7 +10759,7 @@ Seat 10: ctol (button) collected ($1.00) [3d 5s]
 
 
 
-PokerStars Hand #1517007353047783956: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:56:26 GMT
+PokerStars Hand #3364694006524745492: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:56:26 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($213.23 in chips)
 Seat 3: whale ($23.27 in chips)
@@ -10796,7 +10796,7 @@ Seat 10: ctol folded on the Flop
 
 
 
-PokerStars Hand #7989959423094112974: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:56:41 GMT
+PokerStars Hand #10729620135836889362: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:56:41 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($213.23 in chips)
 Seat 3: whale ($25.27 in chips)
@@ -10848,7 +10848,7 @@ Seat 10: ctol folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #4082029653134400331: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:57:24 GMT
+PokerStars Hand #6851772063452301604: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:57:24 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($213.23 in chips)
 Seat 3: whale ($30.67 in chips)
@@ -10886,7 +10886,7 @@ Seat 10: ctol collected ($12.60)
 
 
 
-PokerStars Hand #12124961048813985820: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:57:50 GMT
+PokerStars Hand #2502945595411441676: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:57:50 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($213.23 in chips)
 Seat 3: whale ($24.67 in chips)
@@ -10932,7 +10932,7 @@ Seat 10: ctol (big blind) folded on the Turn
 
 
 
-PokerStars Hand #12604399251751793478: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:58:27 GMT
+PokerStars Hand #1496474778394015965: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:58:27 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($213.23 in chips)
 Seat 3: whale ($19.97 in chips)
@@ -10971,7 +10971,7 @@ Seat 10: ctol (small blind) folded before Flop
 
 
 
-PokerStars Hand #8982027030018145882: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:58:49 GMT
+PokerStars Hand #7700668933761018892: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:58:49 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($211.83 in chips)
 Seat 3: whale ($18.57 in chips)
@@ -11016,7 +11016,7 @@ Seat 10: ctol (button) showed [2h 3h] and won ($37.54) with a flush, Ace high
 
 
 
-PokerStars Hand #12088332454362942691: Hold'em No Limit ($0.00/$0.40 USD) - 2024/05/28 05:59:21 GMT
+PokerStars Hand #10472608314805252199: Hold'em No Limit ($0.00/$0.40 USD) - 2024/05/28 05:59:21 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($211.43 in chips)
 Seat 4: JG ($52.94 in chips)
@@ -11049,7 +11049,7 @@ Seat 10: ctol folded on the Flop
 
 
 
-PokerStars Hand #4467393612260119107: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:59:41 GMT
+PokerStars Hand #15680596578904563171: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 05:59:41 GMT
 Table 'PNLogConverter' 10-max Seat #3 is the button
 Seat 1: rampurge ($211.43 in chips)
 Seat 2: whale ($100.00 in chips)
@@ -11096,7 +11096,7 @@ Seat 10: ctol folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #5660718442003720058: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:00:28 GMT
+PokerStars Hand #3764921024790362707: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:00:28 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($211.43 in chips)
 Seat 2: whale ($115.65 in chips)
@@ -11141,7 +11141,7 @@ Seat 10: ctol folded before Flop
 
 
 
-PokerStars Hand #15757860204093976204: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:00:58 GMT
+PokerStars Hand #14936521240353389431: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:00:58 GMT
 Table 'PNLogConverter' 10-max Seat #5 is the button
 Seat 1: rampurge ($211.43 in chips)
 Seat 2: whale ($75.66 in chips)
@@ -11186,7 +11186,7 @@ Seat 10: ctol (big blind) folded before Flop
 
 
 
-PokerStars Hand #8959641657025150307: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:02:02 GMT
+PokerStars Hand #2054216329038630893: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:02:02 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($210.23 in chips)
 Seat 2: whale ($81.81 in chips)
@@ -11228,7 +11228,7 @@ Seat 10: ctol (small blind) showed [7s Kc] and won ($3.20) with a pair of Sevens
 
 
 
-PokerStars Hand #10563518594518103657: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:02:21 GMT
+PokerStars Hand #16397526010220622737: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:02:21 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($209.83 in chips)
 Seat 2: whale ($80.41 in chips)
@@ -11266,7 +11266,7 @@ Seat 10: ctol (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #13262523498359053100: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:02:49 GMT
+PokerStars Hand #3467111006103190216: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:02:49 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($209.63 in chips)
 Seat 2: whale ($84.61 in chips)
@@ -11308,7 +11308,7 @@ Seat 10: ctol folded on the Flop
 
 
 
-PokerStars Hand #14772473035024120953: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:03:19 GMT
+PokerStars Hand #11036890946732963930: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:03:19 GMT
 Table 'PNLogConverter' 10-max Seat #2 is the button
 Seat 1: rampurge ($209.63 in chips)
 Seat 2: whale ($80.61 in chips)
@@ -11342,7 +11342,7 @@ Seat 10: ctol folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #2608405617255872853: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:03:39 GMT
+PokerStars Hand #10887139638619419383: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:03:39 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($208.43 in chips)
 Seat 2: whale ($82.41 in chips)
@@ -11387,7 +11387,7 @@ Seat 10: ctol (big blind) didn't show and lost
 
 
 
-PokerStars Hand #9867957650252241995: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:04:04 GMT
+PokerStars Hand #5047849750398053550: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:04:04 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($208.43 in chips)
 Seat 2: whale ($82.01 in chips)
@@ -11419,7 +11419,7 @@ Seat 10: ctol (small blind) folded before Flop
 
 
 
-PokerStars Hand #4853757363011944170: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:04:26 GMT
+PokerStars Hand #5198769214834276320: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:04:26 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($212.63 in chips)
 Seat 2: whale ($80.61 in chips)
@@ -11460,7 +11460,7 @@ Seat 10: ctol (button) showed [7d 6d] and won ($94.34) with a straight, Five to 
 
 
 
-PokerStars Hand #9622763085408008048: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:05:21 GMT
+PokerStars Hand #14066806202372890530: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:05:21 GMT
 Table 'PNLogConverter' 10-max Seat #1 is the button
 Seat 1: rampurge ($212.43 in chips)
 Seat 2: whale ($33.54 in chips)
@@ -11502,7 +11502,7 @@ Seat 10: ctol folded before Flop (didn't bet) [8d 5d]
 
 
 
-PokerStars Hand #1371673349106692810: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:06:08 GMT
+PokerStars Hand #8491019455596508554: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:06:08 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 1: rampurge ($212.43 in chips)
 Seat 4: JG ($115.32 in chips)
@@ -11539,7 +11539,7 @@ Seat 10: ctol folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #14341911232919534415: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:06:55 GMT
+PokerStars Hand #3321298974482263835: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:06:55 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 1: rampurge ($205.68 in chips)
 Seat 4: JG ($123.27 in chips)
@@ -11565,7 +11565,7 @@ Seat 10: ctol (big blind) folded before Flop
 
 
 
-PokerStars Hand #7375943320465721595: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:07:07 GMT
+PokerStars Hand #12087874936406269221: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:07:07 GMT
 Table 'PNLogConverter' 10-max Seat #9 is the button
 Seat 1: rampurge ($205.68 in chips)
 Seat 4: JG ($123.87 in chips)
@@ -11602,7 +11602,7 @@ Seat 10: ctol (small blind) folded before Flop
 
 
 
-PokerStars Hand #7972308724782185956: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:07:37 GMT
+PokerStars Hand #2833146475880983385: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:07:37 GMT
 Table 'PNLogConverter' 10-max Seat #10 is the button
 Seat 1: rampurge ($205.28 in chips)
 Seat 4: JG ($123.87 in chips)
@@ -11627,7 +11627,7 @@ Seat 10: ctol (button) folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #18445415655921844107: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:07:44 GMT
+PokerStars Hand #504079178839108896: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:07:44 GMT
 Table 'PNLogConverter' 10-max Seat #7 is the button
 Seat 4: JG ($124.07 in chips)
 Seat 9: ad ($30.60 in chips)
@@ -11648,7 +11648,7 @@ Seat 10: ctol folded before Flop (didn't bet)
 
 
 
-PokerStars Hand #12006501294192078763: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:08:02 GMT
+PokerStars Hand #4800822732608739718: Hold'em No Limit ($0.20/$0.40 USD) - 2024/05/28 06:08:02 GMT
 Table 'PNLogConverter' 10-max Seat #4 is the button
 Seat 4: JG ($123.87 in chips)
 Seat 9: ad ($30.80 in chips)

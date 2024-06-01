@@ -76,7 +76,11 @@ As a command line tool:
                             Specify directory containing PokerNow Log files to convert.
       -q, --quiet           Run converter tool without outputting to terminal.
       -i, --interactive     Use interactive mode to set the aliases of players seen in the log
-      
+
+1.
+    $ python setup.py install
+
+2.
     $ python -m poker_now_log_converter -H rampurge -f ./pokerhands.csv -c USD -tz GMT -o ./OutputDir
 
 As a library:

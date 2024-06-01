@@ -94,7 +94,7 @@ As a command line tool:
       -q, --quiet           Run converter tool without outputting to terminal.
       -i, --interactive     Use interactive mode to set the aliases of players seen in the log
       
-    $ python -m poker_now_log_converter -H CT -f ./PNLogExample.txt -c GBP -tz GMT -i -o ./OutputDir
+    $ python -m poker_now_log_converter -H rampurge -f ./pokerhands.csv -c USD -tz GMT -o ./OutputDir
 
 As a library:
 

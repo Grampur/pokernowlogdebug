@@ -1,0 +1,2674 @@
+PokerStars Hand #9967659046723735228: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:15:23 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 2: SJP ($100.00 in chips)
+Seat 3: Jan ($100.00 in chips)
+Seat 5: Ari ($100.00 in chips)
+Seat 6: Boomin ($100.00 in chips)
+Seat 7: vincent2(host) ($100.00 in chips)
+Seat 8: Colin ($125.00 in chips)
+Seat 9: ethany ($100.00 in chips)
+SJP: posts small blind $0.50
+Jan: posts big blind $1.00
+*** HOLE CARDS ***
+Ari: folds
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: raises $1.87 to $2.87
+SJP: raises $1.87 to $4.74
+Jan: folds
+ethany: calls $1.87
+*** FLOP *** [9d Kc Qh]
+SJP: checks
+ethany: checks
+*** TURN *** [9d Kc Qh] [6s]
+SJP: bets $5.24
+ethany: folds
+Uncalled bet ($5.24) returned to SJP
+*** SHOW DOWN ***
+SJP collected $10.48 from pot
+SJP: shows [7c 2c]
+*** SUMMARY ***
+Total pot: $10.48 | Rake 0
+Board [9d Kc Qh 6s]
+Seat 2: SJP (small blind) collected ($10.48) [7c 2c]
+Seat 3: Jan (big blind) folded before Flop
+Seat 5: Ari folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany (button) folded on the Turn
+
+
+
+PokerStars Hand #3433667723858957637: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:16:03 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 2: SJP ($105.74 in chips)
+Seat 3: Jan ($99.00 in chips)
+Seat 5: Ari ($100.00 in chips)
+Seat 6: Boomin ($100.00 in chips)
+Seat 7: vincent2(host) ($100.00 in chips)
+Seat 8: Colin ($125.00 in chips)
+Seat 9: ethany ($95.26 in chips)
+Seat 10: arnav ($150.00 in chips)
+Jan: posts small blind $0.50
+Ari: posts big blind $1.00
+*** HOLE CARDS ***
+Boomin: folds
+vincent2(host): raises $1.87 to $2.87
+Colin: folds
+ethany: calls $2.87
+arnav: folds
+SJP: folds
+Jan: folds
+Ari: folds
+*** FLOP *** [9h 6c 7h]
+vincent2(host): checks
+ethany: bets $2.50
+vincent2(host): raises $7.12 to $9.62
+ethany: folds
+Uncalled bet ($7.12) returned to vincent2(host)
+*** SHOW DOWN ***
+vincent2(host) collected $12.24 from pot
+*** SUMMARY ***
+Total pot: $12.24 | Rake 0
+Board [9h 6c 7h]
+Seat 2: SJP (button) folded before Flop (didn't bet)
+Seat 3: Jan (small blind) folded before Flop
+Seat 5: Ari (big blind) folded before Flop
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) collected ($12.24)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded on the Flop
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2944663831556296355: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:17:02 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 2: SJP ($105.74 in chips)
+Seat 3: Jan ($98.50 in chips)
+Seat 5: Ari ($99.00 in chips)
+Seat 6: Boomin ($100.00 in chips)
+Seat 7: vincent2(host) ($106.87 in chips)
+Seat 8: Colin ($125.00 in chips)
+Seat 9: ethany ($89.89 in chips)
+Seat 10: arnav ($150.00 in chips)
+Ari: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+vincent2(host): raises $1.87 to $2.87
+Colin: folds
+ethany: folds
+arnav: folds
+SJP: folds
+Jan: raises $5.13 to $8.00
+Ari: folds
+Boomin: folds
+vincent2(host): raises $16.12 to $24.12
+Jan: folds
+Uncalled bet ($16.12) returned to vincent2(host)
+*** SHOW DOWN ***
+vincent2(host) collected $17.50 from pot
+*** SUMMARY ***
+Total pot: $17.50 | Rake 0
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan (button) folded before Flop
+Seat 5: Ari (small blind) folded before Flop
+Seat 6: Boomin (big blind) folded before Flop
+Seat 7: vincent2(host) collected ($17.50)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6116486976735616470: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:17:43 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 2: SJP ($105.74 in chips)
+Seat 3: Jan ($90.50 in chips)
+Seat 5: Ari ($98.50 in chips)
+Seat 6: Boomin ($99.00 in chips)
+Seat 7: vincent2(host) ($116.37 in chips)
+Seat 8: Colin ($125.00 in chips)
+Seat 9: ethany ($89.89 in chips)
+Seat 10: arnav ($150.00 in chips)
+Boomin: posts small blind $0.50
+vincent2(host): posts big blind $1.00
+*** HOLE CARDS ***
+Colin: calls $1.00
+ethany: folds
+arnav: folds
+SJP: raises $3.50 to $4.50
+Jan: folds
+Ari: folds
+Boomin: folds
+vincent2(host): calls $3.50
+Colin: calls $3.50
+*** FLOP *** [Tc 5d Qc]
+vincent2(host): checks
+Colin: checks
+SJP: bets $8.00
+vincent2(host): folds
+Colin: folds
+Uncalled bet ($8.00) returned to SJP
+*** SHOW DOWN ***
+SJP collected $14.00 from pot
+*** SUMMARY ***
+Total pot: $14.00 | Rake 0
+Board [Tc 5d Qc]
+Seat 2: SJP collected ($14.00)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Ari (button) folded before Flop (didn't bet)
+Seat 6: Boomin (small blind) folded before Flop
+Seat 7: vincent2(host) (big blind) folded on the Flop
+Seat 8: Colin folded on the Flop
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #10144202868603610550: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:18:37 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 2: SJP ($115.24 in chips)
+Seat 3: Jan ($90.50 in chips)
+Seat 5: Ari ($98.50 in chips)
+Seat 6: Boomin ($98.50 in chips)
+Seat 7: vincent2(host) ($111.87 in chips)
+Seat 8: Colin ($120.50 in chips)
+Seat 9: ethany ($89.89 in chips)
+Seat 10: arnav ($150.00 in chips)
+vincent2(host): posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+ethany: raises $1.87 to $2.87
+arnav: folds
+SJP: folds
+Jan: folds
+Ari: folds
+Boomin: calls $2.87
+vincent2(host): raises $9.61 to $12.48
+Colin: folds
+ethany: folds
+Boomin: folds
+Uncalled bet ($9.61) returned to vincent2(host)
+*** SHOW DOWN ***
+vincent2(host) collected $9.61 from pot
+*** SUMMARY ***
+Total pot: $9.61 | Rake 0
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Ari folded before Flop (didn't bet)
+Seat 6: Boomin (button) folded before Flop
+Seat 7: vincent2(host) (small blind) collected ($9.61)
+Seat 8: Colin (big blind) folded before Flop
+Seat 9: ethany folded before Flop
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #10589071608083787716: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:19:22 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: rampurge ($100.00 in chips)
+Seat 2: SJP ($115.24 in chips)
+Seat 3: Jan ($90.50 in chips)
+Seat 5: Ari ($98.50 in chips)
+Seat 6: Boomin ($95.63 in chips)
+Seat 7: vincent2(host) ($118.61 in chips)
+Seat 8: Colin ($119.50 in chips)
+Seat 9: ethany ($87.02 in chips)
+Seat 10: arnav ($150.00 in chips)
+Colin: posts small blind $0.50
+ethany: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2d Tc]
+arnav: folds
+rampurge: folds
+SJP: folds
+Jan: folds
+Ari: raises $2.00 to $3.00
+Boomin: calls $3.00
+vincent2(host): folds
+Colin: calls $2.50
+ethany: folds
+*** FLOP *** [Td 2s Jd]
+Colin: checks
+Ari: bets $4.50
+Boomin: calls $4.50
+Colin: folds
+*** TURN *** [Td 2s Jd] [Ac]
+Ari: bets $10.50
+Boomin: calls $10.50
+*** RIVER *** [Td 2s Jd Ac] [5c]
+Ari: checks
+Boomin: bets $30.00
+Ari: calls $30.00
+Boomin: shows [As Th]
+*** SHOW DOWN ***
+Boomin collected $100.00 from pot
+rampurge: shows [2d Tc]
+*** SUMMARY ***
+Total pot: $100.00 | Rake 0
+Board [Td 2s Jd Ac 5c]
+Seat 1: rampurge folded before Flop (didn't bet) [2d Tc]
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Ari didn't show and lost
+Seat 6: Boomin showed [As Th] and won ($100.00) with two pair, Aces and Tens
+Seat 7: vincent2(host) (button) folded before Flop (didn't bet)
+Seat 8: Colin (small blind) folded on the Flop
+Seat 9: ethany (big blind) folded before Flop
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #14384267349257355723: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:20:44 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: rampurge ($100.00 in chips)
+Seat 2: SJP ($115.24 in chips)
+Seat 3: Jan ($90.50 in chips)
+Seat 5: Ari ($50.50 in chips)
+Seat 6: Boomin ($147.63 in chips)
+Seat 7: vincent2(host) ($118.61 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($86.02 in chips)
+Seat 10: arnav ($150.00 in chips)
+ethany: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8s 6s]
+rampurge: raises $2.00 to $3.00
+SJP: folds
+Jan: folds
+Ari: calls $3.00
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: folds
+arnav: folds
+*** FLOP *** [8h Ac Kd]
+rampurge: bets $3.75
+Ari: calls $3.75
+*** TURN *** [8h Ac Kd] [2s]
+rampurge: bets $9.50
+Ari: calls $9.50
+*** RIVER *** [8h Ac Kd 2s] [8d]
+rampurge: bets $34.25
+Ari: calls $34.25
+rampurge: shows [8s 6s]
+*** SHOW DOWN ***
+rampurge collected $102.50 from pot
+Ari: shows [Ad 7d]
+*** SUMMARY ***
+Total pot: $102.50 | Rake 0
+Board [8h Ac Kd 2s 8d]
+Seat 1: rampurge showed [8s 6s] and won ($102.50) with three of a kind, Eights
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Ari showed [Ad 7d] and lost with two pair, Aces and Eights
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin (button) folded before Flop (didn't bet)
+Seat 9: ethany (small blind) folded before Flop
+Seat 10: arnav (big blind) folded before Flop
+
+
+
+PokerStars Hand #9130514483630908568: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:21:46 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: rampurge ($152.00 in chips)
+Seat 2: SJP ($115.24 in chips)
+Seat 3: Jan ($90.50 in chips)
+Seat 6: Boomin ($147.63 in chips)
+Seat 7: vincent2(host) ($118.61 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($85.52 in chips)
+Seat 10: arnav ($149.00 in chips)
+arnav: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8d Qc]
+SJP: folds
+Jan: folds
+Boomin: folds
+vincent2(host): raises $1.87 to $2.87
+Colin: folds
+ethany: raises $5.43 to $8.30
+arnav: folds
+rampurge: folds
+vincent2(host): calls $5.43
+*** FLOP *** [Kd 7d 4h]
+vincent2(host): checks
+ethany: bets $7.05
+vincent2(host): calls $7.05
+*** TURN *** [Kd 7d 4h] [Tc]
+vincent2(host): checks
+ethany: checks
+*** RIVER *** [Kd 7d 4h Tc] [3s]
+vincent2(host): checks
+ethany: checks
+ethany: shows [2h 2c]
+*** SHOW DOWN ***
+ethany collected $32.20 from pot
+vincent2(host): shows [Ad 9s]
+*** SUMMARY ***
+Total pot: $32.20 | Rake 0
+Board [Kd 7d 4h Tc 3s]
+Seat 1: rampurge (big blind) folded before Flop
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) showed [Ad 9s] and lost with high card Ace
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany (button) showed [2h 2c] and won ($32.20) with a pair of Deuces
+Seat 10: arnav (small blind) folded before Flop
+
+
+
+PokerStars Hand #10316103272685934730: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:22:55 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: rampurge ($151.00 in chips)
+Seat 2: SJP ($115.24 in chips)
+Seat 3: Jan ($90.50 in chips)
+Seat 6: Boomin ($147.63 in chips)
+Seat 7: vincent2(host) ($103.26 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($102.37 in chips)
+Seat 10: arnav ($148.50 in chips)
+rampurge: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9h Qc]
+Jan: folds
+Boomin: raises $2.00 to $3.00
+vincent2(host): folds
+Colin: folds
+ethany: calls $3.00
+arnav: folds
+rampurge: folds
+SJP: calls $2.00
+*** FLOP *** [4h Qd 2c]
+SJP: checks
+Boomin: checks
+ethany: bets $3.00
+SJP: folds
+Boomin: folds
+Uncalled bet ($3.00) returned to ethany
+*** SHOW DOWN ***
+ethany collected $9.50 from pot
+*** SUMMARY ***
+Total pot: $9.50 | Rake 0
+Board [4h Qd 2c]
+Seat 1: rampurge (small blind) folded before Flop
+Seat 2: SJP (big blind) folded on the Flop
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin folded on the Flop
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany collected ($9.50)
+Seat 10: arnav (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1278995719669105513: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:23:33 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: rampurge ($150.50 in chips)
+Seat 2: SJP ($112.24 in chips)
+Seat 3: Jan ($90.50 in chips)
+Seat 6: Boomin ($144.63 in chips)
+Seat 7: vincent2(host) ($103.26 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($108.87 in chips)
+SJP: posts small blind $0.50
+Jan: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9h 3h]
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: raises $2.50 to $3.50
+rampurge: folds
+SJP: calls $3.00
+Jan: folds
+*** FLOP *** [As 8h 6h]
+SJP: checks
+ethany: bets $6.00
+SJP: folds
+Uncalled bet ($6.00) returned to ethany
+*** SHOW DOWN ***
+ethany collected $8.00 from pot
+*** SUMMARY ***
+Total pot: $8.00 | Rake 0
+Board [As 8h 6h]
+Seat 1: rampurge (button) folded before Flop (didn't bet)
+Seat 2: SJP (small blind) folded on the Flop
+Seat 3: Jan (big blind) folded before Flop
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany collected ($8.00)
+
+
+
+PokerStars Hand #18199082455872238347: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:24:01 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: rampurge ($150.50 in chips)
+Seat 2: SJP ($108.74 in chips)
+Seat 3: Jan ($89.50 in chips)
+Seat 6: Boomin ($144.63 in chips)
+Seat 7: vincent2(host) ($103.26 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($113.37 in chips)
+Jan: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9s Ts]
+vincent2(host): calls $1.00
+Colin: folds
+ethany: folds
+rampurge: calls $1.00
+SJP: folds
+Jan: folds
+Boomin: checks
+*** FLOP *** [As 9c 2s]
+Boomin: checks
+vincent2(host): checks
+rampurge: bets $3.50
+Boomin: folds
+vincent2(host): calls $3.50
+*** TURN *** [As 9c 2s] [Ad]
+vincent2(host): checks
+rampurge: checks
+*** RIVER *** [As 9c 2s Ad] [Qs]
+vincent2(host): checks
+rampurge: bets $15.00
+vincent2(host): folds
+Uncalled bet ($15.00) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $10.50 from pot
+*** SUMMARY ***
+Total pot: $10.50 | Rake 0
+Board [As 9c 2s Ad Qs]
+Seat 1: rampurge collected ($10.50)
+Seat 2: SJP (button) folded before Flop (didn't bet)
+Seat 3: Jan (small blind) folded before Flop
+Seat 6: Boomin (big blind) folded on the Flop
+Seat 7: vincent2(host) folded on the River
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9171236995647566510: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:24:46 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: rampurge ($156.50 in chips)
+Seat 2: SJP ($108.74 in chips)
+Seat 3: Jan ($89.00 in chips)
+Seat 6: Boomin ($143.63 in chips)
+Seat 7: vincent2(host) ($98.76 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($113.37 in chips)
+Boomin: posts small blind $0.50
+vincent2(host): posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8d 8s]
+Colin: folds
+ethany: folds
+rampurge: raises $2.00 to $3.00
+SJP: folds
+Jan: folds
+Boomin: folds
+vincent2(host): calls $2.00
+*** FLOP *** [4h 9c Kc]
+vincent2(host): checks
+rampurge: bets $3.00
+vincent2(host): calls $3.00
+*** TURN *** [4h 9c Kc] [Qh]
+vincent2(host): checks
+rampurge: checks
+*** RIVER *** [4h 9c Kc Qh] [2c]
+vincent2(host): bets $4.00
+rampurge: folds
+Uncalled bet ($4.00) returned to vincent2(host)
+*** SHOW DOWN ***
+vincent2(host) collected $12.50 from pot
+*** SUMMARY ***
+Total pot: $12.50 | Rake 0
+Board [4h 9c Kc Qh 2c]
+Seat 1: rampurge folded on the River
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan (button) folded before Flop (didn't bet)
+Seat 6: Boomin (small blind) folded before Flop
+Seat 7: vincent2(host) (big blind) collected ($12.50)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16091775011579301671: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:25:28 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: rampurge ($150.50 in chips)
+Seat 2: SJP ($108.74 in chips)
+Seat 3: Jan ($89.00 in chips)
+Seat 6: Boomin ($143.13 in chips)
+Seat 7: vincent2(host) ($105.26 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($113.37 in chips)
+Seat 10: arnav ($148.50 in chips)
+vincent2(host): posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4d Ts]
+ethany: folds
+arnav: folds
+rampurge: folds
+SJP: folds
+Jan: folds
+Boomin: folds
+vincent2(host): folds
+Uncalled bet ($0.50) returned to Colin
+*** SHOW DOWN ***
+Colin collected $1.00 from pot
+*** SUMMARY ***
+Total pot: $1.00 | Rake 0
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin (button) folded before Flop (didn't bet)
+Seat 7: vincent2(host) (small blind) folded before Flop
+Seat 8: Colin (big blind) collected ($1.00)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #17454569898312319844: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:25:50 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: rampurge ($150.50 in chips)
+Seat 2: SJP ($108.74 in chips)
+Seat 3: Jan ($89.00 in chips)
+Seat 6: Boomin ($143.13 in chips)
+Seat 7: vincent2(host) ($104.76 in chips)
+Seat 8: Colin ($117.00 in chips)
+Seat 9: ethany ($113.37 in chips)
+Seat 10: arnav ($148.50 in chips)
+Colin: posts small blind $0.50
+ethany: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Jd 3d]
+arnav: folds
+rampurge: folds
+SJP: folds
+Jan: folds
+Boomin: folds
+vincent2(host): raises $1.87 to $2.87
+Colin: folds
+ethany: raises $5.24 to $8.11
+vincent2(host): calls $5.24
+*** FLOP *** [3s 6s 7s]
+ethany: checks
+vincent2(host): bets $6.00
+ethany: calls $6.00
+*** TURN *** [3s 6s 7s] [4s]
+ethany: checks
+vincent2(host): bets $10.36
+ethany: folds
+Uncalled bet ($10.36) returned to vincent2(host)
+*** SHOW DOWN ***
+vincent2(host) collected $28.72 from pot
+*** SUMMARY ***
+Total pot: $28.72 | Rake 0
+Board [3s 6s 7s 4s]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) (button) collected ($28.72)
+Seat 8: Colin (small blind) folded before Flop
+Seat 9: ethany (big blind) folded on the Turn
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #11122870157888495036: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:26:59 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: rampurge ($150.50 in chips)
+Seat 2: SJP ($108.74 in chips)
+Seat 3: Jan ($89.00 in chips)
+Seat 6: Boomin ($143.13 in chips)
+Seat 7: vincent2(host) ($119.37 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($99.26 in chips)
+Seat 10: arnav ($148.50 in chips)
+ethany: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kh 3s]
+rampurge: folds
+SJP: folds
+Jan: raises $1.50 to $2.50
+Boomin: raises $5.50 to $8.00
+vincent2(host): folds
+Colin: folds
+ethany: folds
+arnav: folds
+Jan: folds
+Uncalled bet ($5.50) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $6.50 from pot
+*** SUMMARY ***
+Total pot: $6.50 | Rake 0
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop
+Seat 6: Boomin collected ($6.50)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin (button) folded before Flop (didn't bet)
+Seat 9: ethany (small blind) folded before Flop
+Seat 10: arnav (big blind) folded before Flop
+
+
+
+PokerStars Hand #10545777645748413437: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:27:26 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: rampurge ($150.50 in chips)
+Seat 2: SJP ($108.74 in chips)
+Seat 3: Jan ($86.50 in chips)
+Seat 6: Boomin ($147.13 in chips)
+Seat 7: vincent2(host) ($119.37 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($98.76 in chips)
+Seat 10: arnav ($147.50 in chips)
+arnav: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5s Kh]
+SJP: folds
+Jan: folds
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: raises $1.87 to $2.87
+arnav: folds
+rampurge: folds
+Uncalled bet ($1.87) returned to ethany
+*** SHOW DOWN ***
+ethany collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: rampurge (big blind) folded before Flop
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany (button) collected ($2.50)
+Seat 10: arnav (small blind) folded before Flop
+
+
+
+PokerStars Hand #8203112572216286607: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:27:49 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: rampurge ($149.50 in chips)
+Seat 2: SJP ($108.74 in chips)
+Seat 3: Jan ($86.50 in chips)
+Seat 6: Boomin ($147.13 in chips)
+Seat 7: vincent2(host) ($119.37 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($100.26 in chips)
+Seat 10: arnav ($147.00 in chips)
+rampurge: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ks Qs]
+Jan: folds
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: raises $2.00 to $3.00
+SJP: folds
+Uncalled bet ($2.00) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $2.00 from pot
+*** SUMMARY ***
+Total pot: $2.00 | Rake 0
+Seat 1: rampurge (small blind) collected ($2.00)
+Seat 2: SJP (big blind) folded before Flop
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #7781219642114630306: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:28:04 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: rampurge ($150.50 in chips)
+Seat 2: SJP ($107.74 in chips)
+Seat 3: Jan ($86.50 in chips)
+Seat 6: Boomin ($147.13 in chips)
+Seat 7: vincent2(host) ($119.37 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($100.26 in chips)
+Seat 10: arnav ($147.00 in chips)
+SJP: posts small blind $0.50
+Jan: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8d 5d]
+Boomin: raises $2.00 to $3.00
+vincent2(host): folds
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: folds
+SJP: folds
+Jan: folds
+Uncalled bet ($2.00) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: rampurge (button) folded before Flop (didn't bet)
+Seat 2: SJP (small blind) folded before Flop
+Seat 3: Jan (big blind) folded before Flop
+Seat 6: Boomin collected ($2.50)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #14253916539158831441: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:28:27 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: rampurge ($150.50 in chips)
+Seat 2: SJP ($107.24 in chips)
+Seat 3: Jan ($85.50 in chips)
+Seat 6: Boomin ($148.63 in chips)
+Seat 7: vincent2(host) ($119.37 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($100.26 in chips)
+Seat 10: arnav ($147.00 in chips)
+Jan: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5h 6d]
+vincent2(host): folds
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: folds
+SJP: folds
+Jan: raises $2.00 to $3.00
+Boomin: calls $2.00
+*** FLOP *** [Jh 4s 2c]
+Jan: bets $2.00
+Boomin: calls $2.00
+*** TURN *** [Jh 4s 2c] [9s]
+Jan: bets $7.50
+Boomin: folds
+Uncalled bet ($7.50) returned to Jan
+*** SHOW DOWN ***
+Jan collected $10.00 from pot
+*** SUMMARY ***
+Total pot: $10.00 | Rake 0
+Board [Jh 4s 2c 9s]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP (button) folded before Flop (didn't bet)
+Seat 3: Jan (small blind) collected ($10.00)
+Seat 6: Boomin (big blind) folded on the Turn
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2794734708430300117: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:29:32 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: rampurge ($150.50 in chips)
+Seat 3: Jan ($90.50 in chips)
+Seat 6: Boomin ($143.63 in chips)
+Seat 7: vincent2(host) ($119.37 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($100.26 in chips)
+Seat 10: arnav ($147.00 in chips)
+Boomin: posts small blind $0.50
+vincent2(host): posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kc 5d]
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: folds
+Jan: raises $1.50 to $2.50
+Boomin: calls $2.00
+vincent2(host): raises $8.50 to $11.00
+Jan: folds
+Boomin: folds
+Uncalled bet ($8.50) returned to vincent2(host)
+*** SHOW DOWN ***
+vincent2(host) collected $7.50 from pot
+*** SUMMARY ***
+Total pot: $7.50 | Rake 0
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 3: Jan (button) folded before Flop
+Seat 6: Boomin (small blind) folded before Flop
+Seat 7: vincent2(host) (big blind) collected ($7.50)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #7923821345029357495: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:30:10 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: rampurge ($150.50 in chips)
+Seat 3: Jan ($88.00 in chips)
+Seat 6: Boomin ($141.13 in chips)
+Seat 7: vincent2(host) ($124.37 in chips)
+Seat 8: Colin ($116.50 in chips)
+Seat 9: ethany ($100.26 in chips)
+Seat 10: arnav ($147.00 in chips)
+vincent2(host): posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4c 3h]
+ethany: raises $1.87 to $2.87
+arnav: folds
+rampurge: folds
+Jan: folds
+Boomin: folds
+vincent2(host): raises $6.74 to $9.61
+Colin: folds
+ethany: folds
+Uncalled bet ($6.74) returned to vincent2(host)
+*** SHOW DOWN ***
+vincent2(host) collected $6.74 from pot
+*** SUMMARY ***
+Total pot: $6.74 | Rake 0
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin (button) folded before Flop (didn't bet)
+Seat 7: vincent2(host) (small blind) collected ($6.74)
+Seat 8: Colin (big blind) folded before Flop
+Seat 9: ethany folded before Flop
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #12858305915623794559: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:30:34 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: rampurge ($150.50 in chips)
+Seat 3: Jan ($88.00 in chips)
+Seat 6: Boomin ($141.13 in chips)
+Seat 7: vincent2(host) ($128.24 in chips)
+Seat 8: Colin ($115.50 in chips)
+Seat 9: ethany ($97.39 in chips)
+Seat 10: arnav ($147.00 in chips)
+Colin: posts small blind $0.50
+ethany: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Jh 7h]
+arnav: folds
+rampurge: folds
+Jan: folds
+Boomin: folds
+vincent2(host): folds
+Colin: calls $0.50
+ethany: raises $2.00 to $3.00
+Colin: calls $2.00
+*** FLOP *** [Td 8s 5c]
+Colin: checks
+ethany: bets $2.00
+Colin: calls $2.00
+*** TURN *** [Td 8s 5c] [Qs]
+Colin: checks
+ethany: bets $5.50
+Colin: calls $5.50
+*** RIVER *** [Td 8s 5c Qs] [Qd]
+Colin: checks
+ethany: checks
+ethany: shows [2s Ad]
+*** SHOW DOWN ***
+ethany collected $21.00 from pot
+Colin: shows [Js 7s]
+*** SUMMARY ***
+Total pot: $21.00 | Rake 0
+Board [Td 8s 5c Qs Qd]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) (button) folded before Flop (didn't bet)
+Seat 8: Colin (small blind) showed [Js 7s] and lost with a pair of Queens
+Seat 9: ethany (big blind) showed [2s Ad] and won ($21.00) with a pair of Queens
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9580271586695146979: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:31:48 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: rampurge ($150.50 in chips)
+Seat 2: SJP ($107.24 in chips)
+Seat 3: Jan ($88.00 in chips)
+Seat 5: Jev ($100.00 in chips)
+Seat 6: Boomin ($141.13 in chips)
+Seat 7: vincent2(host) ($128.24 in chips)
+Seat 8: Colin ($105.00 in chips)
+Seat 9: ethany ($107.89 in chips)
+Seat 10: arnav ($147.00 in chips)
+ethany: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3s 7h]
+rampurge: folds
+SJP: folds
+Jan: folds
+Jev: raises $2.00 to $3.00
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: raises $5.25 to $8.25
+arnav: folds
+Jev: raises $11.25 to $19.50
+ethany: folds
+Uncalled bet ($11.25) returned to Jev
+*** SHOW DOWN ***
+Jev collected $17.50 from pot
+*** SUMMARY ***
+Total pot: $17.50 | Rake 0
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Jev collected ($17.50)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin (button) folded before Flop (didn't bet)
+Seat 9: ethany (small blind) folded before Flop
+Seat 10: arnav (big blind) folded before Flop
+
+
+
+PokerStars Hand #16176120377889494444: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:34:18 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: rampurge ($146.00 in chips)
+Seat 2: SJP ($103.74 in chips)
+Seat 3: Jan ($82.00 in chips)
+Seat 5: Jev ($97.75 in chips)
+Seat 6: Boomin ($117.63 in chips)
+Seat 7: vincent2(host) ($188.24 in chips)
+Seat 8: Colin ($101.50 in chips)
+Seat 9: ethany ($96.14 in chips)
+Seat 10: arnav ($142.00 in chips)
+rampurge: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ad Kc]
+Jan: folds
+Jev: folds
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: raises $1.87 to $2.87
+arnav: folds
+rampurge: raises $6.74 to $9.61
+SJP: folds
+ethany: folds
+Uncalled bet ($6.74) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $6.74 from pot
+*** SUMMARY ***
+Total pot: $6.74 | Rake 0
+Seat 1: rampurge (small blind) collected ($6.74)
+Seat 2: SJP (big blind) folded before Flop
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Jev folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop
+Seat 10: arnav (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5477492518796113227: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:34:51 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: rampurge ($149.87 in chips)
+Seat 2: SJP ($102.74 in chips)
+Seat 3: Jan ($82.00 in chips)
+Seat 5: Jev ($97.75 in chips)
+Seat 6: Boomin ($117.63 in chips)
+Seat 7: vincent2(host) ($188.24 in chips)
+Seat 8: Colin ($101.50 in chips)
+Seat 9: ethany ($93.27 in chips)
+Seat 10: arnav ($142.00 in chips)
+SJP: posts small blind $0.50
+Jan: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qc Qd]
+Jev: folds
+Boomin: folds
+vincent2(host): folds
+Colin: calls $1.00
+ethany: raises $2.62 to $3.62
+arnav: folds
+rampurge: raises $9.74 to $13.36
+SJP: folds
+Jan: folds
+Colin: folds
+ethany: calls $9.74
+*** FLOP *** [8h 2s Jh]
+ethany: bets $10.00
+rampurge: raises $24.61 to $34.61
+ethany: folds
+Uncalled bet ($24.61) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $49.22 from pot
+*** SUMMARY ***
+Total pot: $49.22 | Rake 0
+Board [8h 2s Jh]
+Seat 1: rampurge (button) collected ($49.22)
+Seat 2: SJP (small blind) folded before Flop
+Seat 3: Jan (big blind) folded before Flop
+Seat 5: Jev folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop
+Seat 9: ethany folded on the Flop
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3408924632792755351: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:36:01 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: rampurge ($175.73 in chips)
+Seat 2: SJP ($102.24 in chips)
+Seat 3: Jan ($81.00 in chips)
+Seat 5: Jev ($97.75 in chips)
+Seat 6: Boomin ($117.63 in chips)
+Seat 7: vincent2(host) ($188.24 in chips)
+Seat 8: Colin ($100.50 in chips)
+Seat 9: ethany ($69.91 in chips)
+Seat 10: arnav ($142.00 in chips)
+Jan: posts small blind $0.50
+Jev: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ks 9c]
+Boomin: folds
+vincent2(host): calls $1.00
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: folds
+SJP: raises $3.50 to $4.50
+Jan: folds
+Jev: folds
+vincent2(host): calls $3.50
+*** FLOP *** [8s 2c 8c]
+vincent2(host): checks
+SJP: checks
+*** TURN *** [8s 2c 8c] [Kh]
+vincent2(host): checks
+SJP: bets $5.25
+vincent2(host): folds
+Uncalled bet ($5.25) returned to SJP
+*** SHOW DOWN ***
+SJP collected $10.50 from pot
+*** SUMMARY ***
+Total pot: $10.50 | Rake 0
+Board [8s 2c 8c Kh]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP (button) collected ($10.50)
+Seat 3: Jan (small blind) folded before Flop
+Seat 5: Jev (big blind) folded before Flop
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded on the Turn
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #18330972168623310105: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:36:44 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: rampurge ($175.73 in chips)
+Seat 2: SJP ($108.24 in chips)
+Seat 3: Jan ($80.50 in chips)
+Seat 5: Jev ($96.75 in chips)
+Seat 6: Boomin ($117.63 in chips)
+Seat 7: vincent2(host) ($183.74 in chips)
+Seat 8: Colin ($100.50 in chips)
+Seat 9: ethany ($69.91 in chips)
+Seat 10: arnav ($142.00 in chips)
+Jev: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ah 9c]
+vincent2(host): folds
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: folds
+SJP: raises $2.50 to $3.50
+Jan: folds
+Jev: folds
+Boomin: folds
+Uncalled bet ($2.50) returned to SJP
+*** SHOW DOWN ***
+SJP collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP collected ($2.50)
+Seat 3: Jan (button) folded before Flop (didn't bet)
+Seat 5: Jev (small blind) folded before Flop
+Seat 6: Boomin (big blind) folded before Flop
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #15813461675029464601: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:37:06 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: rampurge ($175.73 in chips)
+Seat 2: SJP ($109.74 in chips)
+Seat 3: Jan ($80.50 in chips)
+Seat 5: Jev ($96.25 in chips)
+Seat 6: Boomin ($116.63 in chips)
+Seat 7: vincent2(host) ($183.74 in chips)
+Seat 8: Colin ($100.50 in chips)
+Seat 9: ethany ($69.91 in chips)
+Seat 10: arnav ($142.00 in chips)
+Boomin: posts small blind $0.50
+vincent2(host): posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6d 5h]
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: folds
+SJP: folds
+Jan: folds
+Jev: raises $2.00 to $3.00
+Boomin: folds
+vincent2(host): calls $2.00
+*** FLOP *** [7h 3s 8s]
+vincent2(host): checks
+Jev: checks
+*** TURN *** [7h 3s 8s] [2d]
+vincent2(host): checks
+Jev: checks
+*** RIVER *** [7h 3s 8s 2d] [Ac]
+vincent2(host): checks
+Jev: bets $5.00
+vincent2(host): calls $5.00
+Jev: shows [6h Ad]
+*** SHOW DOWN ***
+Jev collected $16.50 from pot
+*** SUMMARY ***
+Total pot: $16.50 | Rake 0
+Board [7h 3s 8s 2d Ac]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Jev (button) showed [6h Ad] and won ($16.50) with a pair of Aces
+Seat 6: Boomin (small blind) folded before Flop
+Seat 7: vincent2(host) (big blind) didn't show and lost
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5443494891699696762: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:38:24 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: rampurge ($175.73 in chips)
+Seat 2: SJP ($109.74 in chips)
+Seat 3: Jan ($80.50 in chips)
+Seat 5: Jev ($104.75 in chips)
+Seat 6: Boomin ($116.13 in chips)
+Seat 7: vincent2(host) ($175.74 in chips)
+Seat 8: Colin ($100.50 in chips)
+Seat 9: ethany ($69.91 in chips)
+Seat 10: arnav ($142.00 in chips)
+vincent2(host): posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7c 6c]
+ethany: folds
+arnav: raises $1.50 to $2.50
+rampurge: folds
+SJP: folds
+Jan: raises $6.00 to $8.50
+Jev: folds
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+arnav: folds
+Uncalled bet ($6.00) returned to Jan
+*** SHOW DOWN ***
+Jan collected $6.50 from pot
+*** SUMMARY ***
+Total pot: $6.50 | Rake 0
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan collected ($6.50)
+Seat 5: Jev folded before Flop (didn't bet)
+Seat 6: Boomin (button) folded before Flop (didn't bet)
+Seat 7: vincent2(host) (small blind) folded before Flop
+Seat 8: Colin (big blind) folded before Flop
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop
+
+
+
+PokerStars Hand #9605746538250177848: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:39:05 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: rampurge ($175.73 in chips)
+Seat 2: SJP ($109.74 in chips)
+Seat 3: Jan ($84.50 in chips)
+Seat 5: Jev ($104.75 in chips)
+Seat 6: Boomin ($116.13 in chips)
+Seat 7: vincent2(host) ($175.24 in chips)
+Seat 8: Colin ($99.50 in chips)
+Seat 9: ethany ($69.91 in chips)
+Seat 10: arnav ($139.50 in chips)
+Colin: posts small blind $0.50
+ethany: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4c 4h]
+arnav: folds
+rampurge: folds
+SJP: raises $2.50 to $3.50
+Jan: folds
+Jev: folds
+Boomin: calls $3.50
+vincent2(host): calls $3.50
+Colin: calls $3.00
+ethany: calls $2.50
+*** FLOP *** [6c 5s As]
+Colin: checks
+ethany: checks
+SJP: bets $8.75
+Boomin: calls $8.75
+vincent2(host): folds
+Colin: calls $8.75
+ethany: folds
+*** TURN *** [6c 5s As] [8h]
+Colin: checks
+SJP: checks
+Boomin: checks
+*** RIVER *** [6c 5s As 8h] [2h]
+Colin: checks
+SJP: checks
+Boomin: checks
+Boomin: shows [8s 9s]
+*** SHOW DOWN ***
+Boomin collected $43.75 from pot
+Colin: shows [5c 9c]
+*** SUMMARY ***
+Total pot: $43.75 | Rake 0
+Board [6c 5s As 8h 2h]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP didn't show and lost
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Jev folded before Flop (didn't bet)
+Seat 6: Boomin showed [8s 9s] and won ($43.75) with a pair of Eights
+Seat 7: vincent2(host) (button) folded on the Flop
+Seat 8: Colin (small blind) showed [5c 9c] and lost with a pair of Fives
+Seat 9: ethany (big blind) folded on the Flop
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9212484072850621904: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:40:14 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: rampurge ($175.73 in chips)
+Seat 2: SJP ($97.49 in chips)
+Seat 3: Jan ($84.50 in chips)
+Seat 5: Jev ($104.75 in chips)
+Seat 6: Boomin ($147.63 in chips)
+Seat 7: vincent2(host) ($171.74 in chips)
+Seat 8: Colin ($87.25 in chips)
+Seat 9: ethany ($66.41 in chips)
+Seat 10: arnav ($139.50 in chips)
+ethany: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2h Jh]
+rampurge: folds
+SJP: folds
+Jan: folds
+Jev: folds
+Boomin: folds
+vincent2(host): folds
+Colin: raises $3.00 to $4.00
+ethany: folds
+arnav: folds
+Uncalled bet ($3.00) returned to Colin
+*** SHOW DOWN ***
+Colin collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Jev folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin (button) collected ($2.50)
+Seat 9: ethany (small blind) folded before Flop
+Seat 10: arnav (big blind) folded before Flop
+
+
+
+PokerStars Hand #6735632386640706362: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:40:58 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: rampurge ($175.73 in chips)
+Seat 2: SJP ($97.49 in chips)
+Seat 3: Jan ($84.50 in chips)
+Seat 5: Jev ($104.75 in chips)
+Seat 6: Boomin ($147.63 in chips)
+Seat 7: vincent2(host) ($171.74 in chips)
+Seat 8: Colin ($88.75 in chips)
+Seat 9: ethany ($65.91 in chips)
+Seat 10: arnav ($138.50 in chips)
+arnav: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Th 9d]
+SJP: folds
+Jan: raises $1.50 to $2.50
+Jev: folds
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: calls $2.50
+arnav: folds
+rampurge: folds
+*** FLOP *** [5s 7c 9h]
+Jan: bets $2.00
+ethany: raises $3.00 to $5.00
+Jan: calls $3.00
+*** TURN *** [5s 7c 9h] [3c]
+Jan: checks
+ethany: bets $10.00
+Jan: calls $10.00
+*** RIVER *** [5s 7c 9h 3c] [Qh]
+Jan: checks
+ethany: bets $20.25
+Jan: calls $20.25
+ethany: shows [Kh Qd]
+*** SHOW DOWN ***
+ethany collected $77.00 from pot
+*** SUMMARY ***
+Total pot: $77.00 | Rake 0
+Board [5s 7c 9h 3c Qh]
+Seat 1: rampurge (big blind) folded before Flop
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan didn't show and lost
+Seat 5: Jev folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany (button) showed [Kh Qd] and won ($77.00) with a pair of Queens
+Seat 10: arnav (small blind) folded before Flop
+
+
+
+PokerStars Hand #2703875809347952740: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:43:00 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: rampurge ($174.73 in chips)
+Seat 2: SJP ($97.49 in chips)
+Seat 3: Jan ($46.75 in chips)
+Seat 5: Jev ($104.75 in chips)
+Seat 6: Boomin ($147.63 in chips)
+Seat 7: vincent2(host) ($171.74 in chips)
+Seat 8: Colin ($88.75 in chips)
+Seat 9: ethany ($105.16 in chips)
+Seat 10: arnav ($138.00 in chips)
+rampurge: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9c 6c]
+Jan: folds
+Jev: folds
+Boomin: folds
+vincent2(host): calls $1.00
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: folds
+SJP: checks
+*** FLOP *** [Tc Kd 9s]
+SJP: checks
+vincent2(host): checks
+*** TURN *** [Tc Kd 9s] [5s]
+SJP: bets $1.87
+vincent2(host): calls $1.87
+*** RIVER *** [Tc Kd 9s 5s] [Ad]
+SJP: checks
+vincent2(host): bets $4.68
+SJP: folds
+Uncalled bet ($4.68) returned to vincent2(host)
+*** SHOW DOWN ***
+vincent2(host) collected $6.24 from pot
+*** SUMMARY ***
+Total pot: $6.24 | Rake 0
+Board [Tc Kd 9s 5s Ad]
+Seat 1: rampurge (small blind) folded before Flop
+Seat 2: SJP (big blind) folded on the River
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Jev folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) collected ($6.24)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #8764350055893847740: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:43:53 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: rampurge ($174.23 in chips)
+Seat 2: SJP ($94.62 in chips)
+Seat 3: Jan ($46.75 in chips)
+Seat 5: Jev ($104.75 in chips)
+Seat 6: Boomin ($147.63 in chips)
+Seat 7: vincent2(host) ($175.11 in chips)
+Seat 8: Colin ($88.75 in chips)
+Seat 9: ethany ($105.16 in chips)
+Seat 10: arnav ($138.00 in chips)
+SJP: posts small blind $0.50
+Jan: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ad Qc]
+Jev: folds
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: raises $2.00 to $3.00
+SJP: calls $2.50
+Jan: folds
+*** FLOP *** [3d Kc Jd]
+SJP: checks
+rampurge: bets $3.50
+SJP: folds
+Uncalled bet ($3.50) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $7.00 from pot
+*** SUMMARY ***
+Total pot: $7.00 | Rake 0
+Board [3d Kc Jd]
+Seat 1: rampurge (button) collected ($7.00)
+Seat 2: SJP (small blind) folded on the Flop
+Seat 3: Jan (big blind) folded before Flop
+Seat 5: Jev folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6165834288202346173: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:44:20 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: rampurge ($178.23 in chips)
+Seat 2: SJP ($91.62 in chips)
+Seat 3: Jan ($45.75 in chips)
+Seat 5: Jev ($104.75 in chips)
+Seat 6: Boomin ($147.63 in chips)
+Seat 7: vincent2(host) ($175.11 in chips)
+Seat 8: Colin ($88.75 in chips)
+Seat 9: ethany ($105.16 in chips)
+Jan: posts small blind $0.50
+Jev: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6s As]
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: raises $2.50 to $3.50
+rampurge: folds
+SJP: calls $3.50
+Jan: folds
+Jev: calls $2.50
+*** FLOP *** [3c Ac 2h]
+Jev: checks
+ethany: bets $4.00
+SJP: calls $4.00
+Jev: folds
+*** TURN *** [3c Ac 2h] [9h]
+ethany: bets $8.00
+SJP: raises $17.50 to $25.50
+ethany: folds
+Uncalled bet ($17.50) returned to SJP
+*** SHOW DOWN ***
+SJP collected $35.00 from pot
+*** SUMMARY ***
+Total pot: $35.00 | Rake 0
+Board [3c Ac 2h 9h]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP (button) collected ($35.00)
+Seat 3: Jan (small blind) folded before Flop
+Seat 5: Jev (big blind) folded on the Flop
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded on the Turn
+
+
+
+PokerStars Hand #15020182983050495297: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:45:22 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: rampurge ($178.23 in chips)
+Seat 2: SJP ($111.12 in chips)
+Seat 3: Jan ($45.25 in chips)
+Seat 5: Jev ($101.25 in chips)
+Seat 6: Boomin ($147.63 in chips)
+Seat 7: vincent2(host) ($175.11 in chips)
+Seat 8: Colin ($88.75 in chips)
+Seat 9: ethany ($89.66 in chips)
+Jev: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4d 8h]
+vincent2(host): folds
+Colin: calls $1.00
+ethany: folds
+rampurge: folds
+SJP: folds
+Jan: raises $2.50 to $3.50
+Jev: folds
+Boomin: folds
+Colin: calls $2.50
+*** FLOP *** [Jd Ah As]
+Colin: checks
+Jan: bets $3.00
+Colin: calls $3.00
+*** TURN *** [Jd Ah As] [Td]
+Colin: checks
+Jan: checks
+*** RIVER *** [Jd Ah As Td] [Ts]
+Colin: bets $14.50
+Jan: folds
+Uncalled bet ($14.50) returned to Colin
+*** SHOW DOWN ***
+Colin collected $14.50 from pot
+*** SUMMARY ***
+Total pot: $14.50 | Rake 0
+Board [Jd Ah As Td Ts]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan (button) folded on the River
+Seat 5: Jev (small blind) folded before Flop
+Seat 6: Boomin (big blind) folded before Flop
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin collected ($14.50)
+Seat 9: ethany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4037922762887002365: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:46:35 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: rampurge ($178.23 in chips)
+Seat 2: SJP ($111.12 in chips)
+Seat 3: Jan ($38.75 in chips)
+Seat 5: Jev ($100.75 in chips)
+Seat 6: Boomin ($146.63 in chips)
+Seat 7: vincent2(host) ($175.11 in chips)
+Seat 8: Colin ($96.75 in chips)
+Seat 9: ethany ($89.66 in chips)
+Boomin: posts small blind $0.50
+vincent2(host): posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qc Kh]
+Colin: raises $4.00 to $5.00
+ethany: folds
+rampurge: folds
+SJP: folds
+Jan: folds
+Jev: folds
+Boomin: folds
+vincent2(host): calls $4.00
+*** FLOP *** [2d 7c 5h]
+vincent2(host): checks
+Colin: bets $10.50
+vincent2(host): folds
+Uncalled bet ($10.50) returned to Colin
+*** SHOW DOWN ***
+Colin collected $10.50 from pot
+*** SUMMARY ***
+Total pot: $10.50 | Rake 0
+Board [2d 7c 5h]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Jev (button) folded before Flop (didn't bet)
+Seat 6: Boomin (small blind) folded before Flop
+Seat 7: vincent2(host) (big blind) folded on the Flop
+Seat 8: Colin collected ($10.50)
+Seat 9: ethany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3770619082972431509: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:47:14 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: rampurge ($178.23 in chips)
+Seat 2: SJP ($111.12 in chips)
+Seat 3: Jan ($38.75 in chips)
+Seat 5: Jev ($100.75 in chips)
+Seat 6: Boomin ($146.13 in chips)
+Seat 7: vincent2(host) ($170.11 in chips)
+Seat 8: Colin ($102.25 in chips)
+Seat 9: ethany ($89.66 in chips)
+vincent2(host): posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9c 3s]
+ethany: folds
+rampurge: folds
+SJP: folds
+Jan: folds
+Jev: folds
+Boomin: raises $2.00 to $3.00
+vincent2(host): folds
+Colin: calls $2.00
+*** FLOP *** [8h 2c 7s]
+Colin: checks
+Boomin: bets $2.25
+Colin: folds
+Uncalled bet ($2.25) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $6.50 from pot
+*** SUMMARY ***
+Total pot: $6.50 | Rake 0
+Board [8h 2c 7s]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Jev folded before Flop (didn't bet)
+Seat 6: Boomin (button) collected ($6.50)
+Seat 7: vincent2(host) (small blind) folded before Flop
+Seat 8: Colin (big blind) folded on the Flop
+Seat 9: ethany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2869190512623067959: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:47:50 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: rampurge ($178.23 in chips)
+Seat 2: SJP ($111.12 in chips)
+Seat 3: Jan ($38.75 in chips)
+Seat 5: Jev ($100.75 in chips)
+Seat 6: Boomin ($149.63 in chips)
+Seat 7: vincent2(host) ($169.61 in chips)
+Seat 8: Colin ($99.25 in chips)
+Seat 9: ethany ($89.66 in chips)
+Colin: posts small blind $0.50
+ethany: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ks 2s]
+rampurge: folds
+SJP: folds
+Jan: folds
+Jev: folds
+Boomin: raises $2.00 to $3.00
+vincent2(host): folds
+Colin: calls $2.50
+ethany: calls $2.00
+*** FLOP *** [7s 3s Ts]
+Colin: checks
+ethany: checks
+Boomin: bets $2.45
+Colin: folds
+ethany: folds
+Uncalled bet ($2.45) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $9.00 from pot
+*** SUMMARY ***
+Total pot: $9.00 | Rake 0
+Board [7s 3s Ts]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Jev folded before Flop (didn't bet)
+Seat 6: Boomin collected ($9.00)
+Seat 7: vincent2(host) (button) folded before Flop (didn't bet)
+Seat 8: Colin (small blind) folded on the Flop
+Seat 9: ethany (big blind) folded on the Flop
+
+
+
+PokerStars Hand #7862040985798692590: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:48:28 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: rampurge ($178.23 in chips)
+Seat 2: SJP ($111.12 in chips)
+Seat 3: Jan ($38.75 in chips)
+Seat 5: Jev ($100.75 in chips)
+Seat 6: Boomin ($155.63 in chips)
+Seat 7: vincent2(host) ($169.61 in chips)
+Seat 8: Colin ($96.25 in chips)
+Seat 9: ethany ($86.66 in chips)
+ethany: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3s 9d]
+SJP: folds
+Jan: folds
+Jev: raises $2.00 to $3.00
+Boomin: folds
+vincent2(host): calls $3.00
+Colin: folds
+ethany: folds
+rampurge: folds
+*** FLOP *** [3d 8h 2s]
+Jev: checks
+vincent2(host): checks
+*** TURN *** [3d 8h 2s] [Jd]
+Jev: checks
+vincent2(host): checks
+*** RIVER *** [3d 8h 2s Jd] [8c]
+Jev: checks
+vincent2(host): checks
+Jev: shows [4s 4h]
+*** SHOW DOWN ***
+Jev collected $7.50 from pot
+*** SUMMARY ***
+Total pot: $7.50 | Rake 0
+Board [3d 8h 2s Jd 8c]
+Seat 1: rampurge (big blind) folded before Flop
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Jev showed [4s 4h] and won ($7.50) with two pair, Eights and Fours
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) didn't show and lost
+Seat 8: Colin (button) folded before Flop (didn't bet)
+Seat 9: ethany (small blind) folded before Flop
+
+
+
+PokerStars Hand #10540494426913169601: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:49:22 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: rampurge ($177.23 in chips)
+Seat 2: SJP ($111.12 in chips)
+Seat 3: Jan ($38.75 in chips)
+Seat 5: Jev ($105.25 in chips)
+Seat 6: Boomin ($155.63 in chips)
+Seat 7: vincent2(host) ($166.61 in chips)
+Seat 9: ethany ($86.16 in chips)
+rampurge: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3h Qd]
+Jan: folds
+Jev: folds
+Boomin: raises $2.00 to $3.00
+vincent2(host): calls $3.00
+ethany: folds
+rampurge: folds
+SJP: calls $2.00
+*** FLOP *** [2c 9s As]
+SJP: checks
+Boomin: checks
+vincent2(host): checks
+*** TURN *** [2c 9s As] [7d]
+SJP: bets $4.75
+Boomin: folds
+vincent2(host): calls $4.75
+*** RIVER *** [2c 9s As 7d] [8h]
+SJP: checks
+vincent2(host): checks
+SJP: shows [Kh 9h]
+*** SHOW DOWN ***
+SJP collected $19.00 from pot
+*** SUMMARY ***
+Total pot: $19.00 | Rake 0
+Board [2c 9s As 7d 8h]
+Seat 1: rampurge (small blind) folded before Flop
+Seat 2: SJP (big blind) showed [Kh 9h] and won ($19.00) with a pair of Nines
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 5: Jev folded before Flop (didn't bet)
+Seat 6: Boomin folded on the Turn
+Seat 7: vincent2(host) didn't show and lost
+Seat 9: ethany (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #17091832995274415052: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:50:06 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: rampurge ($176.73 in chips)
+Seat 2: SJP ($122.37 in chips)
+Seat 3: Jan ($38.75 in chips)
+Seat 5: Jev ($105.25 in chips)
+Seat 6: Boomin ($152.63 in chips)
+Seat 7: vincent2(host) ($158.86 in chips)
+Seat 8: Colin ($96.25 in chips)
+Seat 9: ethany ($86.16 in chips)
+SJP: posts small blind $0.50
+Jan: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4h Jd]
+Jev: folds
+Boomin: raises $2.00 to $3.00
+vincent2(host): folds
+Colin: folds
+ethany: folds
+rampurge: folds
+SJP: folds
+Jan: calls $2.00
+*** FLOP *** [5s 7c As]
+Jan: checks
+Boomin: bets $3.25
+Jan: calls $3.25
+*** TURN *** [5s 7c As] [Ts]
+Jan: checks
+Boomin: checks
+*** RIVER *** [5s 7c As Ts] [Jh]
+Jan: bets $9.00
+Boomin: folds
+Uncalled bet ($9.00) returned to Jan
+*** SHOW DOWN ***
+Jan collected $13.00 from pot
+*** SUMMARY ***
+Total pot: $13.00 | Rake 0
+Board [5s 7c As Ts Jh]
+Seat 1: rampurge (button) folded before Flop (didn't bet)
+Seat 2: SJP (small blind) folded before Flop
+Seat 3: Jan (big blind) collected ($13.00)
+Seat 5: Jev folded before Flop (didn't bet)
+Seat 6: Boomin folded on the River
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6647757424743619566: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:51:09 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: rampurge ($176.73 in chips)
+Seat 2: SJP ($121.87 in chips)
+Seat 3: Jan ($45.50 in chips)
+Seat 5: Jev ($105.25 in chips)
+Seat 6: Boomin ($146.38 in chips)
+Seat 7: vincent2(host) ($158.86 in chips)
+Seat 8: Colin ($96.25 in chips)
+Seat 9: ethany ($86.16 in chips)
+Seat 10: arnav ($138.00 in chips)
+Jan: posts small blind $0.50
+Jev: posts big blind $1.00
+arnav: posts big blind $1.00
+arnav: posts small blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Jd 2d]
+Boomin: folds
+vincent2(host): raises $3.00 to $4.00
+Colin: folds
+ethany: calls $4.00
+arnav: folds
+rampurge: folds
+SJP: folds
+Jan: folds
+Jev: raises $13.00 to $17.00
+vincent2(host): calls $13.00
+ethany: folds
+*** FLOP *** [8d Th Tc]
+Jev: bets $16.00
+vincent2(host): calls $16.00
+*** TURN *** [8d Th Tc] [6s]
+Jev: bets $72.25
+vincent2(host): calls $72.25
+Jev: shows [As Qc]
+vincent2(host): shows [Td Ks]
+*** RIVER *** [8d Th Tc 6s] [Ad]
+*** SHOW DOWN ***
+vincent2(host) collected $216.50 from pot
+*** SUMMARY ***
+Total pot: $216.50 | Rake 0
+Board [8d Th Tc 6s Ad]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP (button) folded before Flop (didn't bet)
+Seat 3: Jan (small blind) folded before Flop
+Seat 5: Jev (big blind) showed [As Qc] and lost with two pair, Aces and Tens
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) showed [Td Ks] and won ($216.50) with three of a kind, Tens
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop
+Seat 10: arnav (big blind) folded before Flop
+
+
+
+PokerStars Hand #10157415311302948489: Hold'em No Limit ($0.00/$1.00 USD) - 2024/06/11 02:52:55 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: rampurge ($176.73 in chips)
+Seat 2: SJP ($121.87 in chips)
+Seat 3: Jan ($45.00 in chips)
+Seat 6: Boomin ($146.38 in chips)
+Seat 7: vincent2(host) ($270.11 in chips)
+Seat 8: Colin ($96.25 in chips)
+Seat 9: ethany ($82.16 in chips)
+Seat 10: arnav ($136.50 in chips)
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ah 7s]
+vincent2(host): folds
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: folds
+SJP: folds
+Jan: folds
+Uncalled bet ($1.00) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $0.00 from pot
+*** SUMMARY ***
+Total pot: $0.00 | Rake 0
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan (button) folded before Flop (didn't bet)
+Seat 6: Boomin (big blind) collected ($0.00)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #14875746497285763212: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:53:20 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: rampurge ($176.73 in chips)
+Seat 2: SJP ($121.87 in chips)
+Seat 3: Jan ($45.00 in chips)
+Seat 6: Boomin ($146.38 in chips)
+Seat 7: vincent2(host) ($270.11 in chips)
+Seat 8: Colin ($96.25 in chips)
+Seat 9: ethany ($82.16 in chips)
+Seat 10: arnav ($136.50 in chips)
+Boomin: posts small blind $0.50
+vincent2(host): posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5s Ts]
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: folds
+SJP: folds
+Jan: folds
+Boomin: raises $2.00 to $3.00
+vincent2(host): folds
+Uncalled bet ($2.00) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $2.00 from pot
+*** SUMMARY ***
+Total pot: $2.00 | Rake 0
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin (small blind) collected ($2.00)
+Seat 7: vincent2(host) (big blind) folded before Flop
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4309053032164508427: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:53:42 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: rampurge ($176.73 in chips)
+Seat 2: SJP ($121.87 in chips)
+Seat 3: Jan ($45.00 in chips)
+Seat 6: Boomin ($147.38 in chips)
+Seat 7: vincent2(host) ($269.11 in chips)
+Seat 8: Colin ($96.25 in chips)
+Seat 9: ethany ($82.16 in chips)
+Seat 10: arnav ($136.50 in chips)
+vincent2(host): posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Tc As]
+ethany: raises $1.87 to $2.87
+arnav: folds
+rampurge: folds
+SJP: folds
+Jan: folds
+Boomin: calls $2.87
+vincent2(host): folds
+Colin: calls $1.87
+*** FLOP *** [Ac 3s 8s]
+Colin: checks
+ethany: bets $3.00
+Boomin: calls $3.00
+Colin: folds
+*** TURN *** [Ac 3s 8s] [Js]
+ethany: checks
+Boomin: checks
+*** RIVER *** [Ac 3s 8s Js] [Td]
+ethany: bets $5.00
+Boomin: calls $5.00
+Boomin: shows [Ah 5h]
+*** SHOW DOWN ***
+Boomin collected $25.11 from pot
+ethany: shows [Jc Kd]
+*** SUMMARY ***
+Total pot: $25.11 | Rake 0
+Board [Ac 3s 8s Js Td]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin (button) showed [Ah 5h] and won ($25.11) with a pair of Aces
+Seat 7: vincent2(host) (small blind) folded before Flop
+Seat 8: Colin (big blind) folded on the Flop
+Seat 9: ethany showed [Jc Kd] and lost with a pair of Jacks
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16861416901755167491: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:56:04 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: rampurge ($173.23 in chips)
+Seat 2: SJP ($118.37 in chips)
+Seat 3: Jan ($141.50 in chips)
+Seat 6: Boomin ($158.12 in chips)
+Seat 7: vincent2(host) ($265.11 in chips)
+Seat 8: Colin ($84.88 in chips)
+Seat 9: ethany ($65.29 in chips)
+Seat 10: arnav ($168.50 in chips)
+ethany: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qh 4d]
+rampurge: folds
+SJP: raises $2.50 to $3.50
+Jan: folds
+Boomin: folds
+vincent2(host): raises $8.50 to $12.00
+Colin: calls $12.00
+ethany: folds
+arnav: raises $33.00 to $45.00
+SJP: raises $73.37 to $118.37
+vincent2(host): calls $106.37
+Colin: calls $72.88
+arnav: raises $50.13 to $168.50
+vincent2(host): calls $50.13
+SJP: shows [Kc Ks]
+vincent2(host): shows [Qs Qc]
+Colin: shows [9s 9h]
+arnav: shows [Ac Kd]
+*** FIRST FLOP *** [Jh 2s 2c]
+*** FIRST TURN *** [Jh 2s 2c] [Ts]
+*** FIRST RIVER *** [Jh 2s 2c Ts] [Th]
+*** SECOND FLOP *** [5c 9c 4h]
+*** SECOND TURN *** [5c 9c 4h] [6h]
+*** SECOND RIVER *** [5c 9c 4h 6h] [Ad]
+*** FIRST SHOW DOWN ***
+SJP collected $170.01 from pot
+SJP collected $50.24 from pot
+vincent2(host) collected $50.13 from pot
+*** SECOND SHOW DOWN ***
+Colin collected $170.01 from pot
+arnav collected $50.23 from pot
+arnav collected $50.13 from pot
+*** SUMMARY ***
+Total pot: $540.75 | Rake 0
+Hand was run twice
+FIRST Board [Jh 2s 2c Ts Th]
+SECOND Board [5c 9c 4h 6h Ad]
+Seat 1: rampurge folded before Flop (didn't bet)
+Seat 2: SJP showed [Kc Ks] and won ($220.25) with two pair, Kings and Tens, and lost with a pair of Kings
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) showed [Qs Qc] and won ($50.13) with two pair, Queens and Tens, and lost with a pair of Queens
+Seat 8: Colin (button) showed [9s 9h] and lost with two pair, Tens and Nines, and won ($170.01) with three of a kind, Nines
+Seat 9: ethany (small blind) folded before Flop
+Seat 10: arnav (big blind) showed [Ac Kd] and lost with two pair, Tens and Deuces, and won ($100.36) with a pair of Aces
+
+
+
+PokerStars Hand #1255365354316795580: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:57:42 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: rampurge ($173.23 in chips)
+Seat 2: SJP ($220.25 in chips)
+Seat 3: Jan ($141.50 in chips)
+Seat 6: Boomin ($158.12 in chips)
+Seat 7: vincent2(host) ($146.74 in chips)
+Seat 8: Colin ($170.01 in chips)
+Seat 9: ethany ($64.79 in chips)
+Seat 10: arnav ($100.36 in chips)
+arnav: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Jd 8c]
+SJP: raises $2.50 to $3.50
+Jan: folds
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: folds
+Uncalled bet ($2.50) returned to SJP
+*** SHOW DOWN ***
+SJP collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: rampurge (big blind) folded before Flop
+Seat 2: SJP collected ($2.50)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany (button) folded before Flop (didn't bet)
+Seat 10: arnav (small blind) folded before Flop
+
+
+
+PokerStars Hand #2731076071230404443: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:58:13 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: rampurge ($172.23 in chips)
+Seat 2: SJP ($221.75 in chips)
+Seat 3: Jan ($141.50 in chips)
+Seat 6: Boomin ($158.12 in chips)
+Seat 7: vincent2(host) ($146.74 in chips)
+Seat 8: Colin ($170.01 in chips)
+Seat 9: ethany ($64.79 in chips)
+Seat 10: arnav ($99.86 in chips)
+rampurge: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2c 8d]
+Jan: folds
+Boomin: raises $2.00 to $3.00
+vincent2(host): folds
+Colin: calls $3.00
+ethany: calls $3.00
+arnav: folds
+rampurge: folds
+SJP: raises $14.50 to $17.50
+Boomin: folds
+Colin: folds
+ethany: raises $47.29 to $64.79
+SJP: calls $47.29
+SJP: shows [Ac As]
+ethany: shows [5h 5s]
+*** FLOP *** [6h Ts 5c]
+*** TURN *** [6h Ts 5c] [3h]
+*** RIVER *** [6h Ts 5c 3h] [7d]
+*** SHOW DOWN ***
+ethany collected $136.08 from pot
+Boomin: shows [3s 3c]
+Jan: shows [7s 6c]
+*** SUMMARY ***
+Total pot: $136.08 | Rake 0
+Board [6h Ts 5c 3h 7d]
+Seat 1: rampurge (small blind) folded before Flop
+Seat 2: SJP (big blind) showed [Ac As] and lost with a pair of Aces
+Seat 3: Jan folded before Flop (didn't bet) [7s 6c]
+Seat 6: Boomin folded before Flop [3s 3c]
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop
+Seat 9: ethany showed [5h 5s] and won ($136.08) with three of a kind, Fives
+Seat 10: arnav (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5562476706214645992: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:59:16 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: rampurge ($171.73 in chips)
+Seat 2: SJP ($156.96 in chips)
+Seat 3: Jan ($141.50 in chips)
+Seat 6: Boomin ($155.12 in chips)
+Seat 7: vincent2(host) ($146.74 in chips)
+Seat 8: Colin ($167.01 in chips)
+Seat 9: ethany ($136.08 in chips)
+Seat 10: arnav ($149.86 in chips)
+SJP: posts small blind $0.50
+Jan: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5d 2d]
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: raises $1.87 to $2.87
+arnav: folds
+rampurge: folds
+SJP: folds
+Jan: folds
+Uncalled bet ($1.87) returned to ethany
+*** SHOW DOWN ***
+ethany collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: rampurge (button) folded before Flop (didn't bet)
+Seat 2: SJP (small blind) folded before Flop
+Seat 3: Jan (big blind) folded before Flop
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany collected ($2.50)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3706233553952650328: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 02:59:38 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: rampurge ($171.73 in chips)
+Seat 2: SJP ($156.46 in chips)
+Seat 3: Jan ($140.50 in chips)
+Seat 6: Boomin ($155.12 in chips)
+Seat 7: vincent2(host) ($146.74 in chips)
+Seat 8: Colin ($167.01 in chips)
+Seat 9: ethany ($137.58 in chips)
+Seat 10: arnav ($149.86 in chips)
+Jan: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qc Kc]
+vincent2(host): calls $1.00
+Colin: folds
+ethany: folds
+arnav: folds
+rampurge: calls $1.00
+SJP: folds
+Jan: folds
+Boomin: raises $4.50 to $5.50
+vincent2(host): calls $4.50
+rampurge: folds
+*** FLOP *** [9s 6d 2c]
+Boomin: bets $4.18
+vincent2(host): calls $4.18
+*** TURN *** [9s 6d 2c] [9c]
+Boomin: checks
+vincent2(host): bets $10.43
+Boomin: calls $10.43
+*** RIVER *** [9s 6d 2c 9c] [6s]
+Boomin: checks
+vincent2(host): bets $126.63
+Boomin: folds
+Uncalled bet ($126.63) returned to vincent2(host)
+*** SHOW DOWN ***
+vincent2(host) collected $41.72 from pot
+*** SUMMARY ***
+Total pot: $41.72 | Rake 0
+Board [9s 6d 2c 9c 6s]
+Seat 1: rampurge folded before Flop
+Seat 2: SJP (button) folded before Flop (didn't bet)
+Seat 3: Jan (small blind) folded before Flop
+Seat 6: Boomin (big blind) folded on the River
+Seat 7: vincent2(host) collected ($41.72)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1332589447582131220: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 03:00:45 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 2: SJP ($156.46 in chips)
+Seat 3: Jan ($140.00 in chips)
+Seat 6: Boomin ($135.01 in chips)
+Seat 7: vincent2(host) ($168.35 in chips)
+Seat 8: Colin ($167.01 in chips)
+Seat 9: ethany ($137.58 in chips)
+Seat 10: arnav ($149.86 in chips)
+Boomin: posts small blind $0.50
+vincent2(host): posts big blind $1.00
+*** HOLE CARDS ***
+Colin: calls $1.00
+ethany: folds
+arnav: folds
+SJP: folds
+Jan: folds
+Boomin: folds
+vincent2(host): raises $3.50 to $4.50
+Colin: calls $3.50
+*** FLOP *** [3s 9d 8h]
+vincent2(host): bets $3.00
+Colin: calls $3.00
+*** TURN *** [3s 9d 8h] [6c]
+vincent2(host): bets $6.75
+Colin: folds
+Uncalled bet ($6.75) returned to vincent2(host)
+*** SHOW DOWN ***
+vincent2(host) collected $15.50 from pot
+*** SUMMARY ***
+Total pot: $15.50 | Rake 0
+Board [3s 9d 8h 6c]
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan (button) folded before Flop (didn't bet)
+Seat 6: Boomin (small blind) folded before Flop
+Seat 7: vincent2(host) (big blind) collected ($15.50)
+Seat 8: Colin folded on the Turn
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6848205898112659101: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 03:01:45 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 2: SJP ($156.46 in chips)
+Seat 3: Jan ($140.00 in chips)
+Seat 6: Boomin ($134.51 in chips)
+Seat 7: vincent2(host) ($176.35 in chips)
+Seat 8: Colin ($159.51 in chips)
+Seat 9: ethany ($137.58 in chips)
+Seat 10: arnav ($149.86 in chips)
+vincent2(host): posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+ethany: folds
+arnav: folds
+SJP: folds
+Jan: folds
+Boomin: folds
+vincent2(host): folds
+Uncalled bet ($0.50) returned to Colin
+*** SHOW DOWN ***
+Colin collected $1.00 from pot
+*** SUMMARY ***
+Total pot: $1.00 | Rake 0
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin (button) folded before Flop (didn't bet)
+Seat 7: vincent2(host) (small blind) folded before Flop
+Seat 8: Colin (big blind) collected ($1.00)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #17220410500169318504: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 03:01:59 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 2: SJP ($156.46 in chips)
+Seat 3: Jan ($140.00 in chips)
+Seat 6: Boomin ($134.51 in chips)
+Seat 7: vincent2(host) ($175.85 in chips)
+Seat 8: Colin ($160.01 in chips)
+Seat 9: ethany ($137.58 in chips)
+Seat 10: arnav ($149.86 in chips)
+Colin: posts small blind $0.50
+ethany: posts big blind $1.00
+*** HOLE CARDS ***
+arnav: folds
+SJP: folds
+Jan: folds
+Boomin: raises $2.00 to $3.00
+vincent2(host): folds
+Colin: folds
+ethany: folds
+Uncalled bet ($2.00) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin collected ($2.50)
+Seat 7: vincent2(host) (button) folded before Flop (didn't bet)
+Seat 8: Colin (small blind) folded before Flop
+Seat 9: ethany (big blind) folded before Flop
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1478377058997237149: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 03:02:27 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 2: SJP ($156.46 in chips)
+Seat 3: Jan ($140.00 in chips)
+Seat 6: Boomin ($136.01 in chips)
+Seat 7: vincent2(host) ($175.85 in chips)
+Seat 8: Colin ($159.51 in chips)
+Seat 9: ethany ($136.58 in chips)
+Seat 10: arnav ($149.86 in chips)
+ethany: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+SJP: folds
+Jan: folds
+Boomin: raises $2.00 to $3.00
+vincent2(host): folds
+Colin: calls $3.00
+ethany: calls $2.50
+arnav: folds
+*** FLOP *** [5s Tc 7c]
+ethany: checks
+Boomin: checks
+Colin: bets $7.50
+ethany: folds
+Boomin: folds
+Uncalled bet ($7.50) returned to Colin
+*** SHOW DOWN ***
+Colin collected $10.00 from pot
+*** SUMMARY ***
+Total pot: $10.00 | Rake 0
+Board [5s Tc 7c]
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin folded on the Flop
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin (button) collected ($10.00)
+Seat 9: ethany (small blind) folded on the Flop
+Seat 10: arnav (big blind) folded before Flop
+
+
+
+PokerStars Hand #7549134840231331512: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 03:03:11 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 2: SJP ($156.46 in chips)
+Seat 3: Jan ($140.00 in chips)
+Seat 6: Boomin ($133.01 in chips)
+Seat 7: vincent2(host) ($175.85 in chips)
+Seat 8: Colin ($166.51 in chips)
+Seat 9: ethany ($133.58 in chips)
+Seat 10: arnav ($148.86 in chips)
+arnav: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Jan: raises $1.50 to $2.50
+Boomin: folds
+vincent2(host): folds
+Colin: folds
+ethany: folds
+arnav: folds
+SJP: calls $1.50
+*** FLOP *** [Jd 3d 6c]
+SJP: checks
+Jan: bets $1.75
+SJP: calls $1.75
+*** TURN *** [Jd 3d 6c] [2h]
+SJP: checks
+Jan: bets $7.00
+SJP: calls $7.00
+*** RIVER *** [Jd 3d 6c 2h] [9c]
+SJP: checks
+Jan: bets $18.00
+SJP: folds
+Uncalled bet ($18.00) returned to Jan
+*** SHOW DOWN ***
+Jan collected $23.00 from pot
+*** SUMMARY ***
+Total pot: $23.00 | Rake 0
+Board [Jd 3d 6c 2h 9c]
+Seat 2: SJP (big blind) folded on the River
+Seat 3: Jan collected ($23.00)
+Seat 6: Boomin folded before Flop (didn't bet)
+Seat 7: vincent2(host) folded before Flop (didn't bet)
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany (button) folded before Flop (didn't bet)
+Seat 10: arnav (small blind) folded before Flop
+
+
+
+PokerStars Hand #18180036694748263785: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 03:04:37 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 2: SJP ($145.21 in chips)
+Seat 3: Jan ($151.75 in chips)
+Seat 6: Boomin ($133.01 in chips)
+Seat 7: vincent2(host) ($175.85 in chips)
+Seat 8: Colin ($166.51 in chips)
+Seat 9: ethany ($133.58 in chips)
+Seat 10: arnav ($148.36 in chips)
+SJP: posts small blind $0.50
+Jan: posts big blind $1.00
+*** HOLE CARDS ***
+Boomin: raises $2.00 to $3.00
+vincent2(host): calls $3.00
+Colin: calls $3.00
+ethany: folds
+arnav: folds
+SJP: folds
+Jan: folds
+*** FLOP *** [8s 6d 3h]
+Boomin: checks
+vincent2(host): checks
+Colin: bets $10.50
+Boomin: folds
+vincent2(host): folds
+Uncalled bet ($10.50) returned to Colin
+*** SHOW DOWN ***
+Colin collected $10.50 from pot
+*** SUMMARY ***
+Total pot: $10.50 | Rake 0
+Board [8s 6d 3h]
+Seat 2: SJP (small blind) folded before Flop
+Seat 3: Jan (big blind) folded before Flop
+Seat 6: Boomin folded on the Flop
+Seat 7: vincent2(host) folded on the Flop
+Seat 8: Colin collected ($10.50)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #7961867546230073056: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 03:05:40 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 2: SJP ($144.71 in chips)
+Seat 3: Jan ($150.75 in chips)
+Seat 6: Boomin ($130.01 in chips)
+Seat 7: vincent2(host) ($172.85 in chips)
+Seat 8: Colin ($174.01 in chips)
+Seat 9: ethany ($133.58 in chips)
+Seat 10: arnav ($148.36 in chips)
+Jan: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+vincent2(host): calls $1.00
+Colin: folds
+ethany: folds
+arnav: folds
+SJP: raises $3.50 to $4.50
+Jan: folds
+Boomin: raises $12.50 to $17.00
+vincent2(host): calls $16.00
+SJP: folds
+*** FLOP *** [8d 7h 9d]
+Boomin: bets $13.00
+vincent2(host): calls $13.00
+*** TURN *** [8d 7h 9d] [Kh]
+Boomin: bets $21.00
+vincent2(host): folds
+Uncalled bet ($21.00) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $65.00 from pot
+*** SUMMARY ***
+Total pot: $65.00 | Rake 0
+Board [8d 7h 9d Kh]
+Seat 2: SJP (button) folded before Flop
+Seat 3: Jan (small blind) folded before Flop
+Seat 6: Boomin (big blind) collected ($65.00)
+Seat 7: vincent2(host) folded on the Turn
+Seat 8: Colin folded before Flop (didn't bet)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #8732604822083579007: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 03:06:34 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 2: SJP ($140.21 in chips)
+Seat 3: Jan ($150.25 in chips)
+Seat 6: Boomin ($165.01 in chips)
+Seat 7: vincent2(host) ($142.85 in chips)
+Seat 8: Colin ($174.01 in chips)
+Seat 9: ethany ($133.58 in chips)
+Seat 10: arnav ($148.36 in chips)
+Boomin: posts small blind $0.50
+vincent2(host): posts big blind $1.00
+*** HOLE CARDS ***
+Colin: raises $4.00 to $5.00
+ethany: folds
+arnav: folds
+SJP: folds
+Jan: folds
+Boomin: calls $4.50
+vincent2(host): folds
+*** FLOP *** [Qh Jc Tc]
+Boomin: checks
+Colin: bets $8.25
+Boomin: folds
+Uncalled bet ($8.25) returned to Colin
+*** SHOW DOWN ***
+Colin collected $11.00 from pot
+*** SUMMARY ***
+Total pot: $11.00 | Rake 0
+Board [Qh Jc Tc]
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan (button) folded before Flop (didn't bet)
+Seat 6: Boomin (small blind) folded on the Flop
+Seat 7: vincent2(host) (big blind) folded before Flop
+Seat 8: Colin collected ($11.00)
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2621825008274977834: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/11 03:07:09 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 2: SJP ($140.21 in chips)
+Seat 3: Jan ($150.25 in chips)
+Seat 6: Boomin ($160.01 in chips)
+Seat 7: vincent2(host) ($141.85 in chips)
+Seat 8: Colin ($180.01 in chips)
+Seat 9: ethany ($133.58 in chips)
+Seat 10: arnav ($148.36 in chips)
+vincent2(host): posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+ethany: folds
+arnav: raises $1.50 to $2.50
+SJP: folds
+Jan: folds
+Boomin: calls $2.50
+vincent2(host): folds
+Colin: raises $8.00 to $10.50
+arnav: calls $8.00
+Boomin: calls $8.00
+*** FLOP *** [8d Jh 8h]
+Colin: checks
+arnav: bets $12.50
+Boomin: folds
+Colin: folds
+Uncalled bet ($12.50) returned to arnav
+*** SHOW DOWN ***
+arnav collected $32.00 from pot
+*** SUMMARY ***
+Total pot: $32.00 | Rake 0
+Board [8d Jh 8h]
+Seat 2: SJP folded before Flop (didn't bet)
+Seat 3: Jan folded before Flop (didn't bet)
+Seat 6: Boomin (button) folded on the Flop
+Seat 7: vincent2(host) (small blind) folded before Flop
+Seat 8: Colin (big blind) folded on the Flop
+Seat 9: ethany folded before Flop (didn't bet)
+Seat 10: arnav collected ($32.00)
+
+
+

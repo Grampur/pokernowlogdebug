@@ -1,0 +1,4270 @@
+PokerStars Hand #1315430884685385484: Hold'em No Limit ($0.01/$0.50 USD) - 2024/06/14 01:21:24 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: daze ($50.00 in chips)
+Seat 2: 9max ($0.01 in chips)
+Seat 4: danny ($100.00 in chips)
+Seat 6: SK ($100.00 in chips)
+Seat 7: Joker ($50.00 in chips)
+Seat 8: Eugene ($50.00 in chips)
+Seat 9: Dano ($50.00 in chips)
+Seat 10: rampurge ($50.00 in chips)
+9max: posts small blind $0.01
+danny: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [4h 3c]
+SK: raises $1.01 to $1.51
+Joker: folds
+Eugene: folds
+Dano: folds
+rampurge: folds
+daze: folds
+danny: calls $1.01
+*** FLOP *** [Ac 5h Jd]
+danny: checks
+SK: checks
+*** TURN *** [Ac 5h Jd] [3d]
+danny: bets $1.50
+SK: raises $1.50 to $3.00
+danny: calls $1.50
+*** RIVER *** [Ac 5h Jd 3d] [5d]
+danny: bets $3.00
+SK: raises $11.27 to $14.27
+danny: raises $46.07 to $60.34
+SK: raises $35.15 to $95.49
+danny: calls $35.15
+SK: shows [Jc Jh]
+*** SHOW DOWN ***
+SK collected $0.03 from pot
+SK collected $199.98 from pot
+9max: shows [6c 8d]
+danny: shows [5s Ad]
+*** SUMMARY ***
+Total pot: $200.01 | Rake 0
+Board [Ac 5h Jd 3d 5d]
+Seat 1: daze (button) folded before Flop (didn't bet)
+Seat 2: 9max (small blind) showed [6c 8d] and lost with a pair of Fives
+Seat 4: danny (big blind) showed [5s Ad] and lost with a full house, Fives full of Aces
+Seat 6: SK showed [Jc Jh] and won ($200.01) with a full house, Jacks full of Fives
+Seat 7: Joker folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1988785953695312942: Hold'em No Limit ($0.00/$0.50 USD) - 2024/06/14 01:22:39 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: daze ($50.00 in chips)
+Seat 6: SK ($200.01 in chips)
+Seat 7: Joker ($50.00 in chips)
+Seat 8: Eugene ($50.00 in chips)
+Seat 9: Dano ($50.00 in chips)
+Seat 10: rampurge ($50.00 in chips)
+SK: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Ad 4h]
+Joker: folds
+Eugene: folds
+Dano: folds
+rampurge: folds
+daze: calls $0.50
+SK: checks
+*** FLOP *** [9s Ts Kd]
+SK: bets $0.75
+daze: calls $0.75
+*** TURN *** [9s Ts Kd] [5d]
+SK: bets $2.50
+daze: folds
+Uncalled bet ($2.50) returned to SK
+*** SHOW DOWN ***
+SK collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Board [9s Ts Kd 5d]
+Seat 1: daze folded on the Turn
+Seat 6: SK (big blind) collected ($2.50)
+Seat 7: Joker folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2236718771184235889: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:23:24 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: daze ($48.75 in chips)
+Seat 6: SK ($201.26 in chips)
+Seat 7: Joker ($50.00 in chips)
+Seat 8: Eugene ($50.00 in chips)
+Seat 9: Dano ($50.00 in chips)
+Seat 10: rampurge ($50.00 in chips)
+SK: posts small blind $0.25
+Joker: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [4d 8d]
+Eugene: raises $1.00 to $1.50
+Dano: folds
+rampurge: folds
+daze: calls $1.50
+SK: calls $1.25
+Joker: raises $3.00 to $4.50
+Eugene: raises $12.00 to $16.50
+daze: folds
+SK: folds
+Joker: calls $12.00
+*** FLOP *** [Jh Tc 8s]
+Joker: checks
+Eugene: bets $15.00
+Joker: folds
+Uncalled bet ($15.00) returned to Eugene
+*** SHOW DOWN ***
+Eugene collected $36.00 from pot
+*** SUMMARY ***
+Total pot: $36.00 | Rake 0
+Board [Jh Tc 8s]
+Seat 1: daze folded before Flop
+Seat 6: SK (small blind) folded before Flop
+Seat 7: Joker (big blind) folded on the Flop
+Seat 8: Eugene collected ($36.00)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16085592520562682944: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:24:36 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: daze ($47.25 in chips)
+Seat 3: danny ($100.00 in chips)
+Seat 6: SK ($199.76 in chips)
+Seat 7: Joker ($33.50 in chips)
+Seat 8: Eugene ($69.50 in chips)
+Seat 9: Dano ($50.00 in chips)
+Seat 10: rampurge ($50.00 in chips)
+Joker: posts small blind $0.25
+Eugene: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Ks Qh]
+Dano: calls $0.50
+rampurge: raises $1.75 to $2.25
+daze: calls $2.25
+danny: raises $6.75 to $9.00
+SK: calls $9.00
+Joker: calls $8.75
+Eugene: folds
+Dano: calls $8.50
+rampurge: folds
+daze: calls $6.75
+*** FLOP *** [Qd 7s Ts]
+Joker: checks
+Dano: checks
+daze: checks
+danny: checks
+SK: checks
+*** TURN *** [Qd 7s Ts] [Ad]
+Joker: checks
+Dano: checks
+daze: checks
+danny: checks
+SK: checks
+*** RIVER *** [Qd 7s Ts Ad] [8s]
+Joker: checks
+Dano: checks
+daze: checks
+danny: checks
+SK: bets $23.87
+Joker: folds
+Dano: folds
+daze: folds
+danny: raises $67.13 to $91.00
+SK: folds
+Uncalled bet ($67.13) returned to danny
+*** SHOW DOWN ***
+danny collected $95.49 from pot
+Dano: shows [Kc 4c]
+*** SUMMARY ***
+Total pot: $95.49 | Rake 0
+Board [Qd 7s Ts Ad 8s]
+Seat 1: daze folded on the River
+Seat 3: danny collected ($95.49)
+Seat 6: SK (button) folded on the River
+Seat 7: Joker (small blind) folded on the River
+Seat 8: Eugene (big blind) folded before Flop
+Seat 9: Dano folded on the River [Kc 4c]
+Seat 10: rampurge folded before Flop
+
+
+
+PokerStars Hand #10839589616883579609: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:26:12 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: daze ($38.25 in chips)
+Seat 3: danny ($162.62 in chips)
+Seat 6: SK ($166.89 in chips)
+Seat 7: Joker ($24.50 in chips)
+Seat 8: Eugene ($69.00 in chips)
+Seat 9: Dano ($41.00 in chips)
+Seat 10: rampurge ($47.75 in chips)
+Eugene: posts small blind $0.25
+Dano: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [9s 9c]
+rampurge: raises $1.00 to $1.50
+daze: folds
+danny: folds
+SK: folds
+Joker: folds
+Eugene: calls $1.25
+Dano: raises $4.50 to $6.00
+rampurge: raises $41.75 to $47.75
+Eugene: folds
+Dano: calls $35.00
+Uncalled bet ($6.75) returned to rampurge
+Dano: shows [6h 9h]
+rampurge: shows [9s 9c]
+*** FLOP *** [8s 5c 7s]
+*** TURN *** [8s 5c 7s] [Js]
+*** RIVER *** [8s 5c 7s Js] [Ad]
+*** SHOW DOWN ***
+Dano collected $83.50 from pot
+*** SUMMARY ***
+Total pot: $83.50 | Rake 0
+Board [8s 5c 7s Js Ad]
+Seat 1: daze folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 6: SK folded before Flop (didn't bet)
+Seat 7: Joker (button) folded before Flop (didn't bet)
+Seat 8: Eugene (small blind) folded before Flop
+Seat 9: Dano (big blind) showed [6h 9h] and won ($83.50) with a straight, Five to Nine
+Seat 10: rampurge showed [9s 9c] and lost with a pair of Nines
+
+
+
+PokerStars Hand #8042787860419795235: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:27:05 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: daze ($38.25 in chips)
+Seat 3: danny ($162.62 in chips)
+Seat 6: SK ($166.89 in chips)
+Seat 7: Joker ($24.50 in chips)
+Seat 8: Eugene ($67.50 in chips)
+Seat 9: Dano ($83.50 in chips)
+Seat 10: rampurge ($6.75 in chips)
+Dano: posts small blind $0.25
+rampurge: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [3d 3s]
+daze: raises $1.25 to $1.75
+danny: raises $2.75 to $4.50
+SK: folds
+Joker: folds
+Eugene: raises $10.50 to $15.00
+Dano: folds
+rampurge: calls $6.25
+daze: raises $23.25 to $38.25
+danny: folds
+Eugene: calls $23.25
+daze: shows [Kd Ac]
+Eugene: shows [As Qd]
+rampurge: shows [3d 3s]
+*** FLOP *** [Jh Kc 9c]
+*** TURN *** [Jh Kc 9c] [6h]
+*** RIVER *** [Jh Kc 9c 6h] [5s]
+*** SHOW DOWN ***
+daze collected $25.00 from pot
+daze collected $63.00 from pot
+Dano: shows [Th Qs]
+SK: shows [Qc 5h]
+*** SUMMARY ***
+Total pot: $88.00 | Rake 0
+Board [Jh Kc 9c 6h 5s]
+Seat 1: daze showed [Kd Ac] and won ($88.00) with a pair of Kings
+Seat 3: danny folded before Flop
+Seat 6: SK folded before Flop (didn't bet) [Qc 5h]
+Seat 7: Joker folded before Flop (didn't bet)
+Seat 8: Eugene (button) showed [As Qd] and lost with high card Ace
+Seat 9: Dano (small blind) folded before Flop [Th Qs]
+Seat 10: rampurge (big blind) showed [3d 3s] and lost with a pair of Threes
+
+
+
+PokerStars Hand #7585132864701873599: Hold'em No Limit ($0.00/$0.50 USD) - 2024/06/14 01:28:20 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: daze ($88.00 in chips)
+Seat 3: danny ($158.12 in chips)
+Seat 5: rolly ($50.00 in chips)
+Seat 6: SK ($166.89 in chips)
+Seat 7: Joker ($24.50 in chips)
+Seat 8: Eugene ($29.25 in chips)
+Seat 9: Dano ($83.25 in chips)
+daze: posts big blind $0.50
+*** HOLE CARDS ***
+danny: folds
+rolly: folds
+SK: calls $0.50
+Joker: folds
+Eugene: raises $1.50 to $2.00
+Dano: folds
+daze: folds
+SK: calls $1.50
+*** FLOP *** [4d Js 2c]
+SK: bets $2.25
+Eugene: folds
+Uncalled bet ($2.25) returned to SK
+*** SHOW DOWN ***
+SK collected $4.50 from pot
+*** SUMMARY ***
+Total pot: $4.50 | Rake 0
+Board [4d Js 2c]
+Seat 1: daze (big blind) folded before Flop
+Seat 3: danny folded before Flop (didn't bet)
+Seat 5: rolly folded before Flop (didn't bet)
+Seat 6: SK collected ($4.50)
+Seat 7: Joker folded before Flop (didn't bet)
+Seat 8: Eugene folded on the Flop
+Seat 9: Dano (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #8287721901118177296: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:28:54 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: daze ($87.50 in chips)
+Seat 3: danny ($158.12 in chips)
+Seat 5: rolly ($50.00 in chips)
+Seat 6: SK ($169.39 in chips)
+Seat 7: Joker ($24.50 in chips)
+Seat 8: Eugene ($27.25 in chips)
+Seat 9: Dano ($83.25 in chips)
+daze: posts small blind $0.25
+danny: posts big blind $0.50
+*** HOLE CARDS ***
+rolly: raises $1.00 to $1.50
+SK: folds
+Joker: folds
+Eugene: folds
+Dano: calls $1.50
+daze: folds
+danny: calls $1.00
+*** FLOP *** [6h 3s Qc]
+danny: checks
+rolly: bets $2.37
+Dano: calls $2.37
+danny: calls $2.37
+*** TURN *** [6h 3s Qc] [4d]
+danny: checks
+rolly: checks
+Dano: checks
+*** RIVER *** [6h 3s Qc 4d] [6s]
+danny: checks
+rolly: checks
+Dano: bets $11.86
+danny: folds
+rolly: calls $11.86
+Dano: shows [6c As]
+*** SHOW DOWN ***
+Dano collected $35.58 from pot
+*** SUMMARY ***
+Total pot: $35.58 | Rake 0
+Board [6h 3s Qc 4d 6s]
+Seat 1: daze (small blind) folded before Flop
+Seat 3: danny (big blind) folded on the River
+Seat 5: rolly didn't show and lost
+Seat 6: SK folded before Flop (didn't bet)
+Seat 7: Joker folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano showed [6c As] and won ($35.58) with three of a kind, Sixes
+
+
+
+PokerStars Hand #11959461205777864422: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:30:25 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: daze ($87.25 in chips)
+Seat 3: danny ($154.25 in chips)
+Seat 4: phoebe ($50.00 in chips)
+Seat 5: rolly ($34.27 in chips)
+Seat 6: SK ($169.39 in chips)
+Seat 7: Joker ($24.50 in chips)
+Seat 8: Eugene ($27.25 in chips)
+Seat 9: Dano ($103.10 in chips)
+Seat 10: rampurge ($50.00 in chips)
+danny: posts small blind $0.25
+phoebe: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [9d 4h]
+rolly: folds
+SK: calls $0.50
+Joker: folds
+Eugene: folds
+Dano: raises $2.25 to $2.75
+rampurge: folds
+daze: folds
+danny: folds
+phoebe: calls $2.25
+SK: calls $2.25
+*** FLOP *** [6d 7h 2h]
+phoebe: checks
+SK: bets $4.25
+Dano: calls $4.25
+phoebe: folds
+*** TURN *** [6d 7h 2h] [3d]
+SK: checks
+Dano: checks
+*** RIVER *** [6d 7h 2h 3d] [Tc]
+SK: bets $12.75
+Dano: calls $12.75
+Dano: shows [9s Ts]
+*** SHOW DOWN ***
+Dano collected $42.50 from pot
+SK: shows [Ad Jh]
+*** SUMMARY ***
+Total pot: $42.50 | Rake 0
+Board [6d 7h 2h 3d Tc]
+Seat 1: daze (button) folded before Flop (didn't bet)
+Seat 3: danny (small blind) folded before Flop
+Seat 4: phoebe (big blind) folded on the Flop
+Seat 5: rolly folded before Flop (didn't bet)
+Seat 6: SK showed [Ad Jh] and lost with high card Ace
+Seat 7: Joker folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano showed [9s Ts] and won ($42.50) with a pair of Tens
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5267849196917810734: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:31:24 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: daze ($87.25 in chips)
+Seat 3: danny ($154.00 in chips)
+Seat 4: phoebe ($47.25 in chips)
+Seat 5: rolly ($34.27 in chips)
+Seat 6: SK ($149.64 in chips)
+Seat 7: Joker ($24.50 in chips)
+Seat 8: Eugene ($27.25 in chips)
+Seat 9: Dano ($125.85 in chips)
+Seat 10: rampurge ($50.00 in chips)
+phoebe: posts small blind $0.25
+rolly: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Ah Kd]
+SK: raises $1.25 to $1.75
+Joker: folds
+Eugene: folds
+Dano: raises $4.75 to $6.50
+rampurge: raises $15.50 to $22.00
+daze: folds
+danny: folds
+phoebe: folds
+rolly: folds
+SK: calls $20.25
+Dano: raises $103.85 to $125.85
+rampurge: calls $28.00
+SK: folds
+Uncalled bet ($75.85) returned to Dano
+Dano: shows [As Kc]
+rampurge: shows [Ah Kd]
+*** FLOP *** [Ts Qs 2c]
+*** TURN *** [Ts Qs 2c] [6s]
+*** RIVER *** [Ts Qs 2c 6s] [8c]
+*** SHOW DOWN ***
+Dano collected $61.38 from pot
+rampurge collected $61.37 from pot
+*** SUMMARY ***
+Total pot: $122.75 | Rake 0
+Board [Ts Qs 2c 6s 8c]
+Seat 1: daze folded before Flop (didn't bet)
+Seat 3: danny (button) folded before Flop (didn't bet)
+Seat 4: phoebe (small blind) folded before Flop
+Seat 5: rolly (big blind) folded before Flop
+Seat 6: SK folded before Flop
+Seat 7: Joker folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano showed [As Kc] and won ($61.38) with high card Ace
+Seat 10: rampurge showed [Ah Kd] and won ($61.37) with high card Ace
+
+
+
+PokerStars Hand #5365838066795913495: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:32:43 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: daze ($87.25 in chips)
+Seat 3: danny ($154.00 in chips)
+Seat 4: phoebe ($47.00 in chips)
+Seat 5: rolly ($33.77 in chips)
+Seat 6: SK ($127.64 in chips)
+Seat 7: Joker ($24.50 in chips)
+Seat 8: Eugene ($27.25 in chips)
+Seat 9: Dano ($137.23 in chips)
+Seat 10: rampurge ($61.37 in chips)
+rolly: posts small blind $0.25
+SK: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [4h 8c]
+Joker: folds
+Eugene: folds
+Dano: raises $1.25 to $1.75
+rampurge: folds
+daze: folds
+danny: raises $3.75 to $5.50
+phoebe: folds
+rolly: folds
+SK: calls $5.00
+Dano: calls $3.75
+*** FLOP *** [4c 5c Qd]
+SK: checks
+Dano: checks
+danny: bets $5.50
+SK: calls $5.50
+Dano: calls $5.50
+*** TURN *** [4c 5c Qd] [2h]
+SK: checks
+Dano: checks
+danny: bets $36.47
+SK: calls $36.47
+Dano: raises $89.76 to $126.23
+danny: folds
+SK: folds
+Uncalled bet ($89.76) returned to Dano
+*** SHOW DOWN ***
+Dano collected $142.66 from pot
+*** SUMMARY ***
+Total pot: $142.66 | Rake 0
+Board [4c 5c Qd 2h]
+Seat 1: daze folded before Flop (didn't bet)
+Seat 3: danny folded on the Turn
+Seat 4: phoebe (button) folded before Flop (didn't bet)
+Seat 5: rolly (small blind) folded before Flop
+Seat 6: SK (big blind) folded on the Turn
+Seat 7: Joker folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano collected ($142.66)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3603955052058841213: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:35:34 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: daze ($87.25 in chips)
+Seat 3: danny ($106.53 in chips)
+Seat 4: phoebe ($47.00 in chips)
+Seat 5: rolly ($33.52 in chips)
+Seat 6: SK ($80.17 in chips)
+Seat 7: Joker ($24.50 in chips)
+Seat 8: Eugene ($27.25 in chips)
+Seat 9: Dano ($232.42 in chips)
+Seat 10: rampurge ($61.37 in chips)
+SK: posts small blind $0.25
+Joker: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Jh 3d]
+Eugene: folds
+Dano: raises $1.75 to $2.25
+rampurge: folds
+daze: calls $2.25
+danny: folds
+phoebe: calls $2.25
+rolly: calls $2.25
+SK: calls $2.00
+Joker: calls $1.75
+*** FLOP *** [Jd Kd 7s]
+SK: checks
+Joker: bets $6.00
+Dano: raises $12.75 to $18.75
+daze: folds
+phoebe: folds
+rolly: folds
+SK: raises $59.17 to $77.92
+Joker: calls $16.25
+Dano: calls $59.17
+SK: shows [Kh 7h]
+Joker: shows [7d Td]
+Dano: shows [2d Ad]
+*** TURN *** [Jd Kd 7s] [Ac]
+*** RIVER *** [Jd Kd 7s Ac] [Js]
+*** SHOW DOWN ***
+Dano collected $80.25 from pot
+Dano collected $111.34 from pot
+*** SUMMARY ***
+Total pot: $191.59 | Rake 0
+Board [Jd Kd 7s Ac Js]
+Seat 1: daze folded on the Flop
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded on the Flop
+Seat 5: rolly (button) folded on the Flop
+Seat 6: SK (small blind) showed [Kh 7h] and lost with two pair, Kings and Jacks
+Seat 7: Joker (big blind) showed [7d Td] and lost with two pair, Jacks and Sevens
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano showed [2d Ad] and won ($191.59) with two pair, Aces and Jacks
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9321754682614591395: Hold'em No Limit ($0.00/$0.50 USD) - 2024/06/14 01:36:45 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 2: diptofsky ($75.00 in chips)
+Seat 3: danny ($106.53 in chips)
+Seat 4: phoebe ($44.75 in chips)
+Seat 5: rolly ($31.27 in chips)
+Seat 8: Eugene ($27.25 in chips)
+Seat 9: Dano ($343.84 in chips)
+Seat 10: rampurge ($61.37 in chips)
+Eugene: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Jc Jh]
+Dano: raises $1.00 to $1.50
+rampurge: raises $3.50 to $5.00
+diptofsky: folds
+danny: raises $6.00 to $11.00
+phoebe: folds
+rolly: folds
+Eugene: folds
+Dano: calls $9.50
+rampurge: raises $50.37 to $61.37
+danny: folds
+Dano: calls $50.37
+Dano: shows [7h 3h]
+rampurge: shows [Jc Jh]
+*** FLOP *** [3s 5s 9c]
+*** TURN *** [3s 5s 9c] [Td]
+*** RIVER *** [3s 5s 9c Td] [4s]
+*** SHOW DOWN ***
+rampurge collected $134.24 from pot
+*** SUMMARY ***
+Total pot: $134.24 | Rake 0
+Board [3s 5s 9c Td 4s]
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: rolly folded before Flop (didn't bet)
+Seat 8: Eugene (big blind) folded before Flop
+Seat 9: Dano showed [7h 3h] and lost with a pair of Threes
+Seat 10: rampurge showed [Jc Jh] and won ($134.24) with a pair of Jacks
+
+
+
+PokerStars Hand #1667010509306999536: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:37:49 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Joker ($50.00 in chips)
+Seat 2: diptofsky ($75.00 in chips)
+Seat 3: danny ($95.53 in chips)
+Seat 4: phoebe ($44.75 in chips)
+Seat 5: rolly ($31.27 in chips)
+Seat 6: daze9max ($0.01 in chips)
+Seat 8: Eugene ($26.75 in chips)
+Seat 9: Dano ($282.47 in chips)
+Seat 10: rampurge ($134.24 in chips)
+Eugene: posts small blind $0.25
+Dano: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Jc Qh]
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: raises $1.00 to $1.50
+phoebe: folds
+rolly: folds
+daze9max: folds
+Eugene: calls $1.25
+Dano: folds
+*** FLOP *** [Kh 3s 7c]
+Eugene: checks
+danny: bets $1.25
+Eugene: calls $1.25
+*** TURN *** [Kh 3s 7c] [5d]
+Eugene: checks
+danny: bets $4.50
+Eugene: folds
+Uncalled bet ($4.50) returned to danny
+*** SHOW DOWN ***
+danny collected $6.00 from pot
+*** SUMMARY ***
+Total pot: $6.00 | Rake 0
+Board [Kh 3s 7c 5d]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny collected ($6.00)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: rolly folded before Flop (didn't bet)
+Seat 6: daze9max folded before Flop (didn't bet)
+Seat 8: Eugene (small blind) folded on the Turn
+Seat 9: Dano (big blind) folded before Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #15155847450352094484: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:38:39 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Joker ($50.00 in chips)
+Seat 2: diptofsky ($75.00 in chips)
+Seat 3: danny ($98.78 in chips)
+Seat 4: phoebe ($44.75 in chips)
+Seat 5: rolly ($31.27 in chips)
+Seat 8: Eugene ($24.00 in chips)
+Seat 9: Dano ($281.97 in chips)
+Seat 10: rampurge ($134.24 in chips)
+Dano: posts small blind $0.25
+rampurge: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [8d 3h]
+Joker: folds
+diptofsky: raises $1.00 to $1.50
+danny: folds
+phoebe: raises $3.75 to $5.25
+rolly: folds
+Eugene: raises $18.75 to $24.00
+Dano: folds
+rampurge: folds
+diptofsky: folds
+phoebe: calls $18.75
+phoebe: shows [Qd Ad]
+Eugene: shows [7h 7c]
+*** FIRST FLOP *** [8c 5h 2d]
+*** FIRST TURN *** [8c 5h 2d] [Kc]
+*** FIRST RIVER *** [8c 5h 2d Kc] [Jd]
+*** SECOND FLOP *** [7s 5d Kh]
+*** SECOND TURN *** [7s 5d Kh] [7d]
+*** SECOND RIVER *** [7s 5d Kh 7d] [Td]
+*** FIRST SHOW DOWN ***
+Eugene collected $25.13 from pot
+*** SECOND SHOW DOWN ***
+Eugene collected $25.12 from pot
+*** SUMMARY ***
+Total pot: $50.25 | Rake 0
+Hand was run twice
+FIRST Board [8c 5h 2d Kc Jd]
+SECOND Board [7s 5d Kh 7d Td]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe showed [Qd Ad] and lost with high card Ace, and lost with a flush, Ace high
+Seat 5: rolly folded before Flop (didn't bet)
+Seat 8: Eugene (button) showed [7h 7c] and won ($25.13) with a pair of Sevens, and won ($25.12) with four of a kind, Sevens
+Seat 9: Dano (small blind) folded before Flop
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #4206567239498370155: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:39:58 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Joker ($50.00 in chips)
+Seat 2: diptofsky ($73.50 in chips)
+Seat 3: danny ($98.78 in chips)
+Seat 4: phoebe ($20.75 in chips)
+Seat 5: rolly ($31.27 in chips)
+Seat 8: Eugene ($50.25 in chips)
+Seat 9: Dano ($281.72 in chips)
+Seat 10: rampurge ($133.74 in chips)
+rampurge: posts small blind $0.25
+Joker: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Jd 6d]
+diptofsky: folds
+danny: folds
+phoebe: raises $0.62 to $1.12
+rolly: folds
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: calls $0.62
+*** FLOP *** [8d 4c 4s]
+Joker: checks
+phoebe: bets $1.24
+Joker: raises $18.39 to $19.63
+phoebe: calls $18.39
+Joker: shows [7c 8c]
+phoebe: shows [3d 3h]
+*** TURN *** [8d 4c 4s] [Ah]
+*** RIVER *** [8d 4c 4s Ah] [6c]
+*** SHOW DOWN ***
+Joker collected $41.75 from pot
+Dano: shows [4d Qc]
+*** SUMMARY ***
+Total pot: $41.75 | Rake 0
+Board [8d 4c 4s Ah 6c]
+Seat 1: Joker (big blind) showed [7c 8c] and won ($41.75) with two pair, Eights and Fours
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe showed [3d 3h] and lost with two pair, Fours and Threes
+Seat 5: rolly folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano (button) folded before Flop (didn't bet) [4d Qc]
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #489956214031145487: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:40:58 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Joker ($71.00 in chips)
+Seat 2: diptofsky ($73.50 in chips)
+Seat 3: danny ($98.78 in chips)
+Seat 5: rolly ($31.27 in chips)
+Seat 8: Eugene ($50.25 in chips)
+Seat 9: Dano ($281.72 in chips)
+Seat 10: rampurge ($133.49 in chips)
+Joker: posts small blind $0.25
+diptofsky: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Kh 2c]
+danny: raises $0.50 to $1.00
+rolly: folds
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: raises $3.00 to $4.00
+diptofsky: folds
+danny: calls $3.00
+*** FLOP *** [4c 6h 7h]
+Joker: bets $4.00
+danny: raises $8.00 to $12.00
+Joker: folds
+Uncalled bet ($8.00) returned to danny
+*** SHOW DOWN ***
+danny collected $16.50 from pot
+*** SUMMARY ***
+Total pot: $16.50 | Rake 0
+Board [4c 6h 7h]
+Seat 1: Joker (small blind) folded on the Flop
+Seat 2: diptofsky (big blind) folded before Flop
+Seat 3: danny collected ($16.50)
+Seat 5: rolly folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #17208910290963685305: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:41:58 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Joker ($63.00 in chips)
+Seat 2: diptofsky ($73.00 in chips)
+Seat 3: danny ($107.28 in chips)
+Seat 4: phoebe ($50.00 in chips)
+Seat 5: rolly ($31.27 in chips)
+Seat 8: Eugene ($50.25 in chips)
+Seat 9: Dano ($281.72 in chips)
+Seat 10: rampurge ($133.49 in chips)
+diptofsky: posts small blind $0.25
+danny: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [7s 5s]
+phoebe: raises $0.62 to $1.12
+rolly: folds
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: calls $0.62
+*** FLOP *** [2s 3s 3d]
+danny: checks
+phoebe: checks
+*** TURN *** [2s 3s 3d] [8h]
+danny: checks
+phoebe: bets $1.24
+danny: calls $1.24
+*** RIVER *** [2s 3s 3d 8h] [Tc]
+danny: checks
+phoebe: bets $5.00
+danny: folds
+Uncalled bet ($5.00) returned to phoebe
+*** SHOW DOWN ***
+phoebe collected $4.97 from pot
+*** SUMMARY ***
+Total pot: $4.97 | Rake 0
+Board [2s 3s 3d 8h Tc]
+Seat 1: Joker (button) folded before Flop (didn't bet)
+Seat 2: diptofsky (small blind) folded before Flop
+Seat 3: danny (big blind) folded on the River
+Seat 4: phoebe collected ($4.97)
+Seat 5: rolly folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9690202826774723340: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:43:06 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Joker ($63.00 in chips)
+Seat 2: diptofsky ($72.75 in chips)
+Seat 3: danny ($104.92 in chips)
+Seat 4: phoebe ($52.61 in chips)
+Seat 5: rolly ($31.27 in chips)
+Seat 7: SK ($100.00 in chips)
+Seat 8: Eugene ($50.25 in chips)
+Seat 9: Dano ($281.72 in chips)
+Seat 10: rampurge ($133.49 in chips)
+danny: posts small blind $0.25
+phoebe: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Qh 7s]
+rolly: folds
+SK: folds
+Eugene: raises $1.00 to $1.50
+Dano: raises $3.75 to $5.25
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: raises $9.18 to $14.43
+Eugene: folds
+Dano: calls $9.18
+*** FLOP *** [6h 2c 9c]
+phoebe: bets $38.18
+Dano: folds
+Uncalled bet ($38.18) returned to phoebe
+*** SHOW DOWN ***
+phoebe collected $30.61 from pot
+*** SUMMARY ***
+Total pot: $30.61 | Rake 0
+Board [6h 2c 9c]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky (button) folded before Flop (didn't bet)
+Seat 3: danny (small blind) folded before Flop
+Seat 4: phoebe (big blind) collected ($30.61)
+Seat 5: rolly folded before Flop (didn't bet)
+Seat 7: SK folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop
+Seat 9: Dano folded on the Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #10247853026928404290: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:44:27 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Joker ($63.00 in chips)
+Seat 2: diptofsky ($72.75 in chips)
+Seat 3: danny ($104.67 in chips)
+Seat 4: phoebe ($68.79 in chips)
+Seat 5: rolly ($31.27 in chips)
+Seat 7: SK ($100.00 in chips)
+Seat 8: Eugene ($48.75 in chips)
+Seat 9: Dano ($267.29 in chips)
+Seat 10: rampurge ($133.49 in chips)
+phoebe: posts small blind $0.25
+rolly: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [5h 2s]
+SK: calls $0.50
+Eugene: raises $1.50 to $2.00
+Dano: folds
+rampurge: folds
+Joker: calls $2.00
+diptofsky: folds
+danny: folds
+phoebe: calls $1.75
+rolly: folds
+SK: calls $1.50
+*** FLOP *** [7h 6d 7d]
+phoebe: checks
+SK: checks
+Eugene: checks
+Joker: bets $5.00
+phoebe: folds
+SK: folds
+Eugene: calls $5.00
+*** TURN *** [7h 6d 7d] [4s]
+Eugene: checks
+Joker: checks
+*** RIVER *** [7h 6d 7d 4s] [6s]
+Eugene: checks
+Joker: checks
+Joker: shows [Ad Td]
+*** SHOW DOWN ***
+Joker collected $9.25 from pot
+Eugene: shows [Qd Ah]
+Eugene collected $9.25 from pot
+diptofsky: shows [5d Ac]
+*** SUMMARY ***
+Total pot: $18.50 | Rake 0
+Board [7h 6d 7d 4s 6s]
+Seat 1: Joker showed [Ad Td] and won ($9.25) with two pair, Sevens and Sixes
+Seat 2: diptofsky folded before Flop (didn't bet) [5d Ac]
+Seat 3: danny (button) folded before Flop (didn't bet)
+Seat 4: phoebe (small blind) folded on the Flop
+Seat 5: rolly (big blind) folded before Flop
+Seat 7: SK folded on the Flop
+Seat 8: Eugene showed [Qd Ah] and won ($9.25) with two pair, Sevens and Sixes
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4933436713980317890: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:45:58 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Joker ($65.25 in chips)
+Seat 2: diptofsky ($72.75 in chips)
+Seat 3: danny ($104.67 in chips)
+Seat 4: phoebe ($66.79 in chips)
+Seat 5: rolly ($30.77 in chips)
+Seat 7: SK ($98.00 in chips)
+Seat 8: Eugene ($51.00 in chips)
+Seat 9: Dano ($267.29 in chips)
+Seat 10: rampurge ($133.49 in chips)
+rolly: posts small blind $0.25
+SK: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [5s 4h]
+Eugene: folds
+Dano: raises $1.75 to $2.25
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: calls $2.25
+rolly: calls $2.00
+SK: calls $1.75
+*** FLOP *** [6c Kc 5c]
+rolly: checks
+SK: checks
+Dano: bets $6.75
+phoebe: folds
+rolly: raises $21.77 to $28.52
+SK: folds
+Dano: calls $21.77
+rolly: shows [6s Ac]
+Dano: shows [Th Ks]
+*** TURN *** [6c Kc 5c] [Ts]
+*** RIVER *** [6c Kc 5c Ts] [7h]
+*** SHOW DOWN ***
+Dano collected $66.04 from pot
+Joker: shows [2s Td]
+*** SUMMARY ***
+Total pot: $66.04 | Rake 0
+Board [6c Kc 5c Ts 7h]
+Seat 1: Joker folded before Flop (didn't bet) [2s Td]
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe (button) folded on the Flop
+Seat 5: rolly (small blind) showed [6s Ac] and lost with a pair of Sixes
+Seat 7: SK (big blind) folded on the Flop
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano showed [Th Ks] and won ($66.04) with two pair, Kings and Tens
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5190193108102938315: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:47:12 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: Joker ($65.25 in chips)
+Seat 2: diptofsky ($72.75 in chips)
+Seat 3: danny ($104.67 in chips)
+Seat 4: phoebe ($64.54 in chips)
+Seat 7: SK ($95.75 in chips)
+Seat 8: Eugene ($51.00 in chips)
+Seat 9: Dano ($302.56 in chips)
+Seat 10: rampurge ($133.49 in chips)
+SK: posts small blind $0.25
+Eugene: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Qc 4d]
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: raises $1.00 to $1.50
+phoebe: calls $1.50
+SK: folds
+Eugene: raises $6.00 to $7.50
+danny: folds
+phoebe: calls $6.00
+*** FLOP *** [9s 7d Qs]
+Eugene: bets $8.37
+phoebe: raises $8.37 to $16.74
+Eugene: calls $8.37
+*** TURN *** [9s 7d Qs] [Jd]
+Eugene: checks
+phoebe: bets $26.76
+Eugene: calls $26.76
+phoebe: shows [5d 6h]
+Eugene: shows [Qd Td]
+*** FIRST RIVER *** [9s 7d Qs Jd] [6c]
+*** SECOND RIVER *** [9s 7d Qs Jd] [5h]
+*** FIRST SHOW DOWN ***
+Eugene collected $51.88 from pot
+*** SECOND SHOW DOWN ***
+Eugene collected $51.87 from pot
+*** SUMMARY ***
+Total pot: $103.75 | Rake 0
+Hand was run twice
+FIRST Board [9s 7d Qs Jd 6c]
+SECOND Board [9s 7d Qs Jd 5h]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop
+Seat 4: phoebe showed [5d 6h] and lost with a pair of Sixes, and lost with a pair of Fives
+Seat 7: SK (small blind) folded before Flop
+Seat 8: Eugene (big blind) showed [Qd Td] and won ($51.88) with a pair of Queens, and won ($51.87) with a pair of Queens
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16736496497586237724: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:48:56 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Joker ($65.25 in chips)
+Seat 2: diptofsky ($72.75 in chips)
+Seat 3: danny ($103.17 in chips)
+Seat 4: phoebe ($13.54 in chips)
+Seat 7: SK ($95.50 in chips)
+Seat 8: Eugene ($103.75 in chips)
+Seat 9: Dano ($302.56 in chips)
+Seat 10: rampurge ($133.49 in chips)
+Eugene: posts small blind $0.25
+Dano: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Th Kh]
+rampurge: folds
+Joker: calls $0.50
+diptofsky: folds
+danny: folds
+phoebe: folds
+SK: calls $0.50
+Eugene: raises $2.75 to $3.25
+Dano: folds
+Joker: folds
+SK: calls $2.75
+*** FLOP *** [As Ad Jc]
+Eugene: bets $5.62
+SK: folds
+Uncalled bet ($5.62) returned to Eugene
+*** SHOW DOWN ***
+Eugene collected $7.50 from pot
+*** SUMMARY ***
+Total pot: $7.50 | Rake 0
+Board [As Ad Jc]
+Seat 1: Joker folded before Flop
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 7: SK (button) folded on the Flop
+Seat 8: Eugene (small blind) collected ($7.50)
+Seat 9: Dano (big blind) folded before Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #10500427048167459347: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:49:59 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Joker ($64.75 in chips)
+Seat 2: diptofsky ($72.75 in chips)
+Seat 3: danny ($103.17 in chips)
+Seat 4: phoebe ($13.54 in chips)
+Seat 7: SK ($92.25 in chips)
+Seat 8: Eugene ($108.00 in chips)
+Seat 9: Dano ($302.06 in chips)
+Seat 10: rampurge ($133.49 in chips)
+Dano: posts small blind $0.25
+rampurge: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Jc 8c]
+Joker: folds
+diptofsky: folds
+danny: raises $1.00 to $1.50
+phoebe: folds
+SK: calls $1.50
+Eugene: folds
+Dano: calls $1.25
+rampurge: folds
+*** FLOP *** [9h Ts Ad]
+Dano: checks
+danny: bets $1.50
+SK: folds
+Dano: raises $4.00 to $5.50
+danny: calls $4.00
+*** TURN *** [9h Ts Ad] [Kh]
+Dano: checks
+danny: bets $8.00
+Dano: calls $8.00
+*** RIVER *** [9h Ts Ad Kh] [6c]
+Dano: checks
+danny: bets $40.00
+Dano: folds
+Uncalled bet ($40.00) returned to danny
+*** SHOW DOWN ***
+danny collected $32.00 from pot
+*** SUMMARY ***
+Total pot: $32.00 | Rake 0
+Board [9h Ts Ad Kh 6c]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny collected ($32.00)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 7: SK folded on the Flop
+Seat 8: Eugene (button) folded before Flop (didn't bet)
+Seat 9: Dano (small blind) folded on the River
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #16543758765575207379: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:51:13 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Joker ($64.75 in chips)
+Seat 2: diptofsky ($72.75 in chips)
+Seat 3: danny ($120.17 in chips)
+Seat 4: phoebe ($63.54 in chips)
+Seat 7: SK ($90.75 in chips)
+Seat 8: Eugene ($108.00 in chips)
+Seat 9: Dano ($287.06 in chips)
+Seat 10: rampurge ($132.99 in chips)
+rampurge: posts small blind $0.25
+Joker: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Js Qd]
+diptofsky: folds
+danny: folds
+phoebe: folds
+SK: calls $0.50
+Eugene: folds
+Dano: folds
+rampurge: calls $0.25
+Joker: raises $2.00 to $2.50
+SK: calls $2.00
+rampurge: calls $2.00
+*** FLOP *** [Ts Td Ac]
+rampurge: checks
+Joker: checks
+SK: bets $5.62
+rampurge: folds
+Joker: calls $5.62
+*** TURN *** [Ts Td Ac] [Th]
+Joker: checks
+SK: checks
+*** RIVER *** [Ts Td Ac Th] [2c]
+Joker: bets $14.05
+SK: calls $14.05
+Joker: shows [Ah As]
+*** SHOW DOWN ***
+Joker collected $46.84 from pot
+SK: shows [Ks Kh]
+*** SUMMARY ***
+Total pot: $46.84 | Rake 0
+Board [Ts Td Ac Th 2c]
+Seat 1: Joker (big blind) showed [Ah As] and won ($46.84) with a full house, Aces full of Tens
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 7: SK showed [Ks Kh] and lost with a full house, Tens full of Kings
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) folded on the Flop
+
+
+
+PokerStars Hand #5521650883097950025: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:52:19 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Joker ($89.42 in chips)
+Seat 2: diptofsky ($72.75 in chips)
+Seat 3: danny ($120.17 in chips)
+Seat 4: phoebe ($63.54 in chips)
+Seat 7: SK ($68.58 in chips)
+Seat 8: Eugene ($108.00 in chips)
+Seat 9: Dano ($287.06 in chips)
+Seat 10: rampurge ($130.49 in chips)
+Joker: posts small blind $0.25
+diptofsky: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [3c Ac]
+danny: folds
+phoebe: folds
+SK: calls $0.50
+Eugene: folds
+Dano: raises $2.25 to $2.75
+rampurge: folds
+Joker: folds
+diptofsky: folds
+SK: calls $2.25
+*** FLOP *** [4s 2h 7h]
+SK: checks
+Dano: checks
+*** TURN *** [4s 2h 7h] [As]
+SK: checks
+Dano: bets $6.25
+SK: folds
+Uncalled bet ($6.25) returned to Dano
+*** SHOW DOWN ***
+Dano collected $6.25 from pot
+*** SUMMARY ***
+Total pot: $6.25 | Rake 0
+Board [4s 2h 7h As]
+Seat 1: Joker (small blind) folded before Flop
+Seat 2: diptofsky (big blind) folded before Flop
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 7: SK folded on the Turn
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano collected ($6.25)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9400393129025617084: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:53:13 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Joker ($89.17 in chips)
+Seat 2: diptofsky ($72.25 in chips)
+Seat 3: danny ($120.17 in chips)
+Seat 4: phoebe ($63.54 in chips)
+Seat 5: georgethegiant ($50.00 in chips)
+Seat 7: SK ($65.83 in chips)
+Seat 8: Eugene ($108.00 in chips)
+Seat 9: Dano ($290.56 in chips)
+Seat 10: rampurge ($130.49 in chips)
+diptofsky: posts small blind $0.25
+danny: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Qc 8h]
+phoebe: folds
+georgethegiant: calls $0.50
+SK: calls $0.50
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: checks
+*** FLOP *** [7d 5s 4d]
+danny: checks
+georgethegiant: bets $1.00
+SK: calls $1.00
+danny: raises $4.00 to $5.00
+georgethegiant: calls $4.00
+SK: folds
+*** TURN *** [7d 5s 4d] [Td]
+danny: checks
+georgethegiant: bets $6.37
+danny: calls $6.37
+*** RIVER *** [7d 5s 4d Td] [9d]
+danny: checks
+georgethegiant: checks
+georgethegiant: shows [7c 7h]
+*** SHOW DOWN ***
+georgethegiant collected $25.49 from pot
+danny: shows [9c 6s]
+Dano: shows [Ks 2d]
+*** SUMMARY ***
+Total pot: $25.49 | Rake 0
+Board [7d 5s 4d Td 9d]
+Seat 1: Joker (button) folded before Flop (didn't bet)
+Seat 2: diptofsky (small blind) folded before Flop
+Seat 3: danny (big blind) showed [9c 6s] and lost with a pair of Nines
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant showed [7c 7h] and won ($25.49) with three of a kind, Sevens
+Seat 7: SK folded on the Flop
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet) [Ks 2d]
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #11447843228952201789: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:54:43 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Joker ($89.17 in chips)
+Seat 2: diptofsky ($72.00 in chips)
+Seat 3: danny ($108.30 in chips)
+Seat 5: georgethegiant ($63.62 in chips)
+Seat 7: SK ($64.33 in chips)
+Seat 8: Eugene ($108.00 in chips)
+Seat 9: Dano ($290.56 in chips)
+Seat 10: rampurge ($130.49 in chips)
+danny: posts small blind $0.25
+georgethegiant: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [7d 6h]
+SK: folds
+Eugene: folds
+Dano: raises $2.25 to $2.75
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+georgethegiant: calls $2.25
+*** FLOP *** [Jd 7c Jc]
+georgethegiant: checks
+Dano: bets $4.31
+georgethegiant: calls $4.31
+*** TURN *** [Jd 7c Jc] [5c]
+georgethegiant: checks
+Dano: checks
+*** RIVER *** [Jd 7c Jc 5c] [2c]
+georgethegiant: bets $7.18
+Dano: calls $7.18
+Dano: shows [Qs Qc]
+*** SHOW DOWN ***
+Dano collected $28.73 from pot
+georgethegiant: shows [Th Ad]
+*** SUMMARY ***
+Total pot: $28.73 | Rake 0
+Board [Jd 7c Jc 5c 2c]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky (button) folded before Flop (didn't bet)
+Seat 3: danny (small blind) folded before Flop
+Seat 5: georgethegiant (big blind) showed [Th Ad] and lost with a pair of Jacks
+Seat 7: SK folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano showed [Qs Qc] and won ($28.73) with a flush, Queen high
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4177865279103673708: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:56:10 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Joker ($89.17 in chips)
+Seat 2: diptofsky ($72.00 in chips)
+Seat 3: danny ($108.05 in chips)
+Seat 5: georgethegiant ($49.38 in chips)
+Seat 7: SK ($64.33 in chips)
+Seat 8: Eugene ($108.00 in chips)
+Seat 9: Dano ($305.05 in chips)
+Seat 10: rampurge ($130.49 in chips)
+georgethegiant: posts small blind $0.25
+SK: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [3d 4s]
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: raises $0.75 to $1.25
+georgethegiant: calls $1.00
+SK: folds
+*** FLOP *** [5s 9s Jc]
+georgethegiant: checks
+danny: bets $2.25
+georgethegiant: calls $2.25
+*** TURN *** [5s 9s Jc] [6c]
+georgethegiant: checks
+danny: checks
+*** RIVER *** [5s 9s Jc 6c] [4h]
+georgethegiant: checks
+danny: checks
+georgethegiant: shows [9h 8s]
+*** SHOW DOWN ***
+georgethegiant collected $7.50 from pot
+*** SUMMARY ***
+Total pot: $7.50 | Rake 0
+Board [5s 9s Jc 6c 4h]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny (button) didn't show and lost
+Seat 5: georgethegiant (small blind) showed [9h 8s] and won ($7.50) with a pair of Nines
+Seat 7: SK (big blind) folded before Flop
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #11691238836297981784: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:57:36 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: Joker ($89.17 in chips)
+Seat 2: diptofsky ($72.00 in chips)
+Seat 3: danny ($104.55 in chips)
+Seat 4: phoebe ($63.54 in chips)
+Seat 5: georgethegiant ($53.38 in chips)
+Seat 7: SK ($63.83 in chips)
+Seat 8: Eugene ($108.00 in chips)
+Seat 9: Dano ($305.05 in chips)
+Seat 10: rampurge ($130.49 in chips)
+SK: posts small blind $0.25
+Eugene: posts big blind $0.50
+phoebe: posts big blind $0.50
+phoebe: posts small blind $0.25
+*** HOLE CARDS ***
+Dealt to rampurge [2c 8d]
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: raises $1.00 to $1.50
+danny: folds
+phoebe: calls $1.00
+georgethegiant: calls $1.50
+SK: calls $1.25
+Eugene: folds
+*** FLOP *** [Ks 3d As]
+SK: checks
+diptofsky: bets $2.75
+phoebe: folds
+georgethegiant: folds
+SK: raises $2.75 to $5.50
+diptofsky: calls $2.75
+*** TURN *** [Ks 3d As] [2h]
+SK: bets $8.87
+diptofsky: folds
+Uncalled bet ($8.87) returned to SK
+*** SHOW DOWN ***
+SK collected $17.75 from pot
+*** SUMMARY ***
+Total pot: $17.75 | Rake 0
+Board [Ks 3d As 2h]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded on the Turn
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe (big blind) folded on the Flop
+Seat 5: georgethegiant (button) folded on the Flop
+Seat 7: SK (small blind) collected ($17.75)
+Seat 8: Eugene (big blind) folded before Flop
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #11139806144470370040: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:58:50 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Joker ($89.17 in chips)
+Seat 2: diptofsky ($65.00 in chips)
+Seat 3: danny ($104.55 in chips)
+Seat 4: phoebe ($61.79 in chips)
+Seat 5: georgethegiant ($51.88 in chips)
+Seat 7: SK ($74.58 in chips)
+Seat 8: Eugene ($107.50 in chips)
+Seat 9: Dano ($305.05 in chips)
+Seat 10: rampurge ($130.49 in chips)
+Eugene: posts small blind $0.25
+Dano: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [9c As]
+rampurge: folds
+Joker: folds
+diptofsky: raises $1.00 to $1.50
+danny: folds
+phoebe: folds
+georgethegiant: folds
+SK: folds
+Eugene: folds
+Dano: folds
+Uncalled bet ($1.00) returned to diptofsky
+*** SHOW DOWN ***
+diptofsky collected $1.25 from pot
+*** SUMMARY ***
+Total pot: $1.25 | Rake 0
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky collected ($1.25)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: SK (button) folded before Flop (didn't bet)
+Seat 8: Eugene (small blind) folded before Flop
+Seat 9: Dano (big blind) folded before Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #17707449153064186723: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 01:59:36 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Joker ($89.17 in chips)
+Seat 2: diptofsky ($65.75 in chips)
+Seat 3: danny ($104.55 in chips)
+Seat 4: phoebe ($61.79 in chips)
+Seat 5: georgethegiant ($51.88 in chips)
+Seat 7: SK ($74.58 in chips)
+Seat 8: Eugene ($107.25 in chips)
+Seat 9: Dano ($304.55 in chips)
+Seat 10: rampurge ($130.49 in chips)
+Dano: posts small blind $0.25
+rampurge: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Kc 5h]
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: raises $1.25 to $1.75
+georgethegiant: folds
+SK: calls $1.75
+Eugene: folds
+Dano: raises $6.25 to $8.00
+rampurge: folds
+phoebe: calls $6.25
+SK: calls $6.25
+*** FLOP *** [Tc 6h Jd]
+Dano: checks
+phoebe: checks
+SK: checks
+*** TURN *** [Tc 6h Jd] [4d]
+Dano: bets $12.25
+phoebe: calls $12.25
+SK: calls $12.25
+*** RIVER *** [Tc 6h Jd 4d] [Ah]
+Dano: bets $54.33
+phoebe: calls $41.54
+SK: folds
+Uncalled bet ($12.79) returned to Dano
+Dano: shows [Js Jc]
+*** SHOW DOWN ***
+Dano collected $144.33 from pot
+phoebe: shows [As Qh]
+*** SUMMARY ***
+Total pot: $144.33 | Rake 0
+Board [Tc 6h Jd 4d Ah]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe showed [As Qh] and lost with a pair of Aces
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: SK folded on the River
+Seat 8: Eugene (button) folded before Flop (didn't bet)
+Seat 9: Dano (small blind) showed [Js Jc] and won ($144.33) with three of a kind, Jacks
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #4613294350958807346: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:01:06 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Joker ($89.17 in chips)
+Seat 2: diptofsky ($65.75 in chips)
+Seat 3: danny ($104.55 in chips)
+Seat 5: georgethegiant ($51.88 in chips)
+Seat 7: SK ($54.33 in chips)
+Seat 8: Eugene ($107.25 in chips)
+Seat 9: Dano ($387.09 in chips)
+Seat 10: rampurge ($129.99 in chips)
+rampurge: posts small blind $0.25
+Joker: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Js 7c]
+diptofsky: folds
+danny: folds
+georgethegiant: folds
+SK: calls $0.50
+Eugene: raises $1.50 to $2.00
+Dano: calls $2.00
+rampurge: folds
+Joker: folds
+SK: calls $1.50
+*** FLOP *** [6d Kc 5s]
+SK: bets $5.06
+Eugene: folds
+Dano: calls $5.06
+*** TURN *** [6d Kc 5s] [9c]
+SK: checks
+Dano: bets $8.43
+SK: calls $8.43
+*** RIVER *** [6d Kc 5s 9c] [3h]
+SK: bets $38.84
+Dano: calls $38.84
+Dano: shows [7h 8s]
+*** SHOW DOWN ***
+Dano collected $111.41 from pot
+SK: shows [4h 7s]
+*** SUMMARY ***
+Total pot: $111.41 | Rake 0
+Board [6d Kc 5s 9c 3h]
+Seat 1: Joker (big blind) folded before Flop
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: SK showed [4h 7s] and lost with a straight, Three to Seven
+Seat 8: Eugene folded on the Flop
+Seat 9: Dano (button) showed [7h 8s] and won ($111.41) with a straight, Five to Nine
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #3695605369868037281: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:02:19 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Joker ($88.67 in chips)
+Seat 2: diptofsky ($65.75 in chips)
+Seat 3: danny ($104.55 in chips)
+Seat 5: georgethegiant ($51.88 in chips)
+Seat 8: Eugene ($105.25 in chips)
+Seat 9: Dano ($444.17 in chips)
+Seat 10: rampurge ($129.74 in chips)
+Joker: posts small blind $0.25
+diptofsky: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [5h Ks]
+danny: folds
+georgethegiant: folds
+Eugene: raises $1.00 to $1.50
+Dano: raises $3.75 to $5.25
+rampurge: folds
+Joker: calls $5.00
+diptofsky: folds
+Eugene: folds
+*** FLOP *** [Jd 3h Qs]
+Joker: checks
+Dano: bets $9.37
+Joker: folds
+Uncalled bet ($9.37) returned to Dano
+*** SHOW DOWN ***
+Dano collected $12.50 from pot
+*** SUMMARY ***
+Total pot: $12.50 | Rake 0
+Board [Jd 3h Qs]
+Seat 1: Joker (small blind) folded on the Flop
+Seat 2: diptofsky (big blind) folded before Flop
+Seat 3: danny folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop
+Seat 9: Dano collected ($12.50)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3836547192513828056: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:03:25 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Joker ($83.42 in chips)
+Seat 2: diptofsky ($65.25 in chips)
+Seat 3: danny ($104.55 in chips)
+Seat 4: phoebe ($100.00 in chips)
+Seat 5: georgethegiant ($51.88 in chips)
+Seat 8: Eugene ($103.75 in chips)
+Seat 9: Dano ($451.42 in chips)
+Seat 10: rampurge ($129.74 in chips)
+diptofsky: posts small blind $0.25
+danny: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Ad Ks]
+phoebe: folds
+georgethegiant: folds
+Eugene: folds
+Dano: raises $2.25 to $2.75
+rampurge: raises $6.25 to $9.00
+Joker: folds
+diptofsky: folds
+danny: folds
+Dano: calls $6.25
+*** FLOP *** [Kd 6c Js]
+Dano: checks
+rampurge: bets $6.50
+Dano: calls $6.50
+*** TURN *** [Kd 6c Js] [4c]
+Dano: checks
+rampurge: checks
+*** RIVER *** [Kd 6c Js 4c] [Kc]
+Dano: checks
+rampurge: bets $21.00
+Dano: raises $93.24 to $114.24
+rampurge: calls $93.24
+Dano: shows [Jc Ac]
+*** SHOW DOWN ***
+Dano collected $260.23 from pot
+rampurge: shows [Ad Ks]
+*** SUMMARY ***
+Total pot: $260.23 | Rake 0
+Board [Kd 6c Js 4c Kc]
+Seat 1: Joker (button) folded before Flop (didn't bet)
+Seat 2: diptofsky (small blind) folded before Flop
+Seat 3: danny (big blind) folded before Flop
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano showed [Jc Ac] and won ($260.23) with a flush, Ace high
+Seat 10: rampurge showed [Ad Ks] and lost with three of a kind, Kings
+
+
+
+PokerStars Hand #16227929589275402324: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:04:34 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Joker ($83.42 in chips)
+Seat 2: diptofsky ($65.00 in chips)
+Seat 3: danny ($104.05 in chips)
+Seat 4: phoebe ($100.00 in chips)
+Seat 5: georgethegiant ($51.88 in chips)
+Seat 8: Eugene ($103.75 in chips)
+Seat 9: Dano ($581.91 in chips)
+danny: posts small blind $0.25
+phoebe: posts big blind $0.50
+*** HOLE CARDS ***
+georgethegiant: folds
+Eugene: raises $1.00 to $1.50
+Dano: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: raises $3.25 to $4.75
+Eugene: calls $3.25
+*** FLOP *** [Ts 2c 7d]
+phoebe: bets $4.87
+Eugene: raises $9.13 to $14.00
+phoebe: folds
+Uncalled bet ($9.13) returned to Eugene
+*** SHOW DOWN ***
+Eugene collected $19.49 from pot
+*** SUMMARY ***
+Total pot: $19.49 | Rake 0
+Board [Ts 2c 7d]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky (button) folded before Flop (didn't bet)
+Seat 3: danny (small blind) folded before Flop
+Seat 4: phoebe (big blind) folded on the Flop
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 8: Eugene collected ($19.49)
+Seat 9: Dano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3952050321420483813: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:05:44 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Joker ($83.42 in chips)
+Seat 2: diptofsky ($65.00 in chips)
+Seat 3: danny ($103.80 in chips)
+Seat 4: phoebe ($90.38 in chips)
+Seat 5: georgethegiant ($101.88 in chips)
+Seat 7: rmikol ($100.00 in chips)
+Seat 8: Eugene ($113.62 in chips)
+Seat 9: Dano ($581.91 in chips)
+Seat 10: rampurge ($100.00 in chips)
+phoebe: posts small blind $0.25
+georgethegiant: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [4s 4c]
+rmikol: folds
+Eugene: raises $1.00 to $1.50
+Dano: folds
+rampurge: calls $1.50
+Joker: calls $1.50
+diptofsky: folds
+danny: folds
+phoebe: calls $1.25
+georgethegiant: folds
+*** FLOP *** [7s Td 7c]
+phoebe: checks
+Eugene: bets $2.75
+rampurge: folds
+Joker: folds
+phoebe: folds
+Uncalled bet ($2.75) returned to Eugene
+*** SHOW DOWN ***
+Eugene collected $6.50 from pot
+*** SUMMARY ***
+Total pot: $6.50 | Rake 0
+Board [7s Td 7c]
+Seat 1: Joker folded on the Flop
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny (button) folded before Flop (didn't bet)
+Seat 4: phoebe (small blind) folded on the Flop
+Seat 5: georgethegiant (big blind) folded before Flop
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene collected ($6.50)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded on the Flop
+
+
+
+PokerStars Hand #6560328699688944244: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:06:47 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Joker ($81.92 in chips)
+Seat 2: diptofsky ($65.00 in chips)
+Seat 3: danny ($103.80 in chips)
+Seat 4: phoebe ($88.88 in chips)
+Seat 5: georgethegiant ($101.38 in chips)
+Seat 7: rmikol ($100.00 in chips)
+Seat 8: Eugene ($118.62 in chips)
+Seat 9: Dano ($581.91 in chips)
+Seat 10: rampurge ($98.50 in chips)
+georgethegiant: posts small blind $0.25
+rmikol: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Td 8h]
+Eugene: raises $1.00 to $1.50
+Dano: raises $4.25 to $5.75
+rampurge: folds
+Joker: raises $10.81 to $16.56
+diptofsky: folds
+danny: folds
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: raises $65.36 to $81.92
+Joker: calls $65.36
+Joker: shows [Ac Ah]
+Dano: shows [Kc Kd]
+*** FLOP *** [5d Qh 7s]
+*** TURN *** [5d Qh 7s] [Qc]
+*** RIVER *** [5d Qh 7s Qc] [Qd]
+*** SHOW DOWN ***
+Joker collected $166.09 from pot
+*** SUMMARY ***
+Total pot: $166.09 | Rake 0
+Board [5d Qh 7s Qc Qd]
+Seat 1: Joker showed [Ac Ah] and won ($166.09) with a full house, Queens full of Aces
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe (button) folded before Flop (didn't bet)
+Seat 5: georgethegiant (small blind) folded before Flop
+Seat 7: rmikol (big blind) folded before Flop
+Seat 8: Eugene folded before Flop
+Seat 9: Dano showed [Kc Kd] and lost with a full house, Queens full of Kings
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5452929527684764083: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:07:49 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: Joker ($166.09 in chips)
+Seat 2: diptofsky ($65.00 in chips)
+Seat 3: danny ($103.80 in chips)
+Seat 4: phoebe ($88.88 in chips)
+Seat 5: georgethegiant ($101.13 in chips)
+Seat 7: rmikol ($99.50 in chips)
+Seat 8: Eugene ($117.12 in chips)
+Seat 9: Dano ($499.99 in chips)
+Seat 10: rampurge ($98.50 in chips)
+rmikol: posts small blind $0.25
+Eugene: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [6d Th]
+Dano: folds
+rampurge: folds
+Joker: raises $2.25 to $2.75
+diptofsky: calls $2.75
+danny: folds
+phoebe: calls $2.75
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+*** FLOP *** [Ah Tc Jd]
+Joker: checks
+diptofsky: checks
+phoebe: bets $4.50
+Joker: calls $4.50
+diptofsky: folds
+*** TURN *** [Ah Tc Jd] [4s]
+Joker: checks
+phoebe: checks
+*** RIVER *** [Ah Tc Jd 4s] [5s]
+Joker: checks
+phoebe: checks
+Joker: shows [Qh Qs]
+*** SHOW DOWN ***
+Joker collected $18.00 from pot
+*** SUMMARY ***
+Total pot: $18.00 | Rake 0
+Board [Ah Tc Jd 4s 5s]
+Seat 1: Joker showed [Qh Qs] and won ($18.00) with a pair of Queens
+Seat 2: diptofsky folded on the Flop
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe didn't show and lost
+Seat 5: georgethegiant (button) folded before Flop (didn't bet)
+Seat 7: rmikol (small blind) folded before Flop
+Seat 8: Eugene (big blind) folded before Flop
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6729706029056219311: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:09:38 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Joker ($176.84 in chips)
+Seat 2: diptofsky ($62.25 in chips)
+Seat 3: danny ($103.80 in chips)
+Seat 4: phoebe ($81.63 in chips)
+Seat 5: georgethegiant ($101.13 in chips)
+Seat 7: rmikol ($99.25 in chips)
+Seat 8: Eugene ($116.62 in chips)
+Seat 9: Dano ($499.99 in chips)
+Seat 10: rampurge ($98.50 in chips)
+Eugene: posts small blind $0.25
+Dano: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [As 8s]
+rampurge: raises $1.25 to $1.75
+Joker: folds
+diptofsky: folds
+danny: raises $3.25 to $5.00
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: folds
+rampurge: calls $3.25
+*** FLOP *** [Jd Kd Qd]
+rampurge: checks
+danny: bets $2.50
+rampurge: folds
+Uncalled bet ($2.50) returned to danny
+*** SHOW DOWN ***
+danny collected $10.75 from pot
+*** SUMMARY ***
+Total pot: $10.75 | Rake 0
+Board [Jd Kd Qd]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny collected ($10.75)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol (button) folded before Flop (didn't bet)
+Seat 8: Eugene (small blind) folded before Flop
+Seat 9: Dano (big blind) folded before Flop
+Seat 10: rampurge folded on the Flop
+
+
+
+PokerStars Hand #16310465397169702120: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:10:13 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Joker ($176.84 in chips)
+Seat 2: diptofsky ($62.25 in chips)
+Seat 3: danny ($109.55 in chips)
+Seat 4: phoebe ($81.63 in chips)
+Seat 5: georgethegiant ($101.13 in chips)
+Seat 7: rmikol ($99.25 in chips)
+Seat 8: Eugene ($116.37 in chips)
+Seat 9: Dano ($499.49 in chips)
+Seat 10: rampurge ($93.50 in chips)
+Dano: posts small blind $0.25
+rampurge: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [7d Ah]
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: raises $1.25 to $1.75
+georgethegiant: folds
+rmikol: raises $5.25 to $7.00
+Eugene: folds
+Dano: folds
+rampurge: folds
+phoebe: calls $5.25
+*** FLOP *** [5d 3c 6c]
+phoebe: checks
+rmikol: bets $11.06
+phoebe: folds
+Uncalled bet ($11.06) returned to rmikol
+*** SHOW DOWN ***
+rmikol collected $14.75 from pot
+*** SUMMARY ***
+Total pot: $14.75 | Rake 0
+Board [5d 3c 6c]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded on the Flop
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol collected ($14.75)
+Seat 8: Eugene (button) folded before Flop (didn't bet)
+Seat 9: Dano (small blind) folded before Flop
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #3967832894424491501: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:11:13 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Joker ($176.84 in chips)
+Seat 2: diptofsky ($62.25 in chips)
+Seat 3: danny ($109.55 in chips)
+Seat 4: phoebe ($74.63 in chips)
+Seat 5: georgethegiant ($101.13 in chips)
+Seat 7: rmikol ($107.00 in chips)
+Seat 8: Eugene ($116.37 in chips)
+Seat 9: Dano ($499.24 in chips)
+Seat 10: rampurge ($93.00 in chips)
+rampurge: posts small blind $0.25
+Joker: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [2h 9c]
+diptofsky: folds
+danny: folds
+phoebe: calls $0.50
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: raises $1.75 to $2.25
+rampurge: folds
+Joker: calls $1.75
+phoebe: calls $1.75
+*** FLOP *** [7d 8s Jh]
+Joker: checks
+phoebe: checks
+Dano: bets $5.25
+Joker: calls $5.25
+phoebe: folds
+*** TURN *** [7d 8s Jh] [9d]
+Joker: checks
+Dano: checks
+*** RIVER *** [7d 8s Jh 9d] [3d]
+Joker: checks
+Dano: checks
+Joker: shows [9s Jd]
+*** SHOW DOWN ***
+Joker collected $17.50 from pot
+Dano: shows [Js 7s]
+*** SUMMARY ***
+Total pot: $17.50 | Rake 0
+Board [7d 8s Jh 9d 3d]
+Seat 1: Joker (big blind) showed [9s Jd] and won ($17.50) with two pair, Jacks and Nines
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded on the Flop
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano (button) showed [Js 7s] and lost with two pair, Jacks and Sevens
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #9043306190407939247: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:12:53 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Joker ($186.84 in chips)
+Seat 2: diptofsky ($62.25 in chips)
+Seat 3: danny ($109.55 in chips)
+Seat 4: phoebe ($72.38 in chips)
+Seat 5: georgethegiant ($101.13 in chips)
+Seat 7: rmikol ($107.00 in chips)
+Seat 8: Eugene ($116.37 in chips)
+Seat 9: Dano ($491.74 in chips)
+Seat 10: rampurge ($92.75 in chips)
+Joker: posts small blind $0.25
+diptofsky: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Jd Jc]
+danny: folds
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: raises $1.75 to $2.25
+rampurge: raises $5.25 to $7.50
+Joker: folds
+diptofsky: folds
+Dano: calls $5.25
+*** FLOP *** [5d 2s 7c]
+Dano: checks
+rampurge: bets $7.87
+Dano: calls $7.87
+*** TURN *** [5d 2s 7c] [3c]
+Dano: checks
+rampurge: bets $17.74
+Dano: calls $17.74
+*** RIVER *** [5d 2s 7c 3c] [4s]
+Dano: checks
+rampurge: checks
+Dano: shows [3d 7d]
+*** SHOW DOWN ***
+Dano collected $66.97 from pot
+rampurge: shows [Jd Jc]
+*** SUMMARY ***
+Total pot: $66.97 | Rake 0
+Board [5d 2s 7c 3c 4s]
+Seat 1: Joker (small blind) folded before Flop
+Seat 2: diptofsky (big blind) folded before Flop
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano showed [3d 7d] and won ($66.97) with two pair, Sevens and Threes
+Seat 10: rampurge (button) showed [Jd Jc] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #15018009625084450845: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:14:12 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Joker ($186.59 in chips)
+Seat 2: diptofsky ($61.75 in chips)
+Seat 3: danny ($109.55 in chips)
+Seat 4: phoebe ($72.38 in chips)
+Seat 5: georgethegiant ($101.13 in chips)
+Seat 7: rmikol ($107.00 in chips)
+Seat 8: Eugene ($116.37 in chips)
+Seat 9: Dano ($525.60 in chips)
+Seat 10: rampurge ($59.64 in chips)
+diptofsky: posts small blind $0.25
+danny: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Qc 5d]
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: raises $1.00 to $1.50
+danny: calls $1.00
+*** FLOP *** [7c 7d Kh]
+diptofsky: bets $1.25
+danny: calls $1.25
+*** TURN *** [7c 7d Kh] [6s]
+diptofsky: checks
+danny: bets $2.50
+diptofsky: calls $2.50
+*** RIVER *** [7c 7d Kh 6s] [5c]
+diptofsky: checks
+danny: bets $10.37
+diptofsky: calls $10.37
+diptofsky: shows [Kd 4d]
+*** SHOW DOWN ***
+diptofsky collected $31.24 from pot
+danny: shows [Qs 3d]
+*** SUMMARY ***
+Total pot: $31.24 | Rake 0
+Board [7c 7d Kh 6s 5c]
+Seat 1: Joker (button) folded before Flop (didn't bet)
+Seat 2: diptofsky (small blind) showed [Kd 4d] and won ($31.24) with two pair, Kings and Sevens
+Seat 3: danny (big blind) showed [Qs 3d] and lost with a pair of Sevens
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #8943265994444918849: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:15:16 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Joker ($186.59 in chips)
+Seat 2: diptofsky ($77.37 in chips)
+Seat 3: danny ($93.93 in chips)
+Seat 4: phoebe ($72.38 in chips)
+Seat 5: georgethegiant ($101.13 in chips)
+Seat 7: rmikol ($107.00 in chips)
+Seat 8: Eugene ($116.37 in chips)
+Seat 9: Dano ($525.60 in chips)
+Seat 10: rampurge ($59.64 in chips)
+danny: posts small blind $0.25
+phoebe: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [4d Kd]
+georgethegiant: calls $0.50
+rmikol: folds
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: raises $2.75 to $3.25
+diptofsky: folds
+danny: folds
+phoebe: calls $2.75
+georgethegiant: calls $2.75
+*** FLOP *** [6h 7s Kc]
+phoebe: checks
+georgethegiant: checks
+Joker: checks
+*** TURN *** [6h 7s Kc] [8d]
+phoebe: bets $5.00
+georgethegiant: folds
+Joker: calls $5.00
+*** RIVER *** [6h 7s Kc 8d] [Qc]
+phoebe: bets $10.00
+Joker: raises $31.00 to $41.00
+phoebe: folds
+Uncalled bet ($31.00) returned to Joker
+*** SHOW DOWN ***
+Joker collected $40.00 from pot
+*** SUMMARY ***
+Total pot: $40.00 | Rake 0
+Board [6h 7s Kc 8d Qc]
+Seat 1: Joker collected ($40.00)
+Seat 2: diptofsky (button) folded before Flop (didn't bet)
+Seat 3: danny (small blind) folded before Flop
+Seat 4: phoebe (big blind) folded on the River
+Seat 5: georgethegiant folded on the Turn
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #14542913867480786468: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:17:25 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Joker ($208.34 in chips)
+Seat 2: diptofsky ($77.37 in chips)
+Seat 3: danny ($93.68 in chips)
+Seat 4: phoebe ($54.13 in chips)
+Seat 5: georgethegiant ($97.88 in chips)
+Seat 7: rmikol ($107.00 in chips)
+Seat 8: Eugene ($116.37 in chips)
+Seat 9: Dano ($525.60 in chips)
+Seat 10: rampurge ($59.64 in chips)
+phoebe: posts small blind $0.25
+georgethegiant: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Jd Th]
+rmikol: raises $1.00 to $1.50
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: calls $1.50
+danny: folds
+phoebe: folds
+georgethegiant: calls $1.00
+*** FLOP *** [8h 9c Qs]
+georgethegiant: checks
+rmikol: checks
+diptofsky: checks
+*** TURN *** [8h 9c Qs] [4c]
+georgethegiant: checks
+rmikol: checks
+diptofsky: checks
+*** RIVER *** [8h 9c Qs 4c] [3s]
+georgethegiant: bets $3.56
+rmikol: calls $3.56
+diptofsky: folds
+georgethegiant: shows [Qh 8c]
+*** SHOW DOWN ***
+georgethegiant collected $11.87 from pot
+*** SUMMARY ***
+Total pot: $11.87 | Rake 0
+Board [8h 9c Qs 4c 3s]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded on the River
+Seat 3: danny (button) folded before Flop (didn't bet)
+Seat 4: phoebe (small blind) folded before Flop
+Seat 5: georgethegiant (big blind) showed [Qh 8c] and won ($11.87) with two pair, Queens and Eights
+Seat 7: rmikol didn't show and lost
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4136904092616702023: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:18:42 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Joker ($208.34 in chips)
+Seat 2: diptofsky ($75.87 in chips)
+Seat 3: danny ($93.68 in chips)
+Seat 4: phoebe ($53.88 in chips)
+Seat 5: georgethegiant ($104.69 in chips)
+Seat 7: rmikol ($101.94 in chips)
+Seat 8: Eugene ($116.37 in chips)
+Seat 9: Dano ($525.60 in chips)
+Seat 10: rampurge ($59.64 in chips)
+georgethegiant: posts small blind $0.25
+rmikol: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Qh 5s]
+Eugene: raises $1.00 to $1.50
+Dano: calls $1.50
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: folds
+georgethegiant: calls $1.25
+rmikol: folds
+*** FLOP *** [Qd 6c 9h]
+georgethegiant: checks
+Eugene: bets $2.00
+Dano: calls $2.00
+georgethegiant: calls $2.00
+*** TURN *** [Qd 6c 9h] [4c]
+georgethegiant: checks
+Eugene: bets $7.50
+Dano: calls $7.50
+georgethegiant: folds
+*** RIVER *** [Qd 6c 9h 4c] [6d]
+Eugene: bets $19.50
+Dano: folds
+Uncalled bet ($19.50) returned to Eugene
+*** SHOW DOWN ***
+Eugene collected $26.00 from pot
+*** SUMMARY ***
+Total pot: $26.00 | Rake 0
+Board [Qd 6c 9h 4c 6d]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe (button) folded before Flop (didn't bet)
+Seat 5: georgethegiant (small blind) folded on the Turn
+Seat 7: rmikol (big blind) folded before Flop
+Seat 8: Eugene collected ($26.00)
+Seat 9: Dano folded on the River
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #7691406315810573081: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:20:34 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: Joker ($208.34 in chips)
+Seat 2: diptofsky ($75.87 in chips)
+Seat 3: danny ($93.68 in chips)
+Seat 4: phoebe ($53.88 in chips)
+Seat 5: georgethegiant ($101.19 in chips)
+Seat 7: rmikol ($101.44 in chips)
+Seat 8: Eugene ($131.37 in chips)
+Seat 9: Dano ($514.60 in chips)
+Seat 10: rampurge ($59.64 in chips)
+rmikol: posts small blind $0.25
+Eugene: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Kh Jc]
+Dano: raises $1.75 to $2.25
+rampurge: calls $2.25
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+*** FLOP *** [2d Th Kd]
+Dano: checks
+rampurge: bets $2.62
+Dano: calls $2.62
+*** TURN *** [2d Th Kd] [Kc]
+Dano: checks
+rampurge: bets $5.24
+Dano: folds
+Uncalled bet ($5.24) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $10.49 from pot
+*** SUMMARY ***
+Total pot: $10.49 | Rake 0
+Board [2d Th Kd Kc]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant (button) folded before Flop (didn't bet)
+Seat 7: rmikol (small blind) folded before Flop
+Seat 8: Eugene (big blind) folded before Flop
+Seat 9: Dano folded on the Turn
+Seat 10: rampurge collected ($10.49)
+
+
+
+PokerStars Hand #10918162251977438909: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:21:45 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Joker ($208.34 in chips)
+Seat 2: diptofsky ($75.87 in chips)
+Seat 3: danny ($93.68 in chips)
+Seat 4: phoebe ($53.88 in chips)
+Seat 5: georgethegiant ($101.19 in chips)
+Seat 7: rmikol ($101.19 in chips)
+Seat 8: Eugene ($130.87 in chips)
+Seat 9: Dano ($509.73 in chips)
+Seat 10: rampurge ($65.26 in chips)
+Eugene: posts small blind $0.25
+Dano: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [7d Tc]
+rampurge: folds
+Joker: calls $0.50
+diptofsky: folds
+danny: folds
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: raises $1.50 to $2.00
+Dano: calls $1.50
+Joker: calls $1.50
+*** FLOP *** [5s Ks Jh]
+Eugene: checks
+Dano: bets $3.00
+Joker: folds
+Eugene: folds
+Uncalled bet ($3.00) returned to Dano
+*** SHOW DOWN ***
+Dano collected $6.00 from pot
+*** SUMMARY ***
+Total pot: $6.00 | Rake 0
+Board [5s Ks Jh]
+Seat 1: Joker folded on the Flop
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol (button) folded before Flop (didn't bet)
+Seat 8: Eugene (small blind) folded on the Flop
+Seat 9: Dano (big blind) collected ($6.00)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #7235713934174162378: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:22:53 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Joker ($206.34 in chips)
+Seat 2: diptofsky ($75.87 in chips)
+Seat 3: danny ($93.68 in chips)
+Seat 4: phoebe ($53.88 in chips)
+Seat 5: georgethegiant ($101.19 in chips)
+Seat 7: rmikol ($101.19 in chips)
+Seat 8: Eugene ($128.87 in chips)
+Seat 9: Dano ($513.73 in chips)
+Seat 10: rampurge ($65.26 in chips)
+Dano: posts small blind $0.25
+rampurge: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [3h 9c]
+Joker: calls $0.50
+diptofsky: raises $1.50 to $2.00
+danny: folds
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: calls $1.50
+*** FLOP *** [Kd Kh 6s]
+Joker: checks
+diptofsky: checks
+*** TURN *** [Kd Kh 6s] [3s]
+Joker: checks
+diptofsky: bets $3.25
+Joker: calls $3.25
+*** RIVER *** [Kd Kh 6s 3s] [Js]
+Joker: checks
+diptofsky: checks
+Joker: shows [Qh Jd]
+*** SHOW DOWN ***
+Joker collected $11.25 from pot
+*** SUMMARY ***
+Total pot: $11.25 | Rake 0
+Board [Kd Kh 6s 3s Js]
+Seat 1: Joker showed [Qh Jd] and won ($11.25) with two pair, Kings and Jacks
+Seat 2: diptofsky didn't show and lost
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene (button) folded before Flop (didn't bet)
+Seat 9: Dano (small blind) folded before Flop
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #14496776825540776824: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:24:17 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Joker ($212.34 in chips)
+Seat 2: diptofsky ($70.62 in chips)
+Seat 3: danny ($93.68 in chips)
+Seat 4: phoebe ($53.88 in chips)
+Seat 5: georgethegiant ($101.19 in chips)
+Seat 7: rmikol ($101.19 in chips)
+Seat 8: Eugene ($128.87 in chips)
+Seat 9: Dano ($513.48 in chips)
+Seat 10: rampurge ($64.76 in chips)
+rampurge: posts small blind $0.25
+Joker: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Jc Qc]
+diptofsky: folds
+danny: raises $0.75 to $1.25
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: folds
+rampurge: calls $1.00
+Joker: folds
+*** FLOP *** [6d Ts Qh]
+rampurge: checks
+danny: bets $1.00
+rampurge: calls $1.00
+*** TURN *** [6d Ts Qh] [6s]
+rampurge: checks
+danny: checks
+*** RIVER *** [6d Ts Qh 6s] [3c]
+rampurge: bets $3.75
+danny: calls $3.75
+rampurge: shows [Jc Qc]
+*** SHOW DOWN ***
+rampurge collected $12.50 from pot
+*** SUMMARY ***
+Total pot: $12.50 | Rake 0
+Board [6d Ts Qh 6s 3c]
+Seat 1: Joker (big blind) folded before Flop
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny didn't show and lost
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) showed [Jc Qc] and won ($12.50) with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #142069122849230131: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:25:10 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Joker ($211.84 in chips)
+Seat 2: diptofsky ($70.62 in chips)
+Seat 3: danny ($87.68 in chips)
+Seat 4: phoebe ($53.88 in chips)
+Seat 5: georgethegiant ($101.19 in chips)
+Seat 7: rmikol ($101.19 in chips)
+Seat 8: Eugene ($128.87 in chips)
+Seat 9: Dano ($513.48 in chips)
+Seat 10: rampurge ($71.26 in chips)
+Joker: posts small blind $0.25
+diptofsky: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Qc 4d]
+danny: folds
+phoebe: raises $1.25 to $1.75
+georgethegiant: folds
+rmikol: calls $1.75
+Eugene: raises $4.75 to $6.50
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: folds
+phoebe: raises $15.50 to $22.00
+rmikol: folds
+Eugene: folds
+Uncalled bet ($15.50) returned to phoebe
+*** SHOW DOWN ***
+phoebe collected $15.50 from pot
+*** SUMMARY ***
+Total pot: $15.50 | Rake 0
+Seat 1: Joker (small blind) folded before Flop
+Seat 2: diptofsky (big blind) folded before Flop
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe collected ($15.50)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop
+Seat 8: Eugene folded before Flop
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #12251211111423341690: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:26:25 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Joker ($211.59 in chips)
+Seat 2: diptofsky ($70.12 in chips)
+Seat 3: danny ($87.68 in chips)
+Seat 4: phoebe ($62.88 in chips)
+Seat 5: georgethegiant ($101.19 in chips)
+Seat 7: rmikol ($99.44 in chips)
+Seat 8: Eugene ($122.37 in chips)
+Seat 9: Dano ($513.48 in chips)
+Seat 10: rampurge ($71.26 in chips)
+diptofsky: posts small blind $0.25
+danny: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [9h Ac]
+phoebe: raises $1.25 to $1.75
+georgethegiant: calls $1.75
+rmikol: raises $5.50 to $7.25
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: calls $5.50
+georgethegiant: calls $5.50
+*** FLOP *** [3s Jh 9d]
+phoebe: checks
+georgethegiant: checks
+rmikol: checks
+*** TURN *** [3s Jh 9d] [Ah]
+phoebe: checks
+georgethegiant: bets $11.25
+rmikol: folds
+phoebe: calls $11.25
+*** RIVER *** [3s Jh 9d Ah] [2d]
+phoebe: checks
+georgethegiant: checks
+phoebe: shows [As Td]
+*** SHOW DOWN ***
+phoebe collected $45.00 from pot
+*** SUMMARY ***
+Total pot: $45.00 | Rake 0
+Board [3s Jh 9d Ah 2d]
+Seat 1: Joker (button) folded before Flop (didn't bet)
+Seat 2: diptofsky (small blind) folded before Flop
+Seat 3: danny (big blind) folded before Flop
+Seat 4: phoebe showed [As Td] and won ($45.00) with a pair of Aces
+Seat 5: georgethegiant didn't show and lost
+Seat 7: rmikol folded on the Turn
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6304946982959797189: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:28:03 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Joker ($211.59 in chips)
+Seat 2: diptofsky ($69.87 in chips)
+Seat 3: danny ($87.18 in chips)
+Seat 4: phoebe ($89.38 in chips)
+Seat 5: georgethegiant ($82.69 in chips)
+Seat 7: rmikol ($92.19 in chips)
+Seat 8: Eugene ($122.37 in chips)
+Seat 9: Dano ($513.48 in chips)
+Seat 10: rampurge ($71.26 in chips)
+danny: posts small blind $0.25
+phoebe: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [9h 2h]
+georgethegiant: raises $1.00 to $1.50
+rmikol: raises $4.25 to $5.75
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: raises $13.25 to $19.00
+georgethegiant: folds
+rmikol: calls $13.25
+*** FLOP *** [4c Tc 8d]
+phoebe: checks
+rmikol: checks
+*** TURN *** [4c Tc 8d] [Td]
+phoebe: checks
+rmikol: bets $19.87
+phoebe: folds
+Uncalled bet ($19.87) returned to rmikol
+*** SHOW DOWN ***
+rmikol collected $39.75 from pot
+*** SUMMARY ***
+Total pot: $39.75 | Rake 0
+Board [4c Tc 8d Td]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky (button) folded before Flop (didn't bet)
+Seat 3: danny (small blind) folded before Flop
+Seat 4: phoebe (big blind) folded on the Turn
+Seat 5: georgethegiant folded before Flop
+Seat 7: rmikol collected ($39.75)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5422548080972737411: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:29:01 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Joker ($211.59 in chips)
+Seat 2: diptofsky ($69.87 in chips)
+Seat 3: danny ($86.93 in chips)
+Seat 4: phoebe ($70.38 in chips)
+Seat 5: georgethegiant ($81.19 in chips)
+Seat 7: rmikol ($112.94 in chips)
+Seat 8: Eugene ($122.37 in chips)
+Seat 9: Dano ($513.48 in chips)
+Seat 10: rampurge ($71.26 in chips)
+phoebe: posts small blind $0.25
+georgethegiant: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [6c As]
+rmikol: folds
+Eugene: folds
+Dano: raises $1.75 to $2.25
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: folds
+georgethegiant: folds
+Uncalled bet ($1.75) returned to Dano
+*** SHOW DOWN ***
+Dano collected $1.25 from pot
+*** SUMMARY ***
+Total pot: $1.25 | Rake 0
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny (button) folded before Flop (didn't bet)
+Seat 4: phoebe (small blind) folded before Flop
+Seat 5: georgethegiant (big blind) folded before Flop
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano collected ($1.25)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2701410955734183846: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:29:24 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Joker ($211.59 in chips)
+Seat 2: diptofsky ($69.87 in chips)
+Seat 3: danny ($86.93 in chips)
+Seat 4: phoebe ($70.13 in chips)
+Seat 5: georgethegiant ($80.69 in chips)
+Seat 7: rmikol ($112.94 in chips)
+Seat 8: Eugene ($122.37 in chips)
+Seat 9: Dano ($514.23 in chips)
+Seat 10: rampurge ($71.26 in chips)
+georgethegiant: posts small blind $0.25
+rmikol: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [8c 2d]
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: raises $1.00 to $1.50
+phoebe: calls $1.50
+georgethegiant: folds
+rmikol: folds
+*** FLOP *** [8d Ac 6h]
+danny: bets $1.25
+phoebe: calls $1.25
+*** TURN *** [8d Ac 6h] [Ts]
+danny: bets $6.00
+phoebe: folds
+Uncalled bet ($6.00) returned to danny
+*** SHOW DOWN ***
+danny collected $6.25 from pot
+*** SUMMARY ***
+Total pot: $6.25 | Rake 0
+Board [8d Ac 6h Ts]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny collected ($6.25)
+Seat 4: phoebe (button) folded on the Turn
+Seat 5: georgethegiant (small blind) folded before Flop
+Seat 7: rmikol (big blind) folded before Flop
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16728630239445493326: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:30:24 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: Joker ($211.59 in chips)
+Seat 2: diptofsky ($69.87 in chips)
+Seat 3: danny ($90.43 in chips)
+Seat 4: phoebe ($67.38 in chips)
+Seat 5: georgethegiant ($80.44 in chips)
+Seat 7: rmikol ($112.44 in chips)
+Seat 8: Eugene ($122.37 in chips)
+Seat 9: Dano ($514.23 in chips)
+Seat 10: rampurge ($71.26 in chips)
+rmikol: posts small blind $0.25
+Eugene: posts big blind $0.50
+Dano: straddle $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Js 3s]
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: folds
+georgethegiant: raises $1.50 to $2.50
+rmikol: raises $6.50 to $9.00
+Eugene: folds
+Dano: folds
+georgethegiant: folds
+Uncalled bet ($6.50) returned to rmikol
+*** SHOW DOWN ***
+rmikol collected $6.50 from pot
+*** SUMMARY ***
+Total pot: $6.50 | Rake 0
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant (button) folded before Flop
+Seat 7: rmikol (small blind) collected ($6.50)
+Seat 8: Eugene (big blind) folded before Flop
+Seat 9: Dano folded before Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2986511208788610345: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:31:07 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Joker ($211.59 in chips)
+Seat 2: diptofsky ($69.87 in chips)
+Seat 3: danny ($90.43 in chips)
+Seat 4: phoebe ($67.38 in chips)
+Seat 5: georgethegiant ($77.94 in chips)
+Seat 7: rmikol ($116.44 in chips)
+Seat 8: Eugene ($121.87 in chips)
+Seat 9: Dano ($513.23 in chips)
+Seat 10: rampurge ($71.26 in chips)
+Eugene: posts small blind $0.25
+Dano: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [9c Tc]
+rampurge: raises $1.00 to $1.50
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: raises $3.75 to $5.25
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: folds
+rampurge: calls $3.75
+*** FLOP *** [Th Jh 5c]
+rampurge: checks
+phoebe: bets $8.43
+rampurge: calls $8.43
+*** TURN *** [Th Jh 5c] [Qs]
+rampurge: checks
+phoebe: bets $12.00
+rampurge: folds
+Uncalled bet ($12.00) returned to phoebe
+*** SHOW DOWN ***
+phoebe collected $28.11 from pot
+phoebe: shows [2h 7h]
+*** SUMMARY ***
+Total pot: $28.11 | Rake 0
+Board [Th Jh 5c Qs]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe collected ($28.11) [2h 7h]
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol (button) folded before Flop (didn't bet)
+Seat 8: Eugene (small blind) folded before Flop
+Seat 9: Dano (big blind) folded before Flop
+Seat 10: rampurge folded on the Turn
+
+
+
+PokerStars Hand #16579355495300708333: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:32:27 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Joker ($210.09 in chips)
+Seat 2: diptofsky ($68.37 in chips)
+Seat 3: danny ($88.93 in chips)
+Seat 4: phoebe ($93.81 in chips)
+Seat 5: georgethegiant ($76.44 in chips)
+Seat 7: rmikol ($114.94 in chips)
+Seat 8: Eugene ($120.12 in chips)
+Seat 9: Dano ($511.23 in chips)
+Seat 10: rampurge ($56.08 in chips)
+Dano: posts small blind $0.25
+rampurge: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Jc Js]
+Joker: folds
+diptofsky: raises $1.00 to $1.50
+danny: folds
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: folds
+rampurge: raises $3.75 to $5.25
+diptofsky: calls $3.75
+*** FLOP *** [4s 2s Jd]
+rampurge: bets $3.50
+diptofsky: calls $3.50
+*** TURN *** [4s 2s Jd] [8s]
+rampurge: bets $6.87
+diptofsky: raises $8.13 to $15.00
+rampurge: calls $8.13
+*** RIVER *** [4s 2s Jd 8s] [2h]
+rampurge: bets $32.33
+diptofsky: folds
+Uncalled bet ($32.33) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $47.75 from pot
+diptofsky: shows [Qd Ks]
+*** SUMMARY ***
+Total pot: $47.75 | Rake 0
+Board [4s 2s Jd 8s 2h]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded on the River [Qd Ks]
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene (button) folded before Flop (didn't bet)
+Seat 9: Dano (small blind) folded before Flop
+Seat 10: rampurge (big blind) collected ($47.75)
+
+
+
+PokerStars Hand #7424599787579963050: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:33:30 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Joker ($210.09 in chips)
+Seat 2: diptofsky ($44.62 in chips)
+Seat 3: danny ($88.93 in chips)
+Seat 4: phoebe ($93.81 in chips)
+Seat 5: georgethegiant ($76.44 in chips)
+Seat 7: rmikol ($114.94 in chips)
+Seat 8: Eugene ($120.12 in chips)
+Seat 9: Dano ($510.98 in chips)
+Seat 10: rampurge ($80.08 in chips)
+rampurge: posts small blind $0.25
+Joker: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [6s 5d]
+diptofsky: folds
+danny: folds
+phoebe: raises $1.25 to $1.75
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: calls $1.75
+rampurge: calls $1.50
+Joker: folds
+*** FLOP *** [Qc 2s 6h]
+rampurge: checks
+phoebe: bets $2.87
+Dano: folds
+rampurge: calls $2.87
+*** TURN *** [Qc 2s 6h] [5s]
+rampurge: checks
+phoebe: checks
+*** RIVER *** [Qc 2s 6h 5s] [Jc]
+rampurge: bets $14.00
+phoebe: calls $14.00
+rampurge: shows [6s 5d]
+*** SHOW DOWN ***
+rampurge collected $39.49 from pot
+*** SUMMARY ***
+Total pot: $39.49 | Rake 0
+Board [Qc 2s 6h 5s Jc]
+Seat 1: Joker (big blind) folded before Flop
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe didn't show and lost
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano (button) folded on the Flop
+Seat 10: rampurge (small blind) showed [6s 5d] and won ($39.49) with two pair, Sixes and Fives
+
+
+
+PokerStars Hand #17025836735442001447: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:34:41 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Joker ($209.59 in chips)
+Seat 2: diptofsky ($44.62 in chips)
+Seat 3: danny ($88.93 in chips)
+Seat 4: phoebe ($75.19 in chips)
+Seat 5: georgethegiant ($76.44 in chips)
+Seat 7: rmikol ($114.94 in chips)
+Seat 8: Eugene ($120.12 in chips)
+Seat 9: Dano ($509.23 in chips)
+Seat 10: rampurge ($100.95 in chips)
+Joker: posts small blind $0.25
+diptofsky: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [9d 5s]
+danny: raises $0.50 to $1.00
+phoebe: folds
+georgethegiant: folds
+rmikol: raises $2.75 to $3.75
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: raises $6.25 to $10.00
+rmikol: calls $6.25
+*** FLOP *** [Kc As Td]
+danny: bets $5.50
+rmikol: calls $5.50
+*** TURN *** [Kc As Td] [9c]
+danny: checks
+rmikol: checks
+*** RIVER *** [Kc As Td 9c] [Th]
+danny: bets $22.37
+rmikol: folds
+Uncalled bet ($22.37) returned to danny
+*** SHOW DOWN ***
+danny collected $31.75 from pot
+*** SUMMARY ***
+Total pot: $31.75 | Rake 0
+Board [Kc As Td 9c Th]
+Seat 1: Joker (small blind) folded before Flop
+Seat 2: diptofsky (big blind) folded before Flop
+Seat 3: danny collected ($31.75)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded on the River
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #13432149477310652478: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:36:27 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Joker ($209.34 in chips)
+Seat 2: diptofsky ($44.12 in chips)
+Seat 3: danny ($105.18 in chips)
+Seat 4: phoebe ($75.19 in chips)
+Seat 5: georgethegiant ($76.44 in chips)
+Seat 7: rmikol ($99.44 in chips)
+Seat 8: Eugene ($120.12 in chips)
+Seat 9: Dano ($509.23 in chips)
+Seat 10: rampurge ($100.95 in chips)
+diptofsky: posts small blind $0.25
+danny: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [9s 6d]
+phoebe: raises $1.25 to $1.75
+georgethegiant: folds
+rmikol: raises $5.25 to $7.00
+Eugene: folds
+Dano: calls $7.00
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: folds
+*** FLOP *** [2c Kh Qs]
+rmikol: bets $5.00
+Dano: folds
+Uncalled bet ($5.00) returned to rmikol
+*** SHOW DOWN ***
+rmikol collected $16.50 from pot
+diptofsky: shows [Ad As]
+*** SUMMARY ***
+Total pot: $16.50 | Rake 0
+Board [2c Kh Qs]
+Seat 1: Joker (button) folded before Flop (didn't bet)
+Seat 2: diptofsky (small blind) folded before Flop [Ad As]
+Seat 3: danny (big blind) folded before Flop
+Seat 4: phoebe folded before Flop
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol collected ($16.50)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded on the Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6164457656447321307: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:37:33 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Joker ($209.34 in chips)
+Seat 2: diptofsky ($43.87 in chips)
+Seat 3: danny ($104.68 in chips)
+Seat 4: phoebe ($73.44 in chips)
+Seat 5: georgethegiant ($76.44 in chips)
+Seat 7: rmikol ($108.94 in chips)
+Seat 8: Eugene ($120.12 in chips)
+Seat 9: Dano ($502.23 in chips)
+Seat 10: rampurge ($100.95 in chips)
+danny: posts small blind $0.25
+phoebe: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Qc Ts]
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: raises $2.25 to $2.75
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: folds
+Uncalled bet ($2.25) returned to Dano
+*** SHOW DOWN ***
+Dano collected $1.25 from pot
+Dano: shows [7c 2s]
+*** SUMMARY ***
+Total pot: $1.25 | Rake 0
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky (button) folded before Flop (didn't bet)
+Seat 3: danny (small blind) folded before Flop
+Seat 4: phoebe (big blind) folded before Flop
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano collected ($1.25) [7c 2s]
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #267029012744092364: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:38:07 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Joker ($207.84 in chips)
+Seat 2: diptofsky ($42.37 in chips)
+Seat 3: danny ($102.93 in chips)
+Seat 4: phoebe ($71.44 in chips)
+Seat 5: georgethegiant ($74.94 in chips)
+Seat 7: rmikol ($107.44 in chips)
+Seat 8: Eugene ($118.62 in chips)
+Seat 9: Dano ($514.98 in chips)
+Seat 10: rampurge ($99.45 in chips)
+phoebe: posts small blind $0.25
+georgethegiant: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Td Ks]
+rmikol: folds
+Eugene: raises $1.00 to $1.50
+Dano: calls $1.50
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: calls $1.25
+georgethegiant: calls $1.00
+*** FLOP *** [Jd 2d 9s]
+phoebe: checks
+georgethegiant: checks
+Eugene: checks
+Dano: bets $6.00
+phoebe: folds
+georgethegiant: folds
+Eugene: folds
+Uncalled bet ($6.00) returned to Dano
+*** SHOW DOWN ***
+Dano collected $6.00 from pot
+*** SUMMARY ***
+Total pot: $6.00 | Rake 0
+Board [Jd 2d 9s]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny (button) folded before Flop (didn't bet)
+Seat 4: phoebe (small blind) folded on the Flop
+Seat 5: georgethegiant (big blind) folded on the Flop
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded on the Flop
+Seat 9: Dano collected ($6.00)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16186868022894704294: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:39:37 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Joker ($207.84 in chips)
+Seat 2: diptofsky ($42.37 in chips)
+Seat 3: danny ($102.93 in chips)
+Seat 4: phoebe ($69.94 in chips)
+Seat 5: georgethegiant ($73.44 in chips)
+Seat 7: rmikol ($107.44 in chips)
+Seat 8: Eugene ($117.12 in chips)
+Seat 9: Dano ($519.48 in chips)
+Seat 10: rampurge ($99.45 in chips)
+georgethegiant: posts small blind $0.25
+rmikol: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [5s 3s]
+Eugene: folds
+Dano: raises $1.75 to $2.25
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: raises $5.75 to $8.00
+phoebe: calls $8.00
+georgethegiant: folds
+rmikol: calls $7.50
+Dano: raises $24.18 to $32.18
+danny: raises $70.75 to $102.93
+phoebe: folds
+rmikol: folds
+Dano: calls $70.75
+danny: shows [7d 2s]
+Dano: shows [Qh Qc]
+*** FLOP *** [As 9h Tc]
+*** TURN *** [As 9h Tc] [Ac]
+*** RIVER *** [As 9h Tc Ac] [Jc]
+*** SHOW DOWN ***
+Dano collected $222.11 from pot
+*** SUMMARY ***
+Total pot: $222.11 | Rake 0
+Board [As 9h Tc Ac Jc]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny showed [7d 2s] and lost with a pair of Aces
+Seat 4: phoebe (button) folded before Flop
+Seat 5: georgethegiant (small blind) folded before Flop
+Seat 7: rmikol (big blind) folded before Flop
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano showed [Qh Qc] and won ($222.11) with two pair, Aces and Queens
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #15222843573193415214: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:41:08 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: Joker ($207.84 in chips)
+Seat 2: diptofsky ($42.37 in chips)
+Seat 4: phoebe ($61.94 in chips)
+Seat 5: georgethegiant ($73.19 in chips)
+Seat 7: rmikol ($99.44 in chips)
+Seat 8: Eugene ($117.12 in chips)
+Seat 9: Dano ($638.66 in chips)
+Seat 10: rampurge ($99.45 in chips)
+rmikol: posts small blind $0.25
+Eugene: posts big blind $0.50
+Dano: straddle $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8d 7d]
+rampurge: raises $2.00 to $3.00
+Joker: folds
+diptofsky: calls $3.00
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: calls $2.00
+*** FLOP *** [9d 4d 2h]
+Dano: checks
+rampurge: bets $4.87
+diptofsky: calls $4.87
+Dano: folds
+*** TURN *** [9d 4d 2h] [4s]
+rampurge: bets $9.74
+diptofsky: calls $9.74
+*** RIVER *** [9d 4d 2h 4s] [7h]
+rampurge: bets $24.76
+diptofsky: calls $24.76
+rampurge: shows [8d 7d]
+*** SHOW DOWN ***
+rampurge collected $88.49 from pot
+diptofsky: shows [3h 3s]
+*** SUMMARY ***
+Total pot: $88.49 | Rake 0
+Board [9d 4d 2h 4s 7h]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky showed [3h 3s] and lost with two pair, Fours and Threes
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant (button) folded before Flop (didn't bet)
+Seat 7: rmikol (small blind) folded before Flop
+Seat 8: Eugene (big blind) folded before Flop
+Seat 9: Dano folded on the Flop
+Seat 10: rampurge showed [8d 7d] and won ($88.49) with two pair, Sevens and Fours
+
+
+
+PokerStars Hand #13248757130162296446: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:42:04 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Joker ($207.84 in chips)
+Seat 4: phoebe ($61.94 in chips)
+Seat 5: georgethegiant ($73.19 in chips)
+Seat 7: rmikol ($99.19 in chips)
+Seat 8: Eugene ($116.62 in chips)
+Seat 9: Dano ($635.66 in chips)
+Seat 10: rampurge ($145.57 in chips)
+Eugene: posts small blind $0.25
+Dano: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [9s 4d]
+rampurge: folds
+Joker: calls $0.50
+phoebe: raises $1.75 to $2.25
+georgethegiant: folds
+rmikol: calls $2.25
+Eugene: folds
+Dano: calls $1.75
+Joker: calls $1.75
+*** FLOP *** [5c 8h 7c]
+Dano: checks
+Joker: checks
+phoebe: checks
+rmikol: bets $6.93
+Dano: calls $6.93
+Joker: folds
+phoebe: calls $6.93
+*** TURN *** [5c 8h 7c] [Kh]
+Dano: checks
+phoebe: checks
+rmikol: checks
+*** RIVER *** [5c 8h 7c Kh] [As]
+Dano: checks
+phoebe: bets $52.76
+rmikol: folds
+Dano: folds
+Uncalled bet ($52.76) returned to phoebe
+*** SHOW DOWN ***
+phoebe collected $30.04 from pot
+*** SUMMARY ***
+Total pot: $30.04 | Rake 0
+Board [5c 8h 7c Kh As]
+Seat 1: Joker folded on the Flop
+Seat 4: phoebe collected ($30.04)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol (button) folded on the River
+Seat 8: Eugene (small blind) folded before Flop
+Seat 9: Dano (big blind) folded on the River
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #8461058356200539949: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:44:46 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Joker ($205.59 in chips)
+Seat 2: diptofsky ($100.00 in chips)
+Seat 3: danny ($100.00 in chips)
+Seat 4: phoebe ($82.80 in chips)
+Seat 5: georgethegiant ($73.19 in chips)
+Seat 7: rmikol ($90.01 in chips)
+Seat 8: Eugene ($116.37 in chips)
+Seat 9: Dano ($626.48 in chips)
+Seat 10: rampurge ($145.57 in chips)
+Dano: posts small blind $0.25
+rampurge: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [8d 7h]
+Joker: folds
+diptofsky: folds
+danny: calls $0.50
+phoebe: folds
+georgethegiant: raises $1.50 to $2.00
+rmikol: folds
+Eugene: folds
+Dano: calls $1.75
+rampurge: folds
+danny: raises $7.00 to $9.00
+georgethegiant: folds
+Dano: calls $7.00
+*** FLOP *** [8c Qd Jh]
+Dano: checks
+danny: checks
+*** TURN *** [8c Qd Jh] [3d]
+Dano: bets $9.25
+danny: raises $13.75 to $23.00
+Dano: folds
+Uncalled bet ($13.75) returned to danny
+*** SHOW DOWN ***
+danny collected $39.00 from pot
+*** SUMMARY ***
+Total pot: $39.00 | Rake 0
+Board [8c Qd Jh 3d]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny collected ($39.00)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene (button) folded before Flop (didn't bet)
+Seat 9: Dano (small blind) folded on the Turn
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #8243869064391743173: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:46:19 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Joker ($205.59 in chips)
+Seat 2: diptofsky ($100.00 in chips)
+Seat 3: danny ($120.75 in chips)
+Seat 4: phoebe ($82.80 in chips)
+Seat 5: georgethegiant ($71.19 in chips)
+Seat 7: rmikol ($90.01 in chips)
+Seat 8: Eugene ($116.37 in chips)
+Seat 9: Dano ($608.23 in chips)
+Seat 10: rampurge ($145.07 in chips)
+rampurge: posts small blind $0.25
+Joker: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [2s As]
+diptofsky: folds
+danny: folds
+phoebe: folds
+georgethegiant: folds
+rmikol: raises $1.00 to $1.50
+Eugene: raises $4.50 to $6.00
+Dano: folds
+rampurge: folds
+Joker: folds
+rmikol: calls $4.50
+*** FLOP *** [9h Qd 8d]
+rmikol: checks
+Eugene: checks
+*** TURN *** [9h Qd 8d] [Kh]
+rmikol: bets $6.37
+Eugene: folds
+Uncalled bet ($6.37) returned to rmikol
+*** SHOW DOWN ***
+rmikol collected $12.75 from pot
+*** SUMMARY ***
+Total pot: $12.75 | Rake 0
+Board [9h Qd 8d Kh]
+Seat 1: Joker (big blind) folded before Flop
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol collected ($12.75)
+Seat 8: Eugene folded on the Turn
+Seat 9: Dano (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #9177466758856149931: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:47:21 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Joker ($205.09 in chips)
+Seat 2: diptofsky ($100.00 in chips)
+Seat 3: danny ($120.75 in chips)
+Seat 4: phoebe ($82.80 in chips)
+Seat 5: georgethegiant ($71.19 in chips)
+Seat 7: rmikol ($96.76 in chips)
+Seat 8: Eugene ($110.37 in chips)
+Seat 9: Dano ($608.23 in chips)
+Seat 10: rampurge ($144.82 in chips)
+Joker: posts small blind $0.25
+diptofsky: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Qc Jc]
+danny: folds
+phoebe: raises $1.25 to $1.75
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: calls $1.75
+rampurge: calls $1.75
+Joker: folds
+diptofsky: folds
+*** FLOP *** [7c 9d 7h]
+phoebe: bets $3.00
+Dano: calls $3.00
+rampurge: folds
+*** TURN *** [7c 9d 7h] [Ad]
+phoebe: checks
+Dano: bets $6.00
+phoebe: folds
+Uncalled bet ($6.00) returned to Dano
+*** SHOW DOWN ***
+Dano collected $12.00 from pot
+*** SUMMARY ***
+Total pot: $12.00 | Rake 0
+Board [7c 9d 7h Ad]
+Seat 1: Joker (small blind) folded before Flop
+Seat 2: diptofsky (big blind) folded before Flop
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded on the Turn
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano collected ($12.00)
+Seat 10: rampurge (button) folded on the Flop
+
+
+
+PokerStars Hand #3696631709921394590: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:48:30 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Joker ($204.84 in chips)
+Seat 2: diptofsky ($99.50 in chips)
+Seat 3: danny ($120.75 in chips)
+Seat 4: phoebe ($78.05 in chips)
+Seat 5: georgethegiant ($71.19 in chips)
+Seat 7: rmikol ($96.76 in chips)
+Seat 8: Eugene ($110.37 in chips)
+Seat 9: Dano ($615.48 in chips)
+Seat 10: rampurge ($143.07 in chips)
+diptofsky: posts small blind $0.25
+danny: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [6d 4c]
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: raises $1.00 to $1.50
+danny: calls $1.00
+*** FLOP *** [Ks 3h 9d]
+diptofsky: bets $1.50
+danny: calls $1.50
+*** TURN *** [Ks 3h 9d] [Qd]
+diptofsky: bets $4.00
+danny: folds
+Uncalled bet ($4.00) returned to diptofsky
+*** SHOW DOWN ***
+diptofsky collected $6.00 from pot
+*** SUMMARY ***
+Total pot: $6.00 | Rake 0
+Board [Ks 3h 9d Qd]
+Seat 1: Joker (button) folded before Flop (didn't bet)
+Seat 2: diptofsky (small blind) collected ($6.00)
+Seat 3: danny (big blind) folded on the Turn
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9562841445886718373: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:49:27 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Joker ($204.84 in chips)
+Seat 2: diptofsky ($102.50 in chips)
+Seat 3: danny ($117.75 in chips)
+Seat 4: phoebe ($78.05 in chips)
+Seat 5: georgethegiant ($71.19 in chips)
+Seat 7: rmikol ($96.76 in chips)
+Seat 8: Eugene ($110.37 in chips)
+Seat 9: Dano ($615.48 in chips)
+Seat 10: rampurge ($143.07 in chips)
+danny: posts small blind $0.25
+phoebe: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Qh 2c]
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: raises $1.75 to $2.25
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: calls $1.75
+*** FLOP *** [3h 7d Ad]
+phoebe: checks
+Dano: bets $2.37
+phoebe: calls $2.37
+*** TURN *** [3h 7d Ad] [As]
+phoebe: checks
+Dano: bets $4.74
+phoebe: folds
+Uncalled bet ($4.74) returned to Dano
+*** SHOW DOWN ***
+Dano collected $9.49 from pot
+*** SUMMARY ***
+Total pot: $9.49 | Rake 0
+Board [3h 7d Ad As]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky (button) folded before Flop (didn't bet)
+Seat 3: danny (small blind) folded before Flop
+Seat 4: phoebe (big blind) folded on the Turn
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano collected ($9.49)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #432126544954127426: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:50:24 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Joker ($204.84 in chips)
+Seat 2: diptofsky ($102.50 in chips)
+Seat 3: danny ($117.50 in chips)
+Seat 4: phoebe ($73.43 in chips)
+Seat 5: georgethegiant ($71.19 in chips)
+Seat 7: rmikol ($96.76 in chips)
+Seat 8: Eugene ($110.37 in chips)
+Seat 9: Dano ($620.35 in chips)
+Seat 10: rampurge ($143.07 in chips)
+phoebe: posts small blind $0.25
+georgethegiant: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Jh 4s]
+rmikol: raises $1.00 to $1.50
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: calls $1.50
+danny: folds
+phoebe: calls $1.25
+georgethegiant: folds
+*** FLOP *** [6h Jd 7c]
+phoebe: checks
+rmikol: bets $2.00
+diptofsky: folds
+phoebe: raises $4.50 to $6.50
+rmikol: folds
+Uncalled bet ($4.50) returned to phoebe
+*** SHOW DOWN ***
+phoebe collected $9.00 from pot
+*** SUMMARY ***
+Total pot: $9.00 | Rake 0
+Board [6h Jd 7c]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded on the Flop
+Seat 3: danny (button) folded before Flop (didn't bet)
+Seat 4: phoebe (small blind) collected ($9.00)
+Seat 5: georgethegiant (big blind) folded before Flop
+Seat 7: rmikol folded on the Flop
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9044969924130345993: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:51:44 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Joker ($204.84 in chips)
+Seat 2: diptofsky ($101.00 in chips)
+Seat 3: danny ($117.50 in chips)
+Seat 4: phoebe ($78.93 in chips)
+Seat 5: georgethegiant ($70.69 in chips)
+Seat 7: rmikol ($93.26 in chips)
+Seat 8: Eugene ($110.37 in chips)
+Seat 9: Dano ($620.35 in chips)
+Seat 10: rampurge ($143.07 in chips)
+georgethegiant: posts small blind $0.25
+rmikol: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [3d 2h]
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: raises $1.25 to $1.75
+georgethegiant: calls $1.50
+rmikol: calls $1.25
+*** FLOP *** [3s 5s 7c]
+georgethegiant: checks
+rmikol: checks
+phoebe: bets $2.62
+georgethegiant: calls $2.62
+rmikol: calls $2.62
+*** TURN *** [3s 5s 7c] [9s]
+georgethegiant: checks
+rmikol: checks
+phoebe: checks
+*** RIVER *** [3s 5s 7c 9s] [7s]
+georgethegiant: bets $2.00
+rmikol: folds
+phoebe: calls $2.00
+georgethegiant: shows [7d Ah]
+*** SHOW DOWN ***
+georgethegiant collected $17.11 from pot
+*** SUMMARY ***
+Total pot: $17.11 | Rake 0
+Board [3s 5s 7c 9s 7s]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe (button) didn't show and lost
+Seat 5: georgethegiant (small blind) showed [7d Ah] and won ($17.11) with three of a kind, Sevens
+Seat 7: rmikol (big blind) folded on the River
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #13660197127500678281: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:53:15 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: Joker ($204.84 in chips)
+Seat 2: diptofsky ($101.00 in chips)
+Seat 3: danny ($117.50 in chips)
+Seat 4: phoebe ($72.56 in chips)
+Seat 5: georgethegiant ($81.43 in chips)
+Seat 7: rmikol ($88.89 in chips)
+Seat 8: Eugene ($110.37 in chips)
+Seat 9: Dano ($620.35 in chips)
+Seat 10: rampurge ($143.07 in chips)
+rmikol: posts small blind $0.25
+Eugene: posts big blind $0.50
+Dano: straddle $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3d Ac]
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: folds
+georgethegiant: folds
+rmikol: raises $3.00 to $4.00
+Eugene: folds
+Dano: calls $3.00
+*** FLOP *** [2s Ah 8s]
+rmikol: bets $1.50
+Dano: calls $1.50
+*** TURN *** [2s Ah 8s] [6s]
+rmikol: bets $7.25
+Dano: folds
+Uncalled bet ($7.25) returned to rmikol
+*** SHOW DOWN ***
+rmikol collected $11.50 from pot
+*** SUMMARY ***
+Total pot: $11.50 | Rake 0
+Board [2s Ah 8s 6s]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant (button) folded before Flop (didn't bet)
+Seat 7: rmikol (small blind) collected ($11.50)
+Seat 8: Eugene (big blind) folded before Flop
+Seat 9: Dano folded on the Turn
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2872997312455045887: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:54:24 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Joker ($204.84 in chips)
+Seat 2: diptofsky ($101.00 in chips)
+Seat 3: danny ($117.50 in chips)
+Seat 4: phoebe ($72.56 in chips)
+Seat 5: georgethegiant ($81.43 in chips)
+Seat 7: rmikol ($94.89 in chips)
+Seat 8: Eugene ($109.87 in chips)
+Seat 9: Dano ($614.85 in chips)
+Seat 10: rampurge ($143.07 in chips)
+Eugene: posts small blind $0.25
+Dano: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Ks Jh]
+rampurge: raises $1.00 to $1.50
+Joker: folds
+diptofsky: calls $1.50
+danny: raises $4.50 to $6.00
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: folds
+rampurge: folds
+diptofsky: calls $4.50
+*** FLOP *** [Jc Kd 6h]
+diptofsky: checks
+danny: bets $5.00
+diptofsky: calls $5.00
+*** TURN *** [Jc Kd 6h] [9d]
+diptofsky: checks
+danny: checks
+*** RIVER *** [Jc Kd 6h 9d] [3d]
+diptofsky: checks
+danny: bets $18.18
+diptofsky: raises $51.82 to $70.00
+danny: folds
+Uncalled bet ($51.82) returned to diptofsky
+*** SHOW DOWN ***
+diptofsky collected $60.61 from pot
+*** SUMMARY ***
+Total pot: $60.61 | Rake 0
+Board [Jc Kd 6h 9d 3d]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky collected ($60.61)
+Seat 3: danny folded on the River
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol (button) folded before Flop (didn't bet)
+Seat 8: Eugene (small blind) folded before Flop
+Seat 9: Dano (big blind) folded before Flop
+Seat 10: rampurge folded before Flop
+
+
+
+PokerStars Hand #11002092163491176837: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:55:46 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Joker ($204.84 in chips)
+Seat 2: diptofsky ($132.43 in chips)
+Seat 3: danny ($88.32 in chips)
+Seat 4: phoebe ($72.56 in chips)
+Seat 5: georgethegiant ($81.43 in chips)
+Seat 7: rmikol ($94.89 in chips)
+Seat 8: Eugene ($109.62 in chips)
+Seat 9: Dano ($614.35 in chips)
+Seat 10: rampurge ($141.57 in chips)
+Dano: posts small blind $0.25
+rampurge: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [8d 2c]
+Joker: calls $0.50
+diptofsky: folds
+danny: folds
+phoebe: raises $1.75 to $2.25
+georgethegiant: folds
+rmikol: folds
+Eugene: calls $2.25
+Dano: raises $4.37 to $6.62
+rampurge: folds
+Joker: folds
+phoebe: calls $4.37
+Eugene: folds
+*** FLOP *** [9h 9d Jc]
+Dano: bets $7.24
+phoebe: calls $7.24
+*** TURN *** [9h 9d Jc] [4d]
+Dano: bets $15.48
+phoebe: folds
+Uncalled bet ($15.48) returned to Dano
+*** SHOW DOWN ***
+Dano collected $30.97 from pot
+*** SUMMARY ***
+Total pot: $30.97 | Rake 0
+Board [9h 9d Jc 4d]
+Seat 1: Joker folded before Flop
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded on the Turn
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene (button) folded before Flop
+Seat 9: Dano (small blind) collected ($30.97)
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #13220247672016215478: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:56:37 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Joker ($204.34 in chips)
+Seat 2: diptofsky ($132.43 in chips)
+Seat 3: danny ($88.32 in chips)
+Seat 4: phoebe ($58.70 in chips)
+Seat 5: georgethegiant ($81.43 in chips)
+Seat 7: rmikol ($94.89 in chips)
+Seat 8: Eugene ($107.37 in chips)
+Seat 9: Dano ($631.46 in chips)
+Seat 10: rampurge ($141.07 in chips)
+rampurge: posts small blind $0.25
+Joker: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [2s Ts]
+diptofsky: folds
+danny: folds
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: folds
+rampurge: folds
+Uncalled bet ($0.25) returned to Joker
+*** SHOW DOWN ***
+Joker collected $0.50 from pot
+Joker: shows [7d 2d]
+*** SUMMARY ***
+Total pot: $0.50 | Rake 0
+Seat 1: Joker (big blind) collected ($0.50) [7d 2d]
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #3091381635260525930: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:57:13 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Joker ($216.59 in chips)
+Seat 2: diptofsky ($130.93 in chips)
+Seat 3: danny ($86.82 in chips)
+Seat 4: phoebe ($57.20 in chips)
+Seat 5: georgethegiant ($79.93 in chips)
+Seat 7: rmikol ($93.39 in chips)
+Seat 8: Eugene ($105.87 in chips)
+Seat 9: Dano ($629.96 in chips)
+Seat 10: rampurge ($139.32 in chips)
+Joker: posts small blind $0.25
+diptofsky: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Jd 9h]
+danny: folds
+phoebe: folds
+georgethegiant: folds
+rmikol: folds
+Eugene: raises $1.00 to $1.50
+Dano: calls $1.50
+rampurge: folds
+Joker: calls $1.25
+diptofsky: folds
+*** FLOP *** [Ah Qh 9d]
+Joker: checks
+Eugene: bets $2.00
+Dano: calls $2.00
+Joker: calls $2.00
+*** TURN *** [Ah Qh 9d] [Kh]
+Joker: checks
+Eugene: bets $8.00
+Dano: folds
+Joker: raises $22.25 to $30.25
+Eugene: folds
+Uncalled bet ($22.25) returned to Joker
+*** SHOW DOWN ***
+Joker collected $27.00 from pot
+*** SUMMARY ***
+Total pot: $27.00 | Rake 0
+Board [Ah Qh 9d Kh]
+Seat 1: Joker (small blind) collected ($27.00)
+Seat 2: diptofsky (big blind) folded before Flop
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded on the Turn
+Seat 9: Dano folded on the Turn
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #93069967106124960: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 02:59:10 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Joker ($232.09 in chips)
+Seat 2: diptofsky ($130.43 in chips)
+Seat 3: danny ($86.82 in chips)
+Seat 4: phoebe ($57.20 in chips)
+Seat 5: georgethegiant ($79.93 in chips)
+Seat 7: rmikol ($93.39 in chips)
+Seat 8: Eugene ($94.37 in chips)
+Seat 9: Dano ($626.46 in chips)
+Seat 10: rampurge ($139.32 in chips)
+diptofsky: posts small blind $0.25
+danny: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [8h 7s]
+phoebe: raises $1.25 to $1.75
+georgethegiant: folds
+rmikol: folds
+Eugene: raises $2.75 to $4.50
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: calls $2.75
+*** FLOP *** [4c 2d 9h]
+phoebe: checks
+Eugene: bets $2.87
+phoebe: raises $7.74 to $10.61
+Eugene: folds
+Uncalled bet ($7.74) returned to phoebe
+*** SHOW DOWN ***
+phoebe collected $15.49 from pot
+*** SUMMARY ***
+Total pot: $15.49 | Rake 0
+Board [4c 2d 9h]
+Seat 1: Joker (button) folded before Flop (didn't bet)
+Seat 2: diptofsky (small blind) folded before Flop
+Seat 3: danny (big blind) folded before Flop
+Seat 4: phoebe collected ($15.49)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded on the Flop
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #685052003059960851: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 03:00:19 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Joker ($232.09 in chips)
+Seat 2: diptofsky ($130.18 in chips)
+Seat 3: danny ($86.32 in chips)
+Seat 4: phoebe ($65.32 in chips)
+Seat 5: georgethegiant ($79.93 in chips)
+Seat 7: rmikol ($93.39 in chips)
+Seat 8: Eugene ($87.00 in chips)
+Seat 9: Dano ($626.46 in chips)
+Seat 10: rampurge ($139.32 in chips)
+danny: posts small blind $0.25
+phoebe: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [5c 4s]
+georgethegiant: folds
+rmikol: folds
+Eugene: folds
+Dano: folds
+rampurge: folds
+Joker: calls $0.50
+diptofsky: raises $1.75 to $2.25
+danny: folds
+phoebe: calls $1.75
+Joker: calls $1.75
+*** FLOP *** [3c 4d Ac]
+phoebe: checks
+Joker: checks
+diptofsky: bets $5.00
+phoebe: folds
+Joker: calls $5.00
+*** TURN *** [3c 4d Ac] [8s]
+Joker: checks
+diptofsky: bets $11.00
+Joker: folds
+Uncalled bet ($11.00) returned to diptofsky
+*** SHOW DOWN ***
+diptofsky collected $17.00 from pot
+*** SUMMARY ***
+Total pot: $17.00 | Rake 0
+Board [3c 4d Ac 8s]
+Seat 1: Joker folded on the Turn
+Seat 2: diptofsky (button) collected ($17.00)
+Seat 3: danny (small blind) folded before Flop
+Seat 4: phoebe (big blind) folded on the Flop
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 8: Eugene folded before Flop (didn't bet)
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1510662488504539577: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 03:02:13 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Joker ($224.84 in chips)
+Seat 2: diptofsky ($139.93 in chips)
+Seat 3: danny ($86.07 in chips)
+Seat 4: phoebe ($63.07 in chips)
+Seat 5: georgethegiant ($79.93 in chips)
+Seat 7: rmikol ($93.39 in chips)
+Seat 8: Eugene ($87.00 in chips)
+Seat 9: Dano ($626.46 in chips)
+Seat 10: rampurge ($139.32 in chips)
+phoebe: posts small blind $0.25
+georgethegiant: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [2s 9d]
+rmikol: raises $1.00 to $1.50
+Eugene: raises $3.00 to $4.50
+Dano: folds
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: folds
+georgethegiant: folds
+rmikol: calls $3.00
+*** FLOP *** [6d Ah Ks]
+rmikol: checks
+Eugene: bets $3.00
+rmikol: calls $3.00
+*** TURN *** [6d Ah Ks] [7h]
+rmikol: checks
+Eugene: checks
+*** RIVER *** [6d Ah Ks 7h] [Jd]
+rmikol: bets $3.50
+Eugene: raises $11.37 to $14.87
+rmikol: calls $11.37
+Eugene: shows [Ac 6c]
+*** SHOW DOWN ***
+Eugene collected $45.49 from pot
+*** SUMMARY ***
+Total pot: $45.49 | Rake 0
+Board [6d Ah Ks 7h Jd]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny (button) folded before Flop (didn't bet)
+Seat 4: phoebe (small blind) folded before Flop
+Seat 5: georgethegiant (big blind) folded before Flop
+Seat 7: rmikol didn't show and lost
+Seat 8: Eugene showed [Ac 6c] and won ($45.49) with two pair, Aces and Sixes
+Seat 9: Dano folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1598013460315681437: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 03:04:00 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Joker ($224.84 in chips)
+Seat 2: diptofsky ($139.93 in chips)
+Seat 3: danny ($86.07 in chips)
+Seat 4: phoebe ($62.82 in chips)
+Seat 5: georgethegiant ($79.43 in chips)
+Seat 7: rmikol ($71.02 in chips)
+Seat 8: Eugene ($110.12 in chips)
+Seat 9: Dano ($626.46 in chips)
+Seat 10: rampurge ($139.32 in chips)
+georgethegiant: posts small blind $0.25
+rmikol: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Th Qh]
+Eugene: raises $1.00 to $1.50
+Dano: raises $4.25 to $5.75
+rampurge: folds
+Joker: folds
+diptofsky: folds
+danny: folds
+phoebe: calls $5.75
+georgethegiant: folds
+rmikol: folds
+Eugene: raises $15.25 to $21.00
+Dano: raises $89.12 to $110.12
+phoebe: folds
+Eugene: calls $89.12
+Eugene: shows [Js Jd]
+Dano: shows [Kd Kh]
+*** FLOP *** [As Ah 9d]
+*** TURN *** [As Ah 9d] [Ac]
+*** RIVER *** [As Ah 9d Ac] [Jh]
+*** SHOW DOWN ***
+Dano collected $226.74 from pot
+*** SUMMARY ***
+Total pot: $226.74 | Rake 0
+Board [As Ah 9d Ac Jh]
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 4: phoebe (button) folded before Flop
+Seat 5: georgethegiant (small blind) folded before Flop
+Seat 7: rmikol (big blind) folded before Flop
+Seat 8: Eugene showed [Js Jd] and lost with a full house, Aces full of Jacks
+Seat 9: Dano showed [Kd Kh] and won ($226.74) with a full house, Aces full of Kings
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5525892646919119175: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 03:06:12 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: Joker ($224.84 in chips)
+Seat 2: diptofsky ($139.93 in chips)
+Seat 3: danny ($86.07 in chips)
+Seat 5: georgethegiant ($79.18 in chips)
+Seat 7: rmikol ($70.52 in chips)
+Seat 9: Dano ($743.08 in chips)
+rmikol: posts small blind $0.25
+Dano: posts big blind $0.50
+*** HOLE CARDS ***
+Joker: folds
+diptofsky: folds
+danny: raises $1.00 to $1.50
+georgethegiant: folds
+rmikol: folds
+Dano: folds
+Uncalled bet ($1.00) returned to danny
+*** SHOW DOWN ***
+danny collected $1.25 from pot
+*** SUMMARY ***
+Total pot: $1.25 | Rake 0
+Seat 1: Joker folded before Flop (didn't bet)
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny collected ($1.25)
+Seat 5: georgethegiant (button) folded before Flop (didn't bet)
+Seat 7: rmikol (small blind) folded before Flop
+Seat 9: Dano (big blind) folded before Flop
+
+
+
+PokerStars Hand #1545941893423730761: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 03:06:37 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Joker ($224.84 in chips)
+Seat 2: diptofsky ($139.93 in chips)
+Seat 3: danny ($86.82 in chips)
+Seat 5: georgethegiant ($79.18 in chips)
+Seat 7: rmikol ($70.27 in chips)
+Seat 9: Dano ($742.58 in chips)
+Dano: posts small blind $0.25
+Joker: posts big blind $0.50
+*** HOLE CARDS ***
+diptofsky: folds
+danny: folds
+georgethegiant: folds
+rmikol: folds
+Dano: raises $1.50 to $2.00
+Joker: folds
+Uncalled bet ($1.50) returned to Dano
+*** SHOW DOWN ***
+Dano collected $1.00 from pot
+*** SUMMARY ***
+Total pot: $1.00 | Rake 0
+Seat 1: Joker (big blind) folded before Flop
+Seat 2: diptofsky folded before Flop (didn't bet)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop (didn't bet)
+Seat 7: rmikol (button) folded before Flop (didn't bet)
+Seat 9: Dano (small blind) collected ($1.00)
+
+
+
+PokerStars Hand #17343147131145377515: Hold'em No Limit ($0.25/$0.50 USD) - 2024/06/14 03:07:26 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Joker ($224.34 in chips)
+Seat 2: diptofsky ($139.93 in chips)
+Seat 3: danny ($86.82 in chips)
+Seat 5: georgethegiant ($79.18 in chips)
+Seat 7: rmikol ($70.27 in chips)
+Seat 9: Dano ($743.08 in chips)
+Joker: posts small blind $0.25
+diptofsky: posts big blind $0.50
+*** HOLE CARDS ***
+danny: folds
+georgethegiant: raises $1.00 to $1.50
+rmikol: folds
+Dano: calls $1.50
+Joker: calls $1.25
+diptofsky: raises $9.50 to $11.00
+georgethegiant: folds
+Dano: calls $9.50
+Joker: folds
+*** FLOP *** [Kd Jh 2c]
+diptofsky: bets $10.50
+Dano: calls $10.50
+*** TURN *** [Kd Jh 2c] [7d]
+diptofsky: bets $35.00
+Dano: folds
+Uncalled bet ($35.00) returned to diptofsky
+*** SHOW DOWN ***
+diptofsky collected $46.00 from pot
+*** SUMMARY ***
+Total pot: $46.00 | Rake 0
+Board [Kd Jh 2c 7d]
+Seat 1: Joker (small blind) folded before Flop
+Seat 2: diptofsky (big blind) collected ($46.00)
+Seat 3: danny folded before Flop (didn't bet)
+Seat 5: georgethegiant folded before Flop
+Seat 7: rmikol folded before Flop (didn't bet)
+Seat 9: Dano (button) folded on the Turn
+
+
+

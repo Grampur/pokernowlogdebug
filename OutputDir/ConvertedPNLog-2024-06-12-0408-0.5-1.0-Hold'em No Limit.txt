@@ -1,0 +1,5454 @@
+PokerStars Hand #9014295930198608429: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:08:46 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: LORD ($100.00 in chips)
+Seat 3: Nate ($100.00 in chips)
+Seat 4: arnav ($150.00 in chips)
+Seat 5: Sardge ($100.00 in chips)
+Seat 6: 👾 ($100.00 in chips)
+Seat 7: SJP ($100.00 in chips)
+Seat 8: Boomin ($100.00 in chips)
+Seat 9: henny ($100.00 in chips)
+Seat 10: rampurge ($100.00 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Jd Qh]
+henny: raises $2.00 to $3.00
+rampurge: raises $6.50 to $9.50
+LORD: folds
+Nate: raises $20.50 to $30.00
+arnav: folds
+Sardge: folds
+👾: folds
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: folds
+Uncalled bet ($20.50) returned to Nate
+*** SHOW DOWN ***
+Nate collected $23.50 from pot
+Nate: shows [Ks Kh]
+*** SUMMARY ***
+Total pot: $23.50 | Rake 0
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 3: Nate collected ($23.50) [Ks Kh]
+Seat 4: arnav folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 (button) folded before Flop (didn't bet)
+Seat 7: SJP (small blind) folded before Flop
+Seat 8: Boomin (big blind) folded before Flop
+Seat 9: henny folded before Flop
+Seat 10: rampurge folded before Flop
+
+
+
+PokerStars Hand #10318452023671787228: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:09:24 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: LORD ($100.00 in chips)
+Seat 3: Nate ($114.00 in chips)
+Seat 4: arnav ($150.00 in chips)
+Seat 5: Sardge ($100.00 in chips)
+Seat 6: 👾 ($100.00 in chips)
+Seat 7: SJP ($99.50 in chips)
+Seat 8: Boomin ($99.00 in chips)
+Seat 9: henny ($97.00 in chips)
+Seat 10: rampurge ($90.50 in chips)
+Boomin: posts small blind $0.50
+henny: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kd 2c]
+rampurge: folds
+LORD: folds
+Nate: raises $2.00 to $3.00
+arnav: folds
+Sardge: folds
+👾: calls $3.00
+SJP: folds
+Boomin: folds
+henny: folds
+*** FLOP *** [As Ts 9h]
+Nate: bets $3.00
+👾: calls $3.00
+*** TURN *** [As Ts 9h] [9c]
+Nate: bets $8.00
+👾: folds
+Uncalled bet ($8.00) returned to Nate
+*** SHOW DOWN ***
+Nate collected $13.50 from pot
+*** SUMMARY ***
+Total pot: $13.50 | Rake 0
+Board [As Ts 9h 9c]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 3: Nate collected ($13.50)
+Seat 4: arnav folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded on the Turn
+Seat 7: SJP (button) folded before Flop (didn't bet)
+Seat 8: Boomin (small blind) folded before Flop
+Seat 9: henny (big blind) folded before Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #11178105508326150931: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:10:03 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: LORD ($100.00 in chips)
+Seat 3: Nate ($121.50 in chips)
+Seat 4: arnav ($150.00 in chips)
+Seat 5: Sardge ($100.00 in chips)
+Seat 6: 👾 ($94.00 in chips)
+Seat 7: SJP ($99.50 in chips)
+Seat 8: Boomin ($98.50 in chips)
+Seat 9: henny ($96.00 in chips)
+Seat 10: rampurge ($90.50 in chips)
+henny: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Th 3h]
+LORD: folds
+Nate: raises $2.00 to $3.00
+arnav: folds
+Sardge: folds
+👾: folds
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: calls $2.00
+*** FLOP *** [Jd 8h 6h]
+rampurge: checks
+Nate: checks
+*** TURN *** [Jd 8h 6h] [Ad]
+rampurge: checks
+Nate: bets $2.50
+rampurge: calls $2.50
+*** RIVER *** [Jd 8h 6h Ad] [5d]
+rampurge: checks
+Nate: checks
+Nate: shows [5s 4s]
+*** SHOW DOWN ***
+Nate collected $11.50 from pot
+rampurge: shows [Th 3h]
+*** SUMMARY ***
+Total pot: $11.50 | Rake 0
+Board [Jd 8h 6h Ad 5d]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 3: Nate showed [5s 4s] and won ($11.50) with a pair of Fives
+Seat 4: arnav folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin (button) folded before Flop (didn't bet)
+Seat 9: henny (small blind) folded before Flop
+Seat 10: rampurge (big blind) showed [Th 3h] and lost with high card Ace
+
+
+
+PokerStars Hand #9694055069659623589: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:10:43 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: LORD ($100.00 in chips)
+Seat 3: Nate ($127.50 in chips)
+Seat 4: arnav ($150.00 in chips)
+Seat 5: Sardge ($100.00 in chips)
+Seat 6: 👾 ($94.00 in chips)
+Seat 7: SJP ($99.50 in chips)
+Seat 8: Boomin ($98.50 in chips)
+Seat 9: henny ($95.50 in chips)
+Seat 10: rampurge ($85.00 in chips)
+rampurge: posts small blind $0.50
+LORD: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qs 8d]
+Nate: folds
+arnav: folds
+Sardge: folds
+👾: folds
+SJP: folds
+Boomin: raises $2.00 to $3.00
+henny: raises $6.00 to $9.00
+rampurge: folds
+LORD: folds
+Boomin: calls $6.00
+*** FLOP *** [5d 4d Kc]
+Boomin: checks
+henny: checks
+*** TURN *** [5d 4d Kc] [6c]
+Boomin: bets $9.50
+henny: calls $9.50
+*** RIVER *** [5d 4d Kc 6c] [5c]
+Boomin: bets $21.50
+henny: raises $55.50 to $77.00
+Boomin: folds
+Uncalled bet ($55.50) returned to henny
+*** SHOW DOWN ***
+henny collected $81.50 from pot
+*** SUMMARY ***
+Total pot: $81.50 | Rake 0
+Board [5d 4d Kc 6c 5c]
+Seat 1: LORD (big blind) folded before Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: arnav folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded on the River
+Seat 9: henny (button) collected ($81.50)
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #4821914837150698535: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:11:51 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: LORD ($99.00 in chips)
+Seat 3: Nate ($127.50 in chips)
+Seat 4: arnav ($150.00 in chips)
+Seat 5: Sardge ($100.00 in chips)
+Seat 6: 👾 ($94.00 in chips)
+Seat 7: SJP ($99.50 in chips)
+Seat 8: Boomin ($58.50 in chips)
+Seat 9: henny ($137.00 in chips)
+Seat 10: rampurge ($84.50 in chips)
+LORD: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9s 9c]
+arnav: folds
+Sardge: folds
+👾: folds
+SJP: folds
+Boomin: folds
+henny: calls $1.00
+rampurge: raises $5.50 to $6.50
+LORD: folds
+Nate: folds
+henny: folds
+Uncalled bet ($5.50) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $3.50 from pot
+*** SUMMARY ***
+Total pot: $3.50 | Rake 0
+Seat 1: LORD (small blind) folded before Flop
+Seat 3: Nate (big blind) folded before Flop
+Seat 4: arnav folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop
+Seat 10: rampurge (button) collected ($3.50)
+
+
+
+PokerStars Hand #13842570274462721338: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:12:21 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: LORD ($98.50 in chips)
+Seat 3: Nate ($126.50 in chips)
+Seat 4: arnav ($150.00 in chips)
+Seat 5: Sardge ($100.00 in chips)
+Seat 6: 👾 ($94.00 in chips)
+Seat 7: SJP ($99.50 in chips)
+Seat 8: Boomin ($108.50 in chips)
+Seat 9: henny ($136.00 in chips)
+Seat 10: rampurge ($87.00 in chips)
+Nate: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qd Qc]
+Sardge: folds
+👾: folds
+SJP: raises $2.50 to $3.50
+Boomin: folds
+henny: folds
+rampurge: raises $8.50 to $12.00
+LORD: folds
+Nate: folds
+arnav: folds
+SJP: calls $8.50
+*** FLOP *** [3s 3c 4d]
+SJP: checks
+rampurge: bets $9.00
+SJP: calls $9.00
+*** TURN *** [3s 3c 4d] [5d]
+SJP: checks
+rampurge: checks
+*** RIVER *** [3s 3c 4d 5d] [Ah]
+SJP: checks
+rampurge: checks
+SJP: shows [As 5s]
+*** SHOW DOWN ***
+SJP collected $43.50 from pot
+rampurge: shows [Qd Qc]
+*** SUMMARY ***
+Total pot: $43.50 | Rake 0
+Board [3s 3c 4d 5d Ah]
+Seat 1: LORD (button) folded before Flop (didn't bet)
+Seat 3: Nate (small blind) folded before Flop
+Seat 4: arnav (big blind) folded before Flop
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP showed [As 5s] and won ($43.50) with two pair, Aces and Fives
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge showed [Qd Qc] and lost with two pair, Queens and Threes
+
+
+
+PokerStars Hand #1389200806446425065: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:13:07 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: LORD ($98.50 in chips)
+Seat 3: Nate ($126.00 in chips)
+Seat 4: arnav ($149.00 in chips)
+Seat 5: Sardge ($100.00 in chips)
+Seat 6: 👾 ($94.00 in chips)
+Seat 7: SJP ($122.00 in chips)
+Seat 8: Boomin ($108.50 in chips)
+Seat 9: henny ($136.00 in chips)
+Seat 10: rampurge ($66.00 in chips)
+arnav: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Th 7d]
+👾: folds
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: folds
+LORD: folds
+Nate: raises $2.99 to $3.99
+arnav: raises $9.01 to $13.00
+Sardge: folds
+Nate: folds
+Uncalled bet ($9.01) returned to arnav
+*** SHOW DOWN ***
+arnav collected $8.98 from pot
+*** SUMMARY ***
+Total pot: $8.98 | Rake 0
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 3: Nate (button) folded before Flop
+Seat 4: arnav (small blind) collected ($8.98)
+Seat 5: Sardge (big blind) folded before Flop
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3543284364754968541: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:13:41 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: LORD ($98.50 in chips)
+Seat 3: Nate ($122.01 in chips)
+Seat 4: arnav ($153.99 in chips)
+Seat 5: Sardge ($99.00 in chips)
+Seat 6: 👾 ($94.00 in chips)
+Seat 7: SJP ($122.00 in chips)
+Seat 8: Boomin ($108.50 in chips)
+Seat 9: henny ($136.00 in chips)
+Seat 10: rampurge ($66.00 in chips)
+Sardge: posts small blind $0.50
+👾: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Jc 3h]
+SJP: folds
+Boomin: raises $2.00 to $3.00
+henny: folds
+rampurge: folds
+LORD: folds
+Nate: calls $3.00
+arnav: folds
+Sardge: raises $9.00 to $12.00
+👾: folds
+Boomin: calls $9.00
+Nate: folds
+*** FLOP *** [Jd Kh 2s]
+Sardge: bets $10.00
+Boomin: folds
+Uncalled bet ($10.00) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $28.00 from pot
+*** SUMMARY ***
+Total pot: $28.00 | Rake 0
+Board [Jd Kh 2s]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop
+Seat 4: arnav (button) folded before Flop (didn't bet)
+Seat 5: Sardge (small blind) collected ($28.00)
+Seat 6: 👾 (big blind) folded before Flop
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded on the Flop
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5211726725377052241: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:14:50 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: LORD ($98.50 in chips)
+Seat 3: Nate ($119.01 in chips)
+Seat 4: arnav ($153.99 in chips)
+Seat 5: Sardge ($115.00 in chips)
+Seat 6: 👾 ($93.00 in chips)
+Seat 7: SJP ($122.00 in chips)
+Seat 8: Boomin ($96.50 in chips)
+Seat 9: henny ($136.00 in chips)
+Seat 10: rampurge ($66.00 in chips)
+👾: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3c Th]
+Boomin: folds
+henny: raises $1.50 to $2.50
+rampurge: folds
+LORD: raises $6.50 to $9.00
+Nate: folds
+arnav: folds
+Sardge: folds
+👾: folds
+SJP: folds
+henny: calls $6.50
+*** FLOP *** [4c Qs 9s]
+henny: checks
+LORD: bets $6.75
+henny: folds
+Uncalled bet ($6.75) returned to LORD
+*** SHOW DOWN ***
+LORD collected $19.50 from pot
+*** SUMMARY ***
+Total pot: $19.50 | Rake 0
+Board [4c Qs 9s]
+Seat 1: LORD collected ($19.50)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: arnav folded before Flop (didn't bet)
+Seat 5: Sardge (button) folded before Flop (didn't bet)
+Seat 6: 👾 (small blind) folded before Flop
+Seat 7: SJP (big blind) folded before Flop
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded on the Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1699262091887599770: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:15:33 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: LORD ($109.00 in chips)
+Seat 3: Nate ($119.01 in chips)
+Seat 4: arnav ($153.99 in chips)
+Seat 5: Sardge ($115.00 in chips)
+Seat 6: 👾 ($92.50 in chips)
+Seat 7: SJP ($121.00 in chips)
+Seat 8: Boomin ($96.50 in chips)
+Seat 9: henny ($127.00 in chips)
+Seat 10: rampurge ($66.00 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6d 5d]
+henny: folds
+rampurge: raises $2.00 to $3.00
+LORD: folds
+Nate: folds
+arnav: folds
+Sardge: folds
+👾: folds
+SJP: folds
+Boomin: calls $2.00
+*** FLOP *** [7d 8h Qc]
+Boomin: checks
+rampurge: checks
+*** TURN *** [7d 8h Qc] [8s]
+Boomin: checks
+rampurge: bets $4.87
+Boomin: calls $4.87
+*** RIVER *** [7d 8h Qc 8s] [Th]
+Boomin: checks
+rampurge: checks
+Boomin: shows [Qh Ts]
+*** SHOW DOWN ***
+Boomin collected $16.24 from pot
+*** SUMMARY ***
+Total pot: $16.24 | Rake 0
+Board [7d 8h Qc 8s Th]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: arnav folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 (button) folded before Flop (didn't bet)
+Seat 7: SJP (small blind) folded before Flop
+Seat 8: Boomin (big blind) showed [Qh Ts] and won ($16.24) with two pair, Queens and Tens
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge didn't show and lost
+
+
+
+PokerStars Hand #9863052709200998328: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:16:29 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: LORD ($109.00 in chips)
+Seat 3: Nate ($119.01 in chips)
+Seat 4: arnav ($153.99 in chips)
+Seat 5: Sardge ($115.00 in chips)
+Seat 6: 👾 ($92.50 in chips)
+Seat 7: SJP ($120.50 in chips)
+Seat 8: Boomin ($104.87 in chips)
+Seat 9: henny ($127.00 in chips)
+Seat 10: rampurge ($58.13 in chips)
+Boomin: posts small blind $0.50
+henny: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8h 7s]
+rampurge: folds
+LORD: calls $1.00
+Nate: raises $3.00 to $4.00
+arnav: folds
+Sardge: folds
+👾: calls $4.00
+SJP: folds
+Boomin: folds
+henny: raises $12.00 to $16.00
+LORD: folds
+Nate: raises $34.00 to $50.00
+👾: folds
+henny: folds
+Uncalled bet ($34.00) returned to Nate
+*** SHOW DOWN ***
+Nate collected $37.50 from pot
+Nate: shows [Kd Kc]
+henny: shows [Ah Qh]
+*** SUMMARY ***
+Total pot: $37.50 | Rake 0
+Seat 1: LORD folded before Flop
+Seat 3: Nate collected ($37.50) [Kd Kc]
+Seat 4: arnav folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop
+Seat 7: SJP (button) folded before Flop (didn't bet)
+Seat 8: Boomin (small blind) folded before Flop
+Seat 9: henny (big blind) folded before Flop [Ah Qh]
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #13918001629755291714: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:18:03 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: LORD ($108.00 in chips)
+Seat 3: Nate ($140.51 in chips)
+Seat 4: arnav ($153.99 in chips)
+Seat 5: Sardge ($115.00 in chips)
+Seat 6: 👾 ($88.50 in chips)
+Seat 7: SJP ($120.50 in chips)
+Seat 8: Boomin ($104.37 in chips)
+Seat 9: henny ($111.00 in chips)
+Seat 10: rampurge ($58.13 in chips)
+henny: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [As Td]
+LORD: folds
+Nate: folds
+arnav: folds
+Sardge: folds
+👾: folds
+SJP: folds
+Boomin: raises $2.00 to $3.00
+henny: folds
+rampurge: calls $2.00
+*** FLOP *** [9h 6h 9s]
+rampurge: checks
+Boomin: bets $3.25
+rampurge: calls $3.25
+*** TURN *** [9h 6h 9s] [4c]
+rampurge: checks
+Boomin: checks
+*** RIVER *** [9h 6h 9s 4c] [9c]
+rampurge: bets $6.50
+Boomin: calls $6.50
+rampurge: shows [As Td]
+*** SHOW DOWN ***
+rampurge collected $26.00 from pot
+Boomin: shows [Ah 3d]
+*** SUMMARY ***
+Total pot: $26.00 | Rake 0
+Board [9h 6h 9s 4c 9c]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: arnav folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin (button) showed [Ah 3d] and lost with three of a kind, Nines
+Seat 9: henny (small blind) folded before Flop
+Seat 10: rampurge (big blind) showed [As Td] and won ($26.00) with three of a kind, Nines
+
+
+
+PokerStars Hand #17321457172108515295: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:19:12 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: LORD ($108.00 in chips)
+Seat 3: Nate ($140.51 in chips)
+Seat 4: arnav ($153.99 in chips)
+Seat 5: Sardge ($115.00 in chips)
+Seat 6: 👾 ($88.50 in chips)
+Seat 7: SJP ($120.50 in chips)
+Seat 8: Boomin ($91.62 in chips)
+Seat 9: henny ($110.50 in chips)
+Seat 10: rampurge ($71.38 in chips)
+rampurge: posts small blind $0.50
+LORD: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2h Ah]
+Nate: folds
+arnav: folds
+Sardge: folds
+👾: calls $1.00
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: calls $0.50
+LORD: checks
+*** FLOP *** [9h 5h 3s]
+rampurge: checks
+LORD: checks
+👾: bets $1.50
+rampurge: raises $3.00 to $4.50
+LORD: folds
+👾: calls $3.00
+*** TURN *** [9h 5h 3s] [7c]
+rampurge: checks
+👾: bets $6.00
+rampurge: calls $6.00
+*** RIVER *** [9h 5h 3s 7c] [5d]
+rampurge: checks
+👾: checks
+rampurge: shows [2h Ah]
+*** SHOW DOWN ***
+rampurge collected $24.00 from pot
+*** SUMMARY ***
+Total pot: $24.00 | Rake 0
+Board [9h 5h 3s 7c 5d]
+Seat 1: LORD (big blind) folded on the Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: arnav folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 didn't show and lost
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) showed [2h Ah] and won ($24.00) with a pair of Fives
+
+
+
+PokerStars Hand #12948720648320507977: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:20:13 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: LORD ($107.00 in chips)
+Seat 3: Nate ($140.51 in chips)
+Seat 4: arnav ($153.99 in chips)
+Seat 5: Sardge ($115.00 in chips)
+Seat 6: 👾 ($77.00 in chips)
+Seat 7: SJP ($120.50 in chips)
+Seat 8: Boomin ($141.62 in chips)
+Seat 9: henny ($110.50 in chips)
+Seat 10: rampurge ($83.88 in chips)
+LORD: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ts Qh]
+arnav: folds
+Sardge: raises $2.00 to $3.00
+👾: folds
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: folds
+LORD: folds
+Nate: calls $2.00
+*** FLOP *** [5h Jc 8d]
+Nate: checks
+Sardge: checks
+*** TURN *** [5h Jc 8d] [Kh]
+Nate: checks
+Sardge: bets $2.00
+Nate: folds
+Uncalled bet ($2.00) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $6.50 from pot
+*** SUMMARY ***
+Total pot: $6.50 | Rake 0
+Board [5h Jc 8d Kh]
+Seat 1: LORD (small blind) folded before Flop
+Seat 3: Nate (big blind) folded on the Turn
+Seat 4: arnav folded before Flop (didn't bet)
+Seat 5: Sardge collected ($6.50)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4233432682858711823: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:20:58 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: LORD ($106.50 in chips)
+Seat 3: Nate ($137.51 in chips)
+Seat 4: arnav ($153.99 in chips)
+Seat 5: Sardge ($118.50 in chips)
+Seat 6: 👾 ($77.00 in chips)
+Seat 7: SJP ($120.50 in chips)
+Seat 8: Boomin ($141.62 in chips)
+Seat 9: henny ($110.50 in chips)
+Seat 10: rampurge ($83.88 in chips)
+Nate: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6c 9h]
+Sardge: folds
+👾: folds
+SJP: folds
+Boomin: raises $2.00 to $3.00
+henny: folds
+rampurge: folds
+LORD: folds
+Nate: calls $2.50
+arnav: folds
+*** FLOP *** [Ac As Ts]
+Nate: checks
+Boomin: bets $3.50
+Nate: folds
+Uncalled bet ($3.50) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $7.00 from pot
+*** SUMMARY ***
+Total pot: $7.00 | Rake 0
+Board [Ac As Ts]
+Seat 1: LORD (button) folded before Flop (didn't bet)
+Seat 3: Nate (small blind) folded on the Flop
+Seat 4: arnav (big blind) folded before Flop
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin collected ($7.00)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #7121749940032243073: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:21:33 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: LORD ($106.50 in chips)
+Seat 3: Nate ($134.51 in chips)
+Seat 4: arnav ($152.99 in chips)
+Seat 5: Sardge ($118.50 in chips)
+Seat 6: 👾 ($77.00 in chips)
+Seat 7: SJP ($120.50 in chips)
+Seat 8: Boomin ($145.62 in chips)
+Seat 9: henny ($110.50 in chips)
+Seat 10: rampurge ($83.88 in chips)
+arnav: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2s 3h]
+👾: folds
+SJP: folds
+Boomin: folds
+henny: raises $2.00 to $3.00
+rampurge: folds
+LORD: raises $7.50 to $10.50
+Nate: folds
+arnav: folds
+Sardge: folds
+henny: calls $7.50
+*** FLOP *** [5d Kh 6d]
+henny: checks
+LORD: bets $11.25
+henny: folds
+Uncalled bet ($11.25) returned to LORD
+*** SHOW DOWN ***
+LORD collected $22.50 from pot
+*** SUMMARY ***
+Total pot: $22.50 | Rake 0
+Board [5d Kh 6d]
+Seat 1: LORD collected ($22.50)
+Seat 3: Nate (button) folded before Flop (didn't bet)
+Seat 4: arnav (small blind) folded before Flop
+Seat 5: Sardge (big blind) folded before Flop
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded on the Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #10291993906642267938: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:22:06 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: LORD ($118.50 in chips)
+Seat 3: Nate ($134.51 in chips)
+Seat 4: arnav ($152.49 in chips)
+Seat 5: Sardge ($117.50 in chips)
+Seat 6: 👾 ($77.00 in chips)
+Seat 7: SJP ($120.50 in chips)
+Seat 8: Boomin ($145.62 in chips)
+Seat 9: henny ($100.00 in chips)
+Seat 10: rampurge ($83.88 in chips)
+Sardge: posts small blind $0.50
+👾: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2d 2h]
+SJP: folds
+Boomin: raises $2.00 to $3.00
+henny: raises $6.00 to $9.00
+rampurge: folds
+LORD: folds
+Nate: folds
+arnav: folds
+Sardge: folds
+👾: folds
+Boomin: calls $6.00
+*** FLOP *** [Ks 8s Qc]
+Boomin: checks
+henny: bets $8.00
+Boomin: raises $16.00 to $24.00
+henny: calls $16.00
+*** TURN *** [Ks 8s Qc] [5h]
+Boomin: bets $67.00
+henny: folds
+Uncalled bet ($67.00) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $67.50 from pot
+*** SUMMARY ***
+Total pot: $67.50 | Rake 0
+Board [Ks 8s Qc 5h]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: arnav (button) folded before Flop (didn't bet)
+Seat 5: Sardge (small blind) folded before Flop
+Seat 6: 👾 (big blind) folded before Flop
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin collected ($67.50)
+Seat 9: henny folded on the Turn
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1710845140055373743: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:24:27 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: LORD ($118.50 in chips)
+Seat 3: Nate ($134.51 in chips)
+Seat 5: Sardge ($117.00 in chips)
+Seat 6: 👾 ($76.00 in chips)
+Seat 7: SJP ($120.50 in chips)
+Seat 8: Boomin ($180.12 in chips)
+Seat 9: henny ($67.00 in chips)
+Seat 10: rampurge ($83.88 in chips)
+👾: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8d Js]
+Boomin: folds
+henny: folds
+rampurge: folds
+LORD: folds
+Nate: folds
+Sardge: folds
+👾: raises $2.00 to $3.00
+SJP: calls $2.00
+*** FLOP *** [6h Qh Jh]
+👾: bets $2.00
+SJP: folds
+Uncalled bet ($2.00) returned to 👾
+*** SHOW DOWN ***
+👾 collected $6.00 from pot
+*** SUMMARY ***
+Total pot: $6.00 | Rake 0
+Board [6h Qh Jh]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge (button) folded before Flop (didn't bet)
+Seat 6: 👾 (small blind) collected ($6.00)
+Seat 7: SJP (big blind) folded on the Flop
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #17763182916324658528: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:24:50 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: LORD ($118.50 in chips)
+Seat 3: Nate ($134.51 in chips)
+Seat 5: Sardge ($117.00 in chips)
+Seat 6: 👾 ($79.00 in chips)
+Seat 7: SJP ($117.50 in chips)
+Seat 8: Boomin ($180.12 in chips)
+Seat 9: henny ($67.00 in chips)
+Seat 10: rampurge ($83.88 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ad 4s]
+henny: folds
+rampurge: folds
+LORD: folds
+Nate: folds
+Sardge: raises $2.00 to $3.00
+👾: calls $3.00
+SJP: folds
+Boomin: calls $2.00
+*** FLOP *** [4c 4d Kd]
+Boomin: checks
+Sardge: bets $3.00
+👾: folds
+Boomin: folds
+Uncalled bet ($3.00) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $9.50 from pot
+*** SUMMARY ***
+Total pot: $9.50 | Rake 0
+Board [4c 4d Kd]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge collected ($9.50)
+Seat 6: 👾 (button) folded on the Flop
+Seat 7: SJP (small blind) folded before Flop
+Seat 8: Boomin (big blind) folded on the Flop
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #13495208599498710039: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:25:39 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: LORD ($118.50 in chips)
+Seat 3: Nate ($134.51 in chips)
+Seat 5: Sardge ($123.50 in chips)
+Seat 6: 👾 ($76.00 in chips)
+Seat 7: SJP ($117.00 in chips)
+Seat 8: Boomin ($177.12 in chips)
+Seat 9: henny ($67.00 in chips)
+Seat 10: rampurge ($83.88 in chips)
+Boomin: posts small blind $0.50
+henny: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7s Td]
+rampurge: folds
+LORD: folds
+Nate: raises $2.00 to $3.00
+Sardge: folds
+👾: folds
+SJP: calls $3.00
+Boomin: folds
+henny: calls $2.00
+*** FLOP *** [3s Kd Ac]
+henny: checks
+Nate: bets $3.00
+SJP: calls $3.00
+henny: folds
+*** TURN *** [3s Kd Ac] [Qd]
+Nate: checks
+SJP: checks
+*** RIVER *** [3s Kd Ac Qd] [2h]
+Nate: checks
+SJP: checks
+Nate: shows [Qh Jc]
+*** SHOW DOWN ***
+Nate collected $7.75 from pot
+SJP: shows [Qs Js]
+SJP collected $7.75 from pot
+*** SUMMARY ***
+Total pot: $15.50 | Rake 0
+Board [3s Kd Ac Qd 2h]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 3: Nate showed [Qh Jc] and won ($7.75) with a pair of Queens
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP (button) showed [Qs Js] and won ($7.75) with a pair of Queens
+Seat 8: Boomin (small blind) folded before Flop
+Seat 9: henny (big blind) folded on the Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #8935430789350822984: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:26:19 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: LORD ($118.50 in chips)
+Seat 3: Nate ($136.26 in chips)
+Seat 5: Sardge ($123.50 in chips)
+Seat 6: 👾 ($76.00 in chips)
+Seat 7: SJP ($118.75 in chips)
+Seat 8: Boomin ($176.62 in chips)
+Seat 9: henny ($64.00 in chips)
+Seat 10: rampurge ($83.88 in chips)
+henny: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7s 9h]
+LORD: raises $2.50 to $3.50
+Nate: folds
+Sardge: folds
+👾: folds
+SJP: calls $3.50
+Boomin: folds
+henny: raises $9.50 to $13.00
+rampurge: folds
+LORD: folds
+SJP: folds
+Uncalled bet ($9.50) returned to henny
+*** SHOW DOWN ***
+henny collected $11.50 from pot
+*** SUMMARY ***
+Total pot: $11.50 | Rake 0
+Seat 1: LORD folded before Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop
+Seat 8: Boomin (button) folded before Flop (didn't bet)
+Seat 9: henny (small blind) collected ($11.50)
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #14407762495012776718: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:26:55 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: LORD ($115.00 in chips)
+Seat 3: Nate ($136.26 in chips)
+Seat 5: Sardge ($123.50 in chips)
+Seat 6: 👾 ($76.00 in chips)
+Seat 7: SJP ($115.25 in chips)
+Seat 8: Boomin ($176.62 in chips)
+Seat 9: henny ($72.00 in chips)
+Seat 10: rampurge ($82.88 in chips)
+rampurge: posts small blind $0.50
+LORD: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ts 6h]
+Nate: folds
+Sardge: raises $2.00 to $3.00
+👾: calls $3.00
+SJP: calls $3.00
+Boomin: folds
+henny: raises $9.00 to $12.00
+rampurge: folds
+LORD: folds
+Sardge: raises $23.00 to $35.00
+👾: folds
+SJP: folds
+henny: raises $37.00 to $72.00
+Sardge: calls $37.00
+Sardge: shows [Ad Kh]
+henny: shows [5c 5d]
+*** FIRST FLOP *** [Kd 5s 9d]
+*** FIRST TURN *** [Kd 5s 9d] [7h]
+*** FIRST RIVER *** [Kd 5s 9d 7h] [As]
+*** SECOND FLOP *** [Tc 2c 4s]
+*** SECOND TURN *** [Tc 2c 4s] [Qc]
+*** SECOND RIVER *** [Tc 2c 4s Qc] [2d]
+*** FIRST SHOW DOWN ***
+henny collected $75.75 from pot
+*** SECOND SHOW DOWN ***
+henny collected $75.75 from pot
+Boomin: shows [Th 5h]
+*** SUMMARY ***
+Total pot: $151.50 | Rake 0
+Hand was run twice
+FIRST Board [Kd 5s 9d 7h As]
+SECOND Board [Tc 2c 4s Qc 2d]
+Seat 1: LORD (big blind) folded before Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge showed [Ad Kh] and lost with two pair, Aces and Kings, and lost with a pair of Deuces
+Seat 6: 👾 folded before Flop
+Seat 7: SJP folded before Flop
+Seat 8: Boomin folded before Flop (didn't bet), and lost with two pair, Tens and Deuces [Th 5h]
+Seat 9: henny (button) showed [5c 5d] and won ($75.75) with three of a kind, Fives, and won ($75.75) with two pair, Fives and Deuces
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #8066260301300375125: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:28:56 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: LORD ($114.00 in chips)
+Seat 2: Diptofsky ($150.00 in chips)
+Seat 3: Nate ($136.26 in chips)
+Seat 5: Sardge ($51.50 in chips)
+Seat 6: 👾 ($73.00 in chips)
+Seat 7: SJP ($112.25 in chips)
+Seat 8: Boomin ($176.62 in chips)
+Seat 9: henny ($151.50 in chips)
+Seat 10: rampurge ($82.38 in chips)
+LORD: posts small blind $0.50
+Diptofsky: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qd Qc]
+Nate: folds
+Sardge: folds
+👾: calls $1.00
+SJP: folds
+Boomin: folds
+henny: raises $2.00 to $3.00
+rampurge: raises $9.50 to $12.50
+LORD: folds
+Diptofsky: folds
+👾: folds
+henny: folds
+Uncalled bet ($9.50) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $8.50 from pot
+*** SUMMARY ***
+Total pot: $8.50 | Rake 0
+Seat 1: LORD (small blind) folded before Flop
+Seat 2: Diptofsky (big blind) folded before Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop
+Seat 10: rampurge (button) collected ($8.50)
+
+
+
+PokerStars Hand #18385579674159538407: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:29:34 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: LORD ($113.50 in chips)
+Seat 2: Diptofsky ($149.00 in chips)
+Seat 3: Nate ($136.26 in chips)
+Seat 5: Sardge ($51.50 in chips)
+Seat 6: 👾 ($72.00 in chips)
+Seat 7: SJP ($112.25 in chips)
+Seat 8: Boomin ($176.62 in chips)
+Seat 9: henny ($148.50 in chips)
+Seat 10: rampurge ($87.88 in chips)
+Diptofsky: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7s 8d]
+Sardge: folds
+👾: folds
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: folds
+LORD: folds
+Diptofsky: raises $2.00 to $3.00
+Nate: calls $2.00
+*** FLOP *** [6s 9d Ac]
+Diptofsky: checks
+Nate: checks
+*** TURN *** [6s 9d Ac] [Ah]
+Diptofsky: checks
+Nate: checks
+*** RIVER *** [6s 9d Ac Ah] [3d]
+Diptofsky: checks
+Nate: checks
+Nate: shows [6c 3c]
+*** SHOW DOWN ***
+Nate collected $6.00 from pot
+Diptofsky: shows [Ts Jh]
+*** SUMMARY ***
+Total pot: $6.00 | Rake 0
+Board [6s 9d Ac Ah 3d]
+Seat 1: LORD (button) folded before Flop (didn't bet)
+Seat 2: Diptofsky (small blind) showed [Ts Jh] and lost with a pair of Aces
+Seat 3: Nate (big blind) showed [6c 3c] and won ($6.00) with two pair, Aces and Sixes
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #350597942601092198: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:30:07 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: LORD ($113.50 in chips)
+Seat 2: Diptofsky ($146.00 in chips)
+Seat 3: Nate ($139.26 in chips)
+Seat 5: Sardge ($51.50 in chips)
+Seat 6: 👾 ($72.00 in chips)
+Seat 7: SJP ($112.25 in chips)
+Seat 8: Boomin ($176.62 in chips)
+Seat 9: henny ($148.50 in chips)
+Seat 10: rampurge ($87.88 in chips)
+Nate: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ks Jd]
+👾: raises $2.00 to $3.00
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: calls $3.00
+LORD: folds
+Diptofsky: calls $3.00
+Nate: folds
+Sardge: calls $2.00
+*** FLOP *** [6s 8c Th]
+Sardge: checks
+👾: checks
+rampurge: checks
+Diptofsky: checks
+*** TURN *** [6s 8c Th] [3h]
+Sardge: bets $1.00
+👾: calls $1.00
+rampurge: folds
+Diptofsky: calls $1.00
+*** RIVER *** [6s 8c Th 3h] [3d]
+Sardge: checks
+👾: checks
+Diptofsky: checks
+Sardge: shows [9d 6c]
+*** SHOW DOWN ***
+Sardge collected $15.50 from pot
+*** SUMMARY ***
+Total pot: $15.50 | Rake 0
+Board [6s 8c Th 3h 3d]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky (button) didn't show and lost
+Seat 3: Nate (small blind) folded before Flop
+Seat 5: Sardge (big blind) showed [9d 6c] and won ($15.50) with two pair, Sixes and Threes
+Seat 6: 👾 didn't show and lost
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded on the Turn
+
+
+
+PokerStars Hand #14656286344045655868: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:30:47 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: LORD ($113.50 in chips)
+Seat 2: Diptofsky ($142.00 in chips)
+Seat 3: Nate ($138.76 in chips)
+Seat 5: Sardge ($63.00 in chips)
+Seat 6: 👾 ($68.00 in chips)
+Seat 7: SJP ($112.25 in chips)
+Seat 8: Boomin ($176.62 in chips)
+Seat 9: henny ($148.50 in chips)
+Seat 10: rampurge ($84.88 in chips)
+Sardge: posts small blind $0.50
+👾: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9d Qc]
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: folds
+LORD: folds
+Diptofsky: raises $2.00 to $3.00
+Nate: folds
+Sardge: raises $9.00 to $12.00
+👾: folds
+Diptofsky: calls $9.00
+*** FLOP *** [2d Jh 4s]
+Sardge: checks
+Diptofsky: checks
+*** TURN *** [2d Jh 4s] [Kd]
+Sardge: bets $10.00
+Diptofsky: calls $10.00
+*** RIVER *** [2d Jh 4s Kd] [3d]
+Sardge: checks
+Diptofsky: checks
+Diptofsky: shows [Ts Ad]
+*** SHOW DOWN ***
+Diptofsky collected $45.00 from pot
+Sardge: shows [9s 8c]
+*** SUMMARY ***
+Total pot: $45.00 | Rake 0
+Board [2d Jh 4s Kd 3d]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky showed [Ts Ad] and won ($45.00) with high card Ace
+Seat 3: Nate (button) folded before Flop (didn't bet)
+Seat 5: Sardge (small blind) showed [9s 8c] and lost with high card King
+Seat 6: 👾 (big blind) folded before Flop
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #11327364684009244891: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:31:28 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: LORD ($113.50 in chips)
+Seat 2: Diptofsky ($165.00 in chips)
+Seat 3: Nate ($138.76 in chips)
+Seat 5: Sardge ($41.00 in chips)
+Seat 6: 👾 ($67.00 in chips)
+Seat 7: SJP ($112.25 in chips)
+Seat 8: Boomin ($176.62 in chips)
+Seat 9: henny ($148.50 in chips)
+Seat 10: rampurge ($84.88 in chips)
+👾: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9s 4d]
+Boomin: folds
+henny: raises $2.00 to $3.00
+rampurge: folds
+LORD: folds
+Diptofsky: folds
+Nate: folds
+Sardge: folds
+👾: calls $2.50
+SJP: calls $2.00
+*** FLOP *** [7d Tc Ac]
+👾: checks
+SJP: checks
+henny: bets $3.00
+👾: calls $3.00
+SJP: calls $3.00
+*** TURN *** [7d Tc Ac] [9d]
+👾: checks
+SJP: checks
+henny: bets $6.00
+👾: raises $12.00 to $18.00
+SJP: folds
+henny: calls $12.00
+*** RIVER *** [7d Tc Ac 9d] [2c]
+👾: bets $43.00
+henny: folds
+Uncalled bet ($43.00) returned to 👾
+*** SHOW DOWN ***
+👾 collected $54.00 from pot
+*** SUMMARY ***
+Total pot: $54.00 | Rake 0
+Board [7d Tc Ac 9d 2c]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge (button) folded before Flop (didn't bet)
+Seat 6: 👾 (small blind) collected ($54.00)
+Seat 7: SJP (big blind) folded on the Turn
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded on the River
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #10759666468069230081: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:32:59 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: LORD ($113.50 in chips)
+Seat 2: Diptofsky ($165.00 in chips)
+Seat 3: Nate ($138.76 in chips)
+Seat 5: Sardge ($41.00 in chips)
+Seat 6: 👾 ($97.00 in chips)
+Seat 7: SJP ($106.25 in chips)
+Seat 8: Boomin ($176.62 in chips)
+Seat 9: henny ($124.50 in chips)
+Seat 10: rampurge ($84.88 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3c 3d]
+henny: raises $2.00 to $3.00
+rampurge: calls $3.00
+LORD: folds
+Diptofsky: folds
+Nate: folds
+Sardge: raises $38.00 to $41.00
+👾: folds
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: folds
+Uncalled bet ($38.00) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $10.50 from pot
+*** SUMMARY ***
+Total pot: $10.50 | Rake 0
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge collected ($10.50)
+Seat 6: 👾 (button) folded before Flop (didn't bet)
+Seat 7: SJP (small blind) folded before Flop
+Seat 8: Boomin (big blind) folded before Flop
+Seat 9: henny folded before Flop
+Seat 10: rampurge folded before Flop
+
+
+
+PokerStars Hand #14515793717833625548: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:33:30 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: LORD ($113.50 in chips)
+Seat 2: Diptofsky ($165.00 in chips)
+Seat 3: Nate ($138.76 in chips)
+Seat 5: Sardge ($48.50 in chips)
+Seat 6: 👾 ($97.00 in chips)
+Seat 7: SJP ($105.75 in chips)
+Seat 8: Boomin ($175.62 in chips)
+Seat 9: henny ($121.50 in chips)
+Seat 10: rampurge ($81.88 in chips)
+Boomin: posts small blind $0.50
+henny: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7c Ah]
+rampurge: folds
+LORD: folds
+Diptofsky: folds
+Nate: raises $2.00 to $3.00
+Sardge: folds
+👾: folds
+SJP: folds
+Boomin: folds
+henny: calls $2.00
+*** FLOP *** [7s 2h 5d]
+henny: checks
+Nate: checks
+*** TURN *** [7s 2h 5d] [Th]
+henny: bets $3.00
+Nate: calls $3.00
+*** RIVER *** [7s 2h 5d Th] [Jh]
+henny: bets $15.00
+Nate: calls $15.00
+henny: shows [8c 9s]
+*** SHOW DOWN ***
+henny collected $42.50 from pot
+*** SUMMARY ***
+Total pot: $42.50 | Rake 0
+Board [7s 2h 5d Th Jh]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate didn't show and lost
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP (button) folded before Flop (didn't bet)
+Seat 8: Boomin (small blind) folded before Flop
+Seat 9: henny (big blind) showed [8c 9s] and won ($42.50) with a straight, Seven to Jack
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #11750233102320334723: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:34:12 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: LORD ($113.50 in chips)
+Seat 2: Diptofsky ($165.00 in chips)
+Seat 3: Nate ($117.76 in chips)
+Seat 5: Sardge ($48.50 in chips)
+Seat 6: 👾 ($97.00 in chips)
+Seat 7: SJP ($105.75 in chips)
+Seat 8: Boomin ($175.12 in chips)
+Seat 9: henny ($143.00 in chips)
+Seat 10: rampurge ($81.88 in chips)
+henny: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5h 2s]
+LORD: calls $1.00
+Diptofsky: folds
+Nate: folds
+Sardge: raises $2.50 to $3.50
+👾: folds
+SJP: calls $3.50
+Boomin: folds
+henny: folds
+rampurge: folds
+LORD: calls $2.50
+*** FLOP *** [3d 2h Ac]
+LORD: checks
+Sardge: bets $3.00
+SJP: calls $3.00
+LORD: folds
+*** TURN *** [3d 2h Ac] [8c]
+Sardge: checks
+SJP: bets $9.00
+Sardge: folds
+Uncalled bet ($9.00) returned to SJP
+*** SHOW DOWN ***
+SJP collected $18.00 from pot
+*** SUMMARY ***
+Total pot: $18.00 | Rake 0
+Board [3d 2h Ac 8c]
+Seat 1: LORD folded on the Flop
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge folded on the Turn
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP collected ($18.00)
+Seat 8: Boomin (button) folded before Flop (didn't bet)
+Seat 9: henny (small blind) folded before Flop
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #16425993596016873860: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:34:54 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: LORD ($110.00 in chips)
+Seat 2: Diptofsky ($165.00 in chips)
+Seat 3: Nate ($117.76 in chips)
+Seat 5: Sardge ($42.00 in chips)
+Seat 6: 👾 ($97.00 in chips)
+Seat 7: SJP ($117.25 in chips)
+Seat 8: Boomin ($175.12 in chips)
+Seat 9: henny ($142.50 in chips)
+Seat 10: rampurge ($80.88 in chips)
+rampurge: posts small blind $0.50
+LORD: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5h 8h]
+Diptofsky: folds
+Nate: folds
+Sardge: raises $1.00 to $2.00
+👾: calls $2.00
+SJP: folds
+Boomin: calls $2.00
+henny: calls $2.00
+rampurge: calls $1.50
+LORD: folds
+*** FLOP *** [Td 6s Jc]
+rampurge: checks
+Sardge: bets $2.00
+👾: calls $2.00
+Boomin: calls $2.00
+henny: calls $2.00
+rampurge: folds
+*** TURN *** [Td 6s Jc] [5s]
+Sardge: checks
+👾: checks
+Boomin: checks
+henny: bets $5.00
+Sardge: calls $5.00
+👾: calls $5.00
+Boomin: calls $5.00
+*** RIVER *** [Td 6s Jc 5s] [7c]
+Sardge: bets $33.00
+👾: folds
+Boomin: folds
+henny: folds
+Uncalled bet ($33.00) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $39.00 from pot
+Nate: shows [7s Jh]
+*** SUMMARY ***
+Total pot: $39.00 | Rake 0
+Board [Td 6s Jc 5s 7c]
+Seat 1: LORD (big blind) folded before Flop
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet) [7s Jh]
+Seat 5: Sardge collected ($39.00)
+Seat 6: 👾 folded on the River
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded on the River
+Seat 9: henny (button) folded on the River
+Seat 10: rampurge (small blind) folded on the Flop
+
+
+
+PokerStars Hand #13308022614646228333: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:36:22 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: LORD ($109.00 in chips)
+Seat 2: Diptofsky ($165.00 in chips)
+Seat 3: Nate ($117.76 in chips)
+Seat 5: Sardge ($72.00 in chips)
+Seat 6: 👾 ($88.00 in chips)
+Seat 7: SJP ($117.25 in chips)
+Seat 8: Boomin ($166.12 in chips)
+Seat 9: henny ($133.50 in chips)
+Seat 10: rampurge ($78.88 in chips)
+LORD: posts small blind $0.50
+Diptofsky: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6c Js]
+Nate: folds
+Sardge: folds
+👾: calls $1.00
+SJP: raises $3.50 to $4.50
+Boomin: folds
+henny: folds
+rampurge: folds
+LORD: folds
+Diptofsky: folds
+👾: calls $3.50
+*** FLOP *** [Qh 4s 6s]
+👾: checks
+SJP: checks
+*** TURN *** [Qh 4s 6s] [5d]
+👾: checks
+SJP: bets $5.25
+👾: calls $5.25
+*** RIVER *** [Qh 4s 6s 5d] [2c]
+👾: checks
+SJP: checks
+👾: shows [7d Ac]
+*** SHOW DOWN ***
+👾 collected $21.00 from pot
+*** SUMMARY ***
+Total pot: $21.00 | Rake 0
+Board [Qh 4s 6s 5d 2c]
+Seat 1: LORD (small blind) folded before Flop
+Seat 2: Diptofsky (big blind) folded before Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 showed [7d Ac] and won ($21.00) with high card Ace
+Seat 7: SJP didn't show and lost
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #17285768498579965341: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:36:59 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: LORD ($108.50 in chips)
+Seat 2: Diptofsky ($164.00 in chips)
+Seat 3: Nate ($117.76 in chips)
+Seat 5: Sardge ($72.00 in chips)
+Seat 6: 👾 ($99.25 in chips)
+Seat 7: SJP ($107.50 in chips)
+Seat 8: Boomin ($166.12 in chips)
+Seat 9: henny ($133.50 in chips)
+Seat 10: rampurge ($78.88 in chips)
+Diptofsky: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8c Jc]
+Sardge: folds
+👾: folds
+SJP: raises $2.50 to $3.50
+Boomin: folds
+henny: folds
+rampurge: calls $3.50
+LORD: raises $12.00 to $15.50
+Diptofsky: folds
+Nate: folds
+SJP: folds
+rampurge: folds
+Uncalled bet ($12.00) returned to LORD
+*** SHOW DOWN ***
+LORD collected $12.00 from pot
+*** SUMMARY ***
+Total pot: $12.00 | Rake 0
+Seat 1: LORD (button) collected ($12.00)
+Seat 2: Diptofsky (small blind) folded before Flop
+Seat 3: Nate (big blind) folded before Flop
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop
+
+
+
+PokerStars Hand #2392225934555858030: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:37:26 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: LORD ($117.00 in chips)
+Seat 2: Diptofsky ($163.50 in chips)
+Seat 3: Nate ($116.76 in chips)
+Seat 5: Sardge ($72.00 in chips)
+Seat 6: 👾 ($99.25 in chips)
+Seat 7: SJP ($104.00 in chips)
+Seat 8: Boomin ($166.12 in chips)
+Seat 9: henny ($133.50 in chips)
+Seat 10: rampurge ($75.38 in chips)
+Nate: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8d 4c]
+👾: folds
+SJP: folds
+Boomin: raises $2.00 to $3.00
+henny: folds
+rampurge: folds
+LORD: folds
+Diptofsky: calls $3.00
+Nate: folds
+Sardge: folds
+*** FLOP *** [Jd Tc 8s]
+Boomin: checks
+Diptofsky: bets $4.75
+Boomin: calls $4.75
+*** TURN *** [Jd Tc 8s] [3h]
+Boomin: checks
+Diptofsky: checks
+*** RIVER *** [Jd Tc 8s 3h] [Kd]
+Boomin: checks
+Diptofsky: checks
+Boomin: shows [Qh Jh]
+*** SHOW DOWN ***
+Boomin collected $17.00 from pot
+*** SUMMARY ***
+Total pot: $17.00 | Rake 0
+Board [Jd Tc 8s 3h Kd]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky (button) didn't show and lost
+Seat 3: Nate (small blind) folded before Flop
+Seat 5: Sardge (big blind) folded before Flop
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin showed [Qh Jh] and won ($17.00) with a pair of Jacks
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1980504272454149397: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:38:14 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: LORD ($117.00 in chips)
+Seat 2: Diptofsky ($155.75 in chips)
+Seat 3: Nate ($116.26 in chips)
+Seat 5: Sardge ($71.00 in chips)
+Seat 6: 👾 ($99.25 in chips)
+Seat 7: SJP ($104.00 in chips)
+Seat 8: Boomin ($175.37 in chips)
+Seat 9: henny ($133.50 in chips)
+Seat 10: rampurge ($75.38 in chips)
+Sardge: posts small blind $0.50
+👾: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4h 7d]
+SJP: folds
+Boomin: folds
+henny: raises $2.00 to $3.00
+rampurge: folds
+LORD: folds
+Diptofsky: folds
+Nate: raises $7.00 to $10.00
+Sardge: folds
+👾: folds
+henny: calls $7.00
+*** FLOP *** [8c 4d 5d]
+henny: bets $3.00
+Nate: raises $12.00 to $15.00
+henny: folds
+Uncalled bet ($12.00) returned to Nate
+*** SHOW DOWN ***
+Nate collected $27.50 from pot
+*** SUMMARY ***
+Total pot: $27.50 | Rake 0
+Board [8c 4d 5d]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate (button) collected ($27.50)
+Seat 5: Sardge (small blind) folded before Flop
+Seat 6: 👾 (big blind) folded before Flop
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded on the Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #10178400997261179837: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:39:07 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: LORD ($117.00 in chips)
+Seat 2: Diptofsky ($155.75 in chips)
+Seat 3: Nate ($130.76 in chips)
+Seat 5: Sardge ($70.50 in chips)
+Seat 6: 👾 ($98.25 in chips)
+Seat 7: SJP ($104.00 in chips)
+Seat 8: Boomin ($175.37 in chips)
+Seat 9: henny ($120.50 in chips)
+Seat 10: rampurge ($75.38 in chips)
+👾: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7h 9s]
+Boomin: folds
+henny: folds
+rampurge: folds
+LORD: folds
+Diptofsky: raises $2.00 to $3.00
+Nate: folds
+Sardge: folds
+👾: calls $2.50
+SJP: calls $2.00
+*** FLOP *** [6s 4s 9h]
+👾: checks
+SJP: checks
+Diptofsky: checks
+*** TURN *** [6s 4s 9h] [5d]
+👾: bets $5.00
+SJP: calls $5.00
+Diptofsky: calls $5.00
+*** RIVER *** [6s 4s 9h 5d] [Js]
+👾: checks
+SJP: checks
+Diptofsky: checks
+SJP: shows [6c 6d]
+*** SHOW DOWN ***
+SJP collected $24.00 from pot
+👾: shows [9d 7d]
+*** SUMMARY ***
+Total pot: $24.00 | Rake 0
+Board [6s 4s 9h 5d Js]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky didn't show and lost
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge (button) folded before Flop (didn't bet)
+Seat 6: 👾 (small blind) showed [9d 7d] and lost with a pair of Nines
+Seat 7: SJP (big blind) showed [6c 6d] and won ($24.00) with three of a kind, Sixes
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4011625572145632171: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:39:59 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: LORD ($117.00 in chips)
+Seat 2: Diptofsky ($147.75 in chips)
+Seat 3: Nate ($130.76 in chips)
+Seat 5: Sardge ($70.50 in chips)
+Seat 6: 👾 ($90.25 in chips)
+Seat 7: SJP ($120.00 in chips)
+Seat 8: Boomin ($175.37 in chips)
+Seat 9: henny ($120.50 in chips)
+Seat 10: rampurge ($75.38 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6c 9s]
+henny: folds
+rampurge: folds
+LORD: folds
+Diptofsky: raises $2.00 to $3.00
+Nate: folds
+Sardge: calls $3.00
+👾: folds
+SJP: raises $10.00 to $13.00
+Boomin: folds
+Diptofsky: folds
+Sardge: folds
+Uncalled bet ($10.00) returned to SJP
+*** SHOW DOWN ***
+SJP collected $10.00 from pot
+*** SUMMARY ***
+Total pot: $10.00 | Rake 0
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop
+Seat 6: 👾 (button) folded before Flop (didn't bet)
+Seat 7: SJP (small blind) collected ($10.00)
+Seat 8: Boomin (big blind) folded before Flop
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #8555192320948766454: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:40:23 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: LORD ($117.00 in chips)
+Seat 2: Diptofsky ($144.75 in chips)
+Seat 3: Nate ($130.76 in chips)
+Seat 5: Sardge ($67.50 in chips)
+Seat 6: 👾 ($90.25 in chips)
+Seat 7: SJP ($127.00 in chips)
+Seat 8: Boomin ($174.37 in chips)
+Seat 9: henny ($120.50 in chips)
+Seat 10: rampurge ($75.38 in chips)
+Boomin: posts small blind $0.50
+henny: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [As 2d]
+rampurge: folds
+LORD: folds
+Diptofsky: raises $2.00 to $3.00
+Nate: folds
+Sardge: calls $3.00
+👾: calls $3.00
+SJP: folds
+Boomin: folds
+henny: folds
+*** FLOP *** [3d 8c 2s]
+Diptofsky: bets $4.00
+Sardge: raises $8.00 to $12.00
+👾: folds
+Diptofsky: calls $8.00
+*** TURN *** [3d 8c 2s] [Kc]
+Diptofsky: checks
+Sardge: checks
+*** RIVER *** [3d 8c 2s Kc] [Qc]
+Diptofsky: bets $19.00
+Sardge: calls $19.00
+Sardge: shows [4h Qh]
+*** SHOW DOWN ***
+Sardge collected $72.50 from pot
+Diptofsky: shows [5s 6s]
+*** SUMMARY ***
+Total pot: $72.50 | Rake 0
+Board [3d 8c 2s Kc Qc]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky showed [5s 6s] and lost with high card King
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge showed [4h Qh] and won ($72.50) with a pair of Queens
+Seat 6: 👾 folded on the Flop
+Seat 7: SJP (button) folded before Flop (didn't bet)
+Seat 8: Boomin (small blind) folded before Flop
+Seat 9: henny (big blind) folded before Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6513719968806263269: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:41:07 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: LORD ($117.00 in chips)
+Seat 2: Diptofsky ($110.75 in chips)
+Seat 3: Nate ($130.76 in chips)
+Seat 5: Sardge ($106.00 in chips)
+Seat 6: 👾 ($87.25 in chips)
+Seat 7: SJP ($127.00 in chips)
+Seat 8: Boomin ($173.87 in chips)
+Seat 9: henny ($119.50 in chips)
+Seat 10: rampurge ($75.38 in chips)
+henny: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4s 6c]
+LORD: folds
+Diptofsky: folds
+Nate: folds
+Sardge: folds
+👾: raises $2.00 to $3.00
+SJP: folds
+Boomin: folds
+henny: calls $2.50
+rampurge: folds
+*** FLOP *** [9h 9d Ac]
+henny: checks
+👾: bets $3.50
+henny: folds
+Uncalled bet ($3.50) returned to 👾
+*** SHOW DOWN ***
+👾 collected $7.00 from pot
+LORD: shows [6s 9c]
+*** SUMMARY ***
+Total pot: $7.00 | Rake 0
+Board [9h 9d Ac]
+Seat 1: LORD folded before Flop (didn't bet) [6s 9c]
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 collected ($7.00)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin (button) folded before Flop (didn't bet)
+Seat 9: henny (small blind) folded on the Flop
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #8093545871233547789: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:41:46 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: LORD ($117.00 in chips)
+Seat 2: Diptofsky ($110.75 in chips)
+Seat 3: Nate ($130.76 in chips)
+Seat 5: Sardge ($106.00 in chips)
+Seat 6: 👾 ($91.25 in chips)
+Seat 7: SJP ($127.00 in chips)
+Seat 8: Boomin ($173.87 in chips)
+Seat 9: henny ($116.50 in chips)
+Seat 10: rampurge ($74.38 in chips)
+rampurge: posts small blind $0.50
+LORD: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4d 7d]
+Diptofsky: raises $2.00 to $3.00
+Nate: folds
+Sardge: folds
+👾: folds
+SJP: calls $3.00
+Boomin: raises $10.00 to $13.00
+henny: folds
+rampurge: folds
+LORD: folds
+Diptofsky: calls $10.00
+SJP: calls $10.00
+*** FLOP *** [Kc As 8s]
+Diptofsky: checks
+SJP: checks
+Boomin: bets $13.00
+Diptofsky: folds
+SJP: calls $13.00
+*** TURN *** [Kc As 8s] [Qd]
+SJP: checks
+Boomin: bets $35.00
+SJP: folds
+Uncalled bet ($35.00) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $66.50 from pot
+*** SUMMARY ***
+Total pot: $66.50 | Rake 0
+Board [Kc As 8s Qd]
+Seat 1: LORD (big blind) folded before Flop
+Seat 2: Diptofsky folded on the Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded on the Turn
+Seat 8: Boomin collected ($66.50)
+Seat 9: henny (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #14641957521441638599: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:42:49 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: LORD ($116.00 in chips)
+Seat 2: Diptofsky ($97.75 in chips)
+Seat 3: Nate ($130.76 in chips)
+Seat 5: Sardge ($106.00 in chips)
+Seat 6: 👾 ($91.25 in chips)
+Seat 7: SJP ($101.00 in chips)
+Seat 8: Boomin ($214.37 in chips)
+Seat 9: henny ($116.50 in chips)
+Seat 10: rampurge ($73.88 in chips)
+LORD: posts small blind $0.50
+Diptofsky: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8h 8c]
+Nate: folds
+Sardge: folds
+👾: folds
+SJP: folds
+Boomin: raises $2.00 to $3.00
+henny: raises $6.00 to $9.00
+rampurge: calls $9.00
+LORD: folds
+Diptofsky: folds
+Boomin: calls $6.00
+*** FLOP *** [Ks 5d Js]
+Boomin: checks
+henny: bets $10.00
+rampurge: folds
+Boomin: folds
+Uncalled bet ($10.00) returned to henny
+*** SHOW DOWN ***
+henny collected $28.50 from pot
+*** SUMMARY ***
+Total pot: $28.50 | Rake 0
+Board [Ks 5d Js]
+Seat 1: LORD (small blind) folded before Flop
+Seat 2: Diptofsky (big blind) folded before Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded on the Flop
+Seat 9: henny collected ($28.50)
+Seat 10: rampurge (button) folded on the Flop
+
+
+
+PokerStars Hand #13395894951586240427: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:43:42 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: LORD ($115.50 in chips)
+Seat 2: Diptofsky ($96.75 in chips)
+Seat 3: Nate ($130.76 in chips)
+Seat 5: Sardge ($106.00 in chips)
+Seat 6: 👾 ($91.25 in chips)
+Seat 7: SJP ($101.00 in chips)
+Seat 8: Boomin ($205.37 in chips)
+Seat 9: henny ($136.00 in chips)
+Seat 10: rampurge ($64.88 in chips)
+Diptofsky: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3h 2s]
+Sardge: folds
+👾: folds
+SJP: folds
+Boomin: folds
+henny: raises $2.00 to $3.00
+rampurge: folds
+LORD: calls $3.00
+Diptofsky: raises $11.50 to $14.50
+Nate: folds
+henny: calls $11.50
+LORD: calls $11.50
+*** FLOP *** [6d Jh 8s]
+Diptofsky: checks
+henny: checks
+LORD: bets $22.25
+Diptofsky: folds
+henny: raises $37.75 to $60.00
+LORD: raises $41.00 to $101.00
+henny: calls $41.00
+LORD: shows [7h 7d]
+henny: shows [Jc Ad]
+*** FIRST TURN *** [6d Jh 8s] [5h]
+*** FIRST RIVER *** [6d Jh 8s 5h] [Qh]
+*** SECOND TURN *** [6d Jh 8s] [5c]
+*** SECOND RIVER *** [6d Jh 8s 5c] [3d]
+*** FIRST SHOW DOWN ***
+henny collected $123.25 from pot
+*** SECOND SHOW DOWN ***
+henny collected $123.25 from pot
+*** SUMMARY ***
+Total pot: $246.50 | Rake 0
+Hand was run twice
+FIRST Board [6d Jh 8s 5h Qh]
+SECOND Board [6d Jh 8s 5c 3d]
+Seat 1: LORD (button) showed [7h 7d] and lost with a pair of Sevens, and lost with a pair of Sevens
+Seat 2: Diptofsky (small blind) folded on the Flop
+Seat 3: Nate (big blind) folded before Flop
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: 👾 folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny showed [Jc Ad] and won ($123.25) with a pair of Jacks, and won ($123.25) with a pair of Jacks
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #7661885494350876334: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:45:21 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 2: Diptofsky ($82.25 in chips)
+Seat 3: Nate ($129.76 in chips)
+Seat 5: Sardge ($106.00 in chips)
+Seat 6: 👾 ($91.25 in chips)
+Seat 7: SJP ($101.00 in chips)
+Seat 8: Boomin ($205.37 in chips)
+Seat 9: henny ($267.00 in chips)
+Seat 10: rampurge ($64.88 in chips)
+Nate: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qc Th]
+👾: raises $1.25 to $2.25
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: folds
+Diptofsky: folds
+Nate: folds
+Sardge: calls $1.25
+*** FLOP *** [9d 2c Jh]
+Sardge: checks
+👾: bets $2.50
+Sardge: folds
+Uncalled bet ($2.50) returned to 👾
+*** SHOW DOWN ***
+👾 collected $5.00 from pot
+*** SUMMARY ***
+Total pot: $5.00 | Rake 0
+Board [9d 2c Jh]
+Seat 2: Diptofsky (button) folded before Flop (didn't bet)
+Seat 3: Nate (small blind) folded before Flop
+Seat 5: Sardge (big blind) folded on the Flop
+Seat 6: 👾 collected ($5.00)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16343303361242802008: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:46:04 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 2: Diptofsky ($82.25 in chips)
+Seat 3: Nate ($129.26 in chips)
+Seat 5: Sardge ($103.75 in chips)
+Seat 7: SJP ($101.00 in chips)
+Seat 8: Boomin ($205.37 in chips)
+Seat 9: henny ($267.00 in chips)
+Seat 10: rampurge ($64.88 in chips)
+Sardge: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Jh 4d]
+Boomin: raises $2.00 to $3.00
+henny: folds
+rampurge: folds
+Diptofsky: folds
+Nate: folds
+Sardge: calls $2.50
+SJP: folds
+*** FLOP *** [4c 7s Jd]
+Sardge: checks
+Boomin: bets $2.75
+Sardge: raises $5.75 to $8.50
+Boomin: calls $5.75
+*** TURN *** [4c 7s Jd] [Qd]
+Sardge: bets $18.00
+Boomin: calls $18.00
+*** RIVER *** [4c 7s Jd Qd] [9c]
+Sardge: checks
+Boomin: bets $30.00
+Sardge: calls $30.00
+Boomin: shows [Ah Qh]
+*** SHOW DOWN ***
+Boomin collected $120.00 from pot
+*** SUMMARY ***
+Total pot: $120.00 | Rake 0
+Board [4c 7s Jd Qd 9c]
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate (button) folded before Flop (didn't bet)
+Seat 5: Sardge (small blind) didn't show and lost
+Seat 7: SJP (big blind) folded before Flop
+Seat 8: Boomin showed [Ah Qh] and won ($120.00) with a pair of Queens
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #445561875032749762: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:47:50 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: LORD ($100.00 in chips)
+Seat 2: Diptofsky ($82.25 in chips)
+Seat 3: Nate ($129.26 in chips)
+Seat 5: Sardge ($44.25 in chips)
+Seat 7: SJP ($100.00 in chips)
+Seat 8: Boomin ($265.87 in chips)
+Seat 9: henny ($267.00 in chips)
+Seat 10: rampurge ($64.88 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3d Kc]
+henny: folds
+rampurge: folds
+LORD: folds
+Diptofsky: folds
+Nate: folds
+Sardge: raises $2.00 to $3.00
+SJP: folds
+Boomin: calls $2.00
+*** FLOP *** [8h 7s 8d]
+Boomin: checks
+Sardge: bets $2.00
+Boomin: calls $2.00
+*** TURN *** [8h 7s 8d] [4h]
+Boomin: checks
+Sardge: checks
+*** RIVER *** [8h 7s 8d 4h] [4c]
+Boomin: checks
+Sardge: checks
+Sardge: shows [Ad 5d]
+*** SHOW DOWN ***
+Sardge collected $5.25 from pot
+Boomin: shows [Ac 9h]
+Boomin collected $5.25 from pot
+*** SUMMARY ***
+Total pot: $10.50 | Rake 0
+Board [8h 7s 8d 4h 4c]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge (button) showed [Ad 5d] and won ($5.25) with two pair, Eights and Fours
+Seat 7: SJP (small blind) folded before Flop
+Seat 8: Boomin (big blind) showed [Ac 9h] and won ($5.25) with two pair, Eights and Fours
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #17062837127846947351: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:48:28 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: LORD ($100.00 in chips)
+Seat 2: Diptofsky ($82.25 in chips)
+Seat 3: Nate ($129.26 in chips)
+Seat 5: Sardge ($44.50 in chips)
+Seat 7: SJP ($99.50 in chips)
+Seat 8: Boomin ($266.12 in chips)
+Seat 9: henny ($267.00 in chips)
+Seat 10: rampurge ($64.88 in chips)
+Boomin: posts small blind $0.50
+henny: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ad 2c]
+rampurge: folds
+LORD: folds
+Diptofsky: folds
+Nate: raises $2.00 to $3.00
+Sardge: raises $6.00 to $9.00
+SJP: folds
+Boomin: folds
+henny: folds
+Nate: folds
+Uncalled bet ($6.00) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $7.50 from pot
+*** SUMMARY ***
+Total pot: $7.50 | Rake 0
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop
+Seat 5: Sardge collected ($7.50)
+Seat 7: SJP (button) folded before Flop (didn't bet)
+Seat 8: Boomin (small blind) folded before Flop
+Seat 9: henny (big blind) folded before Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4428300651208714275: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:49:22 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: LORD ($100.00 in chips)
+Seat 2: Diptofsky ($82.25 in chips)
+Seat 3: Nate ($126.26 in chips)
+Seat 5: Sardge ($49.00 in chips)
+Seat 7: SJP ($99.50 in chips)
+Seat 8: Boomin ($265.62 in chips)
+Seat 9: henny ($266.00 in chips)
+Seat 10: rampurge ($64.88 in chips)
+henny: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [As Jh]
+LORD: calls $1.00
+Diptofsky: folds
+Nate: raises $3.00 to $4.00
+Sardge: folds
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: calls $3.00
+LORD: calls $3.00
+*** FLOP *** [9h 3h Ks]
+rampurge: checks
+LORD: checks
+Nate: bets $4.50
+rampurge: calls $4.50
+LORD: folds
+*** TURN *** [9h 3h Ks] [7s]
+rampurge: checks
+Nate: bets $15.00
+rampurge: folds
+Uncalled bet ($15.00) returned to Nate
+*** SHOW DOWN ***
+Nate collected $21.50 from pot
+*** SUMMARY ***
+Total pot: $21.50 | Rake 0
+Board [9h 3h Ks 7s]
+Seat 1: LORD folded on the Flop
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate collected ($21.50)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin (button) folded before Flop (didn't bet)
+Seat 9: henny (small blind) folded before Flop
+Seat 10: rampurge (big blind) folded on the Turn
+
+
+
+PokerStars Hand #5060112400142480567: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:49:57 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: LORD ($96.00 in chips)
+Seat 2: Diptofsky ($82.25 in chips)
+Seat 3: Nate ($139.26 in chips)
+Seat 5: Sardge ($49.00 in chips)
+Seat 7: SJP ($99.50 in chips)
+Seat 8: Boomin ($265.62 in chips)
+Seat 9: henny ($265.50 in chips)
+Seat 10: rampurge ($56.38 in chips)
+rampurge: posts small blind $0.50
+LORD: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5d Th]
+Diptofsky: raises $2.00 to $3.00
+Nate: folds
+Sardge: folds
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: folds
+LORD: folds
+Uncalled bet ($2.00) returned to Diptofsky
+*** SHOW DOWN ***
+Diptofsky collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: LORD (big blind) folded before Flop
+Seat 2: Diptofsky collected ($2.50)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #12731709444512121010: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:50:24 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: LORD ($95.00 in chips)
+Seat 2: Diptofsky ($83.75 in chips)
+Seat 3: Nate ($139.26 in chips)
+Seat 5: Sardge ($49.00 in chips)
+Seat 7: SJP ($99.50 in chips)
+Seat 8: Boomin ($265.62 in chips)
+Seat 9: henny ($265.50 in chips)
+Seat 10: rampurge ($55.88 in chips)
+LORD: posts small blind $0.50
+Diptofsky: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5c 8h]
+Nate: raises $2.00 to $3.00
+Sardge: folds
+SJP: folds
+Boomin: calls $3.00
+henny: folds
+rampurge: folds
+LORD: folds
+Diptofsky: folds
+*** FLOP *** [3s 6c 4d]
+Nate: checks
+Boomin: checks
+*** TURN *** [3s 6c 4d] [Ad]
+Nate: bets $3.00
+Boomin: calls $3.00
+*** RIVER *** [3s 6c 4d Ad] [2c]
+Nate: bets $9.00
+Boomin: calls $9.00
+Nate: shows [8c Ac]
+*** SHOW DOWN ***
+Nate collected $31.50 from pot
+Boomin: shows [Ah 7h]
+*** SUMMARY ***
+Total pot: $31.50 | Rake 0
+Board [3s 6c 4d Ad 2c]
+Seat 1: LORD (small blind) folded before Flop
+Seat 2: Diptofsky (big blind) folded before Flop
+Seat 3: Nate showed [8c Ac] and won ($31.50) with a pair of Aces
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin showed [Ah 7h] and lost with a pair of Aces
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1485144288077776142: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:51:24 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: LORD ($94.50 in chips)
+Seat 2: Diptofsky ($82.75 in chips)
+Seat 3: Nate ($155.76 in chips)
+Seat 5: Sardge ($49.00 in chips)
+Seat 7: SJP ($99.50 in chips)
+Seat 8: Boomin ($250.62 in chips)
+Seat 9: henny ($265.50 in chips)
+Seat 10: rampurge ($55.88 in chips)
+Diptofsky: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6h Td]
+Sardge: folds
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: folds
+LORD: folds
+Diptofsky: raises $2.00 to $3.00
+Nate: folds
+Uncalled bet ($2.00) returned to Diptofsky
+*** SHOW DOWN ***
+Diptofsky collected $2.00 from pot
+*** SUMMARY ***
+Total pot: $2.00 | Rake 0
+Seat 1: LORD (button) folded before Flop (didn't bet)
+Seat 2: Diptofsky (small blind) collected ($2.00)
+Seat 3: Nate (big blind) folded before Flop
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #12452130677174852082: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:51:38 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: LORD ($94.50 in chips)
+Seat 2: Diptofsky ($83.75 in chips)
+Seat 3: Nate ($154.76 in chips)
+Seat 5: Sardge ($49.00 in chips)
+Seat 7: SJP ($99.50 in chips)
+Seat 8: Boomin ($250.62 in chips)
+Seat 9: henny ($265.50 in chips)
+Seat 10: rampurge ($55.88 in chips)
+Nate: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4c Td]
+SJP: folds
+Boomin: folds
+henny: raises $2.00 to $3.00
+rampurge: folds
+LORD: folds
+Diptofsky: calls $3.00
+Nate: calls $2.50
+Sardge: folds
+*** FLOP *** [Tc 6d 7s]
+Nate: checks
+henny: bets $3.00
+Diptofsky: calls $3.00
+Nate: calls $3.00
+*** TURN *** [Tc 6d 7s] [5d]
+Nate: checks
+henny: checks
+Diptofsky: bets $11.00
+Nate: folds
+henny: folds
+Uncalled bet ($11.00) returned to Diptofsky
+*** SHOW DOWN ***
+Diptofsky collected $19.00 from pot
+*** SUMMARY ***
+Total pot: $19.00 | Rake 0
+Board [Tc 6d 7s 5d]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky (button) collected ($19.00)
+Seat 3: Nate (small blind) folded on the Turn
+Seat 5: Sardge (big blind) folded before Flop
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded on the Turn
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #12963877680337602724: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:52:29 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: LORD ($94.50 in chips)
+Seat 2: Diptofsky ($96.75 in chips)
+Seat 3: Nate ($148.76 in chips)
+Seat 5: Sardge ($48.00 in chips)
+Seat 7: SJP ($99.50 in chips)
+Seat 8: Boomin ($250.62 in chips)
+Seat 9: henny ($259.50 in chips)
+Seat 10: rampurge ($55.88 in chips)
+Sardge: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5h 7s]
+Boomin: folds
+henny: raises $2.00 to $3.00
+rampurge: folds
+LORD: calls $3.00
+Diptofsky: folds
+Nate: folds
+Sardge: folds
+SJP: folds
+*** FLOP *** [4c Qc 4s]
+henny: checks
+LORD: bets $3.75
+henny: calls $3.75
+*** TURN *** [4c Qc 4s] [6d]
+henny: checks
+LORD: checks
+*** RIVER *** [4c Qc 4s 6d] [9d]
+henny: checks
+LORD: bets $15.00
+henny: folds
+Uncalled bet ($15.00) returned to LORD
+*** SHOW DOWN ***
+LORD collected $15.00 from pot
+henny: shows [Ac Ks]
+*** SUMMARY ***
+Total pot: $15.00 | Rake 0
+Board [4c Qc 4s 6d 9d]
+Seat 1: LORD collected ($15.00)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate (button) folded before Flop (didn't bet)
+Seat 5: Sardge (small blind) folded before Flop
+Seat 7: SJP (big blind) folded before Flop
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny folded on the River [Ac Ks]
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #13396819663204665518: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:53:54 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: LORD ($102.75 in chips)
+Seat 2: Diptofsky ($96.75 in chips)
+Seat 3: Nate ($148.76 in chips)
+Seat 4: Ben ($100.00 in chips)
+Seat 5: Sardge ($47.50 in chips)
+Seat 7: SJP ($98.50 in chips)
+Seat 8: Boomin ($250.62 in chips)
+Seat 9: henny ($252.75 in chips)
+Seat 10: rampurge ($55.88 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9h 6d]
+henny: folds
+rampurge: folds
+LORD: folds
+Diptofsky: raises $2.00 to $3.00
+Nate: folds
+Ben: folds
+Sardge: folds
+SJP: folds
+Boomin: calls $2.00
+*** FLOP *** [7d 7s Qs]
+Boomin: checks
+Diptofsky: bets $2.50
+Boomin: calls $2.50
+*** TURN *** [7d 7s Qs] [5s]
+Boomin: checks
+Diptofsky: checks
+*** RIVER *** [7d 7s Qs 5s] [Th]
+Boomin: bets $8.00
+Diptofsky: raises $24.00 to $32.00
+Boomin: folds
+Uncalled bet ($24.00) returned to Diptofsky
+*** SHOW DOWN ***
+Diptofsky collected $27.50 from pot
+*** SUMMARY ***
+Total pot: $27.50 | Rake 0
+Board [7d 7s Qs 5s Th]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky collected ($27.50)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge (button) folded before Flop (didn't bet)
+Seat 7: SJP (small blind) folded before Flop
+Seat 8: Boomin (big blind) folded on the River
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #14320986061972576065: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:55:38 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: LORD ($102.75 in chips)
+Seat 2: Diptofsky ($110.75 in chips)
+Seat 3: Nate ($148.76 in chips)
+Seat 4: Ben ($100.00 in chips)
+Seat 5: Sardge ($47.50 in chips)
+Seat 7: SJP ($98.00 in chips)
+Seat 8: Boomin ($237.12 in chips)
+Seat 9: henny ($252.75 in chips)
+Seat 10: rampurge ($55.88 in chips)
+Boomin: posts small blind $0.50
+henny: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Jc Ac]
+rampurge: raises $2.00 to $3.00
+LORD: folds
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+SJP: folds
+Boomin: calls $2.50
+henny: folds
+*** FLOP *** [Tc Kh 8d]
+Boomin: checks
+rampurge: bets $3.50
+Boomin: folds
+Uncalled bet ($3.50) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $7.00 from pot
+*** SUMMARY ***
+Total pot: $7.00 | Rake 0
+Board [Tc Kh 8d]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 7: SJP (button) folded before Flop (didn't bet)
+Seat 8: Boomin (small blind) folded on the Flop
+Seat 9: henny (big blind) folded before Flop
+Seat 10: rampurge collected ($7.00)
+
+
+
+PokerStars Hand #13471399977611234760: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:56:15 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: LORD ($102.75 in chips)
+Seat 2: Diptofsky ($110.75 in chips)
+Seat 3: Nate ($148.76 in chips)
+Seat 4: Ben ($100.00 in chips)
+Seat 5: Sardge ($47.50 in chips)
+Seat 7: SJP ($98.00 in chips)
+Seat 8: Boomin ($234.12 in chips)
+Seat 9: henny ($251.75 in chips)
+Seat 10: rampurge ($59.88 in chips)
+henny: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3h 9c]
+LORD: calls $1.00
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: raises $2.00 to $3.00
+SJP: folds
+Boomin: calls $3.00
+henny: folds
+rampurge: folds
+LORD: calls $2.00
+*** FLOP *** [8h 4d 8c]
+LORD: checks
+Sardge: checks
+Boomin: checks
+*** TURN *** [8h 4d 8c] [5d]
+LORD: checks
+Sardge: checks
+Boomin: bets $4.75
+LORD: folds
+Sardge: calls $4.75
+*** RIVER *** [8h 4d 8c 5d] [Qh]
+Sardge: checks
+Boomin: bets $39.75
+Sardge: folds
+Uncalled bet ($39.75) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $20.00 from pot
+*** SUMMARY ***
+Total pot: $20.00 | Rake 0
+Board [8h 4d 8c 5d Qh]
+Seat 1: LORD folded on the Turn
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded on the River
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin (button) collected ($20.00)
+Seat 9: henny (small blind) folded before Flop
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #1285089851616338561: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:57:33 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: LORD ($99.75 in chips)
+Seat 2: Diptofsky ($110.75 in chips)
+Seat 3: Nate ($148.76 in chips)
+Seat 4: Ben ($100.00 in chips)
+Seat 5: Sardge ($39.75 in chips)
+Seat 7: SJP ($98.00 in chips)
+Seat 8: Boomin ($246.37 in chips)
+Seat 9: henny ($251.25 in chips)
+Seat 10: rampurge ($58.88 in chips)
+rampurge: posts small blind $0.50
+LORD: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6h 7c]
+Diptofsky: folds
+Nate: raises $2.00 to $3.00
+Ben: folds
+Sardge: folds
+SJP: folds
+Boomin: folds
+henny: folds
+rampurge: calls $2.50
+LORD: folds
+*** FLOP *** [6c 8s 7s]
+rampurge: checks
+Nate: checks
+*** TURN *** [6c 8s 7s] [Td]
+rampurge: bets $1.00
+Nate: calls $1.00
+*** RIVER *** [6c 8s 7s Td] [Qs]
+rampurge: bets $6.75
+Nate: folds
+Uncalled bet ($6.75) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $9.00 from pot
+*** SUMMARY ***
+Total pot: $9.00 | Rake 0
+Board [6c 8s 7s Td Qs]
+Seat 1: LORD (big blind) folded before Flop
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded on the River
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 9: henny (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) collected ($9.00)
+
+
+
+PokerStars Hand #1648740216742988560: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:58:16 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: LORD ($98.75 in chips)
+Seat 2: Diptofsky ($110.75 in chips)
+Seat 3: Nate ($144.76 in chips)
+Seat 4: Ben ($100.00 in chips)
+Seat 5: Sardge ($39.75 in chips)
+Seat 7: SJP ($98.00 in chips)
+Seat 8: Boomin ($246.37 in chips)
+Seat 9: henny ($251.25 in chips)
+Seat 10: rampurge ($63.88 in chips)
+LORD: posts small blind $0.50
+Diptofsky: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kc 7c]
+Nate: raises $2.00 to $3.00
+Ben: folds
+Sardge: folds
+SJP: folds
+Boomin: raises $7.00 to $10.00
+henny: folds
+rampurge: folds
+LORD: folds
+Diptofsky: folds
+Nate: calls $7.00
+*** FLOP *** [9h Tc 6c]
+Nate: checks
+Boomin: bets $7.15
+Nate: folds
+Uncalled bet ($7.15) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $21.50 from pot
+*** SUMMARY ***
+Total pot: $21.50 | Rake 0
+Board [9h Tc 6c]
+Seat 1: LORD (small blind) folded before Flop
+Seat 2: Diptofsky (big blind) folded before Flop
+Seat 3: Nate folded on the Flop
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin collected ($21.50)
+Seat 9: henny folded before Flop (didn't bet)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2181967748656667189: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:58:55 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: LORD ($98.25 in chips)
+Seat 2: Diptofsky ($109.75 in chips)
+Seat 3: Nate ($134.76 in chips)
+Seat 4: Ben ($100.00 in chips)
+Seat 5: Sardge ($39.75 in chips)
+Seat 7: SJP ($98.00 in chips)
+Seat 8: Boomin ($257.87 in chips)
+Seat 10: rampurge ($63.88 in chips)
+Diptofsky: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9h Jc]
+Ben: folds
+Sardge: folds
+SJP: raises $2.50 to $3.50
+Boomin: calls $3.50
+rampurge: folds
+LORD: raises $16.00 to $19.50
+Diptofsky: folds
+Nate: folds
+SJP: folds
+Boomin: folds
+Uncalled bet ($16.00) returned to LORD
+*** SHOW DOWN ***
+LORD collected $12.00 from pot
+*** SUMMARY ***
+Total pot: $12.00 | Rake 0
+Seat 1: LORD (button) collected ($12.00)
+Seat 2: Diptofsky (small blind) folded before Flop
+Seat 3: Nate (big blind) folded before Flop
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop
+Seat 8: Boomin folded before Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2564598946969741127: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 04:59:48 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: LORD ($106.75 in chips)
+Seat 2: Diptofsky ($109.25 in chips)
+Seat 3: Nate ($133.76 in chips)
+Seat 4: Ben ($100.00 in chips)
+Seat 5: Sardge ($39.75 in chips)
+Seat 7: SJP ($94.50 in chips)
+Seat 8: Boomin ($254.37 in chips)
+Seat 10: rampurge ($63.88 in chips)
+Nate: posts small blind $0.50
+Ben: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7c 2c]
+Sardge: raises $1.00 to $2.00
+SJP: folds
+Boomin: folds
+rampurge: folds
+LORD: folds
+Diptofsky: folds
+Nate: folds
+Ben: calls $1.00
+*** FLOP *** [5d 2s Ks]
+Ben: checks
+Sardge: bets $2.00
+Ben: calls $2.00
+*** TURN *** [5d 2s Ks] [8h]
+Ben: checks
+Sardge: bets $4.25
+Ben: folds
+Uncalled bet ($4.25) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $8.50 from pot
+*** SUMMARY ***
+Total pot: $8.50 | Rake 0
+Board [5d 2s Ks 8h]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky (button) folded before Flop (didn't bet)
+Seat 3: Nate (small blind) folded before Flop
+Seat 4: Ben (big blind) folded on the Turn
+Seat 5: Sardge collected ($8.50)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #7411740969439918844: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:00:39 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: LORD ($106.75 in chips)
+Seat 2: Diptofsky ($109.25 in chips)
+Seat 3: Nate ($133.26 in chips)
+Seat 4: Ben ($96.00 in chips)
+Seat 5: Sardge ($44.25 in chips)
+Seat 7: SJP ($94.50 in chips)
+Seat 8: Boomin ($254.37 in chips)
+Seat 10: rampurge ($63.88 in chips)
+Ben: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kd Jh]
+SJP: folds
+Boomin: folds
+rampurge: raises $2.00 to $3.00
+LORD: calls $3.00
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: calls $2.00
+*** FLOP *** [5c 4c Js]
+Sardge: checks
+rampurge: bets $4.75
+LORD: calls $4.75
+Sardge: folds
+*** TURN *** [5c 4c Js] [9s]
+rampurge: bets $19.00
+LORD: folds
+Uncalled bet ($19.00) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $19.00 from pot
+*** SUMMARY ***
+Total pot: $19.00 | Rake 0
+Board [5c 4c Js 9s]
+Seat 1: LORD folded on the Turn
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate (button) folded before Flop (didn't bet)
+Seat 4: Ben (small blind) folded before Flop
+Seat 5: Sardge (big blind) folded on the Flop
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge collected ($19.00)
+
+
+
+PokerStars Hand #17042741193616143596: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:01:31 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: LORD ($99.00 in chips)
+Seat 2: Diptofsky ($109.25 in chips)
+Seat 3: Nate ($133.26 in chips)
+Seat 4: Ben ($95.50 in chips)
+Seat 5: Sardge ($41.25 in chips)
+Seat 7: SJP ($94.50 in chips)
+Seat 8: Boomin ($254.37 in chips)
+Seat 10: rampurge ($75.13 in chips)
+Sardge: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6d 4h]
+Boomin: folds
+rampurge: folds
+LORD: raises $2.50 to $3.50
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+SJP: folds
+Uncalled bet ($2.50) returned to LORD
+*** SHOW DOWN ***
+LORD collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: LORD collected ($2.50)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben (button) folded before Flop (didn't bet)
+Seat 5: Sardge (small blind) folded before Flop
+Seat 7: SJP (big blind) folded before Flop
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16266152259244497518: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:01:48 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: LORD ($100.50 in chips)
+Seat 2: Diptofsky ($109.25 in chips)
+Seat 3: Nate ($133.26 in chips)
+Seat 4: Ben ($95.50 in chips)
+Seat 5: Sardge ($40.75 in chips)
+Seat 7: SJP ($93.50 in chips)
+Seat 8: Boomin ($254.37 in chips)
+Seat 10: rampurge ($75.13 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qd Kh]
+rampurge: raises $2.00 to $3.00
+LORD: raises $8.50 to $11.50
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+SJP: folds
+Boomin: folds
+rampurge: calls $8.50
+*** FLOP *** [6s Tc 4d]
+rampurge: checks
+LORD: bets $12.25
+rampurge: folds
+Uncalled bet ($12.25) returned to LORD
+*** SHOW DOWN ***
+LORD collected $24.50 from pot
+*** SUMMARY ***
+Total pot: $24.50 | Rake 0
+Board [6s Tc 4d]
+Seat 1: LORD collected ($24.50)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge (button) folded before Flop (didn't bet)
+Seat 7: SJP (small blind) folded before Flop
+Seat 8: Boomin (big blind) folded before Flop
+Seat 10: rampurge folded on the Flop
+
+
+
+PokerStars Hand #3192284125771691282: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:02:19 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: LORD ($113.50 in chips)
+Seat 2: Diptofsky ($109.25 in chips)
+Seat 3: Nate ($133.26 in chips)
+Seat 4: Ben ($95.50 in chips)
+Seat 5: Sardge ($40.75 in chips)
+Seat 7: SJP ($93.00 in chips)
+Seat 8: Boomin ($253.37 in chips)
+Seat 10: rampurge ($63.63 in chips)
+Boomin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7h Ah]
+LORD: folds
+Diptofsky: raises $2.00 to $3.00
+Nate: folds
+Ben: folds
+Sardge: folds
+SJP: raises $7.50 to $10.50
+Boomin: folds
+rampurge: folds
+Diptofsky: raises $18.00 to $28.50
+SJP: folds
+Uncalled bet ($18.00) returned to Diptofsky
+*** SHOW DOWN ***
+Diptofsky collected $22.50 from pot
+*** SUMMARY ***
+Total pot: $22.50 | Rake 0
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky collected ($22.50)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 7: SJP (button) folded before Flop
+Seat 8: Boomin (small blind) folded before Flop
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #2082206838518245046: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:02:54 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: LORD ($113.50 in chips)
+Seat 2: Diptofsky ($121.25 in chips)
+Seat 3: Nate ($133.26 in chips)
+Seat 4: Ben ($95.50 in chips)
+Seat 5: Sardge ($40.75 in chips)
+Seat 7: SJP ($82.50 in chips)
+Seat 8: Boomin ($252.87 in chips)
+Seat 10: rampurge ($62.63 in chips)
+rampurge: posts small blind $0.50
+LORD: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7d Qd]
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: raises $2.00 to $3.00
+SJP: calls $3.00
+Boomin: folds
+rampurge: calls $2.50
+LORD: folds
+*** FLOP *** [3d Ah Jh]
+rampurge: checks
+Sardge: bets $3.00
+SJP: folds
+rampurge: folds
+Uncalled bet ($3.00) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $10.00 from pot
+*** SUMMARY ***
+Total pot: $10.00 | Rake 0
+Board [3d Ah Jh]
+Seat 1: LORD (big blind) folded before Flop
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge collected ($10.00)
+Seat 7: SJP folded on the Flop
+Seat 8: Boomin (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) folded on the Flop
+
+
+
+PokerStars Hand #1050526114514253314: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:03:23 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: LORD ($112.50 in chips)
+Seat 2: Diptofsky ($121.25 in chips)
+Seat 3: Nate ($133.26 in chips)
+Seat 4: Ben ($95.50 in chips)
+Seat 5: Sardge ($47.75 in chips)
+Seat 7: SJP ($79.50 in chips)
+Seat 8: Boomin ($252.87 in chips)
+Seat 10: rampurge ($59.63 in chips)
+LORD: posts small blind $0.50
+Diptofsky: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kd 9d]
+Nate: raises $2.00 to $3.00
+Ben: folds
+Sardge: folds
+SJP: folds
+Boomin: folds
+rampurge: calls $3.00
+LORD: calls $2.50
+Diptofsky: folds
+*** FLOP *** [8c 8d 3h]
+LORD: checks
+Nate: checks
+rampurge: checks
+*** TURN *** [8c 8d 3h] [Qd]
+LORD: checks
+Nate: bets $5.00
+rampurge: calls $5.00
+LORD: calls $5.00
+*** RIVER *** [8c 8d 3h Qd] [Th]
+LORD: checks
+Nate: checks
+rampurge: checks
+Nate: shows [As Td]
+*** SHOW DOWN ***
+Nate collected $25.00 from pot
+LORD: shows [7d 7c]
+*** SUMMARY ***
+Total pot: $25.00 | Rake 0
+Board [8c 8d 3h Qd Th]
+Seat 1: LORD (small blind) showed [7d 7c] and lost with two pair, Eights and Sevens
+Seat 2: Diptofsky (big blind) folded before Flop
+Seat 3: Nate showed [As Td] and won ($25.00) with two pair, Tens and Eights
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge (button) didn't show and lost
+
+
+
+PokerStars Hand #695196876713491952: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:04:00 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: LORD ($104.50 in chips)
+Seat 2: Diptofsky ($120.25 in chips)
+Seat 3: Nate ($150.26 in chips)
+Seat 4: Ben ($95.50 in chips)
+Seat 5: Sardge ($47.75 in chips)
+Seat 7: SJP ($79.50 in chips)
+Seat 8: Boomin ($252.87 in chips)
+Seat 10: rampurge ($51.63 in chips)
+Diptofsky: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6s Ts]
+Ben: folds
+Sardge: folds
+SJP: folds
+Boomin: folds
+rampurge: folds
+LORD: raises $2.50 to $3.50
+Diptofsky: folds
+Nate: folds
+Uncalled bet ($2.50) returned to LORD
+*** SHOW DOWN ***
+LORD collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: LORD (button) collected ($2.50)
+Seat 2: Diptofsky (small blind) folded before Flop
+Seat 3: Nate (big blind) folded before Flop
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4412401713024914207: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:04:17 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: LORD ($106.00 in chips)
+Seat 2: Diptofsky ($119.75 in chips)
+Seat 3: Nate ($149.26 in chips)
+Seat 4: Ben ($95.50 in chips)
+Seat 5: Sardge ($47.75 in chips)
+Seat 7: SJP ($79.50 in chips)
+Seat 8: Boomin ($252.87 in chips)
+Seat 10: rampurge ($51.63 in chips)
+Nate: posts small blind $0.50
+Ben: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8h 6d]
+Sardge: folds
+SJP: folds
+Boomin: folds
+rampurge: folds
+LORD: raises $2.50 to $3.50
+Diptofsky: folds
+Nate: calls $3.00
+Ben: folds
+*** FLOP *** [9s Ad 5c]
+Nate: checks
+LORD: checks
+*** TURN *** [9s Ad 5c] [8d]
+Nate: bets $3.00
+LORD: calls $3.00
+*** RIVER *** [9s Ad 5c 8d] [Th]
+Nate: bets $7.00
+LORD: calls $7.00
+Nate: shows [7s As]
+*** SHOW DOWN ***
+Nate collected $28.00 from pot
+*** SUMMARY ***
+Total pot: $28.00 | Rake 0
+Board [9s Ad 5c 8d Th]
+Seat 1: LORD didn't show and lost
+Seat 2: Diptofsky (button) folded before Flop (didn't bet)
+Seat 3: Nate (small blind) showed [7s As] and won ($28.00) with a pair of Aces
+Seat 4: Ben (big blind) folded before Flop
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #10218568906902035614: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:04:56 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: LORD ($92.50 in chips)
+Seat 2: Diptofsky ($119.75 in chips)
+Seat 3: Nate ($163.76 in chips)
+Seat 4: Ben ($94.50 in chips)
+Seat 5: Sardge ($47.75 in chips)
+Seat 6: Colin ($150.00 in chips)
+Seat 7: SJP ($79.50 in chips)
+Seat 8: Boomin ($252.87 in chips)
+Seat 10: rampurge ($51.63 in chips)
+Ben: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3h 3d]
+Colin: folds
+SJP: raises $2.50 to $3.50
+Boomin: folds
+rampurge: calls $3.50
+LORD: raises $12.00 to $15.50
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+SJP: folds
+rampurge: raises $36.13 to $51.63
+LORD: calls $36.13
+LORD: shows [Ah 7c]
+rampurge: shows [3h 3d]
+*** FLOP *** [3s 4s Tc]
+*** TURN *** [3s 4s Tc] [9h]
+*** RIVER *** [3s 4s Tc 9h] [Qs]
+*** SHOW DOWN ***
+rampurge collected $108.26 from pot
+*** SUMMARY ***
+Total pot: $108.26 | Rake 0
+Board [3s 4s Tc 9h Qs]
+Seat 1: LORD showed [Ah 7c] and lost with high card Ace
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate (button) folded before Flop (didn't bet)
+Seat 4: Ben (small blind) folded before Flop
+Seat 5: Sardge (big blind) folded before Flop
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge showed [3h 3d] and won ($108.26) with three of a kind, Threes
+
+
+
+PokerStars Hand #12654560596886731039: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:05:42 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: LORD ($40.87 in chips)
+Seat 2: Diptofsky ($119.75 in chips)
+Seat 3: Nate ($163.76 in chips)
+Seat 4: Ben ($94.00 in chips)
+Seat 5: Sardge ($46.75 in chips)
+Seat 6: Colin ($150.00 in chips)
+Seat 7: SJP ($76.00 in chips)
+Seat 8: Boomin ($252.87 in chips)
+Seat 10: rampurge ($108.26 in chips)
+Sardge: posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6d 8h]
+SJP: folds
+Boomin: folds
+rampurge: folds
+LORD: raises $2.50 to $3.50
+Diptofsky: folds
+Nate: folds
+Ben: calls $3.50
+Sardge: folds
+Colin: calls $2.50
+*** FLOP *** [Ad 9d Ah]
+Colin: checks
+LORD: bets $3.00
+Ben: folds
+Colin: folds
+Uncalled bet ($3.00) returned to LORD
+*** SHOW DOWN ***
+LORD collected $11.00 from pot
+*** SUMMARY ***
+Total pot: $11.00 | Rake 0
+Board [Ad 9d Ah]
+Seat 1: LORD collected ($11.00)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben (button) folded on the Flop
+Seat 5: Sardge (small blind) folded before Flop
+Seat 6: Colin (big blind) folded on the Flop
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9858499645175288670: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:06:28 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: LORD ($48.37 in chips)
+Seat 2: Diptofsky ($119.75 in chips)
+Seat 3: Nate ($163.76 in chips)
+Seat 4: Ben ($90.50 in chips)
+Seat 5: Sardge ($46.25 in chips)
+Seat 6: Colin ($146.50 in chips)
+Seat 7: SJP ($76.00 in chips)
+Seat 8: Boomin ($252.87 in chips)
+Seat 10: rampurge ($108.26 in chips)
+Colin: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6s 9h]
+Boomin: folds
+rampurge: folds
+LORD: folds
+Diptofsky: folds
+Nate: folds
+Ben: raises $2.00 to $3.00
+Sardge: raises $7.00 to $10.00
+Colin: folds
+SJP: folds
+Ben: raises $36.25 to $46.25
+Sardge: folds
+Uncalled bet ($36.25) returned to Ben
+*** SHOW DOWN ***
+Ben collected $21.50 from pot
+*** SUMMARY ***
+Total pot: $21.50 | Rake 0
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben collected ($21.50)
+Seat 5: Sardge (button) folded before Flop
+Seat 6: Colin (small blind) folded before Flop
+Seat 7: SJP (big blind) folded before Flop
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #14220943543782434711: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:07:30 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: LORD ($48.37 in chips)
+Seat 2: Diptofsky ($119.75 in chips)
+Seat 3: Nate ($163.76 in chips)
+Seat 4: Ben ($102.00 in chips)
+Seat 5: Sardge ($36.25 in chips)
+Seat 6: Colin ($146.00 in chips)
+Seat 7: SJP ($75.00 in chips)
+Seat 8: Boomin ($252.87 in chips)
+Seat 10: rampurge ($108.26 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Jh 3s]
+rampurge: folds
+LORD: folds
+Diptofsky: folds
+Nate: raises $2.00 to $3.00
+Ben: raises $6.00 to $9.00
+Sardge: raises $27.25 to $36.25
+Colin: folds
+SJP: folds
+Boomin: folds
+Nate: folds
+Ben: calls $27.25
+Ben: shows [Kh Kc]
+Sardge: shows [Tc As]
+*** FLOP *** [2c 9d Js]
+*** TURN *** [2c 9d Js] [5d]
+*** RIVER *** [2c 9d Js 5d] [Qs]
+*** SHOW DOWN ***
+Ben collected $77.00 from pot
+*** SUMMARY ***
+Total pot: $77.00 | Rake 0
+Board [2c 9d Js 5d Qs]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop
+Seat 4: Ben showed [Kh Kc] and won ($77.00) with a pair of Kings
+Seat 5: Sardge showed [Tc As] and lost with high card Ace
+Seat 6: Colin (button) folded before Flop (didn't bet)
+Seat 7: SJP (small blind) folded before Flop
+Seat 8: Boomin (big blind) folded before Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #12190631624536244804: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:08:24 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: LORD ($48.37 in chips)
+Seat 2: Diptofsky ($119.75 in chips)
+Seat 3: Nate ($160.76 in chips)
+Seat 4: Ben ($142.75 in chips)
+Seat 6: Colin ($146.00 in chips)
+Seat 7: SJP ($74.50 in chips)
+Seat 8: Boomin ($251.87 in chips)
+Seat 10: rampurge ($108.26 in chips)
+Boomin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Js 7s]
+LORD: folds
+Diptofsky: raises $2.00 to $3.00
+Nate: folds
+Ben: folds
+Colin: folds
+SJP: folds
+Boomin: folds
+rampurge: folds
+Uncalled bet ($2.00) returned to Diptofsky
+*** SHOW DOWN ***
+Diptofsky collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky collected ($2.50)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP (button) folded before Flop (didn't bet)
+Seat 8: Boomin (small blind) folded before Flop
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #3148173045425066747: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:08:47 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: LORD ($48.37 in chips)
+Seat 2: Diptofsky ($121.25 in chips)
+Seat 3: Nate ($160.76 in chips)
+Seat 4: Ben ($142.75 in chips)
+Seat 6: Colin ($146.00 in chips)
+Seat 7: SJP ($74.50 in chips)
+Seat 8: Boomin ($251.37 in chips)
+Seat 10: rampurge ($107.26 in chips)
+rampurge: posts small blind $0.50
+LORD: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8s Tc]
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Colin: folds
+SJP: raises $2.50 to $3.50
+Boomin: raises $7.50 to $11.00
+rampurge: folds
+LORD: folds
+SJP: folds
+Uncalled bet ($7.50) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $8.50 from pot
+*** SUMMARY ***
+Total pot: $8.50 | Rake 0
+Seat 1: LORD (big blind) folded before Flop
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop
+Seat 8: Boomin (button) collected ($8.50)
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #15389876215112763550: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:09:15 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: LORD ($47.37 in chips)
+Seat 2: Diptofsky ($121.25 in chips)
+Seat 3: Nate ($160.76 in chips)
+Seat 4: Ben ($142.75 in chips)
+Seat 6: Colin ($146.00 in chips)
+Seat 7: SJP ($71.00 in chips)
+Seat 8: Boomin ($256.37 in chips)
+Seat 10: rampurge ($106.76 in chips)
+LORD: posts small blind $0.50
+Diptofsky: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3s 7c]
+Nate: folds
+Ben: folds
+Colin: folds
+SJP: folds
+Boomin: raises $2.00 to $3.00
+rampurge: folds
+LORD: raises $7.00 to $10.00
+Diptofsky: folds
+Boomin: raises $37.37 to $47.37
+LORD: calls $37.37
+LORD: shows [Ks Th]
+Boomin: shows [Qd Qc]
+*** FLOP *** [Td 4d 9s]
+*** TURN *** [Td 4d 9s] [Kd]
+*** RIVER *** [Td 4d 9s Kd] [4s]
+*** SHOW DOWN ***
+LORD collected $95.74 from pot
+*** SUMMARY ***
+Total pot: $95.74 | Rake 0
+Board [Td 4d 9s Kd 4s]
+Seat 1: LORD (small blind) showed [Ks Th] and won ($95.74) with two pair, Kings and Tens
+Seat 2: Diptofsky (big blind) folded before Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin showed [Qd Qc] and lost with two pair, Queens and Fours
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16243141549716218127: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:10:11 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: LORD ($95.74 in chips)
+Seat 2: Diptofsky ($120.25 in chips)
+Seat 3: Nate ($160.76 in chips)
+Seat 4: Ben ($142.75 in chips)
+Seat 6: Colin ($146.00 in chips)
+Seat 7: SJP ($71.00 in chips)
+Seat 8: Boomin ($209.00 in chips)
+Seat 10: rampurge ($106.76 in chips)
+Diptofsky: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4s 2d]
+Ben: folds
+Colin: raises $4.00 to $5.00
+SJP: folds
+Boomin: folds
+rampurge: folds
+LORD: folds
+Diptofsky: calls $4.50
+Nate: folds
+*** FLOP *** [Tc Ts Jd]
+Diptofsky: checks
+Colin: bets $8.25
+Diptofsky: folds
+Uncalled bet ($8.25) returned to Colin
+*** SHOW DOWN ***
+Colin collected $11.00 from pot
+*** SUMMARY ***
+Total pot: $11.00 | Rake 0
+Board [Tc Ts Jd]
+Seat 1: LORD (button) folded before Flop (didn't bet)
+Seat 2: Diptofsky (small blind) folded on the Flop
+Seat 3: Nate (big blind) folded before Flop
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 6: Colin collected ($11.00)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6468876136790863526: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:10:44 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: LORD ($95.74 in chips)
+Seat 2: Diptofsky ($115.25 in chips)
+Seat 3: Nate ($159.76 in chips)
+Seat 4: Ben ($142.75 in chips)
+Seat 5: Sardge ($200.00 in chips)
+Seat 6: Colin ($152.00 in chips)
+Seat 7: SJP ($71.00 in chips)
+Seat 8: Boomin ($209.00 in chips)
+Seat 10: rampurge ($106.76 in chips)
+Nate: posts small blind $0.50
+Ben: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4c Kh]
+Sardge: folds
+Colin: calls $1.00
+SJP: raises $3.50 to $4.50
+Boomin: folds
+rampurge: folds
+LORD: calls $4.50
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Colin: calls $3.50
+*** FLOP *** [2s Jc 8s]
+Colin: checks
+SJP: bets $7.50
+LORD: calls $7.50
+Colin: folds
+*** TURN *** [2s Jc 8s] [Ad]
+SJP: bets $15.00
+LORD: calls $15.00
+*** RIVER *** [2s Jc 8s Ad] [Ks]
+SJP: checks
+LORD: bets $44.00
+SJP: folds
+Uncalled bet ($44.00) returned to LORD
+*** SHOW DOWN ***
+LORD collected $60.00 from pot
+*** SUMMARY ***
+Total pot: $60.00 | Rake 0
+Board [2s Jc 8s Ad Ks]
+Seat 1: LORD collected ($60.00)
+Seat 2: Diptofsky (button) folded before Flop (didn't bet)
+Seat 3: Nate (small blind) folded before Flop
+Seat 4: Ben (big blind) folded before Flop
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin folded on the Flop
+Seat 7: SJP folded on the River
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #15561289851987223044: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:12:00 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: LORD ($128.74 in chips)
+Seat 2: Diptofsky ($115.25 in chips)
+Seat 3: Nate ($159.26 in chips)
+Seat 4: Ben ($141.75 in chips)
+Seat 5: Sardge ($200.00 in chips)
+Seat 6: Colin ($147.50 in chips)
+Seat 7: SJP ($44.00 in chips)
+Seat 8: Boomin ($209.00 in chips)
+Seat 10: rampurge ($106.76 in chips)
+Ben: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qh Ac]
+Colin: folds
+SJP: folds
+Boomin: folds
+rampurge: raises $2.50 to $3.50
+LORD: folds
+Diptofsky: folds
+Nate: calls $3.50
+Ben: folds
+Sardge: folds
+*** FLOP *** [5s 5h 5c]
+rampurge: bets $3.25
+Nate: calls $3.25
+*** TURN *** [5s 5h 5c] [Kd]
+rampurge: bets $10.25
+Nate: folds
+Uncalled bet ($10.25) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $15.00 from pot
+Sardge: shows [Ks 5d]
+*** SUMMARY ***
+Total pot: $15.00 | Rake 0
+Board [5s 5h 5c Kd]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate (button) folded on the Turn
+Seat 4: Ben (small blind) folded before Flop
+Seat 5: Sardge (big blind) folded before Flop [Ks 5d]
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge collected ($15.00)
+
+
+
+PokerStars Hand #18219885327664297893: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:12:39 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: LORD ($128.74 in chips)
+Seat 2: Diptofsky ($115.25 in chips)
+Seat 3: Nate ($152.51 in chips)
+Seat 4: Ben ($141.25 in chips)
+Seat 5: Sardge ($199.00 in chips)
+Seat 6: Colin ($147.50 in chips)
+Seat 7: SJP ($44.00 in chips)
+Seat 8: Boomin ($209.00 in chips)
+Seat 10: rampurge ($115.01 in chips)
+Sardge: posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qd Qh]
+SJP: folds
+Boomin: folds
+rampurge: raises $2.00 to $3.00
+LORD: folds
+Diptofsky: calls $3.00
+Nate: folds
+Ben: folds
+Sardge: folds
+Colin: calls $2.00
+*** FLOP *** [2c Qs 8c]
+Colin: checks
+rampurge: bets $4.25
+Diptofsky: folds
+Colin: calls $4.25
+*** TURN *** [2c Qs 8c] [5h]
+Colin: checks
+rampurge: bets $14.00
+Colin: calls $14.00
+*** RIVER *** [2c Qs 8c 5h] [5d]
+Colin: checks
+rampurge: bets $20.00
+Colin: calls $20.00
+rampurge: shows [Qd Qh]
+*** SHOW DOWN ***
+rampurge collected $86.00 from pot
+*** SUMMARY ***
+Total pot: $86.00 | Rake 0
+Board [2c Qs 8c 5h 5d]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded on the Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben (button) folded before Flop (didn't bet)
+Seat 5: Sardge (small blind) folded before Flop
+Seat 6: Colin (big blind) didn't show and lost
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge showed [Qd Qh] and won ($86.00) with a full house, Queens full of Fives
+
+
+
+PokerStars Hand #10694659388513588004: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:13:49 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: LORD ($128.74 in chips)
+Seat 2: Diptofsky ($112.25 in chips)
+Seat 3: Nate ($152.51 in chips)
+Seat 4: Ben ($141.25 in chips)
+Seat 5: Sardge ($198.50 in chips)
+Seat 6: Colin ($106.25 in chips)
+Seat 7: SJP ($44.00 in chips)
+Seat 8: Boomin ($209.00 in chips)
+Seat 10: rampurge ($159.76 in chips)
+Colin: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5s 5c]
+Boomin: raises $2.00 to $3.00
+rampurge: folds
+LORD: folds
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+Colin: calls $2.50
+SJP: calls $2.00
+*** FLOP *** [Jd 7c 4s]
+Colin: checks
+SJP: checks
+Boomin: checks
+*** TURN *** [Jd 7c 4s] [7h]
+Colin: bets $9.00
+SJP: folds
+Boomin: folds
+Uncalled bet ($9.00) returned to Colin
+*** SHOW DOWN ***
+Colin collected $9.00 from pot
+*** SUMMARY ***
+Total pot: $9.00 | Rake 0
+Board [Jd 7c 4s 7h]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge (button) folded before Flop (didn't bet)
+Seat 6: Colin (small blind) collected ($9.00)
+Seat 7: SJP (big blind) folded on the Turn
+Seat 8: Boomin folded on the Turn
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6059739360802667264: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:14:35 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: LORD ($128.74 in chips)
+Seat 2: Diptofsky ($112.25 in chips)
+Seat 3: Nate ($152.51 in chips)
+Seat 4: Ben ($141.25 in chips)
+Seat 5: Sardge ($198.50 in chips)
+Seat 6: Colin ($112.25 in chips)
+Seat 7: SJP ($41.00 in chips)
+Seat 8: Boomin ($206.00 in chips)
+Seat 10: rampurge ($159.76 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [As Qs]
+rampurge: raises $2.00 to $3.00
+LORD: folds
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+Colin: folds
+SJP: calls $2.50
+Boomin: folds
+*** FLOP *** [Ks Qh Tc]
+SJP: checks
+rampurge: bets $3.50
+SJP: folds
+Uncalled bet ($3.50) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $7.00 from pot
+*** SUMMARY ***
+Total pot: $7.00 | Rake 0
+Board [Ks Qh Tc]
+Seat 1: LORD folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin (button) folded before Flop (didn't bet)
+Seat 7: SJP (small blind) folded on the Flop
+Seat 8: Boomin (big blind) folded before Flop
+Seat 10: rampurge collected ($7.00)
+
+
+
+PokerStars Hand #16194265758831374195: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:15:04 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: LORD ($128.74 in chips)
+Seat 2: Diptofsky ($112.25 in chips)
+Seat 3: Nate ($152.51 in chips)
+Seat 4: Ben ($141.25 in chips)
+Seat 5: Sardge ($198.50 in chips)
+Seat 6: Colin ($112.25 in chips)
+Seat 7: SJP ($38.00 in chips)
+Seat 8: Boomin ($205.00 in chips)
+Seat 10: rampurge ($163.76 in chips)
+Boomin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3c 2c]
+LORD: calls $1.00
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+Colin: calls $1.00
+SJP: folds
+Boomin: folds
+rampurge: checks
+*** FLOP *** [7h 2d 4c]
+rampurge: checks
+LORD: checks
+Colin: checks
+*** TURN *** [7h 2d 4c] [Td]
+rampurge: checks
+LORD: checks
+Colin: bets $3.50
+rampurge: folds
+LORD: folds
+Uncalled bet ($3.50) returned to Colin
+*** SHOW DOWN ***
+Colin collected $3.50 from pot
+*** SUMMARY ***
+Total pot: $3.50 | Rake 0
+Board [7h 2d 4c Td]
+Seat 1: LORD folded on the Turn
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin collected ($3.50)
+Seat 7: SJP (button) folded before Flop (didn't bet)
+Seat 8: Boomin (small blind) folded before Flop
+Seat 10: rampurge (big blind) folded on the Turn
+
+
+
+PokerStars Hand #14764383180178379268: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:16:03 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: LORD ($127.74 in chips)
+Seat 2: Diptofsky ($112.25 in chips)
+Seat 3: Nate ($152.51 in chips)
+Seat 4: Ben ($141.25 in chips)
+Seat 5: Sardge ($198.50 in chips)
+Seat 6: Colin ($114.75 in chips)
+Seat 7: SJP ($38.00 in chips)
+Seat 8: Boomin ($204.50 in chips)
+Seat 10: rampurge ($162.76 in chips)
+rampurge: posts small blind $0.50
+LORD: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5c Ah]
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+Colin: folds
+SJP: raises $2.50 to $3.50
+Boomin: folds
+rampurge: folds
+LORD: folds
+Uncalled bet ($2.50) returned to SJP
+*** SHOW DOWN ***
+SJP collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: LORD (big blind) folded before Flop
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP collected ($2.50)
+Seat 8: Boomin (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #12373616542659235510: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:16:24 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: LORD ($126.74 in chips)
+Seat 2: Diptofsky ($112.25 in chips)
+Seat 3: Nate ($152.51 in chips)
+Seat 4: Ben ($141.25 in chips)
+Seat 5: Sardge ($198.50 in chips)
+Seat 6: Colin ($114.75 in chips)
+Seat 7: SJP ($39.50 in chips)
+Seat 8: Boomin ($204.50 in chips)
+Seat 10: rampurge ($162.26 in chips)
+LORD: posts small blind $0.50
+Diptofsky: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7d Qd]
+Nate: folds
+Ben: folds
+Sardge: raises $2.00 to $3.00
+Colin: folds
+SJP: calls $3.00
+Boomin: folds
+rampurge: folds
+LORD: raises $10.00 to $13.00
+Diptofsky: folds
+Sardge: calls $10.00
+SJP: calls $10.00
+*** FLOP *** [5s 4s 2d]
+LORD: bets $40.00
+Sardge: raises $73.74 to $113.74
+SJP: folds
+LORD: calls $73.74
+LORD: shows [Jd Js]
+Sardge: shows [3d 3s]
+*** FIRST TURN *** [5s 4s 2d] [3h]
+*** FIRST RIVER *** [5s 4s 2d 3h] [5d]
+*** SECOND TURN *** [5s 4s 2d] [6d]
+*** SECOND RIVER *** [5s 4s 2d 6d] [5h]
+*** FIRST SHOW DOWN ***
+Sardge collected $133.74 from pot
+*** SECOND SHOW DOWN ***
+Sardge collected $133.74 from pot
+*** SUMMARY ***
+Total pot: $267.48 | Rake 0
+Hand was run twice
+FIRST Board [5s 4s 2d 3h 5d]
+SECOND Board [5s 4s 2d 6d 5h]
+Seat 1: LORD (small blind) showed [Jd Js] and lost with two pair, Jacks and Fives, and lost with two pair, Jacks and Fives
+Seat 2: Diptofsky (big blind) folded before Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge showed [3d 3s] and won ($133.74) with a full house, Threes full of Fives, and won ($133.74) with a straight, Deuce to Six
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded on the Flop
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1375026812596225329: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:17:25 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 2: Diptofsky ($111.25 in chips)
+Seat 3: Nate ($152.51 in chips)
+Seat 4: Ben ($141.25 in chips)
+Seat 5: Sardge ($339.24 in chips)
+Seat 6: Colin ($114.75 in chips)
+Seat 7: SJP ($26.50 in chips)
+Seat 8: Boomin ($204.50 in chips)
+Seat 10: rampurge ($162.26 in chips)
+Diptofsky: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ts 8s]
+Ben: folds
+Sardge: folds
+Colin: folds
+SJP: raises $2.50 to $3.50
+Boomin: raises $7.50 to $11.00
+rampurge: folds
+Diptofsky: folds
+Nate: folds
+SJP: folds
+Uncalled bet ($7.50) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $8.50 from pot
+*** SUMMARY ***
+Total pot: $8.50 | Rake 0
+Seat 2: Diptofsky (small blind) folded before Flop
+Seat 3: Nate (big blind) folded before Flop
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop
+Seat 8: Boomin collected ($8.50)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6077920724817514253: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:17:45 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 2: Diptofsky ($110.75 in chips)
+Seat 3: Nate ($151.51 in chips)
+Seat 4: Ben ($141.25 in chips)
+Seat 5: Sardge ($339.24 in chips)
+Seat 6: Colin ($114.75 in chips)
+Seat 7: SJP ($23.00 in chips)
+Seat 8: Boomin ($209.50 in chips)
+Seat 10: rampurge ($162.26 in chips)
+Nate: posts small blind $0.50
+Ben: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qc Ts]
+Sardge: folds
+Colin: raises $3.00 to $4.00
+SJP: folds
+Boomin: folds
+rampurge: folds
+Diptofsky: calls $4.00
+Nate: folds
+Ben: folds
+*** FLOP *** [9c 8d Jh]
+Colin: checks
+Diptofsky: checks
+*** TURN *** [9c 8d Jh] [Ah]
+Colin: bets $9.50
+Diptofsky: folds
+Uncalled bet ($9.50) returned to Colin
+*** SHOW DOWN ***
+Colin collected $9.50 from pot
+*** SUMMARY ***
+Total pot: $9.50 | Rake 0
+Board [9c 8d Jh Ah]
+Seat 2: Diptofsky (button) folded on the Turn
+Seat 3: Nate (small blind) folded before Flop
+Seat 4: Ben (big blind) folded before Flop
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin collected ($9.50)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #479713569379866327: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:18:33 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 2: Diptofsky ($106.75 in chips)
+Seat 3: Nate ($151.01 in chips)
+Seat 4: Ben ($140.25 in chips)
+Seat 5: Sardge ($339.24 in chips)
+Seat 6: Colin ($120.25 in chips)
+Seat 7: SJP ($23.00 in chips)
+Seat 8: Boomin ($209.50 in chips)
+Seat 10: rampurge ($162.26 in chips)
+Ben: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9c Ah]
+Colin: folds
+SJP: folds
+Boomin: raises $2.00 to $3.00
+rampurge: folds
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: calls $2.00
+*** FLOP *** [2s 2c Ts]
+Sardge: checks
+Boomin: bets $3.25
+Sardge: calls $3.25
+*** TURN *** [2s 2c Ts] [Qs]
+Sardge: checks
+Boomin: bets $10.00
+Sardge: calls $10.00
+*** RIVER *** [2s 2c Ts Qs] [5h]
+Sardge: bets $20.00
+Boomin: folds
+Uncalled bet ($20.00) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $33.00 from pot
+*** SUMMARY ***
+Total pot: $33.00 | Rake 0
+Board [2s 2c Ts Qs 5h]
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate (button) folded before Flop (didn't bet)
+Seat 4: Ben (small blind) folded before Flop
+Seat 5: Sardge (big blind) collected ($33.00)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded on the River
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4596072143897483797: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:19:37 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 2: Diptofsky ($106.75 in chips)
+Seat 3: Nate ($151.01 in chips)
+Seat 4: Ben ($139.75 in chips)
+Seat 5: Sardge ($355.99 in chips)
+Seat 6: Colin ($120.25 in chips)
+Seat 7: SJP ($23.00 in chips)
+Seat 8: Boomin ($193.25 in chips)
+Seat 10: rampurge ($162.26 in chips)
+Sardge: posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qh 6s]
+SJP: raises $22.00 to $23.00
+Boomin: folds
+rampurge: folds
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+Colin: folds
+Uncalled bet ($22.00) returned to SJP
+*** SHOW DOWN ***
+SJP collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben (button) folded before Flop (didn't bet)
+Seat 5: Sardge (small blind) folded before Flop
+Seat 6: Colin (big blind) folded before Flop
+Seat 7: SJP collected ($2.50)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4654309410396422869: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:19:55 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 2: Diptofsky ($106.75 in chips)
+Seat 3: Nate ($151.01 in chips)
+Seat 4: Ben ($139.75 in chips)
+Seat 5: Sardge ($355.49 in chips)
+Seat 6: Colin ($119.25 in chips)
+Seat 7: SJP ($24.50 in chips)
+Seat 8: Boomin ($193.25 in chips)
+Seat 10: rampurge ($162.26 in chips)
+Colin: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8h 7s]
+Boomin: raises $2.00 to $3.00
+rampurge: folds
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: calls $3.00
+Colin: calls $2.50
+SJP: folds
+*** FLOP *** [6c 3c As]
+Colin: checks
+Boomin: checks
+Sardge: checks
+*** TURN *** [6c 3c As] [4d]
+Colin: checks
+Boomin: bets $5.00
+Sardge: calls $5.00
+Colin: calls $5.00
+*** RIVER *** [6c 3c As 4d] [9c]
+Colin: checks
+Boomin: bets $20.00
+Sardge: raises $45.00 to $65.00
+Colin: folds
+Boomin: calls $45.00
+Boomin: shows [8c Qc]
+*** SHOW DOWN ***
+Boomin collected $155.00 from pot
+Sardge: shows [5d 8d]
+*** SUMMARY ***
+Total pot: $155.00 | Rake 0
+Board [6c 3c As 4d 9c]
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge (button) showed [5d 8d] and lost with high card Ace
+Seat 6: Colin (small blind) folded on the River
+Seat 7: SJP (big blind) folded before Flop
+Seat 8: Boomin showed [8c Qc] and won ($155.00) with a flush, Queen high
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #18185106915521195155: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:21:00 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 2: Diptofsky ($106.75 in chips)
+Seat 3: Nate ($151.01 in chips)
+Seat 4: Ben ($139.75 in chips)
+Seat 5: Sardge ($282.49 in chips)
+Seat 6: Colin ($111.25 in chips)
+Seat 7: SJP ($23.50 in chips)
+Seat 8: Boomin ($275.25 in chips)
+Seat 10: rampurge ($162.26 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ac Kd]
+rampurge: raises $2.00 to $3.00
+Diptofsky: folds
+Nate: folds
+Ben: calls $3.00
+Sardge: folds
+Colin: calls $3.00
+SJP: folds
+Boomin: calls $2.00
+*** FLOP *** [Kh Qd 8s]
+Boomin: checks
+rampurge: bets $6.25
+Ben: folds
+Colin: folds
+Boomin: folds
+Uncalled bet ($6.25) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $12.50 from pot
+*** SUMMARY ***
+Total pot: $12.50 | Rake 0
+Board [Kh Qd 8s]
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded on the Flop
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin (button) folded on the Flop
+Seat 7: SJP (small blind) folded before Flop
+Seat 8: Boomin (big blind) folded on the Flop
+Seat 10: rampurge collected ($12.50)
+
+
+
+PokerStars Hand #15055220221053176124: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:21:45 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 2: Diptofsky ($106.75 in chips)
+Seat 3: Nate ($151.01 in chips)
+Seat 4: Ben ($136.75 in chips)
+Seat 5: Sardge ($282.49 in chips)
+Seat 6: Colin ($108.25 in chips)
+Seat 7: SJP ($23.00 in chips)
+Seat 8: Boomin ($272.25 in chips)
+Seat 10: rampurge ($171.76 in chips)
+Boomin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Th Jc]
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+Colin: raises $3.00 to $4.00
+SJP: folds
+Boomin: raises $12.00 to $16.00
+rampurge: folds
+Colin: folds
+Uncalled bet ($12.00) returned to Boomin
+*** SHOW DOWN ***
+Boomin collected $9.00 from pot
+*** SUMMARY ***
+Total pot: $9.00 | Rake 0
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin folded before Flop
+Seat 7: SJP (button) folded before Flop (didn't bet)
+Seat 8: Boomin (small blind) collected ($9.00)
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #12459400347025291475: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:22:24 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 2: Diptofsky ($106.75 in chips)
+Seat 3: Nate ($151.01 in chips)
+Seat 4: Ben ($136.75 in chips)
+Seat 5: Sardge ($282.49 in chips)
+Seat 6: Colin ($104.25 in chips)
+Seat 7: SJP ($23.00 in chips)
+Seat 8: Boomin ($277.25 in chips)
+Seat 10: rampurge ($170.76 in chips)
+rampurge: posts small blind $0.50
+Diptofsky: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7c 9c]
+Nate: folds
+Ben: folds
+Sardge: raises $1.50 to $2.50
+Colin: calls $2.50
+SJP: folds
+Boomin: folds
+rampurge: folds
+Diptofsky: calls $1.50
+*** FLOP *** [Js 6h 3s]
+Diptofsky: checks
+Sardge: bets $4.00
+Colin: folds
+Diptofsky: folds
+Uncalled bet ($4.00) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $8.00 from pot
+*** SUMMARY ***
+Total pot: $8.00 | Rake 0
+Board [Js 6h 3s]
+Seat 2: Diptofsky (big blind) folded on the Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge collected ($8.00)
+Seat 6: Colin folded on the Flop
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #6872245720685885096: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:23:03 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 2: Diptofsky ($104.25 in chips)
+Seat 3: Nate ($151.01 in chips)
+Seat 4: Ben ($136.75 in chips)
+Seat 5: Sardge ($287.99 in chips)
+Seat 6: Colin ($101.75 in chips)
+Seat 7: SJP ($23.00 in chips)
+Seat 8: Boomin ($277.25 in chips)
+Seat 10: rampurge ($170.26 in chips)
+Diptofsky: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5h Qc]
+Ben: folds
+Sardge: raises $1.50 to $2.50
+Colin: folds
+SJP: folds
+Boomin: folds
+rampurge: folds
+Diptofsky: calls $2.00
+Nate: folds
+*** FLOP *** [4c 2h As]
+Diptofsky: checks
+Sardge: bets $1.50
+Diptofsky: calls $1.50
+*** TURN *** [4c 2h As] [2s]
+Diptofsky: checks
+Sardge: bets $6.50
+Diptofsky: folds
+Uncalled bet ($6.50) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $9.00 from pot
+*** SUMMARY ***
+Total pot: $9.00 | Rake 0
+Board [4c 2h As 2s]
+Seat 2: Diptofsky (small blind) folded on the Turn
+Seat 3: Nate (big blind) folded before Flop
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge collected ($9.00)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4638612422065041387: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:23:39 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Gav ($200.00 in chips)
+Seat 2: Diptofsky ($100.25 in chips)
+Seat 3: Nate ($150.01 in chips)
+Seat 4: Ben ($136.75 in chips)
+Seat 5: Sardge ($292.99 in chips)
+Seat 6: Colin ($101.75 in chips)
+Seat 7: SJP ($23.00 in chips)
+Seat 8: Boomin ($277.25 in chips)
+Seat 10: rampurge ($170.26 in chips)
+Nate: posts small blind $0.50
+Ben: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kd 3c]
+Sardge: folds
+Colin: folds
+SJP: raises $2.50 to $3.50
+Boomin: folds
+rampurge: folds
+Gav: folds
+Diptofsky: folds
+Nate: folds
+Ben: raises $6.50 to $10.00
+SJP: raises $13.00 to $23.00
+Ben: calls $13.00
+Ben: shows [Ts Td]
+SJP: shows [Qd As]
+*** FLOP *** [Th Ah 6d]
+*** TURN *** [Th Ah 6d] [Jc]
+*** RIVER *** [Th Ah 6d Jc] [Ks]
+*** SHOW DOWN ***
+SJP collected $46.50 from pot
+rampurge: shows [Kd 3c]
+*** SUMMARY ***
+Total pot: $46.50 | Rake 0
+Board [Th Ah 6d Jc Ks]
+Seat 1: Gav folded before Flop (didn't bet)
+Seat 2: Diptofsky (button) folded before Flop (didn't bet)
+Seat 3: Nate (small blind) folded before Flop
+Seat 4: Ben (big blind) showed [Ts Td] and lost with three of a kind, Tens
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP showed [Qd As] and won ($46.50) with a straight, Ten to Ace
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet) [Kd 3c]
+
+
+
+PokerStars Hand #10028528963699553027: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:24:27 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Gav ($200.00 in chips)
+Seat 2: Diptofsky ($100.25 in chips)
+Seat 3: Nate ($149.51 in chips)
+Seat 4: Ben ($113.75 in chips)
+Seat 5: Sardge ($292.99 in chips)
+Seat 6: Colin ($101.75 in chips)
+Seat 7: SJP ($46.50 in chips)
+Seat 8: Boomin ($277.25 in chips)
+Seat 10: rampurge ($170.26 in chips)
+Ben: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3c Ac]
+Colin: folds
+SJP: folds
+Boomin: folds
+rampurge: folds
+Gav: calls $1.00
+Diptofsky: raises $4.00 to $5.00
+Nate: calls $5.00
+Ben: folds
+Sardge: calls $4.00
+Gav: calls $4.00
+*** FLOP *** [4s 7d Ah]
+Sardge: checks
+Gav: checks
+Diptofsky: bets $9.00
+Nate: folds
+Sardge: folds
+Gav: folds
+Uncalled bet ($9.00) returned to Diptofsky
+*** SHOW DOWN ***
+Diptofsky collected $20.50 from pot
+*** SUMMARY ***
+Total pot: $20.50 | Rake 0
+Board [4s 7d Ah]
+Seat 1: Gav folded on the Flop
+Seat 2: Diptofsky collected ($20.50)
+Seat 3: Nate (button) folded on the Flop
+Seat 4: Ben (small blind) folded before Flop
+Seat 5: Sardge (big blind) folded on the Flop
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16042431416772599264: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:25:18 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Gav ($195.00 in chips)
+Seat 2: Diptofsky ($115.75 in chips)
+Seat 3: Nate ($144.51 in chips)
+Seat 4: Ben ($113.25 in chips)
+Seat 5: Sardge ($287.99 in chips)
+Seat 6: Colin ($101.75 in chips)
+Seat 7: SJP ($46.50 in chips)
+Seat 8: Boomin ($277.25 in chips)
+Seat 10: rampurge ($170.26 in chips)
+Sardge: posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5s 3c]
+SJP: folds
+Boomin: folds
+rampurge: folds
+Gav: folds
+Diptofsky: raises $2.00 to $3.00
+Nate: folds
+Ben: calls $3.00
+Sardge: folds
+Colin: calls $2.00
+*** FLOP *** [Qs 2c Kc]
+Colin: checks
+Diptofsky: checks
+Ben: checks
+*** TURN *** [Qs 2c Kc] [6c]
+Colin: checks
+Diptofsky: checks
+Ben: bets $5.12
+Colin: folds
+Diptofsky: folds
+Uncalled bet ($5.12) returned to Ben
+*** SHOW DOWN ***
+Ben collected $9.50 from pot
+*** SUMMARY ***
+Total pot: $9.50 | Rake 0
+Board [Qs 2c Kc 6c]
+Seat 1: Gav folded before Flop (didn't bet)
+Seat 2: Diptofsky folded on the Turn
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben (button) collected ($9.50)
+Seat 5: Sardge (small blind) folded before Flop
+Seat 6: Colin (big blind) folded on the Turn
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #12604110877899937667: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:26:07 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: Gav ($195.00 in chips)
+Seat 2: Diptofsky ($112.75 in chips)
+Seat 3: Nate ($144.51 in chips)
+Seat 4: Ben ($119.75 in chips)
+Seat 5: Sardge ($287.49 in chips)
+Seat 6: Colin ($98.75 in chips)
+Seat 7: SJP ($46.50 in chips)
+Seat 8: Boomin ($277.25 in chips)
+Seat 10: rampurge ($170.26 in chips)
+Colin: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qh Jh]
+Boomin: folds
+rampurge: folds
+Gav: raises $3.50 to $4.50
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+Colin: folds
+SJP: folds
+Uncalled bet ($3.50) returned to Gav
+*** SHOW DOWN ***
+Gav collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: Gav collected ($2.50)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge (button) folded before Flop (didn't bet)
+Seat 6: Colin (small blind) folded before Flop
+Seat 7: SJP (big blind) folded before Flop
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4303575438833337916: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:27:04 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: Gav ($196.50 in chips)
+Seat 2: Diptofsky ($112.75 in chips)
+Seat 3: Nate ($144.51 in chips)
+Seat 4: Ben ($119.75 in chips)
+Seat 5: Sardge ($287.49 in chips)
+Seat 6: Colin ($98.25 in chips)
+Seat 7: SJP ($45.50 in chips)
+Seat 8: Boomin ($277.25 in chips)
+Seat 10: rampurge ($170.26 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3c 7c]
+rampurge: folds
+Gav: calls $1.00
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+Colin: folds
+SJP: folds
+Boomin: checks
+*** FLOP *** [7d 2s 9h]
+Boomin: checks
+Gav: bets $2.50
+Boomin: folds
+Uncalled bet ($2.50) returned to Gav
+*** SHOW DOWN ***
+Gav collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Board [7d 2s 9h]
+Seat 1: Gav collected ($2.50)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin (button) folded before Flop (didn't bet)
+Seat 7: SJP (small blind) folded before Flop
+Seat 8: Boomin (big blind) folded on the Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3944988392523931998: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:27:36 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Gav ($198.00 in chips)
+Seat 2: Diptofsky ($112.75 in chips)
+Seat 3: Nate ($144.51 in chips)
+Seat 4: Ben ($119.75 in chips)
+Seat 5: Sardge ($287.49 in chips)
+Seat 6: Colin ($98.25 in chips)
+Seat 7: SJP ($45.00 in chips)
+Seat 8: Boomin ($276.25 in chips)
+Seat 10: rampurge ($170.26 in chips)
+Boomin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kc 5h]
+Gav: folds
+Diptofsky: folds
+Nate: folds
+Ben: raises $2.00 to $3.00
+Sardge: raises $7.00 to $10.00
+Colin: calls $10.00
+SJP: folds
+Boomin: folds
+rampurge: folds
+Ben: folds
+*** FLOP *** [3h 2h 4d]
+Sardge: checks
+Colin: checks
+*** TURN *** [3h 2h 4d] [Jh]
+Sardge: bets $7.00
+Colin: calls $7.00
+*** RIVER *** [3h 2h 4d Jh] [Kd]
+Sardge: bets $20.00
+Colin: raises $61.25 to $81.25
+Sardge: calls $61.25
+Colin: shows [Ah 6h]
+*** SHOW DOWN ***
+Colin collected $201.00 from pot
+Sardge: shows [Js Ac]
+*** SUMMARY ***
+Total pot: $201.00 | Rake 0
+Board [3h 2h 4d Jh Kd]
+Seat 1: Gav folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop
+Seat 5: Sardge showed [Js Ac] and lost with a pair of Jacks
+Seat 6: Colin showed [Ah 6h] and won ($201.00) with a flush, Ace high
+Seat 7: SJP (button) folded before Flop (didn't bet)
+Seat 8: Boomin (small blind) folded before Flop
+Seat 10: rampurge (big blind) folded before Flop
+
+
+
+PokerStars Hand #6237974315050580641: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:28:56 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Gav ($198.00 in chips)
+Seat 2: Diptofsky ($112.75 in chips)
+Seat 3: Nate ($144.51 in chips)
+Seat 4: Ben ($116.75 in chips)
+Seat 5: Sardge ($189.24 in chips)
+Seat 6: Colin ($201.00 in chips)
+Seat 7: SJP ($45.00 in chips)
+Seat 8: Boomin ($275.75 in chips)
+Seat 10: rampurge ($169.26 in chips)
+rampurge: posts small blind $0.50
+Gav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Td Ac]
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: folds
+Colin: folds
+SJP: folds
+Boomin: folds
+rampurge: raises $2.00 to $3.00
+Gav: calls $2.00
+*** FLOP *** [3s 2h 6h]
+rampurge: bets $3.00
+Gav: raises $5.00 to $8.00
+rampurge: folds
+Uncalled bet ($5.00) returned to Gav
+*** SHOW DOWN ***
+Gav collected $12.00 from pot
+*** SUMMARY ***
+Total pot: $12.00 | Rake 0
+Board [3s 2h 6h]
+Seat 1: Gav (big blind) collected ($12.00)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) folded on the Flop
+
+
+
+PokerStars Hand #11302788805568037766: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:29:40 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Gav ($204.00 in chips)
+Seat 2: Diptofsky ($112.75 in chips)
+Seat 3: Nate ($144.51 in chips)
+Seat 4: Ben ($116.75 in chips)
+Seat 5: Sardge ($189.24 in chips)
+Seat 6: Colin ($201.00 in chips)
+Seat 7: SJP ($45.00 in chips)
+Seat 8: Boomin ($275.75 in chips)
+Seat 10: rampurge ($163.26 in chips)
+Gav: posts small blind $0.50
+Diptofsky: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Tc 9s]
+Nate: raises $2.00 to $3.00
+Ben: folds
+Sardge: calls $3.00
+Colin: folds
+SJP: folds
+Boomin: folds
+rampurge: folds
+Gav: calls $2.50
+Diptofsky: folds
+*** FLOP *** [3c Qc 9h]
+Gav: checks
+Nate: bets $4.00
+Sardge: calls $4.00
+Gav: calls $4.00
+*** TURN *** [3c Qc 9h] [4h]
+Gav: checks
+Nate: bets $20.00
+Sardge: folds
+Gav: folds
+Uncalled bet ($20.00) returned to Nate
+*** SHOW DOWN ***
+Nate collected $22.00 from pot
+*** SUMMARY ***
+Total pot: $22.00 | Rake 0
+Board [3c Qc 9h 4h]
+Seat 1: Gav (small blind) folded on the Turn
+Seat 2: Diptofsky (big blind) folded before Flop
+Seat 3: Nate collected ($22.00)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded on the Turn
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #8274224935561817279: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:30:41 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Gav ($197.00 in chips)
+Seat 2: Diptofsky ($111.75 in chips)
+Seat 3: Nate ($159.51 in chips)
+Seat 4: Ben ($116.75 in chips)
+Seat 5: Sardge ($182.24 in chips)
+Seat 6: Colin ($201.00 in chips)
+Seat 7: SJP ($45.00 in chips)
+Seat 8: Boomin ($275.75 in chips)
+Seat 10: rampurge ($163.26 in chips)
+Diptofsky: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Jh Kh]
+Ben: folds
+Sardge: folds
+Colin: raises $4.00 to $5.00
+SJP: folds
+Boomin: folds
+rampurge: folds
+Gav: folds
+Diptofsky: folds
+Nate: folds
+Uncalled bet ($4.00) returned to Colin
+*** SHOW DOWN ***
+Colin collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: Gav (button) folded before Flop (didn't bet)
+Seat 2: Diptofsky (small blind) folded before Flop
+Seat 3: Nate (big blind) folded before Flop
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin collected ($2.50)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #15724971288977455034: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:31:03 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Gav ($197.00 in chips)
+Seat 2: Diptofsky ($111.25 in chips)
+Seat 3: Nate ($158.51 in chips)
+Seat 4: Ben ($116.75 in chips)
+Seat 5: Sardge ($182.24 in chips)
+Seat 6: Colin ($202.50 in chips)
+Seat 7: SJP ($45.00 in chips)
+Seat 8: Boomin ($275.75 in chips)
+Seat 10: rampurge ($163.26 in chips)
+Nate: posts small blind $0.50
+Ben: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5c 6d]
+Sardge: raises $2.00 to $3.00
+Colin: folds
+SJP: raises $7.50 to $10.50
+Boomin: folds
+rampurge: folds
+Gav: folds
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: calls $7.50
+*** FLOP *** [7s 3h 3s]
+Sardge: checks
+SJP: checks
+*** TURN *** [7s 3h 3s] [4h]
+Sardge: bets $9.00
+SJP: folds
+Uncalled bet ($9.00) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $22.50 from pot
+*** SUMMARY ***
+Total pot: $22.50 | Rake 0
+Board [7s 3h 3s 4h]
+Seat 1: Gav folded before Flop (didn't bet)
+Seat 2: Diptofsky (button) folded before Flop (didn't bet)
+Seat 3: Nate (small blind) folded before Flop
+Seat 4: Ben (big blind) folded before Flop
+Seat 5: Sardge collected ($22.50)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded on the Turn
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6252315665603515410: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:32:01 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Gav ($197.00 in chips)
+Seat 2: Diptofsky ($111.25 in chips)
+Seat 3: Nate ($158.01 in chips)
+Seat 4: Ben ($115.75 in chips)
+Seat 5: Sardge ($194.24 in chips)
+Seat 6: Colin ($202.50 in chips)
+Seat 7: SJP ($34.50 in chips)
+Seat 8: Boomin ($275.75 in chips)
+Seat 10: rampurge ($163.26 in chips)
+Ben: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3c 7s]
+Colin: folds
+SJP: folds
+Boomin: folds
+rampurge: folds
+Gav: folds
+Diptofsky: folds
+Nate: raises $2.00 to $3.00
+Ben: folds
+Sardge: calls $2.00
+*** FLOP *** [5s 2s 9c]
+Sardge: checks
+Nate: bets $2.00
+Sardge: calls $2.00
+*** TURN *** [5s 2s 9c] [Qs]
+Sardge: bets $5.25
+Nate: calls $5.25
+*** RIVER *** [5s 2s 9c Qs] [5c]
+Sardge: checks
+Nate: checks
+Sardge: shows [3s 3d]
+*** SHOW DOWN ***
+Sardge collected $21.00 from pot
+*** SUMMARY ***
+Total pot: $21.00 | Rake 0
+Board [5s 2s 9c Qs 5c]
+Seat 1: Gav folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate (button) didn't show and lost
+Seat 4: Ben (small blind) folded before Flop
+Seat 5: Sardge (big blind) showed [3s 3d] and won ($21.00) with two pair, Fives and Threes
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #7053118051110219831: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:32:45 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Gav ($197.00 in chips)
+Seat 2: Diptofsky ($111.25 in chips)
+Seat 3: Nate ($147.76 in chips)
+Seat 4: Ben ($115.25 in chips)
+Seat 5: Sardge ($204.99 in chips)
+Seat 6: Colin ($202.50 in chips)
+Seat 7: SJP ($34.50 in chips)
+Seat 8: Boomin ($275.75 in chips)
+Seat 10: rampurge ($163.26 in chips)
+Sardge: posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5s Jh]
+SJP: raises $2.50 to $3.50
+Boomin: folds
+rampurge: folds
+Gav: folds
+Diptofsky: calls $3.50
+Nate: calls $3.50
+Ben: calls $3.50
+Sardge: folds
+Colin: calls $2.50
+*** FLOP *** [Kh 6h 7c]
+Colin: checks
+SJP: bets $31.00
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Colin: folds
+Uncalled bet ($31.00) returned to SJP
+*** SHOW DOWN ***
+SJP collected $18.00 from pot
+*** SUMMARY ***
+Total pot: $18.00 | Rake 0
+Board [Kh 6h 7c]
+Seat 1: Gav folded before Flop (didn't bet)
+Seat 2: Diptofsky folded on the Flop
+Seat 3: Nate folded on the Flop
+Seat 4: Ben (button) folded on the Flop
+Seat 5: Sardge (small blind) folded before Flop
+Seat 6: Colin (big blind) folded on the Flop
+Seat 7: SJP collected ($18.00)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3516818178471649117: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:33:53 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 1: Gav ($197.00 in chips)
+Seat 2: Diptofsky ($107.75 in chips)
+Seat 3: Nate ($144.26 in chips)
+Seat 4: Ben ($111.75 in chips)
+Seat 5: Sardge ($204.49 in chips)
+Seat 6: Colin ($199.00 in chips)
+Seat 7: SJP ($49.00 in chips)
+Seat 8: Boomin ($275.75 in chips)
+Seat 10: rampurge ($163.26 in chips)
+Colin: posts small blind $0.50
+SJP: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Th Js]
+Boomin: folds
+rampurge: folds
+Gav: folds
+Diptofsky: folds
+Nate: folds
+Ben: raises $2.00 to $3.00
+Sardge: raises $5.00 to $8.00
+Colin: folds
+SJP: folds
+Ben: calls $5.00
+*** FLOP *** [6h 4d 2d]
+Ben: checks
+Sardge: checks
+*** TURN *** [6h 4d 2d] [9h]
+Ben: checks
+Sardge: bets $6.00
+Ben: folds
+Uncalled bet ($6.00) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $17.50 from pot
+*** SUMMARY ***
+Total pot: $17.50 | Rake 0
+Board [6h 4d 2d 9h]
+Seat 1: Gav folded before Flop (didn't bet)
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded on the Turn
+Seat 5: Sardge (button) collected ($17.50)
+Seat 6: Colin (small blind) folded before Flop
+Seat 7: SJP (big blind) folded before Flop
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #13608032174763912810: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:35:12 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: Gav ($197.00 in chips)
+Seat 2: Diptofsky ($107.75 in chips)
+Seat 3: Nate ($144.26 in chips)
+Seat 4: Ben ($103.75 in chips)
+Seat 5: Sardge ($213.99 in chips)
+Seat 6: Colin ($198.50 in chips)
+Seat 7: SJP ($48.00 in chips)
+Seat 8: Boomin ($275.75 in chips)
+Seat 10: rampurge ($163.26 in chips)
+SJP: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4c 7h]
+rampurge: folds
+Gav: folds
+Diptofsky: raises $2.00 to $3.00
+Nate: folds
+Ben: folds
+Sardge: folds
+Colin: calls $3.00
+SJP: folds
+Boomin: folds
+*** FLOP *** [Kd 5d 5c]
+Diptofsky: checks
+Colin: bets $3.75
+Diptofsky: calls $3.75
+*** TURN *** [Kd 5d 5c] [Js]
+Diptofsky: checks
+Colin: checks
+*** RIVER *** [Kd 5d 5c Js] [6h]
+Diptofsky: checks
+Colin: checks
+Colin: shows [Jh Ac]
+*** SHOW DOWN ***
+Colin collected $15.00 from pot
+Diptofsky: shows [Tc As]
+*** SUMMARY ***
+Total pot: $15.00 | Rake 0
+Board [Kd 5d 5c Js 6h]
+Seat 1: Gav folded before Flop (didn't bet)
+Seat 2: Diptofsky showed [Tc As] and lost with a pair of Fives
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin (button) showed [Jh Ac] and won ($15.00) with two pair, Jacks and Fives
+Seat 7: SJP (small blind) folded before Flop
+Seat 8: Boomin (big blind) folded before Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1136426202952514220: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:36:04 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 2: Diptofsky ($101.00 in chips)
+Seat 3: Nate ($144.26 in chips)
+Seat 4: Ben ($103.75 in chips)
+Seat 5: Sardge ($213.99 in chips)
+Seat 6: Colin ($206.75 in chips)
+Seat 7: SJP ($47.50 in chips)
+Seat 8: Boomin ($274.75 in chips)
+Seat 10: rampurge ($163.26 in chips)
+Boomin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qs As]
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: raises $1.50 to $2.50
+Colin: calls $2.50
+SJP: folds
+Boomin: calls $2.00
+rampurge: calls $1.50
+*** FLOP *** [6s 3s 3d]
+Boomin: checks
+rampurge: checks
+Sardge: checks
+Colin: bets $10.00
+Boomin: folds
+rampurge: calls $10.00
+Sardge: folds
+*** TURN *** [6s 3s 3d] [5s]
+rampurge: checks
+Colin: bets $15.00
+rampurge: raises $25.00 to $40.00
+Colin: folds
+Uncalled bet ($25.00) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $60.00 from pot
+*** SUMMARY ***
+Total pot: $60.00 | Rake 0
+Board [6s 3s 3d 5s]
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded on the Flop
+Seat 6: Colin folded on the Turn
+Seat 7: SJP (button) folded before Flop (didn't bet)
+Seat 8: Boomin (small blind) folded on the Flop
+Seat 10: rampurge (big blind) collected ($60.00)
+
+
+
+PokerStars Hand #13132814423950585294: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:37:03 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 2: Diptofsky ($101.00 in chips)
+Seat 3: Nate ($144.26 in chips)
+Seat 4: Ben ($103.75 in chips)
+Seat 5: Sardge ($211.49 in chips)
+Seat 6: Colin ($179.25 in chips)
+Seat 7: SJP ($47.50 in chips)
+Seat 8: Boomin ($272.25 in chips)
+Seat 10: rampurge ($195.76 in chips)
+rampurge: posts small blind $0.50
+Diptofsky: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2s Kh]
+Nate: folds
+Ben: raises $2.00 to $3.00
+Sardge: folds
+Colin: folds
+SJP: calls $3.00
+Boomin: folds
+rampurge: folds
+Diptofsky: folds
+*** FLOP *** [2c Jd Ac]
+Ben: bets $3.00
+SJP: folds
+Uncalled bet ($3.00) returned to Ben
+*** SHOW DOWN ***
+Ben collected $7.50 from pot
+*** SUMMARY ***
+Total pot: $7.50 | Rake 0
+Board [2c Jd Ac]
+Seat 2: Diptofsky (big blind) folded before Flop
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben collected ($7.50)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded on the Flop
+Seat 8: Boomin (button) folded before Flop (didn't bet)
+Seat 10: rampurge (small blind) folded before Flop
+
+
+
+PokerStars Hand #6082652814292562338: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:37:31 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 2: Diptofsky ($100.00 in chips)
+Seat 3: Nate ($144.26 in chips)
+Seat 4: Ben ($108.25 in chips)
+Seat 5: Sardge ($211.49 in chips)
+Seat 6: Colin ($179.25 in chips)
+Seat 7: SJP ($44.50 in chips)
+Seat 8: Boomin ($272.25 in chips)
+Seat 10: rampurge ($195.26 in chips)
+Diptofsky: posts small blind $0.50
+Nate: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Jc As]
+Ben: folds
+Sardge: raises $1.50 to $2.50
+Colin: folds
+SJP: folds
+Boomin: folds
+rampurge: folds
+Diptofsky: calls $2.00
+Nate: folds
+*** FLOP *** [Tc Kh 2h]
+Diptofsky: checks
+Sardge: checks
+*** TURN *** [Tc Kh 2h] [Kd]
+Diptofsky: checks
+Sardge: checks
+*** RIVER *** [Tc Kh 2h Kd] [Qc]
+Diptofsky: checks
+Sardge: bets $4.00
+Diptofsky: folds
+Uncalled bet ($4.00) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $6.00 from pot
+*** SUMMARY ***
+Total pot: $6.00 | Rake 0
+Board [Tc Kh 2h Kd Qc]
+Seat 2: Diptofsky (small blind) folded on the River
+Seat 3: Nate (big blind) folded before Flop
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge collected ($6.00)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9608694107070774184: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:38:07 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 2: Diptofsky ($97.50 in chips)
+Seat 3: Nate ($143.26 in chips)
+Seat 4: Ben ($108.25 in chips)
+Seat 5: Sardge ($214.99 in chips)
+Seat 6: Colin ($179.25 in chips)
+Seat 7: SJP ($44.50 in chips)
+Seat 8: Boomin ($272.25 in chips)
+Seat 10: rampurge ($195.26 in chips)
+Nate: posts small blind $0.50
+Ben: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qh Jc]
+Sardge: raises $1.00 to $2.00
+Colin: folds
+SJP: folds
+Boomin: folds
+rampurge: folds
+Diptofsky: calls $2.00
+Nate: folds
+Ben: folds
+*** FLOP *** [Jd 7s Ac]
+Sardge: bets $1.00
+Diptofsky: calls $1.00
+*** TURN *** [Jd 7s Ac] [4s]
+Sardge: bets $6.00
+Diptofsky: calls $6.00
+*** RIVER *** [Jd 7s Ac 4s] [6c]
+Sardge: checks
+Diptofsky: checks
+Diptofsky: shows [Ts Jh]
+*** SHOW DOWN ***
+Diptofsky collected $19.50 from pot
+Sardge: shows [3h 3d]
+*** SUMMARY ***
+Total pot: $19.50 | Rake 0
+Board [Jd 7s Ac 4s 6c]
+Seat 2: Diptofsky (button) showed [Ts Jh] and won ($19.50) with a pair of Jacks
+Seat 3: Nate (small blind) folded before Flop
+Seat 4: Ben (big blind) folded before Flop
+Seat 5: Sardge showed [3h 3d] and lost with a pair of Threes
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5004307972923912928: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:38:38 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 2: Diptofsky ($108.00 in chips)
+Seat 3: Nate ($142.76 in chips)
+Seat 4: Ben ($107.25 in chips)
+Seat 5: Sardge ($205.99 in chips)
+Seat 6: Colin ($179.25 in chips)
+Seat 7: SJP ($44.50 in chips)
+Seat 8: Boomin ($272.25 in chips)
+Seat 10: rampurge ($195.26 in chips)
+Ben: posts small blind $0.50
+Sardge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4c 7c]
+Colin: folds
+SJP: folds
+Boomin: folds
+rampurge: folds
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Uncalled bet ($0.50) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $1.00 from pot
+*** SUMMARY ***
+Total pot: $1.00 | Rake 0
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate (button) folded before Flop (didn't bet)
+Seat 4: Ben (small blind) folded before Flop
+Seat 5: Sardge (big blind) collected ($1.00)
+Seat 6: Colin folded before Flop (didn't bet)
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3854514333646403964: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:38:57 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 2: Diptofsky ($108.00 in chips)
+Seat 3: Nate ($142.76 in chips)
+Seat 4: Ben ($106.75 in chips)
+Seat 5: Sardge ($206.49 in chips)
+Seat 6: Colin ($179.25 in chips)
+Seat 7: SJP ($44.50 in chips)
+Seat 8: Boomin ($272.25 in chips)
+Seat 10: rampurge ($195.26 in chips)
+Sardge: posts small blind $0.50
+Colin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ts 2c]
+SJP: folds
+Boomin: folds
+rampurge: folds
+Diptofsky: folds
+Nate: folds
+Ben: calls $1.00
+Sardge: raises $3.50 to $4.50
+Colin: calls $3.50
+Ben: folds
+*** FLOP *** [Jd Ac 9s]
+Sardge: bets $4.00
+Colin: calls $4.00
+*** TURN *** [Jd Ac 9s] [Jh]
+Sardge: bets $9.00
+Colin: calls $9.00
+*** RIVER *** [Jd Ac 9s Jh] [7d]
+Sardge: bets $10.00
+Colin: calls $10.00
+Colin: shows [Ah Th]
+*** SHOW DOWN ***
+Colin collected $56.00 from pot
+Sardge: shows [Kc 7c]
+*** SUMMARY ***
+Total pot: $56.00 | Rake 0
+Board [Jd Ac 9s Jh 7d]
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben (button) folded before Flop
+Seat 5: Sardge (small blind) showed [Kc 7c] and lost with two pair, Jacks and Sevens
+Seat 6: Colin (big blind) showed [Ah Th] and won ($56.00) with two pair, Aces and Jacks
+Seat 7: SJP folded before Flop (didn't bet)
+Seat 8: Boomin folded before Flop (didn't bet)
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2666216789795523971: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:40:11 GMT
+Table 'PNLogConverter' 10-max Seat #5 is the button
+Seat 2: Diptofsky ($108.00 in chips)
+Seat 3: Nate ($142.76 in chips)
+Seat 4: Ben ($105.75 in chips)
+Seat 5: Sardge ($178.99 in chips)
+Seat 6: Colin ($207.75 in chips)
+Seat 8: Boomin ($272.25 in chips)
+Seat 10: rampurge ($195.26 in chips)
+Colin: posts small blind $0.50
+Boomin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5h 7h]
+rampurge: folds
+Diptofsky: folds
+Nate: folds
+Ben: folds
+Sardge: raises $2.00 to $3.00
+Colin: calls $2.50
+Boomin: folds
+*** FLOP *** [Ts 7s 5c]
+Colin: checks
+Sardge: bets $4.00
+Colin: calls $4.00
+*** TURN *** [Ts 7s 5c] [Qh]
+Colin: checks
+Sardge: bets $7.50
+Colin: folds
+Uncalled bet ($7.50) returned to Sardge
+*** SHOW DOWN ***
+Sardge collected $15.00 from pot
+*** SUMMARY ***
+Total pot: $15.00 | Rake 0
+Board [Ts 7s 5c Qh]
+Seat 2: Diptofsky folded before Flop (didn't bet)
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge (button) collected ($15.00)
+Seat 6: Colin (small blind) folded on the Turn
+Seat 8: Boomin (big blind) folded before Flop
+Seat 10: rampurge folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #136758308038481687: Hold'em No Limit ($0.50/$1.00 USD) - 2024/06/12 05:40:47 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 2: Diptofsky ($108.00 in chips)
+Seat 3: Nate ($142.76 in chips)
+Seat 4: Ben ($105.75 in chips)
+Seat 5: Sardge ($186.99 in chips)
+Seat 6: Colin ($200.75 in chips)
+Seat 8: Boomin ($271.25 in chips)
+Boomin: posts small blind $0.50
+Diptofsky: posts big blind $1.00
+*** HOLE CARDS ***
+Nate: folds
+Ben: folds
+Sardge: folds
+Colin: calls $1.00
+Boomin: folds
+Diptofsky: raises $3.00 to $4.00
+Colin: calls $3.00
+*** FLOP *** [3s 2s Ac]
+Diptofsky: bets $3.50
+Colin: calls $3.50
+*** TURN *** [3s 2s Ac] [Jh]
+Diptofsky: bets $9.00
+Colin: calls $9.00
+*** RIVER *** [3s 2s Ac Jh] [3h]
+Diptofsky: checks
+Colin: checks
+Diptofsky: shows [As Tc]
+*** SHOW DOWN ***
+Diptofsky collected $16.75 from pot
+Colin: shows [Ad 4c]
+Colin collected $16.75 from pot
+*** SUMMARY ***
+Total pot: $33.50 | Rake 0
+Board [3s 2s Ac Jh 3h]
+Seat 2: Diptofsky (big blind) showed [As Tc] and won ($16.75) with two pair, Aces and Threes
+Seat 3: Nate folded before Flop (didn't bet)
+Seat 4: Ben folded before Flop (didn't bet)
+Seat 5: Sardge folded before Flop (didn't bet)
+Seat 6: Colin (button) showed [Ad 4c] and won ($16.75) with two pair, Aces and Threes
+Seat 8: Boomin (small blind) folded before Flop
+
+
+

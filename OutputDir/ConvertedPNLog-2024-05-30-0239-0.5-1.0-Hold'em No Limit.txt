@@ -1,0 +1,5145 @@
+PokerStars Hand #9799941798524476593: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:39:28 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($100.00 in chips)
+Seat 2: rampurge ($100.00 in chips)
+Seat 3: Benson ($100.00 in chips)
+Seat 6: arnav ($150.00 in chips)
+Seat 7: krafty ($150.00 in chips)
+Seat 8: ac ($150.00 in chips)
+Seat 9: donkey ($100.00 in chips)
+Seat 10: vincent ($100.00 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7s 4s]
+rampurge: folds
+Benson: folds
+arnav: raises $1.50 to $2.50
+krafty: calls $2.50
+ac: folds
+donkey: folds
+vincent: calls $2.00
+Zubin: calls $1.50
+*** FLOP *** [Ac Jh 9h]
+vincent: checks
+Zubin: checks
+arnav: bets $3.00
+krafty: calls $3.00
+vincent: folds
+Zubin: folds
+*** TURN *** [Ac Jh 9h] [7d]
+arnav: checks
+krafty: bets $3.50
+arnav: calls $3.50
+*** RIVER *** [Ac Jh 9h 7d] [Qd]
+arnav: checks
+krafty: bets $15.00
+arnav: calls $15.00
+krafty: shows [Ah Qh]
+*** SHOW DOWN ***
+krafty collected $53.00 from pot
+*** SUMMARY ***
+Total pot: $53.00 | Rake 0
+Board [Ac Jh 9h 7d Qd]
+Seat 1: Zubin (big blind) folded on the Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 6: arnav didn't show and lost
+Seat 7: krafty showed [Ah Qh] and won ($53.00) with two pair, Aces and Queens
+Seat 8: ac folded before Flop (didn't bet)
+Seat 9: donkey (button) folded before Flop (didn't bet)
+Seat 10: vincent (small blind) folded on the Flop
+
+
+
+PokerStars Hand #3860726762459828768: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:40:50 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Zubin ($97.50 in chips)
+Seat 2: rampurge ($100.00 in chips)
+Seat 3: Benson ($100.00 in chips)
+Seat 6: arnav ($126.00 in chips)
+Seat 7: krafty ($179.00 in chips)
+Seat 8: ac ($150.00 in chips)
+Seat 9: donkey ($100.00 in chips)
+Seat 10: vincent ($97.50 in chips)
+Zubin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ks Qd]
+Benson: folds
+arnav: folds
+krafty: folds
+ac: folds
+donkey: raises $1.87 to $2.87
+vincent: folds
+Zubin: calls $2.37
+rampurge: calls $1.87
+*** FLOP *** [3s 9s 9c]
+Zubin: checks
+rampurge: checks
+donkey: bets $3.00
+Zubin: folds
+rampurge: calls $3.00
+*** TURN *** [3s 9s 9c] [As]
+rampurge: checks
+donkey: checks
+*** RIVER *** [3s 9s 9c As] [7h]
+rampurge: checks
+donkey: checks
+donkey: shows [Kd 3d]
+*** SHOW DOWN ***
+donkey collected $14.61 from pot
+rampurge: shows [Ks Qd]
+*** SUMMARY ***
+Total pot: $14.61 | Rake 0
+Board [3s 9s 9c As 7h]
+Seat 1: Zubin (small blind) folded on the Flop
+Seat 2: rampurge (big blind) showed [Ks Qd] and lost with a pair of Nines
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: ac folded before Flop (didn't bet)
+Seat 9: donkey showed [Kd 3d] and won ($14.61) with two pair, Nines and Threes
+Seat 10: vincent (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3381031959462738384: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:42:02 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($94.63 in chips)
+Seat 2: rampurge ($94.13 in chips)
+Seat 3: Benson ($100.00 in chips)
+Seat 6: arnav ($126.00 in chips)
+Seat 7: krafty ($179.00 in chips)
+Seat 8: ac ($150.00 in chips)
+Seat 9: donkey ($108.74 in chips)
+Seat 10: vincent ($97.50 in chips)
+rampurge: posts small blind $0.50
+Benson: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qh Kd]
+arnav: folds
+krafty: calls $1.00
+ac: raises $2.62 to $3.62
+donkey: folds
+vincent: calls $3.62
+Zubin: folds
+rampurge: calls $3.12
+Benson: folds
+krafty: calls $2.62
+*** FLOP *** [Ad Kh 2h]
+rampurge: checks
+krafty: checks
+ac: bets $7.74
+vincent: folds
+rampurge: calls $7.74
+krafty: folds
+*** TURN *** [Ad Kh 2h] [7s]
+rampurge: checks
+ac: bets $23.22
+rampurge: folds
+Uncalled bet ($23.22) returned to ac
+*** SHOW DOWN ***
+ac collected $30.96 from pot
+*** SUMMARY ***
+Total pot: $30.96 | Rake 0
+Board [Ad Kh 2h 7s]
+Seat 1: Zubin (button) folded before Flop (didn't bet)
+Seat 2: rampurge (small blind) folded on the Turn
+Seat 3: Benson (big blind) folded before Flop
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded on the Flop
+Seat 8: ac collected ($30.96)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded on the Flop
+
+
+
+PokerStars Hand #10611968136494711748: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:43:10 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Zubin ($94.63 in chips)
+Seat 2: rampurge ($82.77 in chips)
+Seat 3: Benson ($99.00 in chips)
+Seat 6: arnav ($126.00 in chips)
+Seat 7: krafty ($175.38 in chips)
+Seat 8: ac ($169.60 in chips)
+Seat 9: donkey ($108.74 in chips)
+Seat 10: vincent ($93.88 in chips)
+Benson: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9h Ks]
+krafty: calls $1.00
+ac: folds
+donkey: raises $3.50 to $4.50
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+arnav: folds
+krafty: calls $3.50
+*** FLOP *** [6h 7c Qs]
+krafty: bets $3.00
+donkey: calls $3.00
+*** TURN *** [6h 7c Qs] [8c]
+krafty: bets $3.00
+donkey: raises $3.00 to $6.00
+krafty: calls $3.00
+*** RIVER *** [6h 7c Qs 8c] [6d]
+krafty: bets $15.00
+donkey: calls $15.00
+donkey: shows [Qc As]
+*** SHOW DOWN ***
+donkey collected $58.50 from pot
+krafty: shows [4d Qd]
+*** SUMMARY ***
+Total pot: $58.50 | Rake 0
+Board [6h 7c Qs 8c 6d]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge (button) folded before Flop (didn't bet)
+Seat 3: Benson (small blind) folded before Flop
+Seat 6: arnav (big blind) folded before Flop
+Seat 7: krafty showed [4d Qd] and lost with two pair, Queens and Sixes
+Seat 8: ac folded before Flop (didn't bet)
+Seat 9: donkey showed [Qc As] and won ($58.50) with two pair, Queens and Sixes
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4626968962646470491: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:44:07 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($94.63 in chips)
+Seat 2: rampurge ($82.77 in chips)
+Seat 3: Benson ($98.50 in chips)
+Seat 6: arnav ($125.00 in chips)
+Seat 7: krafty ($146.88 in chips)
+Seat 8: ac ($169.60 in chips)
+Seat 9: donkey ($138.74 in chips)
+Seat 10: vincent ($93.88 in chips)
+arnav: posts small blind $0.50
+krafty: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qd Th]
+ac: folds
+donkey: folds
+vincent: folds
+Zubin: raises $1.50 to $2.50
+rampurge: calls $2.50
+Benson: calls $2.50
+arnav: folds
+krafty: calls $1.50
+*** FLOP *** [6h 4h 2d]
+krafty: checks
+Zubin: checks
+rampurge: checks
+Benson: checks
+*** TURN *** [6h 4h 2d] [5c]
+krafty: bets $3.00
+Zubin: folds
+rampurge: folds
+Benson: folds
+Uncalled bet ($3.00) returned to krafty
+*** SHOW DOWN ***
+krafty collected $10.50 from pot
+krafty: shows [2c 2h]
+*** SUMMARY ***
+Total pot: $10.50 | Rake 0
+Board [6h 4h 2d 5c]
+Seat 1: Zubin folded on the Turn
+Seat 2: rampurge folded on the Turn
+Seat 3: Benson (button) folded on the Turn
+Seat 6: arnav (small blind) folded before Flop
+Seat 7: krafty (big blind) collected ($10.50) [2c 2h]
+Seat 8: ac folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #14030361196353027838: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:44:47 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: Zubin ($92.13 in chips)
+Seat 2: rampurge ($80.27 in chips)
+Seat 3: Benson ($96.00 in chips)
+Seat 4: mc ($100.00 in chips)
+Seat 6: arnav ($124.50 in chips)
+Seat 7: krafty ($154.88 in chips)
+Seat 8: ac ($169.60 in chips)
+Seat 9: donkey ($138.74 in chips)
+Seat 10: vincent ($93.88 in chips)
+krafty: posts small blind $0.50
+ac: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kh 3h]
+donkey: raises $2.50 to $3.50
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: calls $3.50
+mc: raises $10.50 to $14.00
+arnav: folds
+krafty: folds
+ac: folds
+donkey: calls $10.50
+Benson: calls $10.50
+*** FLOP *** [Jd Jc 3d]
+donkey: checks
+Benson: checks
+mc: bets $14.00
+donkey: calls $14.00
+Benson: calls $14.00
+*** TURN *** [Jd Jc 3d] [4d]
+donkey: checks
+Benson: checks
+mc: checks
+*** RIVER *** [Jd Jc 3d 4d] [Kc]
+donkey: checks
+Benson: checks
+mc: checks
+Benson: shows [7d 6d]
+*** SHOW DOWN ***
+Benson collected $85.50 from pot
+donkey: shows [Ks Ac]
+*** SUMMARY ***
+Total pot: $85.50 | Rake 0
+Board [Jd Jc 3d 4d Kc]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson showed [7d 6d] and won ($85.50) with a flush, Jack high
+Seat 4: mc didn't show and lost
+Seat 6: arnav (button) folded before Flop (didn't bet)
+Seat 7: krafty (small blind) folded before Flop
+Seat 8: ac (big blind) folded before Flop
+Seat 9: donkey showed [Ks Ac] and lost with two pair, Kings and Jacks
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #8578433787406155288: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:45:57 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Zubin ($92.13 in chips)
+Seat 2: rampurge ($80.27 in chips)
+Seat 3: Benson ($153.50 in chips)
+Seat 4: mc ($72.00 in chips)
+Seat 6: arnav ($124.50 in chips)
+Seat 7: krafty ($154.38 in chips)
+Seat 8: ac ($168.60 in chips)
+Seat 9: donkey ($110.74 in chips)
+Seat 10: vincent ($93.88 in chips)
+ac: posts small blind $0.50
+donkey: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3s Jd]
+vincent: raises $1.87 to $2.87
+Zubin: folds
+rampurge: folds
+Benson: calls $2.87
+mc: raises $7.13 to $10.00
+arnav: folds
+krafty: calls $10.00
+ac: folds
+donkey: folds
+vincent: calls $7.13
+Benson: folds
+*** FLOP *** [Jh 3d 5h]
+vincent: checks
+mc: bets $11.00
+krafty: raises $11.00 to $22.00
+vincent: folds
+mc: raises $40.00 to $62.00
+krafty: calls $40.00
+mc: shows [As Js]
+krafty: shows [Qs Jc]
+*** TURN *** [Jh 3d 5h] [3h]
+*** RIVER *** [Jh 3d 5h 3h] [8h]
+*** SHOW DOWN ***
+mc collected $158.37 from pot
+rampurge: shows [3s Jd]
+arnav: shows [3c 5c]
+*** SUMMARY ***
+Total pot: $158.37 | Rake 0
+Board [Jh 3d 5h 3h 8h]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet) [3s Jd]
+Seat 3: Benson folded before Flop
+Seat 4: mc showed [As Js] and won ($158.37) with two pair, Jacks and Threes
+Seat 6: arnav folded before Flop (didn't bet) [3c 5c]
+Seat 7: krafty (button) showed [Qs Jc] and lost with two pair, Jacks and Threes
+Seat 8: ac (small blind) folded before Flop
+Seat 9: donkey (big blind) folded before Flop
+Seat 10: vincent folded on the Flop
+
+
+
+PokerStars Hand #7860927899114062796: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:47:31 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Zubin ($92.13 in chips)
+Seat 2: rampurge ($80.27 in chips)
+Seat 3: Benson ($150.63 in chips)
+Seat 4: mc ($158.37 in chips)
+Seat 6: arnav ($124.50 in chips)
+Seat 7: krafty ($82.38 in chips)
+Seat 8: ac ($168.10 in chips)
+Seat 9: donkey ($109.74 in chips)
+Seat 10: vincent ($83.88 in chips)
+donkey: posts small blind $0.50
+vincent: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [As 4d]
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+arnav: folds
+krafty: folds
+ac: folds
+donkey: raises $2.00 to $3.00
+vincent: calls $2.00
+*** FLOP *** [7c Ad 9c]
+donkey: bets $3.00
+vincent: raises $6.00 to $9.00
+donkey: folds
+Uncalled bet ($6.00) returned to vincent
+*** SHOW DOWN ***
+vincent collected $12.00 from pot
+*** SUMMARY ***
+Total pot: $12.00 | Rake 0
+Board [7c Ad 9c]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: ac (button) folded before Flop (didn't bet)
+Seat 9: donkey (small blind) folded on the Flop
+Seat 10: vincent (big blind) collected ($12.00)
+
+
+
+PokerStars Hand #1544490749141538762: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:48:07 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($92.13 in chips)
+Seat 2: rampurge ($80.27 in chips)
+Seat 3: Benson ($150.63 in chips)
+Seat 4: mc ($158.37 in chips)
+Seat 6: arnav ($124.50 in chips)
+Seat 7: krafty ($82.38 in chips)
+Seat 8: ac ($168.10 in chips)
+Seat 9: donkey ($103.74 in chips)
+Seat 10: vincent ($89.88 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8s Tc]
+rampurge: folds
+Benson: folds
+mc: folds
+arnav: folds
+krafty: calls $1.00
+ac: folds
+donkey: folds
+vincent: folds
+Zubin: checks
+*** FLOP *** [Kc Kh 6h]
+Zubin: checks
+krafty: checks
+*** TURN *** [Kc Kh 6h] [8h]
+Zubin: checks
+krafty: checks
+*** RIVER *** [Kc Kh 6h 8h] [9c]
+Zubin: bets $1.00
+krafty: calls $1.00
+Zubin: shows [9d 2s]
+*** SHOW DOWN ***
+Zubin collected $4.50 from pot
+*** SUMMARY ***
+Total pot: $4.50 | Rake 0
+Board [Kc Kh 6h 8h 9c]
+Seat 1: Zubin (big blind) showed [9d 2s] and won ($4.50) with two pair, Kings and Nines
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty didn't show and lost
+Seat 8: ac folded before Flop (didn't bet)
+Seat 9: donkey (button) folded before Flop (didn't bet)
+Seat 10: vincent (small blind) folded before Flop
+
+
+
+PokerStars Hand #1091218120787605777: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:49:01 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Zubin ($94.63 in chips)
+Seat 2: rampurge ($80.27 in chips)
+Seat 3: Benson ($150.63 in chips)
+Seat 4: mc ($158.37 in chips)
+Seat 6: arnav ($124.50 in chips)
+Seat 7: krafty ($80.38 in chips)
+Seat 8: ac ($168.10 in chips)
+Seat 9: donkey ($103.74 in chips)
+Seat 10: vincent ($89.38 in chips)
+Zubin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6h 7h]
+Benson: raises $1.50 to $2.50
+mc: folds
+arnav: raises $5.50 to $8.00
+krafty: folds
+ac: folds
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: calls $7.00
+Benson: folds
+*** FLOP *** [Ts 6c 4d]
+rampurge: checks
+arnav: bets $9.50
+rampurge: calls $9.50
+*** TURN *** [Ts 6c 4d] [Jh]
+rampurge: checks
+arnav: bets $19.00
+rampurge: calls $19.00
+*** RIVER *** [Ts 6c 4d Jh] [7s]
+rampurge: bets $43.77
+arnav: folds
+Uncalled bet ($43.77) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $76.00 from pot
+*** SUMMARY ***
+Total pot: $76.00 | Rake 0
+Board [Ts 6c 4d Jh 7s]
+Seat 1: Zubin (small blind) folded before Flop
+Seat 2: rampurge (big blind) collected ($76.00)
+Seat 3: Benson folded before Flop
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded on the River
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: ac folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #8238444177254384193: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:50:05 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($94.13 in chips)
+Seat 2: rampurge ($119.77 in chips)
+Seat 3: Benson ($148.13 in chips)
+Seat 4: mc ($158.37 in chips)
+Seat 6: arnav ($88.00 in chips)
+Seat 7: krafty ($80.38 in chips)
+Seat 8: ac ($168.10 in chips)
+Seat 9: donkey ($103.74 in chips)
+Seat 10: vincent ($89.38 in chips)
+rampurge: posts small blind $0.50
+Benson: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5h Qc]
+mc: folds
+arnav: raises $1.50 to $2.50
+krafty: calls $2.50
+ac: raises $7.00 to $9.50
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+arnav: folds
+krafty: calls $7.00
+*** FLOP *** [Jc 3c 7d]
+krafty: checks
+ac: bets $8.00
+krafty: calls $8.00
+*** TURN *** [Jc 3c 7d] [7h]
+krafty: bets $29.25
+ac: calls $29.25
+*** RIVER *** [Jc 3c 7d 7h] [Jd]
+krafty: bets $33.63
+ac: folds
+Uncalled bet ($33.63) returned to krafty
+*** SHOW DOWN ***
+krafty collected $97.50 from pot
+krafty: shows [3h Ah]
+*** SUMMARY ***
+Total pot: $97.50 | Rake 0
+Board [Jc 3c 7d 7h Jd]
+Seat 1: Zubin (button) folded before Flop (didn't bet)
+Seat 2: rampurge (small blind) folded before Flop
+Seat 3: Benson (big blind) folded before Flop
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop
+Seat 7: krafty collected ($97.50) [3h Ah]
+Seat 8: ac folded on the River
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4502499928298879832: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:51:56 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Zubin ($94.13 in chips)
+Seat 2: rampurge ($119.27 in chips)
+Seat 3: Benson ($147.13 in chips)
+Seat 4: mc ($158.37 in chips)
+Seat 6: arnav ($185.50 in chips)
+Seat 7: krafty ($131.13 in chips)
+Seat 8: ac ($121.35 in chips)
+Seat 9: donkey ($103.74 in chips)
+Seat 10: vincent ($89.38 in chips)
+Benson: posts small blind $0.50
+mc: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ac 7h]
+arnav: folds
+krafty: folds
+ac: raises $1.87 to $2.87
+donkey: folds
+vincent: calls $2.87
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+*** FLOP *** [Qd 5s 7s]
+ac: checks
+vincent: checks
+*** TURN *** [Qd 5s 7s] [9c]
+ac: checks
+vincent: bets $5.43
+ac: folds
+Uncalled bet ($5.43) returned to vincent
+*** SHOW DOWN ***
+vincent collected $7.24 from pot
+*** SUMMARY ***
+Total pot: $7.24 | Rake 0
+Board [Qd 5s 7s 9c]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge (button) folded before Flop (didn't bet)
+Seat 3: Benson (small blind) folded before Flop
+Seat 4: mc (big blind) folded before Flop
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: ac folded on the Turn
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent collected ($7.24)
+
+
+
+PokerStars Hand #1412435381993032253: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:52:47 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($94.13 in chips)
+Seat 2: rampurge ($119.27 in chips)
+Seat 3: Benson ($146.63 in chips)
+Seat 4: mc ($157.37 in chips)
+Seat 6: arnav ($185.50 in chips)
+Seat 8: ac ($118.48 in chips)
+Seat 9: donkey ($103.74 in chips)
+Seat 10: vincent ($93.75 in chips)
+mc: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4c 2d]
+ac: folds
+donkey: raises $1.87 to $2.87
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+arnav: folds
+Uncalled bet ($1.87) returned to donkey
+*** SHOW DOWN ***
+donkey collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson (button) folded before Flop (didn't bet)
+Seat 4: mc (small blind) folded before Flop
+Seat 6: arnav (big blind) folded before Flop
+Seat 8: ac folded before Flop (didn't bet)
+Seat 9: donkey collected ($2.50)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2146086353893762665: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:53:17 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Zubin ($94.13 in chips)
+Seat 2: rampurge ($119.27 in chips)
+Seat 3: Benson ($146.63 in chips)
+Seat 4: mc ($156.87 in chips)
+Seat 6: arnav ($184.50 in chips)
+Seat 8: ac ($118.48 in chips)
+Seat 9: donkey ($105.24 in chips)
+Seat 10: vincent ($93.75 in chips)
+arnav: posts small blind $0.50
+ac: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2s Jc]
+donkey: raises $1.87 to $2.87
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+arnav: folds
+ac: folds
+Uncalled bet ($1.87) returned to donkey
+*** SHOW DOWN ***
+donkey collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc (button) folded before Flop (didn't bet)
+Seat 6: arnav (small blind) folded before Flop
+Seat 8: ac (big blind) folded before Flop
+Seat 9: donkey collected ($2.50)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #11081019208650959316: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:53:35 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: Zubin ($94.13 in chips)
+Seat 2: rampurge ($119.27 in chips)
+Seat 3: Benson ($146.63 in chips)
+Seat 4: mc ($156.87 in chips)
+Seat 6: arnav ($184.00 in chips)
+Seat 8: ac ($117.48 in chips)
+Seat 9: donkey ($106.74 in chips)
+Seat 10: vincent ($93.75 in chips)
+ac: posts small blind $0.50
+donkey: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4c 3d]
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+arnav: folds
+ac: folds
+Uncalled bet ($0.50) returned to donkey
+*** SHOW DOWN ***
+donkey collected $1.00 from pot
+*** SUMMARY ***
+Total pot: $1.00 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav (button) folded before Flop (didn't bet)
+Seat 8: ac (small blind) folded before Flop
+Seat 9: donkey (big blind) collected ($1.00)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5724501598996323350: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:53:58 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Zubin ($94.13 in chips)
+Seat 2: rampurge ($119.27 in chips)
+Seat 3: Benson ($146.63 in chips)
+Seat 4: mc ($156.87 in chips)
+Seat 6: arnav ($184.00 in chips)
+Seat 8: ac ($116.98 in chips)
+Seat 9: donkey ($107.24 in chips)
+Seat 10: vincent ($93.75 in chips)
+donkey: posts small blind $0.50
+vincent: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5s Jd]
+Zubin: folds
+rampurge: folds
+Benson: raises $1.50 to $2.50
+mc: raises $5.50 to $8.00
+arnav: folds
+ac: folds
+donkey: folds
+vincent: folds
+Benson: folds
+Uncalled bet ($5.50) returned to mc
+*** SHOW DOWN ***
+mc collected $6.50 from pot
+*** SUMMARY ***
+Total pot: $6.50 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop
+Seat 4: mc collected ($6.50)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 8: ac (button) folded before Flop (didn't bet)
+Seat 9: donkey (small blind) folded before Flop
+Seat 10: vincent (big blind) folded before Flop
+
+
+
+PokerStars Hand #15078493872607281992: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:54:23 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($94.13 in chips)
+Seat 2: rampurge ($119.27 in chips)
+Seat 3: Benson ($144.13 in chips)
+Seat 4: mc ($160.87 in chips)
+Seat 6: arnav ($184.00 in chips)
+Seat 8: ac ($116.98 in chips)
+Seat 9: donkey ($106.74 in chips)
+Seat 10: vincent ($92.75 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ad 7h]
+rampurge: folds
+Benson: folds
+mc: raises $1.50 to $2.50
+arnav: folds
+ac: folds
+donkey: calls $2.50
+vincent: calls $2.00
+Zubin: calls $1.50
+*** FLOP *** [Kh 8d 5c]
+vincent: checks
+Zubin: checks
+mc: bets $2.50
+donkey: folds
+vincent: calls $2.50
+Zubin: folds
+*** TURN *** [Kh 8d 5c] [8h]
+vincent: checks
+mc: checks
+*** RIVER *** [Kh 8d 5c 8h] [As]
+vincent: checks
+mc: checks
+vincent: shows [Kd 3d]
+*** SHOW DOWN ***
+vincent collected $15.00 from pot
+*** SUMMARY ***
+Total pot: $15.00 | Rake 0
+Board [Kh 8d 5c 8h As]
+Seat 1: Zubin (big blind) folded on the Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc didn't show and lost
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 8: ac folded before Flop (didn't bet)
+Seat 9: donkey (button) folded on the Flop
+Seat 10: vincent (small blind) showed [Kd 3d] and won ($15.00) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #16076893193617591170: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:55:30 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Zubin ($91.63 in chips)
+Seat 2: rampurge ($119.27 in chips)
+Seat 3: Benson ($144.13 in chips)
+Seat 4: mc ($155.87 in chips)
+Seat 6: arnav ($184.00 in chips)
+Seat 8: ac ($116.98 in chips)
+Seat 9: donkey ($104.24 in chips)
+Seat 10: vincent ($102.75 in chips)
+Zubin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3s 5s]
+Benson: folds
+mc: raises $1.50 to $2.50
+arnav: folds
+ac: raises $5.50 to $8.00
+donkey: folds
+vincent: calls $8.00
+Zubin: folds
+rampurge: folds
+mc: calls $5.50
+*** FLOP *** [6d 6c 7s]
+mc: checks
+ac: bets $8.00
+vincent: calls $8.00
+mc: calls $8.00
+*** TURN *** [6d 6c 7s] [Tc]
+mc: checks
+ac: checks
+vincent: bets $15.00
+mc: calls $15.00
+ac: folds
+*** RIVER *** [6d 6c 7s Tc] [Qs]
+mc: checks
+vincent: bets $71.75
+mc: calls $71.75
+vincent: shows [Td Ts]
+*** SHOW DOWN ***
+vincent collected $223.00 from pot
+mc: shows [Th Ah]
+*** SUMMARY ***
+Total pot: $223.00 | Rake 0
+Board [6d 6c 7s Tc Qs]
+Seat 1: Zubin (small blind) folded before Flop
+Seat 2: rampurge (big blind) folded before Flop
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc showed [Th Ah] and lost with two pair, Tens and Sixes
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 8: ac folded on the Turn
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent (button) showed [Td Ts] and won ($223.00) with a full house, Tens full of Sixes
+
+
+
+PokerStars Hand #11704641676406482676: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:56:48 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($91.13 in chips)
+Seat 2: rampurge ($118.27 in chips)
+Seat 3: Benson ($144.13 in chips)
+Seat 4: mc ($53.12 in chips)
+Seat 6: arnav ($184.00 in chips)
+Seat 8: ac ($100.98 in chips)
+Seat 9: donkey ($104.24 in chips)
+Seat 10: vincent ($223.00 in chips)
+rampurge: posts small blind $0.50
+Benson: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2s 6h]
+mc: folds
+arnav: folds
+ac: folds
+donkey: folds
+vincent: folds
+Zubin: raises $1.50 to $2.50
+rampurge: folds
+Benson: calls $1.50
+*** FLOP *** [Kc 7s Qs]
+Benson: checks
+Zubin: checks
+*** TURN *** [Kc 7s Qs] [3s]
+Benson: checks
+Zubin: bets $2.50
+Benson: calls $2.50
+*** RIVER *** [Kc 7s Qs 3s] [8s]
+Benson: checks
+Zubin: checks
+Benson: shows [5s 5h]
+*** SHOW DOWN ***
+Benson collected $10.50 from pot
+*** SUMMARY ***
+Total pot: $10.50 | Rake 0
+Board [Kc 7s Qs 3s 8s]
+Seat 1: Zubin (button) didn't show and lost
+Seat 2: rampurge (small blind) folded before Flop
+Seat 3: Benson (big blind) showed [5s 5h] and won ($10.50) with a flush, Queen high
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 8: ac folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #667987773247334229: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:57:28 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Zubin ($86.13 in chips)
+Seat 2: rampurge ($117.77 in chips)
+Seat 3: Benson ($149.63 in chips)
+Seat 4: mc ($53.12 in chips)
+Seat 8: ac ($100.98 in chips)
+Seat 9: donkey ($104.24 in chips)
+Seat 10: vincent ($223.00 in chips)
+Benson: posts small blind $0.50
+mc: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6h 9s]
+ac: folds
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: calls $0.50
+mc: checks
+*** FLOP *** [3s 7s Qd]
+Benson: bets $1.00
+mc: folds
+Uncalled bet ($1.00) returned to Benson
+*** SHOW DOWN ***
+Benson collected $2.00 from pot
+*** SUMMARY ***
+Total pot: $2.00 | Rake 0
+Board [3s 7s Qd]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge (button) folded before Flop (didn't bet)
+Seat 3: Benson (small blind) collected ($2.00)
+Seat 4: mc (big blind) folded on the Flop
+Seat 8: ac folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5057884760099178502: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:57:55 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($86.13 in chips)
+Seat 2: rampurge ($117.77 in chips)
+Seat 3: Benson ($150.63 in chips)
+Seat 4: mc ($152.12 in chips)
+Seat 8: ac ($100.98 in chips)
+Seat 9: donkey ($104.24 in chips)
+Seat 10: vincent ($223.00 in chips)
+mc: posts small blind $0.50
+ac: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2h Td]
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+Uncalled bet ($0.50) returned to ac
+*** SHOW DOWN ***
+ac collected $1.00 from pot
+*** SUMMARY ***
+Total pot: $1.00 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson (button) folded before Flop (didn't bet)
+Seat 4: mc (small blind) folded before Flop
+Seat 8: ac (big blind) collected ($1.00)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5296780077836339569: Hold'em No Limit ($0.00/$1.00 USD) - 2024/05/30 02:58:12 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Zubin ($86.13 in chips)
+Seat 2: rampurge ($117.77 in chips)
+Seat 3: Benson ($150.63 in chips)
+Seat 4: mc ($151.62 in chips)
+Seat 9: donkey ($104.24 in chips)
+Seat 10: vincent ($223.00 in chips)
+donkey: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [As 2d]
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+Uncalled bet ($1.00) returned to donkey
+*** SHOW DOWN ***
+donkey collected $0.00 from pot
+*** SUMMARY ***
+Total pot: $0.00 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc (button) folded before Flop (didn't bet)
+Seat 9: donkey (big blind) collected ($0.00)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #13870483511485057016: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:58:33 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Zubin ($86.13 in chips)
+Seat 2: rampurge ($117.77 in chips)
+Seat 3: Benson ($150.63 in chips)
+Seat 4: mc ($151.62 in chips)
+Seat 9: donkey ($104.24 in chips)
+Seat 10: vincent ($223.00 in chips)
+donkey: posts small blind $0.50
+vincent: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7h 6d]
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: raises $1.50 to $2.50
+donkey: folds
+vincent: calls $1.50
+*** FLOP *** [Ts 4s Ac]
+vincent: checks
+mc: bets $1.80
+vincent: calls $1.80
+*** TURN *** [Ts 4s Ac] [Qd]
+vincent: checks
+mc: checks
+*** RIVER *** [Ts 4s Ac Qd] [Kc]
+vincent: checks
+mc: checks
+mc: shows [7s Td]
+*** SHOW DOWN ***
+mc collected $9.10 from pot
+vincent: shows [5s 4h]
+*** SUMMARY ***
+Total pot: $9.10 | Rake 0
+Board [Ts 4s Ac Qd Kc]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc showed [7s Td] and won ($9.10) with a pair of Tens
+Seat 9: donkey (small blind) folded before Flop
+Seat 10: vincent (big blind) showed [5s 4h] and lost with a pair of Fours
+
+
+
+PokerStars Hand #5822564871846176829: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:59:20 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($86.13 in chips)
+Seat 3: Benson ($150.63 in chips)
+Seat 4: mc ($156.42 in chips)
+Seat 9: donkey ($103.74 in chips)
+Seat 10: vincent ($218.70 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Benson: folds
+mc: folds
+donkey: raises $1.87 to $2.87
+vincent: folds
+Zubin: folds
+Uncalled bet ($1.87) returned to donkey
+*** SHOW DOWN ***
+donkey collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: Zubin (big blind) folded before Flop
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 9: donkey (button) collected ($2.50)
+Seat 10: vincent (small blind) folded before Flop
+
+
+
+PokerStars Hand #4139108509975647198: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 02:59:45 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Zubin ($85.13 in chips)
+Seat 3: Benson ($150.63 in chips)
+Seat 4: mc ($156.42 in chips)
+Seat 9: donkey ($105.24 in chips)
+Seat 10: vincent ($218.20 in chips)
+Zubin: posts small blind $0.50
+Benson: posts big blind $1.00
+*** HOLE CARDS ***
+mc: raises $1.50 to $2.50
+donkey: folds
+vincent: calls $2.50
+Zubin: folds
+Benson: folds
+*** FLOP *** [3c 2s 4h]
+mc: bets $2.00
+vincent: calls $2.00
+*** TURN *** [3c 2s 4h] [6c]
+mc: checks
+vincent: bets $5.25
+mc: calls $5.25
+*** RIVER *** [3c 2s 4h 6c] [Qh]
+mc: checks
+vincent: checks
+vincent: shows [8d 8s]
+*** SHOW DOWN ***
+vincent collected $21.00 from pot
+mc: shows [Ks Tc]
+*** SUMMARY ***
+Total pot: $21.00 | Rake 0
+Board [3c 2s 4h 6c Qh]
+Seat 1: Zubin (small blind) folded before Flop
+Seat 3: Benson (big blind) folded before Flop
+Seat 4: mc showed [Ks Tc] and lost with high card King
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent (button) showed [8d 8s] and won ($21.00) with a pair of Eights
+
+
+
+PokerStars Hand #13694757211994462949: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:00:28 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($84.63 in chips)
+Seat 3: Benson ($149.63 in chips)
+Seat 4: mc ($146.67 in chips)
+Seat 9: donkey ($105.24 in chips)
+Seat 10: vincent ($229.45 in chips)
+Benson: posts small blind $0.50
+mc: posts big blind $1.00
+*** HOLE CARDS ***
+donkey: folds
+vincent: calls $1.00
+Zubin: folds
+Benson: folds
+mc: raises $3.00 to $4.00
+vincent: calls $3.00
+*** FLOP *** [3c 6d 3h]
+mc: bets $2.50
+vincent: folds
+Uncalled bet ($2.50) returned to mc
+*** SHOW DOWN ***
+mc collected $8.50 from pot
+*** SUMMARY ***
+Total pot: $8.50 | Rake 0
+Board [3c 6d 3h]
+Seat 1: Zubin (button) folded before Flop (didn't bet)
+Seat 3: Benson (small blind) folded before Flop
+Seat 4: mc (big blind) collected ($8.50)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded on the Flop
+
+
+
+PokerStars Hand #10502928885261352774: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:01:06 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($84.63 in chips)
+Seat 3: Benson ($149.13 in chips)
+Seat 4: mc ($151.17 in chips)
+Seat 9: donkey ($105.24 in chips)
+Seat 10: vincent ($225.45 in chips)
+mc: posts small blind $0.50
+donkey: posts big blind $1.00
+*** HOLE CARDS ***
+vincent: calls $1.00
+Zubin: folds
+Benson: folds
+mc: raises $3.00 to $4.00
+donkey: calls $3.00
+vincent: calls $3.00
+*** FLOP *** [Kc Ks 7h]
+mc: bets $4.00
+donkey: folds
+vincent: calls $4.00
+*** TURN *** [Kc Ks 7h] [9h]
+mc: bets $15.00
+vincent: calls $15.00
+*** RIVER *** [Kc Ks 7h 9h] [Qh]
+mc: bets $65.00
+vincent: folds
+Uncalled bet ($65.00) returned to mc
+*** SHOW DOWN ***
+mc collected $50.00 from pot
+*** SUMMARY ***
+Total pot: $50.00 | Rake 0
+Board [Kc Ks 7h 9h Qh]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 3: Benson (button) folded before Flop (didn't bet)
+Seat 4: mc (small blind) collected ($50.00)
+Seat 9: donkey (big blind) folded on the Flop
+Seat 10: vincent folded on the River
+
+
+
+PokerStars Hand #9949932273814440066: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:02:09 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Zubin ($84.63 in chips)
+Seat 2: rampurge ($117.77 in chips)
+Seat 3: Benson ($149.13 in chips)
+Seat 4: mc ($178.17 in chips)
+Seat 9: donkey ($101.24 in chips)
+Seat 10: vincent ($202.45 in chips)
+donkey: posts small blind $0.50
+vincent: posts big blind $1.00
+rampurge: posts big blind $1.00
+rampurge: posts small blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [Qh As]
+Zubin: folds
+rampurge: raises $5.00 to $6.00
+Benson: folds
+mc: folds
+donkey: folds
+vincent: calls $5.00
+*** FLOP *** [Td 3d 6c]
+vincent: checks
+rampurge: bets $6.50
+vincent: calls $6.50
+*** TURN *** [Td 3d 6c] [2c]
+vincent: checks
+rampurge: checks
+*** RIVER *** [Td 3d 6c 2c] [8d]
+vincent: bets $5.00
+rampurge: folds
+Uncalled bet ($5.00) returned to vincent
+*** SHOW DOWN ***
+vincent collected $26.00 from pot
+*** SUMMARY ***
+Total pot: $26.00 | Rake 0
+Board [Td 3d 6c 2c 8d]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge (big blind) folded on the River
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc (button) folded before Flop (didn't bet)
+Seat 9: donkey (small blind) folded before Flop
+Seat 10: vincent (big blind) collected ($26.00)
+
+
+
+PokerStars Hand #6569577697699762022: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:03:15 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($84.63 in chips)
+Seat 2: rampurge ($104.77 in chips)
+Seat 3: Benson ($149.13 in chips)
+Seat 4: mc ($178.17 in chips)
+Seat 7: krafty ($131.13 in chips)
+Seat 8: Polarizing ($100.00 in chips)
+Seat 9: donkey ($100.74 in chips)
+Seat 10: vincent ($215.95 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+krafty: posts big blind $1.00
+krafty: posts small blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [4d 9c]
+rampurge: folds
+Benson: raises $1.50 to $2.50
+mc: folds
+krafty: calls $1.50
+Polarizing: folds
+donkey: folds
+vincent: folds
+Zubin: folds
+*** FLOP *** [2s Ts 3d]
+Benson: bets $3.00
+krafty: folds
+Uncalled bet ($3.00) returned to Benson
+*** SHOW DOWN ***
+Benson collected $7.00 from pot
+*** SUMMARY ***
+Total pot: $7.00 | Rake 0
+Board [2s Ts 3d]
+Seat 1: Zubin (big blind) folded before Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson collected ($7.00)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 7: krafty (big blind) folded on the Flop
+Seat 8: Polarizing folded before Flop (didn't bet)
+Seat 9: donkey (button) folded before Flop (didn't bet)
+Seat 10: vincent (small blind) folded before Flop
+
+
+
+PokerStars Hand #524468071878766778: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:03:54 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Zubin ($83.63 in chips)
+Seat 2: rampurge ($104.77 in chips)
+Seat 3: Benson ($153.63 in chips)
+Seat 4: mc ($178.17 in chips)
+Seat 7: krafty ($128.13 in chips)
+Seat 8: Polarizing ($100.00 in chips)
+Seat 9: donkey ($100.74 in chips)
+Seat 10: vincent ($215.45 in chips)
+Zubin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6c 5s]
+Benson: raises $1.50 to $2.50
+mc: folds
+krafty: folds
+Polarizing: folds
+donkey: calls $2.50
+vincent: calls $2.50
+Zubin: folds
+rampurge: folds
+*** FLOP *** [4d 7s Kc]
+Benson: bets $4.50
+donkey: folds
+vincent: calls $4.50
+*** TURN *** [4d 7s Kc] [7d]
+Benson: checks
+vincent: checks
+*** RIVER *** [4d 7s Kc 7d] [Qs]
+Benson: checks
+vincent: checks
+Benson: shows [Ah Qh]
+*** SHOW DOWN ***
+Benson collected $18.00 from pot
+*** SUMMARY ***
+Total pot: $18.00 | Rake 0
+Board [4d 7s Kc 7d Qs]
+Seat 1: Zubin (small blind) folded before Flop
+Seat 2: rampurge (big blind) folded before Flop
+Seat 3: Benson showed [Ah Qh] and won ($18.00) with two pair, Queens and Sevens
+Seat 4: mc folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Polarizing folded before Flop (didn't bet)
+Seat 9: donkey folded on the Flop
+Seat 10: vincent (button) didn't show and lost
+
+
+
+PokerStars Hand #15958981347611804912: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:05:45 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($83.13 in chips)
+Seat 2: rampurge ($103.77 in chips)
+Seat 3: Benson ($164.63 in chips)
+Seat 4: mc ($178.17 in chips)
+Seat 6: arnav ($184.00 in chips)
+Seat 7: krafty ($128.13 in chips)
+Seat 8: Polarizing ($100.00 in chips)
+Seat 9: donkey ($98.24 in chips)
+Seat 10: vincent ($208.45 in chips)
+rampurge: posts small blind $0.50
+Benson: posts big blind $1.00
+arnav: posts big blind $1.00
+arnav: posts small blind $0.50
+*** HOLE CARDS ***
+Dealt to rampurge [9c 2c]
+mc: folds
+arnav: checks
+krafty: raises $2.50 to $3.50
+Polarizing: folds
+donkey: folds
+vincent: raises $7.50 to $11.00
+Zubin: folds
+rampurge: folds
+Benson: folds
+arnav: folds
+krafty: calls $7.50
+*** FLOP *** [6d 7h As]
+krafty: bets $6.50
+vincent: raises $19.00 to $25.50
+krafty: calls $19.00
+*** TURN *** [6d 7h As] [Th]
+krafty: bets $38.00
+vincent: raises $53.63 to $91.63
+krafty: calls $53.63
+krafty: shows [5h Ah]
+vincent: shows [Qh Jh]
+*** RIVER *** [6d 7h As Th] [2h]
+*** SHOW DOWN ***
+krafty collected $259.26 from pot
+*** SUMMARY ***
+Total pot: $259.26 | Rake 0
+Board [6d 7h As Th 2h]
+Seat 1: Zubin (button) folded before Flop (didn't bet)
+Seat 2: rampurge (small blind) folded before Flop
+Seat 3: Benson (big blind) folded before Flop
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav (big blind) folded before Flop
+Seat 7: krafty showed [5h Ah] and won ($259.26) with a flush, Ace high
+Seat 8: Polarizing folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent showed [Qh Jh] and lost with a flush, Queen high
+
+
+
+PokerStars Hand #17269755936359416688: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:07:13 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Zubin ($83.13 in chips)
+Seat 2: rampurge ($103.27 in chips)
+Seat 3: Benson ($163.63 in chips)
+Seat 4: mc ($178.17 in chips)
+Seat 6: arnav ($182.50 in chips)
+Seat 7: krafty ($259.26 in chips)
+Seat 8: Polarizing ($100.00 in chips)
+Seat 9: donkey ($98.24 in chips)
+Seat 10: vincent ($80.32 in chips)
+Benson: posts small blind $0.50
+mc: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Tc Jc]
+arnav: folds
+krafty: raises $2.00 to $3.00
+Polarizing: folds
+donkey: raises $6.00 to $9.00
+vincent: folds
+Zubin: folds
+rampurge: calls $9.00
+Benson: folds
+mc: calls $8.00
+krafty: calls $6.00
+*** FLOP *** [Th 3d Ac]
+mc: checks
+krafty: bets $8.50
+donkey: calls $8.50
+rampurge: calls $8.50
+mc: calls $8.50
+*** TURN *** [Th 3d Ac] [Qh]
+mc: checks
+krafty: bets $25.00
+donkey: calls $25.00
+rampurge: folds
+mc: raises $60.00 to $85.00
+krafty: raises $75.67 to $160.67
+donkey: calls $55.74
+mc: calls $75.67
+mc: shows [Ah Qc]
+krafty: shows [As Qd]
+donkey: shows [Jh Kh]
+*** RIVER *** [Th 3d Ac Qh] [8h]
+*** SHOW DOWN ***
+donkey collected $312.72 from pot
+mc collected $79.93 from pot
+krafty collected $79.93 from pot
+*** SUMMARY ***
+Total pot: $472.58 | Rake 0
+Board [Th 3d Ac Qh 8h]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge (button) folded on the Turn
+Seat 3: Benson (small blind) folded before Flop
+Seat 4: mc (big blind) showed [Ah Qc] and won ($79.93) with two pair, Aces and Queens
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty showed [As Qd] and won ($79.93) with two pair, Aces and Queens
+Seat 8: Polarizing folded before Flop (didn't bet)
+Seat 9: donkey showed [Jh Kh] and won ($312.72) with a flush, King high
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16731732181426963196: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:09:00 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($83.13 in chips)
+Seat 2: rampurge ($85.77 in chips)
+Seat 3: Benson ($163.13 in chips)
+Seat 4: mc ($79.93 in chips)
+Seat 6: arnav ($182.50 in chips)
+Seat 7: krafty ($161.02 in chips)
+Seat 8: Polarizing ($100.00 in chips)
+Seat 9: donkey ($312.72 in chips)
+Seat 10: vincent ($80.32 in chips)
+mc: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kc 3c]
+krafty: calls $1.00
+Polarizing: folds
+donkey: raises $2.62 to $3.62
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: calls $3.12
+arnav: folds
+krafty: calls $2.62
+*** FLOP *** [3s 2h 4h]
+mc: checks
+krafty: checks
+donkey: bets $4.00
+mc: calls $4.00
+krafty: folds
+*** TURN *** [3s 2h 4h] [Ah]
+mc: checks
+donkey: checks
+*** RIVER *** [3s 2h 4h Ah] [6c]
+mc: bets $28.00
+donkey: folds
+Uncalled bet ($28.00) returned to mc
+*** SHOW DOWN ***
+mc collected $19.86 from pot
+mc: shows [Kh Js]
+*** SUMMARY ***
+Total pot: $19.86 | Rake 0
+Board [3s 2h 4h Ah 6c]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson (button) folded before Flop (didn't bet)
+Seat 4: mc (small blind) collected ($19.86) [Kh Js]
+Seat 6: arnav (big blind) folded before Flop
+Seat 7: krafty folded on the Flop
+Seat 8: Polarizing folded before Flop (didn't bet)
+Seat 9: donkey folded on the River
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #17769674038158401850: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:10:58 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Zubin ($83.13 in chips)
+Seat 2: rampurge ($85.77 in chips)
+Seat 3: Benson ($163.13 in chips)
+Seat 4: mc ($92.17 in chips)
+Seat 6: arnav ($181.50 in chips)
+Seat 7: krafty ($157.40 in chips)
+Seat 8: Polarizing ($100.00 in chips)
+Seat 9: donkey ($305.10 in chips)
+Seat 10: vincent ($80.32 in chips)
+arnav: posts small blind $0.50
+krafty: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8c Th]
+Polarizing: folds
+donkey: folds
+vincent: calls $1.00
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+arnav: folds
+krafty: checks
+*** FLOP *** [9s 2h Td]
+krafty: bets $1.50
+vincent: calls $1.50
+*** TURN *** [9s 2h Td] [Qh]
+krafty: checks
+vincent: checks
+*** RIVER *** [9s 2h Td Qh] [3h]
+krafty: bets $2.50
+vincent: folds
+Uncalled bet ($2.50) returned to krafty
+*** SHOW DOWN ***
+krafty collected $5.50 from pot
+*** SUMMARY ***
+Total pot: $5.50 | Rake 0
+Board [9s 2h Td Qh 3h]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc (button) folded before Flop (didn't bet)
+Seat 6: arnav (small blind) folded before Flop
+Seat 7: krafty (big blind) collected ($5.50)
+Seat 8: Polarizing folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded on the River
+
+
+
+PokerStars Hand #5857071928601257320: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:12:14 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: Zubin ($83.13 in chips)
+Seat 2: rampurge ($85.77 in chips)
+Seat 3: Benson ($163.13 in chips)
+Seat 4: mc ($92.17 in chips)
+Seat 6: arnav ($181.00 in chips)
+Seat 7: krafty ($160.40 in chips)
+Seat 8: Polarizing ($100.00 in chips)
+Seat 9: donkey ($305.10 in chips)
+Seat 10: vincent ($77.82 in chips)
+krafty: posts small blind $0.50
+Polarizing: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kh 7c]
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+arnav: raises $2.50 to $3.50
+krafty: calls $3.00
+Polarizing: folds
+*** FLOP *** [5c 8h 6d]
+krafty: checks
+arnav: checks
+*** TURN *** [5c 8h 6d] [Js]
+krafty: checks
+arnav: bets $4.00
+krafty: calls $4.00
+*** RIVER *** [5c 8h 6d Js] [Th]
+krafty: bets $4.00
+arnav: folds
+Uncalled bet ($4.00) returned to krafty
+*** SHOW DOWN ***
+krafty collected $16.00 from pot
+*** SUMMARY ***
+Total pot: $16.00 | Rake 0
+Board [5c 8h 6d Js Th]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav (button) folded on the River
+Seat 7: krafty (small blind) collected ($16.00)
+Seat 8: Polarizing (big blind) folded before Flop
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16743078814845740343: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:13:58 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Zubin ($83.13 in chips)
+Seat 2: rampurge ($85.77 in chips)
+Seat 3: Benson ($163.13 in chips)
+Seat 4: mc ($92.17 in chips)
+Seat 6: arnav ($173.50 in chips)
+Seat 7: krafty ($168.90 in chips)
+Seat 8: Polarizing ($99.00 in chips)
+Seat 9: donkey ($305.10 in chips)
+Seat 10: vincent ($77.82 in chips)
+Polarizing: posts small blind $0.50
+donkey: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4d 6d]
+vincent: folds
+Zubin: folds
+rampurge: calls $1.00
+Benson: folds
+mc: folds
+arnav: folds
+krafty: calls $1.00
+Polarizing: raises $5.50 to $6.50
+donkey: folds
+rampurge: calls $5.50
+krafty: calls $5.50
+*** FLOP *** [Ad 9d 6h]
+Polarizing: bets $6.50
+rampurge: raises $16.75 to $23.25
+krafty: folds
+Polarizing: folds
+Uncalled bet ($16.75) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $33.50 from pot
+*** SUMMARY ***
+Total pot: $33.50 | Rake 0
+Board [Ad 9d 6h]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge collected ($33.50)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty (button) folded on the Flop
+Seat 8: Polarizing (small blind) folded on the Flop
+Seat 9: donkey (big blind) folded before Flop
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3991376103619416665: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:14:48 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Zubin ($83.13 in chips)
+Seat 2: rampurge ($106.27 in chips)
+Seat 3: Benson ($163.13 in chips)
+Seat 4: mc ($92.17 in chips)
+Seat 6: arnav ($173.50 in chips)
+Seat 7: krafty ($162.40 in chips)
+Seat 8: Polarizing ($86.00 in chips)
+Seat 9: donkey ($304.10 in chips)
+Seat 10: vincent ($77.82 in chips)
+donkey: posts small blind $0.50
+vincent: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8c Kh]
+Zubin: folds
+rampurge: folds
+Benson: raises $1.50 to $2.50
+mc: calls $2.50
+arnav: raises $6.50 to $9.00
+krafty: folds
+Polarizing: folds
+donkey: folds
+vincent: folds
+Benson: raises $11.00 to $20.00
+mc: folds
+arnav: folds
+Uncalled bet ($11.00) returned to Benson
+*** SHOW DOWN ***
+Benson collected $22.00 from pot
+*** SUMMARY ***
+Total pot: $22.00 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson collected ($22.00)
+Seat 4: mc folded before Flop
+Seat 6: arnav folded before Flop
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Polarizing (button) folded before Flop (didn't bet)
+Seat 9: donkey (small blind) folded before Flop
+Seat 10: vincent (big blind) folded before Flop
+
+
+
+PokerStars Hand #8095636242087909815: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:15:56 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($83.13 in chips)
+Seat 2: rampurge ($106.27 in chips)
+Seat 3: Benson ($176.13 in chips)
+Seat 4: mc ($89.67 in chips)
+Seat 6: arnav ($164.50 in chips)
+Seat 7: krafty ($162.40 in chips)
+Seat 8: Polarizing ($86.00 in chips)
+Seat 9: donkey ($303.60 in chips)
+Seat 10: vincent ($76.82 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kh 4d]
+rampurge: folds
+Benson: raises $1.50 to $2.50
+mc: folds
+arnav: raises $5.00 to $7.50
+krafty: folds
+Polarizing: folds
+donkey: folds
+vincent: folds
+Zubin: folds
+Benson: calls $5.00
+*** FLOP *** [7s Tc Qs]
+Benson: checks
+arnav: bets $5.50
+Benson: calls $5.50
+*** TURN *** [7s Tc Qs] [4c]
+Benson: checks
+arnav: bets $20.62
+Benson: raises $29.38 to $50.00
+arnav: folds
+Uncalled bet ($29.38) returned to Benson
+*** SHOW DOWN ***
+Benson collected $68.74 from pot
+*** SUMMARY ***
+Total pot: $68.74 | Rake 0
+Board [7s Tc Qs 4c]
+Seat 1: Zubin (big blind) folded before Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson collected ($68.74)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded on the Turn
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Polarizing folded before Flop (didn't bet)
+Seat 9: donkey (button) folded before Flop (didn't bet)
+Seat 10: vincent (small blind) folded before Flop
+
+
+
+PokerStars Hand #13357935757021910526: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:17:57 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Zubin ($82.13 in chips)
+Seat 2: rampurge ($106.27 in chips)
+Seat 3: Benson ($211.25 in chips)
+Seat 4: mc ($89.67 in chips)
+Seat 6: arnav ($130.88 in chips)
+Seat 7: krafty ($162.40 in chips)
+Seat 8: Polarizing ($86.00 in chips)
+Seat 9: donkey ($303.60 in chips)
+Seat 10: vincent ($76.32 in chips)
+Zubin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kh 4h]
+Benson: folds
+mc: raises $1.50 to $2.50
+arnav: folds
+krafty: calls $2.50
+Polarizing: folds
+donkey: calls $2.50
+vincent: folds
+Zubin: folds
+rampurge: calls $1.50
+*** FLOP *** [2h Jc 8d]
+rampurge: checks
+mc: checks
+krafty: checks
+donkey: checks
+*** TURN *** [2h Jc 8d] [Qs]
+rampurge: checks
+mc: checks
+krafty: checks
+donkey: bets $5.25
+rampurge: folds
+mc: calls $5.25
+krafty: calls $5.25
+*** RIVER *** [2h Jc 8d Qs] [Ah]
+mc: checks
+krafty: checks
+donkey: checks
+mc: shows [As Td]
+*** SHOW DOWN ***
+mc collected $26.25 from pot
+*** SUMMARY ***
+Total pot: $26.25 | Rake 0
+Board [2h Jc 8d Qs Ah]
+Seat 1: Zubin (small blind) folded before Flop
+Seat 2: rampurge (big blind) folded on the Turn
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc showed [As Td] and won ($26.25) with a pair of Aces
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty didn't show and lost
+Seat 8: Polarizing folded before Flop (didn't bet)
+Seat 9: donkey didn't show and lost
+Seat 10: vincent (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #6383556420650561348: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:20:03 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($81.63 in chips)
+Seat 2: rampurge ($103.77 in chips)
+Seat 3: Benson ($211.25 in chips)
+Seat 4: mc ($108.17 in chips)
+Seat 6: arnav ($130.88 in chips)
+Seat 7: krafty ($154.65 in chips)
+Seat 8: Polarizing ($86.00 in chips)
+Seat 9: donkey ($295.85 in chips)
+Seat 10: vincent ($76.32 in chips)
+rampurge: posts small blind $0.50
+Benson: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9s 2h]
+mc: folds
+arnav: folds
+krafty: calls $1.00
+Polarizing: folds
+donkey: folds
+vincent: folds
+Zubin: calls $1.00
+rampurge: folds
+Benson: raises $4.00 to $5.00
+krafty: calls $4.00
+Zubin: folds
+*** FLOP *** [Js 4d Ac]
+Benson: bets $3.00
+krafty: calls $3.00
+*** TURN *** [Js 4d Ac] [6s]
+Benson: checks
+krafty: checks
+*** RIVER *** [Js 4d Ac 6s] [Jc]
+Benson: checks
+krafty: checks
+Benson: shows [5h 6h]
+*** SHOW DOWN ***
+Benson collected $17.50 from pot
+krafty: shows [Kh Ts]
+*** SUMMARY ***
+Total pot: $17.50 | Rake 0
+Board [Js 4d Ac 6s Jc]
+Seat 1: Zubin (button) folded before Flop
+Seat 2: rampurge (small blind) folded before Flop
+Seat 3: Benson (big blind) showed [5h 6h] and won ($17.50) with two pair, Jacks and Sixes
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty showed [Kh Ts] and lost with a pair of Jacks
+Seat 8: Polarizing folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5553775549616702226: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:21:31 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Zubin ($80.63 in chips)
+Seat 2: rampurge ($103.27 in chips)
+Seat 3: Benson ($220.75 in chips)
+Seat 4: mc ($108.17 in chips)
+Seat 6: arnav ($130.88 in chips)
+Seat 7: krafty ($146.65 in chips)
+Seat 8: Polarizing ($86.00 in chips)
+Seat 9: donkey ($295.85 in chips)
+Seat 10: vincent ($76.32 in chips)
+Benson: posts small blind $0.50
+mc: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9s 3h]
+arnav: folds
+krafty: folds
+Polarizing: raises $1.50 to $2.50
+donkey: calls $2.50
+vincent: raises $6.75 to $9.25
+Zubin: calls $9.25
+rampurge: folds
+Benson: folds
+mc: folds
+Polarizing: folds
+donkey: calls $6.75
+*** FLOP *** [7c Qh Ac]
+donkey: checks
+vincent: bets $10.00
+Zubin: folds
+donkey: folds
+Uncalled bet ($10.00) returned to vincent
+*** SHOW DOWN ***
+vincent collected $31.75 from pot
+*** SUMMARY ***
+Total pot: $31.75 | Rake 0
+Board [7c Qh Ac]
+Seat 1: Zubin folded on the Flop
+Seat 2: rampurge (button) folded before Flop (didn't bet)
+Seat 3: Benson (small blind) folded before Flop
+Seat 4: mc (big blind) folded before Flop
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Polarizing folded before Flop
+Seat 9: donkey folded on the Flop
+Seat 10: vincent collected ($31.75)
+
+
+
+PokerStars Hand #16366657784961352825: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:22:47 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($71.38 in chips)
+Seat 2: rampurge ($103.27 in chips)
+Seat 3: Benson ($220.25 in chips)
+Seat 4: mc ($107.17 in chips)
+Seat 6: arnav ($180.88 in chips)
+Seat 7: krafty ($146.65 in chips)
+Seat 8: Polarizing ($83.50 in chips)
+Seat 9: donkey ($286.60 in chips)
+Seat 10: vincent ($98.82 in chips)
+mc: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2s 7d]
+krafty: calls $1.00
+Polarizing: folds
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: calls $0.50
+arnav: checks
+*** FLOP *** [3h 4c Qh]
+mc: checks
+arnav: checks
+krafty: checks
+*** TURN *** [3h 4c Qh] [Ts]
+mc: bets $3.00
+arnav: folds
+krafty: folds
+Uncalled bet ($3.00) returned to mc
+*** SHOW DOWN ***
+mc collected $3.00 from pot
+*** SUMMARY ***
+Total pot: $3.00 | Rake 0
+Board [3h 4c Qh Ts]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson (button) folded before Flop (didn't bet)
+Seat 4: mc (small blind) collected ($3.00)
+Seat 6: arnav (big blind) folded on the Turn
+Seat 7: krafty folded on the Turn
+Seat 8: Polarizing folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #15315035259347608335: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:23:42 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Zubin ($71.38 in chips)
+Seat 2: rampurge ($103.27 in chips)
+Seat 3: Benson ($220.25 in chips)
+Seat 4: mc ($109.17 in chips)
+Seat 6: arnav ($179.88 in chips)
+Seat 7: krafty ($145.65 in chips)
+Seat 8: Polarizing ($83.50 in chips)
+Seat 9: donkey ($286.60 in chips)
+Seat 10: vincent ($98.82 in chips)
+arnav: posts small blind $0.50
+krafty: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3s Ad]
+Polarizing: folds
+donkey: folds
+vincent: calls $1.00
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: raises $4.00 to $5.00
+arnav: folds
+krafty: folds
+vincent: calls $4.00
+*** FLOP *** [8h 4d 2c]
+vincent: checks
+mc: bets $4.00
+vincent: raises $9.75 to $13.75
+mc: calls $9.75
+*** TURN *** [8h 4d 2c] [Ac]
+vincent: checks
+mc: checks
+*** RIVER *** [8h 4d 2c Ac] [Qh]
+vincent: checks
+mc: bets $39.00
+vincent: raises $41.07 to $80.07
+mc: calls $41.07
+mc: shows [Qd Qs]
+*** SHOW DOWN ***
+mc collected $199.14 from pot
+vincent: shows [5h 6h]
+*** SUMMARY ***
+Total pot: $199.14 | Rake 0
+Board [8h 4d 2c Ac Qh]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc (button) showed [Qd Qs] and won ($199.14) with three of a kind, Queens
+Seat 6: arnav (small blind) folded before Flop
+Seat 7: krafty (big blind) folded before Flop
+Seat 8: Polarizing folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent showed [5h 6h] and lost with high card Ace
+
+
+
+PokerStars Hand #10521189726690273591: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:25:07 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: Zubin ($71.38 in chips)
+Seat 2: rampurge ($103.27 in chips)
+Seat 3: Benson ($220.25 in chips)
+Seat 4: mc ($209.49 in chips)
+Seat 6: arnav ($179.38 in chips)
+Seat 7: krafty ($144.65 in chips)
+Seat 8: Polarizing ($83.50 in chips)
+Seat 9: donkey ($286.60 in chips)
+krafty: posts small blind $0.50
+Polarizing: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8c Qs]
+donkey: calls $1.00
+Zubin: calls $1.00
+rampurge: folds
+Benson: folds
+mc: calls $1.00
+arnav: raises $6.00 to $7.00
+krafty: folds
+Polarizing: folds
+donkey: calls $6.00
+Zubin: folds
+mc: calls $6.00
+*** FLOP *** [Kd Ad Th]
+donkey: checks
+mc: checks
+arnav: bets $7.00
+donkey: folds
+mc: folds
+Uncalled bet ($7.00) returned to arnav
+*** SHOW DOWN ***
+arnav collected $23.50 from pot
+*** SUMMARY ***
+Total pot: $23.50 | Rake 0
+Board [Kd Ad Th]
+Seat 1: Zubin folded before Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded on the Flop
+Seat 6: arnav (button) collected ($23.50)
+Seat 7: krafty (small blind) folded before Flop
+Seat 8: Polarizing (big blind) folded before Flop
+Seat 9: donkey folded on the Flop
+
+
+
+PokerStars Hand #9508430125003660265: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:26:08 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Zubin ($70.38 in chips)
+Seat 2: rampurge ($103.27 in chips)
+Seat 3: Benson ($220.25 in chips)
+Seat 4: mc ($202.49 in chips)
+Seat 6: arnav ($195.88 in chips)
+Seat 7: krafty ($144.15 in chips)
+Seat 8: Polarizing ($82.50 in chips)
+Seat 9: donkey ($279.60 in chips)
+Seat 10: vincent ($100.00 in chips)
+Polarizing: posts small blind $0.50
+donkey: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Jc 9h]
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: raises $1.50 to $2.50
+mc: folds
+arnav: raises $5.50 to $8.00
+krafty: calls $8.00
+Polarizing: folds
+donkey: folds
+Benson: calls $5.50
+*** FLOP *** [Qd 9d 3h]
+Benson: checks
+arnav: bets $8.50
+krafty: folds
+Benson: raises $16.50 to $25.00
+arnav: calls $16.50
+*** TURN *** [Qd 9d 3h] [9s]
+Benson: bets $56.62
+arnav: calls $56.62
+*** RIVER *** [Qd 9d 3h 9s] [3d]
+Benson: bets $106.26
+arnav: folds
+Uncalled bet ($106.26) returned to Benson
+*** SHOW DOWN ***
+Benson collected $188.74 from pot
+*** SUMMARY ***
+Total pot: $188.74 | Rake 0
+Board [Qd 9d 3h 9s 3d]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson collected ($188.74)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded on the River
+Seat 7: krafty (button) folded on the Flop
+Seat 8: Polarizing (small blind) folded before Flop
+Seat 9: donkey (big blind) folded before Flop
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #18436138860167244872: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:28:07 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Zubin ($70.38 in chips)
+Seat 2: rampurge ($103.27 in chips)
+Seat 3: Benson ($319.37 in chips)
+Seat 4: mc ($202.49 in chips)
+Seat 6: arnav ($106.26 in chips)
+Seat 7: krafty ($136.15 in chips)
+Seat 9: donkey ($278.60 in chips)
+Seat 10: vincent ($100.00 in chips)
+donkey: posts small blind $0.50
+vincent: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kd 8d]
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+arnav: folds
+krafty: calls $1.00
+donkey: raises $3.00 to $4.00
+vincent: raises $6.75 to $10.75
+krafty: folds
+donkey: calls $6.75
+*** FLOP *** [9d 6c 9h]
+donkey: checks
+vincent: bets $7.00
+donkey: calls $7.00
+*** TURN *** [9d 6c 9h] [Th]
+donkey: checks
+vincent: bets $13.00
+donkey: folds
+Uncalled bet ($13.00) returned to vincent
+*** SHOW DOWN ***
+vincent collected $36.50 from pot
+*** SUMMARY ***
+Total pot: $36.50 | Rake 0
+Board [9d 6c 9h Th]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop
+Seat 9: donkey (small blind) folded on the Turn
+Seat 10: vincent (big blind) collected ($36.50)
+
+
+
+PokerStars Hand #15313169543506885333: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:29:37 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($70.38 in chips)
+Seat 2: rampurge ($103.27 in chips)
+Seat 3: Benson ($319.37 in chips)
+Seat 4: mc ($202.49 in chips)
+Seat 6: arnav ($106.26 in chips)
+Seat 7: krafty ($135.15 in chips)
+Seat 9: donkey ($260.85 in chips)
+Seat 10: vincent ($118.75 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4h 5c]
+rampurge: folds
+Benson: folds
+mc: folds
+arnav: folds
+krafty: folds
+donkey: raises $1.87 to $2.87
+vincent: folds
+Zubin: folds
+Uncalled bet ($1.87) returned to donkey
+*** SHOW DOWN ***
+donkey collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: Zubin (big blind) folded before Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 9: donkey (button) collected ($2.50)
+Seat 10: vincent (small blind) folded before Flop
+
+
+
+PokerStars Hand #4525467638317548544: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:30:00 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Zubin ($69.38 in chips)
+Seat 2: rampurge ($103.27 in chips)
+Seat 3: Benson ($319.37 in chips)
+Seat 4: mc ($202.49 in chips)
+Seat 6: arnav ($106.26 in chips)
+Seat 7: krafty ($135.15 in chips)
+Seat 9: donkey ($262.35 in chips)
+Seat 10: vincent ($118.25 in chips)
+Zubin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3h 7h]
+Benson: folds
+mc: folds
+arnav: raises $1.50 to $2.50
+krafty: calls $2.50
+donkey: folds
+vincent: calls $2.50
+Zubin: folds
+rampurge: calls $1.50
+*** FLOP *** [2h Tc Js]
+rampurge: checks
+arnav: checks
+krafty: bets $3.33
+vincent: folds
+rampurge: folds
+arnav: folds
+Uncalled bet ($3.33) returned to krafty
+*** SHOW DOWN ***
+krafty collected $10.50 from pot
+*** SUMMARY ***
+Total pot: $10.50 | Rake 0
+Board [2h Tc Js]
+Seat 1: Zubin (small blind) folded before Flop
+Seat 2: rampurge (big blind) folded on the Flop
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded on the Flop
+Seat 7: krafty collected ($10.50)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent (button) folded on the Flop
+
+
+
+PokerStars Hand #3056512935261260221: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:31:22 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($68.88 in chips)
+Seat 2: rampurge ($100.77 in chips)
+Seat 3: Benson ($319.37 in chips)
+Seat 4: mc ($202.49 in chips)
+Seat 6: arnav ($103.76 in chips)
+Seat 7: krafty ($143.15 in chips)
+Seat 8: Lloydering ($300.00 in chips)
+Seat 9: donkey ($262.35 in chips)
+Seat 10: vincent ($115.75 in chips)
+rampurge: posts small blind $0.50
+Benson: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6c As]
+mc: folds
+arnav: folds
+krafty: folds
+Lloydering: folds
+donkey: folds
+vincent: calls $1.00
+Zubin: calls $1.00
+rampurge: folds
+Benson: checks
+*** FLOP *** [4h 2h 6h]
+Benson: checks
+vincent: checks
+Zubin: checks
+*** TURN *** [4h 2h 6h] [6s]
+Benson: checks
+vincent: bets $1.00
+Zubin: folds
+Benson: raises $5.50 to $6.50
+vincent: calls $5.50
+*** RIVER *** [4h 2h 6h 6s] [4d]
+Benson: bets $16.50
+vincent: calls $16.50
+Benson: shows [9h 6d]
+*** SHOW DOWN ***
+Benson collected $49.50 from pot
+vincent: shows [3c 4c]
+*** SUMMARY ***
+Total pot: $49.50 | Rake 0
+Board [4h 2h 6h 6s 4d]
+Seat 1: Zubin (button) folded on the Turn
+Seat 2: rampurge (small blind) folded before Flop
+Seat 3: Benson (big blind) showed [9h 6d] and won ($49.50) with a full house, Sixes full of Fours
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent showed [3c 4c] and lost with a full house, Fours full of Sixes
+
+
+
+PokerStars Hand #15104792839747971293: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:32:45 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Zubin ($67.88 in chips)
+Seat 2: rampurge ($100.27 in chips)
+Seat 3: Benson ($344.87 in chips)
+Seat 4: mc ($202.49 in chips)
+Seat 6: arnav ($103.76 in chips)
+Seat 7: krafty ($143.15 in chips)
+Seat 8: Lloydering ($300.00 in chips)
+Seat 9: donkey ($262.35 in chips)
+Seat 10: vincent ($91.75 in chips)
+Benson: posts small blind $0.50
+mc: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2d 4s]
+arnav: raises $1.50 to $2.50
+krafty: folds
+Lloydering: calls $2.50
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: calls $1.50
+*** FLOP *** [9c 2h Kd]
+mc: checks
+arnav: bets $2.75
+Lloydering: calls $2.75
+mc: calls $2.75
+*** TURN *** [9c 2h Kd] [Jc]
+mc: checks
+arnav: bets $12.18
+Lloydering: calls $12.18
+mc: folds
+*** RIVER *** [9c 2h Kd Jc] [Qs]
+arnav: bets $10.00
+Lloydering: calls $10.00
+Lloydering: shows [Jh Jd]
+*** SHOW DOWN ***
+Lloydering collected $60.61 from pot
+arnav: shows [As Kc]
+*** SUMMARY ***
+Total pot: $60.61 | Rake 0
+Board [9c 2h Kd Jc Qs]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge (button) folded before Flop (didn't bet)
+Seat 3: Benson (small blind) folded before Flop
+Seat 4: mc (big blind) folded on the Turn
+Seat 6: arnav showed [As Kc] and lost with a pair of Kings
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering showed [Jh Jd] and won ($60.61) with three of a kind, Jacks
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3725845531985246099: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:33:45 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($67.88 in chips)
+Seat 2: rampurge ($100.27 in chips)
+Seat 3: Benson ($344.37 in chips)
+Seat 4: mc ($197.24 in chips)
+Seat 6: arnav ($76.33 in chips)
+Seat 7: krafty ($143.15 in chips)
+Seat 8: Lloydering ($333.18 in chips)
+Seat 9: donkey ($262.35 in chips)
+Seat 10: vincent ($91.75 in chips)
+mc: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qc 9d]
+krafty: folds
+Lloydering: calls $1.00
+donkey: folds
+vincent: raises $4.50 to $5.50
+Zubin: folds
+rampurge: folds
+Benson: calls $5.50
+mc: folds
+arnav: folds
+Lloydering: folds
+*** FLOP *** [3c Ad 7c]
+vincent: bets $4.00
+Benson: folds
+Uncalled bet ($4.00) returned to vincent
+*** SHOW DOWN ***
+vincent collected $13.50 from pot
+*** SUMMARY ***
+Total pot: $13.50 | Rake 0
+Board [3c Ad 7c]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson (button) folded on the Flop
+Seat 4: mc (small blind) folded before Flop
+Seat 6: arnav (big blind) folded before Flop
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering folded before Flop
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent collected ($13.50)
+
+
+
+PokerStars Hand #7014671384832864921: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:34:28 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Zubin ($67.88 in chips)
+Seat 2: rampurge ($100.27 in chips)
+Seat 3: Benson ($338.87 in chips)
+Seat 4: mc ($196.74 in chips)
+Seat 6: arnav ($75.33 in chips)
+Seat 7: krafty ($143.15 in chips)
+Seat 8: Lloydering ($332.18 in chips)
+Seat 9: donkey ($262.35 in chips)
+Seat 10: vincent ($99.75 in chips)
+arnav: posts small blind $0.50
+krafty: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2c 7h]
+Lloydering: folds
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: raises $1.50 to $2.50
+arnav: folds
+krafty: folds
+Uncalled bet ($1.50) returned to mc
+*** SHOW DOWN ***
+mc collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc (button) collected ($2.50)
+Seat 6: arnav (small blind) folded before Flop
+Seat 7: krafty (big blind) folded before Flop
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9434488140416034713: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:35:01 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: Zubin ($67.88 in chips)
+Seat 2: rampurge ($100.27 in chips)
+Seat 3: Benson ($338.87 in chips)
+Seat 4: mc ($198.24 in chips)
+Seat 6: arnav ($74.83 in chips)
+Seat 7: krafty ($142.15 in chips)
+Seat 8: Lloydering ($332.18 in chips)
+Seat 9: donkey ($262.35 in chips)
+Seat 10: vincent ($99.75 in chips)
+krafty: posts small blind $0.50
+Lloydering: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Jd Ah]
+donkey: raises $1.87 to $2.87
+vincent: folds
+Zubin: folds
+rampurge: raises $7.24 to $10.11
+Benson: folds
+mc: folds
+arnav: folds
+krafty: folds
+Lloydering: folds
+donkey: folds
+Uncalled bet ($7.24) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $7.24 from pot
+*** SUMMARY ***
+Total pot: $7.24 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge collected ($7.24)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav (button) folded before Flop (didn't bet)
+Seat 7: krafty (small blind) folded before Flop
+Seat 8: Lloydering (big blind) folded before Flop
+Seat 9: donkey folded before Flop
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4225900547792636113: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:35:55 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Zubin ($67.88 in chips)
+Seat 2: rampurge ($104.64 in chips)
+Seat 3: Benson ($338.87 in chips)
+Seat 4: mc ($198.24 in chips)
+Seat 6: arnav ($174.83 in chips)
+Seat 7: krafty ($141.65 in chips)
+Seat 8: Lloydering ($331.18 in chips)
+Seat 9: donkey ($259.48 in chips)
+Seat 10: vincent ($99.75 in chips)
+Lloydering: posts small blind $0.50
+donkey: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3h Ts]
+vincent: folds
+Zubin: raises $1.50 to $2.50
+rampurge: folds
+Benson: calls $2.50
+mc: folds
+arnav: raises $8.50 to $11.00
+krafty: folds
+Lloydering: folds
+donkey: folds
+Zubin: raises $56.88 to $67.88
+Benson: folds
+arnav: calls $56.88
+Zubin: shows [Kh As]
+arnav: shows [Jc Jd]
+*** FLOP *** [3s 4h 9s]
+*** TURN *** [3s 4h 9s] [2s]
+*** RIVER *** [3s 4h 9s 2s] [Ad]
+*** SHOW DOWN ***
+Zubin collected $139.76 from pot
+krafty: shows [3d 9d]
+*** SUMMARY ***
+Total pot: $139.76 | Rake 0
+Board [3s 4h 9s 2s Ad]
+Seat 1: Zubin showed [Kh As] and won ($139.76) with a pair of Aces
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav showed [Jc Jd] and lost with a pair of Jacks
+Seat 7: krafty (button) folded before Flop (didn't bet) [3d 9d]
+Seat 8: Lloydering (small blind) folded before Flop
+Seat 9: donkey (big blind) folded before Flop
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #8103100338273269776: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:37:24 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Zubin ($139.76 in chips)
+Seat 2: rampurge ($104.64 in chips)
+Seat 3: Benson ($336.37 in chips)
+Seat 4: mc ($198.24 in chips)
+Seat 6: arnav ($106.95 in chips)
+Seat 7: krafty ($141.65 in chips)
+Seat 8: Lloydering ($330.68 in chips)
+Seat 9: donkey ($258.48 in chips)
+Seat 10: vincent ($99.75 in chips)
+donkey: posts small blind $0.50
+vincent: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8s Ks]
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: raises $1.50 to $2.50
+arnav: folds
+krafty: calls $2.50
+Lloydering: folds
+donkey: folds
+vincent: calls $1.50
+*** FLOP *** [Tc 3c 3h]
+vincent: checks
+mc: bets $2.50
+krafty: calls $2.50
+vincent: folds
+*** TURN *** [Tc 3c 3h] [Jh]
+mc: checks
+krafty: checks
+*** RIVER *** [Tc 3c 3h Jh] [9c]
+mc: checks
+krafty: bets $11.50
+mc: calls $11.50
+krafty: shows [7c 8c]
+*** SHOW DOWN ***
+krafty collected $36.00 from pot
+*** SUMMARY ***
+Total pot: $36.00 | Rake 0
+Board [Tc 3c 3h Jh 9c]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc didn't show and lost
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty showed [7c 8c] and won ($36.00) with a flush, Ten high
+Seat 8: Lloydering (button) folded before Flop (didn't bet)
+Seat 9: donkey (small blind) folded before Flop
+Seat 10: vincent (big blind) folded on the Flop
+
+
+
+PokerStars Hand #12423692929841218050: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:38:59 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($139.76 in chips)
+Seat 2: rampurge ($104.64 in chips)
+Seat 3: Benson ($336.37 in chips)
+Seat 4: mc ($181.74 in chips)
+Seat 6: arnav ($106.95 in chips)
+Seat 7: krafty ($161.15 in chips)
+Seat 8: Lloydering ($330.68 in chips)
+Seat 9: donkey ($257.98 in chips)
+Seat 10: vincent ($97.25 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qh 9d]
+rampurge: folds
+Benson: folds
+mc: folds
+arnav: folds
+krafty: calls $1.00
+Lloydering: calls $1.00
+donkey: raises $4.50 to $5.50
+vincent: raises $14.00 to $19.50
+Zubin: folds
+krafty: folds
+Lloydering: folds
+donkey: folds
+Uncalled bet ($14.00) returned to vincent
+*** SHOW DOWN ***
+vincent collected $14.00 from pot
+*** SUMMARY ***
+Total pot: $14.00 | Rake 0
+Seat 1: Zubin (big blind) folded before Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop
+Seat 8: Lloydering folded before Flop
+Seat 9: donkey (button) folded before Flop
+Seat 10: vincent (small blind) collected ($14.00)
+
+
+
+PokerStars Hand #15627199338822355107: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:39:57 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Zubin ($138.76 in chips)
+Seat 2: rampurge ($104.64 in chips)
+Seat 3: Benson ($336.37 in chips)
+Seat 4: mc ($181.74 in chips)
+Seat 6: arnav ($106.95 in chips)
+Seat 7: krafty ($160.15 in chips)
+Seat 8: Lloydering ($329.68 in chips)
+Seat 9: donkey ($252.48 in chips)
+Seat 10: vincent ($105.75 in chips)
+Zubin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9h Ts]
+Benson: folds
+mc: folds
+arnav: raises $1.50 to $2.50
+krafty: folds
+Lloydering: calls $2.50
+donkey: raises $6.75 to $9.25
+vincent: folds
+Zubin: folds
+rampurge: folds
+arnav: folds
+Lloydering: folds
+Uncalled bet ($6.75) returned to donkey
+*** SHOW DOWN ***
+donkey collected $9.00 from pot
+*** SUMMARY ***
+Total pot: $9.00 | Rake 0
+Seat 1: Zubin (small blind) folded before Flop
+Seat 2: rampurge (big blind) folded before Flop
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering folded before Flop
+Seat 9: donkey collected ($9.00)
+Seat 10: vincent (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #2264696560764274894: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:40:44 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($138.26 in chips)
+Seat 2: rampurge ($103.64 in chips)
+Seat 3: Benson ($336.37 in chips)
+Seat 4: mc ($181.74 in chips)
+Seat 6: arnav ($104.45 in chips)
+Seat 7: krafty ($160.15 in chips)
+Seat 8: Lloydering ($327.18 in chips)
+Seat 9: donkey ($258.98 in chips)
+Seat 10: vincent ($105.75 in chips)
+rampurge: posts small blind $0.50
+Benson: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2c Jh]
+mc: folds
+arnav: folds
+krafty: raises $1.00 to $2.00
+Lloydering: folds
+donkey: folds
+vincent: calls $2.00
+Zubin: folds
+rampurge: folds
+Benson: calls $1.00
+*** FLOP *** [8c Ac Ah]
+Benson: checks
+krafty: checks
+vincent: checks
+*** TURN *** [8c Ac Ah] [As]
+Benson: checks
+krafty: bets $1.00
+vincent: folds
+Benson: folds
+Uncalled bet ($1.00) returned to krafty
+*** SHOW DOWN ***
+krafty collected $6.50 from pot
+*** SUMMARY ***
+Total pot: $6.50 | Rake 0
+Board [8c Ac Ah As]
+Seat 1: Zubin (button) folded before Flop (didn't bet)
+Seat 2: rampurge (small blind) folded before Flop
+Seat 3: Benson (big blind) folded on the Turn
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty collected ($6.50)
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded on the Turn
+
+
+
+PokerStars Hand #646152422399591521: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:41:35 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Zubin ($138.26 in chips)
+Seat 2: rampurge ($103.14 in chips)
+Seat 3: Benson ($334.37 in chips)
+Seat 4: mc ($181.74 in chips)
+Seat 6: arnav ($104.45 in chips)
+Seat 7: krafty ($164.65 in chips)
+Seat 8: Lloydering ($327.18 in chips)
+Seat 9: donkey ($258.98 in chips)
+Seat 10: vincent ($103.75 in chips)
+Benson: posts small blind $0.50
+mc: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [As Tc]
+arnav: folds
+krafty: raises $1.00 to $2.00
+Lloydering: folds
+donkey: folds
+vincent: raises $4.12 to $6.12
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: calls $5.12
+krafty: calls $4.12
+*** FLOP *** [Jc Qc Ts]
+mc: checks
+krafty: checks
+vincent: bets $6.00
+mc: calls $6.00
+krafty: calls $6.00
+*** TURN *** [Jc Qc Ts] [7s]
+mc: checks
+krafty: bets $12.00
+vincent: calls $12.00
+mc: folds
+*** RIVER *** [Jc Qc Ts 7s] [6c]
+krafty: bets $15.00
+vincent: calls $15.00
+vincent: shows [Kd Qd]
+*** SHOW DOWN ***
+vincent collected $90.86 from pot
+krafty: shows [8s 5s]
+*** SUMMARY ***
+Total pot: $90.86 | Rake 0
+Board [Jc Qc Ts 7s 6c]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge (button) folded before Flop (didn't bet)
+Seat 3: Benson (small blind) folded before Flop
+Seat 4: mc (big blind) folded on the Turn
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty showed [8s 5s] and lost with high card Queen
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent showed [Kd Qd] and won ($90.86) with a pair of Queens
+
+
+
+PokerStars Hand #12103981474289081751: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:43:31 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($138.26 in chips)
+Seat 2: rampurge ($103.14 in chips)
+Seat 3: Benson ($333.87 in chips)
+Seat 4: mc ($169.62 in chips)
+Seat 6: arnav ($204.45 in chips)
+Seat 7: krafty ($125.53 in chips)
+Seat 8: Lloydering ($327.18 in chips)
+Seat 9: donkey ($258.98 in chips)
+Seat 10: vincent ($155.49 in chips)
+mc: posts small blind $0.50
+arnav: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2s 7c]
+krafty: calls $1.00
+Lloydering: folds
+donkey: folds
+vincent: folds
+Zubin: raises $4.00 to $5.00
+rampurge: folds
+Benson: folds
+mc: calls $4.50
+arnav: folds
+krafty: calls $4.00
+*** FLOP *** [3h 3d 5s]
+mc: checks
+krafty: checks
+Zubin: checks
+*** TURN *** [3h 3d 5s] [Kh]
+mc: checks
+krafty: checks
+Zubin: checks
+*** RIVER *** [3h 3d 5s Kh] [Jc]
+mc: checks
+krafty: checks
+Zubin: bets $9.00
+mc: calls $9.00
+krafty: folds
+Zubin: shows [Ah Kd]
+*** SHOW DOWN ***
+Zubin collected $34.00 from pot
+*** SUMMARY ***
+Total pot: $34.00 | Rake 0
+Board [3h 3d 5s Kh Jc]
+Seat 1: Zubin showed [Ah Kd] and won ($34.00) with two pair, Kings and Threes
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson (button) folded before Flop (didn't bet)
+Seat 4: mc (small blind) didn't show and lost
+Seat 6: arnav (big blind) folded before Flop
+Seat 7: krafty folded on the River
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1360108236780024011: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:44:45 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Zubin ($158.26 in chips)
+Seat 2: rampurge ($103.14 in chips)
+Seat 3: Benson ($333.87 in chips)
+Seat 4: mc ($155.62 in chips)
+Seat 6: arnav ($203.45 in chips)
+Seat 7: krafty ($120.53 in chips)
+Seat 8: Lloydering ($327.18 in chips)
+Seat 9: donkey ($258.98 in chips)
+Seat 10: vincent ($155.49 in chips)
+arnav: posts small blind $0.50
+krafty: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9c Kc]
+Lloydering: folds
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: raises $2.50 to $3.50
+Benson: folds
+mc: folds
+arnav: folds
+krafty: calls $2.50
+*** FLOP *** [7d As 3d]
+krafty: checks
+rampurge: bets $3.75
+krafty: calls $3.75
+*** TURN *** [7d As 3d] [2c]
+krafty: bets $5.00
+rampurge: folds
+Uncalled bet ($5.00) returned to krafty
+*** SHOW DOWN ***
+krafty collected $15.00 from pot
+krafty: shows [2h 3c]
+*** SUMMARY ***
+Total pot: $15.00 | Rake 0
+Board [7d As 3d 2c]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded on the Turn
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc (button) folded before Flop (didn't bet)
+Seat 6: arnav (small blind) folded before Flop
+Seat 7: krafty (big blind) collected ($15.00) [2h 3c]
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9409844266449873981: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:45:56 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: Zubin ($158.26 in chips)
+Seat 2: rampurge ($95.89 in chips)
+Seat 3: Benson ($333.87 in chips)
+Seat 4: mc ($155.62 in chips)
+Seat 6: arnav ($202.95 in chips)
+Seat 7: krafty ($128.28 in chips)
+Seat 8: Lloydering ($327.18 in chips)
+Seat 9: donkey ($258.98 in chips)
+Seat 10: vincent ($155.49 in chips)
+krafty: posts small blind $0.50
+Lloydering: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2d Kc]
+donkey: raises $1.87 to $2.87
+vincent: calls $2.87
+Zubin: folds
+rampurge: folds
+Benson: calls $2.87
+mc: folds
+arnav: folds
+krafty: folds
+Lloydering: folds
+*** FLOP *** [6s 7d Qc]
+donkey: bets $3.00
+vincent: folds
+Benson: folds
+Uncalled bet ($3.00) returned to donkey
+*** SHOW DOWN ***
+donkey collected $10.11 from pot
+*** SUMMARY ***
+Total pot: $10.11 | Rake 0
+Board [6s 7d Qc]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded on the Flop
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav (button) folded before Flop (didn't bet)
+Seat 7: krafty (small blind) folded before Flop
+Seat 8: Lloydering (big blind) folded before Flop
+Seat 9: donkey collected ($10.11)
+Seat 10: vincent folded on the Flop
+
+
+
+PokerStars Hand #8651895292260305368: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:46:28 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Zubin ($158.26 in chips)
+Seat 2: rampurge ($95.89 in chips)
+Seat 3: Benson ($331.00 in chips)
+Seat 4: mc ($155.62 in chips)
+Seat 6: arnav ($202.95 in chips)
+Seat 7: krafty ($127.78 in chips)
+Seat 8: Lloydering ($326.18 in chips)
+Seat 9: donkey ($266.22 in chips)
+Seat 10: vincent ($152.62 in chips)
+Lloydering: posts small blind $0.50
+donkey: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8d 8s]
+vincent: folds
+Zubin: raises $1.50 to $2.50
+rampurge: raises $5.50 to $8.00
+Benson: folds
+mc: folds
+arnav: folds
+krafty: calls $8.00
+Lloydering: calls $7.50
+donkey: folds
+Zubin: raises $36.00 to $44.00
+rampurge: folds
+krafty: folds
+Lloydering: folds
+Uncalled bet ($36.00) returned to Zubin
+*** SHOW DOWN ***
+Zubin collected $33.00 from pot
+rampurge: shows [8d 8s]
+krafty: shows [7c 2c]
+*** SUMMARY ***
+Total pot: $33.00 | Rake 0
+Seat 1: Zubin collected ($33.00)
+Seat 2: rampurge folded before Flop [8d 8s]
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty (button) folded before Flop [7c 2c]
+Seat 8: Lloydering (small blind) folded before Flop
+Seat 9: donkey (big blind) folded before Flop
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1232437878991698707: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:47:34 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Zubin ($183.26 in chips)
+Seat 2: rampurge ($87.89 in chips)
+Seat 3: Benson ($331.00 in chips)
+Seat 4: mc ($155.62 in chips)
+Seat 6: arnav ($202.95 in chips)
+Seat 7: krafty ($119.78 in chips)
+Seat 8: Lloydering ($318.18 in chips)
+Seat 9: donkey ($265.22 in chips)
+Seat 10: vincent ($152.62 in chips)
+donkey: posts small blind $0.50
+vincent: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9d 2c]
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+arnav: folds
+krafty: folds
+Lloydering: folds
+donkey: raises $2.00 to $3.00
+vincent: calls $2.00
+*** FLOP *** [Ts 8c 8d]
+donkey: checks
+vincent: checks
+*** TURN *** [Ts 8c 8d] [4h]
+donkey: bets $3.00
+vincent: calls $3.00
+*** RIVER *** [Ts 8c 8d 4h] [5d]
+donkey: bets $12.00
+vincent: calls $12.00
+donkey: shows [6c 6d]
+*** SHOW DOWN ***
+donkey collected $36.00 from pot
+*** SUMMARY ***
+Total pot: $36.00 | Rake 0
+Board [Ts 8c 8d 4h 5d]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering (button) folded before Flop (didn't bet)
+Seat 9: donkey (small blind) showed [6c 6d] and won ($36.00) with two pair, Eights and Sixes
+Seat 10: vincent (big blind) didn't show and lost
+
+
+
+PokerStars Hand #15835422424512509110: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:48:18 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($183.26 in chips)
+Seat 2: rampurge ($87.89 in chips)
+Seat 3: Benson ($331.00 in chips)
+Seat 4: mc ($155.62 in chips)
+Seat 6: arnav ($202.95 in chips)
+Seat 7: krafty ($119.78 in chips)
+Seat 8: Lloydering ($318.18 in chips)
+Seat 9: donkey ($283.22 in chips)
+Seat 10: vincent ($134.62 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4s 3s]
+rampurge: folds
+Benson: raises $1.50 to $2.50
+mc: raises $5.50 to $8.00
+arnav: folds
+krafty: calls $8.00
+Lloydering: folds
+donkey: folds
+vincent: folds
+Zubin: folds
+Benson: calls $5.50
+*** FLOP *** [Ts 9h 2d]
+Benson: checks
+mc: checks
+krafty: checks
+*** TURN *** [Ts 9h 2d] [3c]
+Benson: checks
+mc: bets $10.00
+krafty: folds
+Benson: folds
+Uncalled bet ($10.00) returned to mc
+*** SHOW DOWN ***
+mc collected $25.50 from pot
+krafty: shows [4d 6d]
+*** SUMMARY ***
+Total pot: $25.50 | Rake 0
+Board [Ts 9h 2d 3c]
+Seat 1: Zubin (big blind) folded before Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded on the Turn
+Seat 4: mc collected ($25.50)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded on the Turn [4d 6d]
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey (button) folded before Flop (didn't bet)
+Seat 10: vincent (small blind) folded before Flop
+
+
+
+PokerStars Hand #4092346428278942354: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:49:23 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Zubin ($182.26 in chips)
+Seat 2: rampurge ($87.89 in chips)
+Seat 3: Benson ($323.00 in chips)
+Seat 4: mc ($173.12 in chips)
+Seat 6: arnav ($202.95 in chips)
+Seat 7: krafty ($111.78 in chips)
+Seat 8: Lloydering ($318.18 in chips)
+Seat 9: donkey ($283.22 in chips)
+Seat 10: vincent ($134.12 in chips)
+Zubin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qd 4d]
+Benson: folds
+mc: folds
+arnav: raises $1.50 to $2.50
+krafty: folds
+Lloydering: folds
+donkey: raises $4.87 to $7.37
+vincent: folds
+Zubin: folds
+rampurge: folds
+arnav: calls $4.87
+*** FLOP *** [4c 7d 2d]
+arnav: checks
+donkey: checks
+*** TURN *** [4c 7d 2d] [7s]
+arnav: bets $8.12
+donkey: calls $8.12
+*** RIVER *** [4c 7d 2d 7s] [Qs]
+arnav: bets $16.00
+donkey: calls $16.00
+donkey: shows [9h Qh]
+*** SHOW DOWN ***
+donkey collected $64.48 from pot
+arnav: shows [Td Th]
+*** SUMMARY ***
+Total pot: $64.48 | Rake 0
+Board [4c 7d 2d 7s Qs]
+Seat 1: Zubin (small blind) folded before Flop
+Seat 2: rampurge (big blind) folded before Flop
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav showed [Td Th] and lost with two pair, Tens and Sevens
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey showed [9h Qh] and won ($64.48) with two pair, Queens and Sevens
+Seat 10: vincent (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #17236601885336765079: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:51:03 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($181.76 in chips)
+Seat 2: rampurge ($86.89 in chips)
+Seat 3: Benson ($323.00 in chips)
+Seat 4: mc ($173.12 in chips)
+Seat 6: arnav ($171.46 in chips)
+Seat 7: krafty ($111.78 in chips)
+Seat 8: Lloydering ($318.18 in chips)
+Seat 9: donkey ($316.21 in chips)
+Seat 10: vincent ($134.12 in chips)
+rampurge: posts small blind $0.50
+Benson: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6c 2d]
+mc: folds
+arnav: folds
+krafty: folds
+Lloydering: folds
+donkey: folds
+vincent: folds
+Zubin: raises $1.50 to $2.50
+rampurge: folds
+Benson: calls $1.50
+*** FLOP *** [Td Jd 6h]
+Benson: checks
+Zubin: checks
+*** TURN *** [Td Jd 6h] [4d]
+Benson: bets $2.75
+Zubin: folds
+Uncalled bet ($2.75) returned to Benson
+*** SHOW DOWN ***
+Benson collected $5.50 from pot
+*** SUMMARY ***
+Total pot: $5.50 | Rake 0
+Board [Td Jd 6h 4d]
+Seat 1: Zubin (button) folded on the Turn
+Seat 2: rampurge (small blind) folded before Flop
+Seat 3: Benson (big blind) collected ($5.50)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #7878769347211217346: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:51:52 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Zubin ($179.26 in chips)
+Seat 2: rampurge ($86.39 in chips)
+Seat 3: Benson ($326.00 in chips)
+Seat 4: mc ($173.12 in chips)
+Seat 6: arnav ($171.46 in chips)
+Seat 7: krafty ($111.78 in chips)
+Seat 8: Lloydering ($318.18 in chips)
+Seat 9: donkey ($316.21 in chips)
+Seat 10: vincent ($134.12 in chips)
+Benson: posts small blind $0.50
+mc: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Kd 9d]
+arnav: folds
+krafty: calls $1.00
+Lloydering: folds
+donkey: folds
+vincent: raises $3.50 to $4.50
+Zubin: folds
+rampurge: calls $4.50
+Benson: folds
+mc: folds
+krafty: calls $3.50
+*** FLOP *** [7h 3s 2c]
+krafty: checks
+vincent: checks
+rampurge: checks
+*** TURN *** [7h 3s 2c] [9c]
+krafty: checks
+vincent: checks
+rampurge: bets $7.50
+krafty: folds
+vincent: folds
+Uncalled bet ($7.50) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $15.00 from pot
+krafty: shows [Ac Js]
+*** SUMMARY ***
+Total pot: $15.00 | Rake 0
+Board [7h 3s 2c 9c]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge (button) collected ($15.00)
+Seat 3: Benson (small blind) folded before Flop
+Seat 4: mc (big blind) folded before Flop
+Seat 6: arnav folded before Flop (didn't bet)
+Seat 7: krafty folded on the Turn [Ac Js]
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded on the Turn
+
+
+
+PokerStars Hand #12909065380284419536: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:53:09 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($179.26 in chips)
+Seat 2: rampurge ($96.89 in chips)
+Seat 3: Benson ($325.50 in chips)
+Seat 4: mc ($172.12 in chips)
+Seat 7: krafty ($107.28 in chips)
+Seat 8: Lloydering ($318.18 in chips)
+Seat 9: donkey ($316.21 in chips)
+Seat 10: vincent ($129.62 in chips)
+mc: posts small blind $0.50
+krafty: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5c 4s]
+Lloydering: folds
+donkey: folds
+vincent: folds
+Zubin: raises $1.50 to $2.50
+rampurge: folds
+Benson: folds
+mc: folds
+krafty: folds
+Uncalled bet ($1.50) returned to Zubin
+*** SHOW DOWN ***
+Zubin collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: Zubin collected ($2.50)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson (button) folded before Flop (didn't bet)
+Seat 4: mc (small blind) folded before Flop
+Seat 7: krafty (big blind) folded before Flop
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4994625745097996859: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:53:43 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Zubin ($180.76 in chips)
+Seat 2: rampurge ($96.89 in chips)
+Seat 3: Benson ($325.50 in chips)
+Seat 4: mc ($171.62 in chips)
+Seat 7: krafty ($106.28 in chips)
+Seat 8: Lloydering ($318.18 in chips)
+Seat 9: donkey ($316.21 in chips)
+Seat 10: vincent ($129.62 in chips)
+krafty: posts small blind $0.50
+Lloydering: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3c 2d]
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: raises $1.50 to $2.50
+mc: folds
+krafty: calls $2.00
+Lloydering: calls $1.50
+*** FLOP *** [5d 7h 6h]
+krafty: checks
+Lloydering: bets $3.75
+Benson: calls $3.75
+krafty: calls $3.75
+*** TURN *** [5d 7h 6h] [Ac]
+krafty: checks
+Lloydering: bets $9.37
+Benson: calls $9.37
+krafty: folds
+*** RIVER *** [5d 7h 6h Ac] [9d]
+Lloydering: bets $18.74
+Benson: calls $18.74
+Lloydering: shows [5c Ah]
+*** SHOW DOWN ***
+Lloydering collected $74.97 from pot
+*** SUMMARY ***
+Total pot: $74.97 | Rake 0
+Board [5d 7h 6h Ac 9d]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson didn't show and lost
+Seat 4: mc (button) folded before Flop (didn't bet)
+Seat 7: krafty (small blind) folded on the Turn
+Seat 8: Lloydering (big blind) showed [5c Ah] and won ($74.97) with two pair, Aces and Fives
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #8062749781237462830: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:55:36 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Zubin ($180.76 in chips)
+Seat 2: rampurge ($96.89 in chips)
+Seat 3: Benson ($291.14 in chips)
+Seat 4: mc ($171.62 in chips)
+Seat 6: rmikol ($150.00 in chips)
+Seat 7: krafty ($100.03 in chips)
+Seat 8: Lloydering ($358.79 in chips)
+Seat 9: donkey ($316.21 in chips)
+Seat 10: vincent ($129.62 in chips)
+Lloydering: posts small blind $0.50
+donkey: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7h Jd]
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+rmikol: folds
+krafty: folds
+Lloydering: calls $0.50
+donkey: raises $2.00 to $3.00
+Lloydering: calls $2.00
+*** FLOP *** [4c Kc 6d]
+Lloydering: checks
+donkey: checks
+*** TURN *** [4c Kc 6d] [7c]
+Lloydering: checks
+donkey: bets $2.00
+Lloydering: folds
+Uncalled bet ($2.00) returned to donkey
+*** SHOW DOWN ***
+donkey collected $6.00 from pot
+*** SUMMARY ***
+Total pot: $6.00 | Rake 0
+Board [4c Kc 6d 7c]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty (button) folded before Flop (didn't bet)
+Seat 8: Lloydering (small blind) folded on the Turn
+Seat 9: donkey (big blind) collected ($6.00)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16038629344011193589: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:56:16 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Zubin ($180.76 in chips)
+Seat 2: rampurge ($96.89 in chips)
+Seat 3: Benson ($291.14 in chips)
+Seat 4: mc ($171.62 in chips)
+Seat 6: rmikol ($150.00 in chips)
+Seat 7: krafty ($100.03 in chips)
+Seat 8: Lloydering ($355.79 in chips)
+Seat 9: donkey ($319.21 in chips)
+Seat 10: vincent ($129.62 in chips)
+donkey: posts small blind $0.50
+vincent: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7c 9s]
+Zubin: folds
+rampurge: folds
+Benson: raises $1.50 to $2.50
+mc: raises $5.50 to $8.00
+rmikol: calls $8.00
+krafty: folds
+Lloydering: folds
+donkey: folds
+vincent: calls $7.00
+Benson: calls $5.50
+*** FLOP *** [5c Kh 3s]
+vincent: checks
+Benson: checks
+mc: bets $10.50
+rmikol: folds
+vincent: folds
+Benson: calls $10.50
+*** TURN *** [5c Kh 3s] [2d]
+Benson: checks
+mc: bets $37.50
+Benson: folds
+Uncalled bet ($37.50) returned to mc
+*** SHOW DOWN ***
+mc collected $53.50 from pot
+donkey: shows [4c 6s]
+*** SUMMARY ***
+Total pot: $53.50 | Rake 0
+Board [5c Kh 3s 2d]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded on the Turn
+Seat 4: mc collected ($53.50)
+Seat 6: rmikol folded on the Flop
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering (button) folded before Flop (didn't bet)
+Seat 9: donkey (small blind) folded before Flop [4c 6s]
+Seat 10: vincent (big blind) folded on the Flop
+
+
+
+PokerStars Hand #5341889412430991219: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:57:54 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($180.76 in chips)
+Seat 2: rampurge ($96.89 in chips)
+Seat 3: Benson ($272.64 in chips)
+Seat 4: mc ($206.62 in chips)
+Seat 6: rmikol ($142.00 in chips)
+Seat 7: krafty ($100.03 in chips)
+Seat 8: Lloydering ($355.79 in chips)
+Seat 9: donkey ($318.71 in chips)
+Seat 10: vincent ($121.62 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qs 2s]
+rampurge: folds
+Benson: folds
+mc: folds
+rmikol: raises $2.00 to $3.00
+krafty: folds
+Lloydering: folds
+donkey: folds
+vincent: folds
+Zubin: folds
+Uncalled bet ($2.00) returned to rmikol
+*** SHOW DOWN ***
+rmikol collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: Zubin (big blind) folded before Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol collected ($2.50)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey (button) folded before Flop (didn't bet)
+Seat 10: vincent (small blind) folded before Flop
+
+
+
+PokerStars Hand #8017227378104102654: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:58:19 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Zubin ($179.76 in chips)
+Seat 2: rampurge ($96.89 in chips)
+Seat 3: Benson ($272.64 in chips)
+Seat 4: mc ($206.62 in chips)
+Seat 6: rmikol ($143.50 in chips)
+Seat 7: krafty ($100.03 in chips)
+Seat 8: Lloydering ($355.79 in chips)
+Seat 9: donkey ($318.71 in chips)
+Seat 10: vincent ($121.12 in chips)
+Zubin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5s Ah]
+Benson: folds
+mc: folds
+rmikol: folds
+krafty: raises $1.00 to $2.00
+Lloydering: folds
+donkey: calls $2.00
+vincent: calls $2.00
+Zubin: folds
+rampurge: calls $1.00
+*** FLOP *** [8d 5h Jc]
+rampurge: checks
+krafty: bets $1.50
+donkey: calls $1.50
+vincent: folds
+rampurge: calls $1.50
+*** TURN *** [8d 5h Jc] [9s]
+rampurge: checks
+krafty: checks
+donkey: checks
+*** RIVER *** [8d 5h Jc 9s] [Kd]
+rampurge: checks
+krafty: bets $11.50
+donkey: folds
+rampurge: folds
+Uncalled bet ($11.50) returned to krafty
+*** SHOW DOWN ***
+krafty collected $13.00 from pot
+krafty: shows [Js Jh]
+*** SUMMARY ***
+Total pot: $13.00 | Rake 0
+Board [8d 5h Jc 9s Kd]
+Seat 1: Zubin (small blind) folded before Flop
+Seat 2: rampurge (big blind) folded on the River
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty collected ($13.00) [Js Jh]
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey folded on the River
+Seat 10: vincent (button) folded on the Flop
+
+
+
+PokerStars Hand #4883874458939326210: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 03:59:55 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($179.26 in chips)
+Seat 2: rampurge ($93.39 in chips)
+Seat 3: Benson ($272.64 in chips)
+Seat 4: mc ($206.62 in chips)
+Seat 6: rmikol ($143.50 in chips)
+Seat 7: krafty ($109.53 in chips)
+Seat 8: Lloydering ($355.79 in chips)
+Seat 9: donkey ($315.21 in chips)
+Seat 10: vincent ($119.12 in chips)
+rampurge: posts small blind $0.50
+Benson: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4c 5h]
+mc: folds
+rmikol: folds
+krafty: raises $1.50 to $2.50
+Lloydering: calls $2.50
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+*** FLOP *** [Jh 8c 7c]
+krafty: bets $3.50
+Lloydering: calls $3.50
+*** TURN *** [Jh 8c 7c] [Kc]
+krafty: bets $10.00
+Lloydering: calls $10.00
+*** RIVER *** [Jh 8c 7c Kc] [6c]
+krafty: bets $23.50
+Lloydering: raises $70.03 to $93.53
+krafty: folds
+Uncalled bet ($70.03) returned to Lloydering
+*** SHOW DOWN ***
+Lloydering collected $80.50 from pot
+krafty: shows [Td Tc]
+*** SUMMARY ***
+Total pot: $80.50 | Rake 0
+Board [Jh 8c 7c Kc 6c]
+Seat 1: Zubin (button) folded before Flop (didn't bet)
+Seat 2: rampurge (small blind) folded before Flop
+Seat 3: Benson (big blind) folded before Flop
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty folded on the River [Td Tc]
+Seat 8: Lloydering collected ($80.50)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #3438447668045155115: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:01:35 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Zubin ($179.26 in chips)
+Seat 2: rampurge ($92.89 in chips)
+Seat 3: Benson ($271.64 in chips)
+Seat 4: mc ($206.62 in chips)
+Seat 6: rmikol ($143.50 in chips)
+Seat 7: krafty ($70.03 in chips)
+Seat 8: Lloydering ($396.79 in chips)
+Seat 9: donkey ($315.21 in chips)
+Seat 10: vincent ($119.12 in chips)
+Benson: posts small blind $0.50
+mc: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9c 8s]
+rmikol: folds
+krafty: folds
+Lloydering: folds
+donkey: raises $1.87 to $2.87
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: calls $1.87
+*** FLOP *** [5c 9h Qs]
+mc: checks
+donkey: bets $2.00
+mc: calls $2.00
+*** TURN *** [5c 9h Qs] [8h]
+mc: checks
+donkey: checks
+*** RIVER *** [5c 9h Qs 8h] [3d]
+mc: checks
+donkey: bets $5.12
+mc: calls $5.12
+donkey: shows [Ks 9d]
+*** SHOW DOWN ***
+donkey collected $20.48 from pot
+*** SUMMARY ***
+Total pot: $20.48 | Rake 0
+Board [5c 9h Qs 8h 3d]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge (button) folded before Flop (didn't bet)
+Seat 3: Benson (small blind) folded before Flop
+Seat 4: mc (big blind) didn't show and lost
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey showed [Ks 9d] and won ($20.48) with a pair of Nines
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #9617320723607869372: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:02:38 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($179.26 in chips)
+Seat 2: rampurge ($92.89 in chips)
+Seat 3: Benson ($271.14 in chips)
+Seat 4: mc ($196.63 in chips)
+Seat 6: rmikol ($143.50 in chips)
+Seat 7: krafty ($70.03 in chips)
+Seat 8: Lloydering ($396.79 in chips)
+Seat 9: donkey ($325.70 in chips)
+Seat 10: vincent ($119.12 in chips)
+mc: posts small blind $0.50
+rmikol: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ks 2s]
+krafty: folds
+Lloydering: folds
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: raises $2.50 to $3.50
+Benson: folds
+mc: raises $10.50 to $14.00
+rmikol: folds
+rampurge: folds
+Uncalled bet ($10.50) returned to mc
+*** SHOW DOWN ***
+mc collected $8.00 from pot
+*** SUMMARY ***
+Total pot: $8.00 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop
+Seat 3: Benson (button) folded before Flop (didn't bet)
+Seat 4: mc (small blind) collected ($8.00)
+Seat 6: rmikol (big blind) folded before Flop
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #670702998592340231: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:03:19 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Zubin ($179.26 in chips)
+Seat 2: rampurge ($89.39 in chips)
+Seat 3: Benson ($271.14 in chips)
+Seat 4: mc ($201.13 in chips)
+Seat 6: rmikol ($142.50 in chips)
+Seat 7: krafty ($70.03 in chips)
+Seat 8: Lloydering ($396.79 in chips)
+Seat 9: donkey ($325.70 in chips)
+Seat 10: vincent ($119.12 in chips)
+rmikol: posts small blind $0.50
+krafty: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Js 9s]
+Lloydering: folds
+donkey: folds
+vincent: folds
+Zubin: folds
+rampurge: raises $2.00 to $3.00
+Benson: folds
+mc: folds
+rmikol: folds
+krafty: calls $2.00
+*** FLOP *** [5h 3h 7s]
+krafty: bets $3.25
+rampurge: calls $3.25
+*** TURN *** [5h 3h 7s] [Qh]
+krafty: bets $6.50
+rampurge: folds
+Uncalled bet ($6.50) returned to krafty
+*** SHOW DOWN ***
+krafty collected $13.00 from pot
+krafty: shows [8h 7d]
+rampurge: shows [Js 9s]
+*** SUMMARY ***
+Total pot: $13.00 | Rake 0
+Board [5h 3h 7s Qh]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded on the Turn [Js 9s]
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc (button) folded before Flop (didn't bet)
+Seat 6: rmikol (small blind) folded before Flop
+Seat 7: krafty (big blind) collected ($13.00) [8h 7d]
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1979459893534681471: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:04:12 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: Zubin ($179.26 in chips)
+Seat 2: rampurge ($83.14 in chips)
+Seat 3: Benson ($271.14 in chips)
+Seat 4: mc ($201.13 in chips)
+Seat 6: rmikol ($142.00 in chips)
+Seat 7: krafty ($76.78 in chips)
+Seat 8: Lloydering ($396.79 in chips)
+Seat 9: donkey ($325.70 in chips)
+Seat 10: vincent ($119.12 in chips)
+krafty: posts small blind $0.50
+Lloydering: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9c Qs]
+donkey: folds
+vincent: folds
+Zubin: raises $1.50 to $2.50
+rampurge: folds
+Benson: calls $2.50
+mc: folds
+rmikol: raises $9.00 to $11.50
+krafty: folds
+Lloydering: folds
+Zubin: folds
+Benson: folds
+Uncalled bet ($9.00) returned to rmikol
+*** SHOW DOWN ***
+rmikol collected $9.00 from pot
+*** SUMMARY ***
+Total pot: $9.00 | Rake 0
+Seat 1: Zubin folded before Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol (button) collected ($9.00)
+Seat 7: krafty (small blind) folded before Flop
+Seat 8: Lloydering (big blind) folded before Flop
+Seat 9: donkey folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #1879582856383364707: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:05:14 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Zubin ($176.76 in chips)
+Seat 2: rampurge ($83.14 in chips)
+Seat 3: Benson ($268.64 in chips)
+Seat 4: mc ($201.13 in chips)
+Seat 6: rmikol ($148.50 in chips)
+Seat 7: krafty ($76.28 in chips)
+Seat 8: Lloydering ($395.79 in chips)
+Seat 10: vincent ($119.12 in chips)
+Lloydering: posts small blind $0.50
+vincent: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [9h 6d]
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+rmikol: folds
+krafty: calls $1.00
+Lloydering: calls $0.50
+vincent: checks
+*** FLOP *** [Ac 7d 4h]
+Lloydering: checks
+vincent: checks
+krafty: checks
+*** TURN *** [Ac 7d 4h] [6c]
+Lloydering: bets $3.00
+vincent: calls $3.00
+krafty: folds
+*** RIVER *** [Ac 7d 4h 6c] [Qd]
+Lloydering: bets $9.00
+vincent: folds
+Uncalled bet ($9.00) returned to Lloydering
+*** SHOW DOWN ***
+Lloydering collected $9.00 from pot
+*** SUMMARY ***
+Total pot: $9.00 | Rake 0
+Board [Ac 7d 4h 6c Qd]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty (button) folded on the Turn
+Seat 8: Lloydering (small blind) collected ($9.00)
+Seat 10: vincent (big blind) folded on the River
+
+
+
+PokerStars Hand #6898156272101702282: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:06:16 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Zubin ($176.76 in chips)
+Seat 2: rampurge ($83.14 in chips)
+Seat 3: Benson ($268.64 in chips)
+Seat 4: mc ($201.13 in chips)
+Seat 6: rmikol ($148.50 in chips)
+Seat 7: krafty ($75.28 in chips)
+Seat 8: Lloydering ($400.79 in chips)
+Seat 10: vincent ($115.12 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Js 2c]
+rampurge: folds
+Benson: folds
+mc: folds
+rmikol: folds
+krafty: raises $1.00 to $2.00
+Lloydering: folds
+vincent: folds
+Zubin: calls $1.00
+*** FLOP *** [7c 5d 2d]
+Zubin: checks
+krafty: checks
+*** TURN *** [7c 5d 2d] [9s]
+Zubin: checks
+krafty: bets $1.50
+Zubin: folds
+Uncalled bet ($1.50) returned to krafty
+*** SHOW DOWN ***
+krafty collected $4.50 from pot
+krafty: shows [7h 7s]
+*** SUMMARY ***
+Total pot: $4.50 | Rake 0
+Board [7c 5d 2d 9s]
+Seat 1: Zubin (big blind) folded on the Turn
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty collected ($4.50) [7h 7s]
+Seat 8: Lloydering (button) folded before Flop (didn't bet)
+Seat 10: vincent (small blind) folded before Flop
+
+
+
+PokerStars Hand #9797421220494468798: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:07:57 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Zubin ($174.76 in chips)
+Seat 2: rampurge ($83.14 in chips)
+Seat 3: Benson ($268.64 in chips)
+Seat 4: mc ($201.13 in chips)
+Seat 6: rmikol ($148.50 in chips)
+Seat 7: krafty ($77.78 in chips)
+Seat 8: Lloydering ($400.79 in chips)
+Seat 10: vincent ($114.62 in chips)
+Zubin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ah 5c]
+Benson: folds
+mc: folds
+rmikol: folds
+krafty: raises $1.00 to $2.00
+Lloydering: folds
+vincent: folds
+Zubin: folds
+rampurge: calls $1.00
+*** FLOP *** [9d 3c Jc]
+rampurge: checks
+krafty: checks
+*** TURN *** [9d 3c Jc] [Jd]
+rampurge: checks
+krafty: checks
+*** RIVER *** [9d 3c Jc Jd] [5d]
+rampurge: bets $2.25
+krafty: folds
+Uncalled bet ($2.25) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $4.50 from pot
+krafty: shows [7h Ac]
+*** SUMMARY ***
+Total pot: $4.50 | Rake 0
+Board [9d 3c Jc Jd 5d]
+Seat 1: Zubin (small blind) folded before Flop
+Seat 2: rampurge (big blind) collected ($4.50)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty folded on the River [7h Ac]
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 10: vincent (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #7895807116689036362: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:08:51 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($174.26 in chips)
+Seat 2: rampurge ($85.64 in chips)
+Seat 3: Benson ($268.64 in chips)
+Seat 4: mc ($201.13 in chips)
+Seat 6: rmikol ($148.50 in chips)
+Seat 7: krafty ($75.78 in chips)
+Seat 8: Lloydering ($400.79 in chips)
+Seat 10: vincent ($114.62 in chips)
+rampurge: posts small blind $0.50
+Benson: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qd 3h]
+mc: folds
+rmikol: folds
+krafty: folds
+Lloydering: folds
+vincent: folds
+Zubin: raises $1.50 to $2.50
+rampurge: folds
+Benson: folds
+Uncalled bet ($1.50) returned to Zubin
+*** SHOW DOWN ***
+Zubin collected $2.50 from pot
+*** SUMMARY ***
+Total pot: $2.50 | Rake 0
+Seat 1: Zubin (button) collected ($2.50)
+Seat 2: rampurge (small blind) folded before Flop
+Seat 3: Benson (big blind) folded before Flop
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #5614497113174393290: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:09:14 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Zubin ($175.76 in chips)
+Seat 2: rampurge ($85.14 in chips)
+Seat 3: Benson ($267.64 in chips)
+Seat 4: mc ($201.13 in chips)
+Seat 6: rmikol ($148.50 in chips)
+Seat 7: krafty ($75.78 in chips)
+Seat 8: Lloydering ($400.79 in chips)
+Seat 10: vincent ($114.62 in chips)
+Benson: posts small blind $0.50
+mc: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Tc Kc]
+rmikol: folds
+krafty: folds
+Lloydering: folds
+vincent: raises $1.87 to $2.87
+Zubin: folds
+rampurge: raises $7.24 to $10.11
+Benson: folds
+mc: folds
+vincent: calls $7.24
+*** FLOP *** [Ac 6s Qs]
+vincent: checks
+rampurge: bets $10.86
+vincent: folds
+Uncalled bet ($10.86) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $21.72 from pot
+*** SUMMARY ***
+Total pot: $21.72 | Rake 0
+Board [Ac 6s Qs]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge (button) collected ($21.72)
+Seat 3: Benson (small blind) folded before Flop
+Seat 4: mc (big blind) folded before Flop
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 10: vincent folded on the Flop
+
+
+
+PokerStars Hand #10078320343758861478: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:09:50 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($175.76 in chips)
+Seat 2: rampurge ($96.75 in chips)
+Seat 3: Benson ($267.14 in chips)
+Seat 4: mc ($200.13 in chips)
+Seat 6: rmikol ($148.50 in chips)
+Seat 7: krafty ($75.78 in chips)
+Seat 8: Lloydering ($400.79 in chips)
+Seat 10: vincent ($104.51 in chips)
+mc: posts small blind $0.50
+rmikol: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [5d 3s]
+krafty: calls $1.00
+Lloydering: folds
+vincent: folds
+Zubin: calls $1.00
+rampurge: folds
+Benson: raises $3.50 to $4.50
+mc: raises $11.50 to $16.00
+rmikol: folds
+krafty: folds
+Zubin: folds
+Benson: folds
+Uncalled bet ($11.50) returned to mc
+*** SHOW DOWN ***
+mc collected $12.00 from pot
+*** SUMMARY ***
+Total pot: $12.00 | Rake 0
+Seat 1: Zubin folded before Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson (button) folded before Flop
+Seat 4: mc (small blind) collected ($12.00)
+Seat 6: rmikol (big blind) folded before Flop
+Seat 7: krafty folded before Flop
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #4026014266618137857: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:10:41 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Zubin ($174.76 in chips)
+Seat 2: rampurge ($96.75 in chips)
+Seat 3: Benson ($262.64 in chips)
+Seat 4: mc ($207.63 in chips)
+Seat 6: rmikol ($147.50 in chips)
+Seat 7: krafty ($74.78 in chips)
+Seat 8: Lloydering ($400.79 in chips)
+Seat 10: vincent ($104.51 in chips)
+rmikol: posts small blind $0.50
+krafty: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qh 2d]
+Lloydering: folds
+vincent: folds
+Zubin: folds
+rampurge: folds
+Benson: folds
+mc: folds
+rmikol: folds
+Uncalled bet ($0.50) returned to krafty
+*** SHOW DOWN ***
+krafty collected $1.00 from pot
+*** SUMMARY ***
+Total pot: $1.00 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: Benson folded before Flop (didn't bet)
+Seat 4: mc (button) folded before Flop (didn't bet)
+Seat 6: rmikol (small blind) folded before Flop
+Seat 7: krafty (big blind) collected ($1.00)
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #13641477943258575274: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:11:10 GMT
+Table 'PNLogConverter' 10-max Seat #6 is the button
+Seat 1: Zubin ($174.76 in chips)
+Seat 2: rampurge ($96.75 in chips)
+Seat 4: mc ($207.63 in chips)
+Seat 6: rmikol ($147.00 in chips)
+Seat 7: krafty ($75.28 in chips)
+Seat 8: Lloydering ($400.79 in chips)
+Seat 9: jid ($100.00 in chips)
+Seat 10: vincent ($104.51 in chips)
+krafty: posts small blind $0.50
+Lloydering: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Th 2h]
+jid: calls $1.00
+vincent: raises $3.50 to $4.50
+Zubin: folds
+rampurge: folds
+mc: calls $4.50
+rmikol: folds
+krafty: folds
+Lloydering: folds
+jid: calls $3.50
+*** FLOP *** [Tc Ad 4d]
+jid: checks
+vincent: bets $5.00
+mc: calls $5.00
+jid: folds
+*** TURN *** [Tc Ad 4d] [9d]
+vincent: bets $16.50
+mc: folds
+Uncalled bet ($16.50) returned to vincent
+*** SHOW DOWN ***
+vincent collected $25.00 from pot
+*** SUMMARY ***
+Total pot: $25.00 | Rake 0
+Board [Tc Ad 4d 9d]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 4: mc folded on the Turn
+Seat 6: rmikol (button) folded before Flop (didn't bet)
+Seat 7: krafty (small blind) folded before Flop
+Seat 8: Lloydering (big blind) folded before Flop
+Seat 9: jid folded on the Flop
+Seat 10: vincent collected ($25.00)
+
+
+
+PokerStars Hand #9329328782721905218: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:12:21 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Zubin ($174.76 in chips)
+Seat 2: rampurge ($96.75 in chips)
+Seat 4: mc ($198.13 in chips)
+Seat 6: rmikol ($147.00 in chips)
+Seat 7: krafty ($174.78 in chips)
+Seat 8: Lloydering ($399.79 in chips)
+Seat 9: jid ($95.50 in chips)
+Seat 10: vincent ($120.01 in chips)
+Lloydering: posts small blind $0.50
+jid: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8d 5s]
+vincent: folds
+Zubin: raises $1.50 to $2.50
+rampurge: folds
+mc: raises $5.50 to $8.00
+rmikol: folds
+krafty: folds
+Lloydering: folds
+jid: folds
+Zubin: folds
+Uncalled bet ($5.50) returned to mc
+*** SHOW DOWN ***
+mc collected $6.50 from pot
+*** SUMMARY ***
+Total pot: $6.50 | Rake 0
+Seat 1: Zubin folded before Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 4: mc collected ($6.50)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty (button) folded before Flop (didn't bet)
+Seat 8: Lloydering (small blind) folded before Flop
+Seat 9: jid (big blind) folded before Flop
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #15460339886820804742: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:12:55 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Zubin ($172.26 in chips)
+Seat 2: rampurge ($96.75 in chips)
+Seat 4: mc ($202.13 in chips)
+Seat 6: rmikol ($147.00 in chips)
+Seat 7: krafty ($174.78 in chips)
+Seat 8: Lloydering ($399.29 in chips)
+Seat 9: jid ($94.50 in chips)
+Seat 10: vincent ($120.01 in chips)
+jid: posts small blind $0.50
+vincent: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [8h Ts]
+Zubin: folds
+rampurge: folds
+mc: folds
+rmikol: folds
+krafty: calls $1.00
+Lloydering: calls $1.00
+jid: raises $4.00 to $5.00
+vincent: folds
+krafty: calls $4.00
+Lloydering: folds
+*** FLOP *** [4s 4c Jh]
+jid: checks
+krafty: bets $4.50
+jid: calls $4.50
+*** TURN *** [4s 4c Jh] [2s]
+jid: checks
+krafty: bets $13.68
+jid: calls $13.68
+*** RIVER *** [4s 4c Jh 2s] [2c]
+jid: bets $24.18
+krafty: calls $24.18
+jid: shows [Qc Qs]
+*** SHOW DOWN ***
+jid collected $96.72 from pot
+*** SUMMARY ***
+Total pot: $96.72 | Rake 0
+Board [4s 4c Jh 2s 2c]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty didn't show and lost
+Seat 8: Lloydering (button) folded before Flop
+Seat 9: jid (small blind) showed [Qc Qs] and won ($96.72) with two pair, Queens and Fours
+Seat 10: vincent (big blind) folded before Flop
+
+
+
+PokerStars Hand #16126220787880860209: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:14:20 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($172.26 in chips)
+Seat 2: rampurge ($96.75 in chips)
+Seat 3: stuckbox ($150.00 in chips)
+Seat 4: mc ($202.13 in chips)
+Seat 6: rmikol ($147.00 in chips)
+Seat 7: krafty ($127.42 in chips)
+Seat 8: Lloydering ($398.29 in chips)
+Seat 9: jid ($143.86 in chips)
+Seat 10: vincent ($119.01 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3h 9d]
+rampurge: folds
+stuckbox: raises $2.50 to $3.50
+mc: calls $3.50
+rmikol: calls $3.50
+krafty: folds
+Lloydering: folds
+jid: calls $3.50
+vincent: calls $3.00
+Zubin: calls $2.50
+*** FLOP *** [Kd Jd Kh]
+vincent: checks
+Zubin: checks
+stuckbox: checks
+mc: checks
+rmikol: checks
+jid: checks
+*** TURN *** [Kd Jd Kh] [9c]
+vincent: checks
+Zubin: checks
+stuckbox: checks
+mc: checks
+rmikol: checks
+jid: checks
+*** RIVER *** [Kd Jd Kh 9c] [Ac]
+vincent: checks
+Zubin: checks
+stuckbox: checks
+mc: checks
+rmikol: checks
+jid: checks
+mc: shows [8s As]
+*** SHOW DOWN ***
+mc collected $21.00 from pot
+vincent: shows [7h Th]
+Zubin: shows [8c Qd]
+stuckbox: shows [6h 6s]
+krafty: shows [9s Kc]
+*** SUMMARY ***
+Total pot: $21.00 | Rake 0
+Board [Kd Jd Kh 9c Ac]
+Seat 1: Zubin (big blind) showed [8c Qd] and lost with a pair of Kings
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: stuckbox showed [6h 6s] and lost with two pair, Kings and Sixes
+Seat 4: mc showed [8s As] and won ($21.00) with two pair, Aces and Kings
+Seat 6: rmikol didn't show and lost
+Seat 7: krafty folded before Flop (didn't bet) [9s Kc]
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: jid (button) didn't show and lost
+Seat 10: vincent (small blind) showed [7h Th] and lost with a pair of Kings
+
+
+
+PokerStars Hand #2478174872702246847: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:17:00 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($165.26 in chips)
+Seat 2: rampurge ($92.75 in chips)
+Seat 3: stuckbox ($172.00 in chips)
+Seat 4: mc ($216.63 in chips)
+Seat 6: rmikol ($140.50 in chips)
+Seat 7: krafty ($124.42 in chips)
+Seat 8: Lloydering ($395.29 in chips)
+Seat 9: jid ($137.36 in chips)
+Seat 10: vincent ($112.51 in chips)
+rampurge: posts small blind $0.50
+stuckbox: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ah Jh]
+mc: folds
+rmikol: folds
+krafty: calls $1.00
+Lloydering: calls $1.00
+jid: calls $1.00
+vincent: folds
+Zubin: folds
+rampurge: raises $5.00 to $6.00
+stuckbox: folds
+krafty: calls $5.00
+Lloydering: calls $5.00
+jid: calls $5.00
+*** FLOP *** [Qd Qc 2s]
+rampurge: checks
+krafty: checks
+Lloydering: bets $6.00
+jid: folds
+rampurge: calls $6.00
+krafty: folds
+*** TURN *** [Qd Qc 2s] [3s]
+rampurge: checks
+Lloydering: checks
+*** RIVER *** [Qd Qc 2s 3s] [5d]
+rampurge: checks
+Lloydering: checks
+Lloydering: shows [Ts Tc]
+*** SHOW DOWN ***
+Lloydering collected $37.00 from pot
+rampurge: shows [Ah Jh]
+*** SUMMARY ***
+Total pot: $37.00 | Rake 0
+Board [Qd Qc 2s 3s 5d]
+Seat 1: Zubin (button) folded before Flop (didn't bet)
+Seat 2: rampurge (small blind) showed [Ah Jh] and lost with a pair of Queens
+Seat 3: stuckbox (big blind) folded before Flop
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty folded on the Flop
+Seat 8: Lloydering showed [Ts Tc] and won ($37.00) with two pair, Queens and Tens
+Seat 9: jid folded on the Flop
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #16016939229052845875: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:18:27 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Zubin ($165.26 in chips)
+Seat 2: rampurge ($80.75 in chips)
+Seat 3: stuckbox ($171.00 in chips)
+Seat 4: mc ($216.63 in chips)
+Seat 6: rmikol ($140.50 in chips)
+Seat 7: krafty ($118.42 in chips)
+Seat 8: Lloydering ($420.29 in chips)
+Seat 9: jid ($131.36 in chips)
+Seat 10: vincent ($112.51 in chips)
+stuckbox: posts small blind $0.50
+mc: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [6d 4c]
+rmikol: folds
+krafty: raises $1.00 to $2.00
+Lloydering: calls $2.00
+jid: calls $2.00
+vincent: folds
+Zubin: raises $9.50 to $11.50
+rampurge: folds
+stuckbox: folds
+mc: folds
+krafty: calls $9.50
+Lloydering: folds
+jid: folds
+*** FLOP *** [7s Qd 7d]
+krafty: bets $14.50
+Zubin: calls $14.50
+*** TURN *** [7s Qd 7d] [Qc]
+krafty: bets $24.50
+Zubin: calls $24.50
+*** RIVER *** [7s Qd 7d Qc] [Jc]
+krafty: bets $67.92
+Zubin: folds
+Uncalled bet ($67.92) returned to krafty
+*** SHOW DOWN ***
+krafty collected $106.50 from pot
+krafty: shows [Jd Js]
+*** SUMMARY ***
+Total pot: $106.50 | Rake 0
+Board [7s Qd 7d Qc Jc]
+Seat 1: Zubin folded on the River
+Seat 2: rampurge (button) folded before Flop (didn't bet)
+Seat 3: stuckbox (small blind) folded before Flop
+Seat 4: mc (big blind) folded before Flop
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty collected ($106.50) [Jd Js]
+Seat 8: Lloydering folded before Flop
+Seat 9: jid folded before Flop
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #13902600262546484945: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:20:53 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($114.76 in chips)
+Seat 2: rampurge ($80.75 in chips)
+Seat 3: stuckbox ($170.50 in chips)
+Seat 4: mc ($215.63 in chips)
+Seat 6: rmikol ($140.50 in chips)
+Seat 7: krafty ($174.42 in chips)
+Seat 8: Lloydering ($418.29 in chips)
+Seat 9: jid ($129.36 in chips)
+Seat 10: vincent ($112.51 in chips)
+mc: posts small blind $0.50
+rmikol: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ah Ac]
+krafty: calls $1.00
+Lloydering: raises $2.50 to $3.50
+jid: folds
+vincent: calls $3.50
+Zubin: folds
+rampurge: raises $13.00 to $16.50
+stuckbox: folds
+mc: folds
+rmikol: folds
+krafty: folds
+Lloydering: folds
+vincent: folds
+Uncalled bet ($13.00) returned to rampurge
+*** SHOW DOWN ***
+rampurge collected $13.00 from pot
+*** SUMMARY ***
+Total pot: $13.00 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge collected ($13.00)
+Seat 3: stuckbox (button) folded before Flop (didn't bet)
+Seat 4: mc (small blind) folded before Flop
+Seat 6: rmikol (big blind) folded before Flop
+Seat 7: krafty folded before Flop
+Seat 8: Lloydering folded before Flop
+Seat 9: jid folded before Flop (didn't bet)
+Seat 10: vincent folded before Flop
+
+
+
+PokerStars Hand #9193269605569384413: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:21:43 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Zubin ($114.76 in chips)
+Seat 2: rampurge ($90.25 in chips)
+Seat 3: stuckbox ($170.50 in chips)
+Seat 4: mc ($215.13 in chips)
+Seat 6: rmikol ($139.50 in chips)
+Seat 7: krafty ($173.42 in chips)
+Seat 8: Lloydering ($414.79 in chips)
+Seat 9: jid ($129.36 in chips)
+Seat 10: vincent ($109.01 in chips)
+rmikol: posts small blind $0.50
+krafty: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [7c 4d]
+Lloydering: folds
+jid: calls $1.00
+vincent: raises $3.50 to $4.50
+Zubin: folds
+rampurge: folds
+stuckbox: folds
+mc: folds
+rmikol: folds
+krafty: folds
+jid: folds
+Uncalled bet ($3.50) returned to vincent
+*** SHOW DOWN ***
+vincent collected $3.50 from pot
+*** SUMMARY ***
+Total pot: $3.50 | Rake 0
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: stuckbox folded before Flop (didn't bet)
+Seat 4: mc (button) folded before Flop (didn't bet)
+Seat 6: rmikol (small blind) folded before Flop
+Seat 7: krafty (big blind) folded before Flop
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: jid folded before Flop
+Seat 10: vincent collected ($3.50)
+
+
+
+PokerStars Hand #14622897427071619158: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:24:23 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Zubin ($146.26 in chips)
+Seat 2: rampurge ($84.25 in chips)
+Seat 3: stuckbox ($155.50 in chips)
+Seat 4: mc ($209.13 in chips)
+Seat 6: rmikol ($133.00 in chips)
+Seat 7: krafty ($156.22 in chips)
+Seat 8: Lloydering ($407.29 in chips)
+Seat 9: jid ($119.49 in chips)
+Seat 10: vincent ($145.58 in chips)
+jid: posts small blind $0.50
+vincent: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4h 3s]
+Zubin: folds
+rampurge: folds
+stuckbox: folds
+mc: folds
+rmikol: folds
+krafty: calls $1.00
+Lloydering: calls $1.00
+jid: calls $0.50
+vincent: raises $6.00 to $7.00
+krafty: calls $6.00
+Lloydering: folds
+jid: folds
+*** FLOP *** [Kc Ad Jh]
+vincent: checks
+krafty: bets $4.00
+vincent: calls $4.00
+*** TURN *** [Kc Ad Jh] [6d]
+vincent: checks
+krafty: checks
+*** RIVER *** [Kc Ad Jh 6d] [Jd]
+vincent: bets $8.00
+krafty: calls $8.00
+vincent: shows [Ac Td]
+*** SHOW DOWN ***
+vincent collected $40.00 from pot
+krafty: shows [Ks Th]
+*** SUMMARY ***
+Total pot: $40.00 | Rake 0
+Board [Kc Ad Jh 6d Jd]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: stuckbox folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty showed [Ks Th] and lost with two pair, Kings and Jacks
+Seat 8: Lloydering (button) folded before Flop
+Seat 9: jid (small blind) folded before Flop
+Seat 10: vincent (big blind) showed [Ac Td] and won ($40.00) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #12086173540843478267: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:25:46 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($146.26 in chips)
+Seat 2: rampurge ($84.25 in chips)
+Seat 3: stuckbox ($155.50 in chips)
+Seat 4: mc ($209.13 in chips)
+Seat 6: rmikol ($133.00 in chips)
+Seat 7: krafty ($137.22 in chips)
+Seat 8: Lloydering ($406.29 in chips)
+Seat 9: jid ($118.49 in chips)
+Seat 10: vincent ($166.58 in chips)
+vincent: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2h Qd]
+rampurge: folds
+stuckbox: folds
+mc: folds
+rmikol: folds
+krafty: folds
+Lloydering: folds
+jid: calls $1.00
+vincent: calls $0.50
+Zubin: raises $4.00 to $5.00
+jid: folds
+vincent: calls $4.00
+*** FLOP *** [4h 7h 4s]
+vincent: checks
+Zubin: checks
+*** TURN *** [4h 7h 4s] [2s]
+vincent: bets $6.00
+Zubin: calls $6.00
+*** RIVER *** [4h 7h 4s 2s] [As]
+vincent: checks
+Zubin: bets $14.00
+vincent: folds
+Uncalled bet ($14.00) returned to Zubin
+*** SHOW DOWN ***
+Zubin collected $23.00 from pot
+*** SUMMARY ***
+Total pot: $23.00 | Rake 0
+Board [4h 7h 4s 2s As]
+Seat 1: Zubin (big blind) collected ($23.00)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: stuckbox folded before Flop (didn't bet)
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: jid (button) folded before Flop
+Seat 10: vincent (small blind) folded on the River
+
+
+
+PokerStars Hand #13295394061777553892: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:27:06 GMT
+Table 'PNLogConverter' 10-max Seat #10 is the button
+Seat 1: Zubin ($158.26 in chips)
+Seat 2: rampurge ($84.25 in chips)
+Seat 3: stuckbox ($155.50 in chips)
+Seat 4: mc ($209.13 in chips)
+Seat 6: rmikol ($133.00 in chips)
+Seat 7: krafty ($137.22 in chips)
+Seat 8: Lloydering ($406.29 in chips)
+Seat 9: jid ($117.49 in chips)
+Seat 10: vincent ($155.58 in chips)
+Zubin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Ad 2h]
+stuckbox: folds
+mc: raises $1.50 to $2.50
+rmikol: folds
+krafty: calls $2.50
+Lloydering: folds
+jid: folds
+vincent: calls $2.50
+Zubin: calls $2.00
+rampurge: folds
+*** FLOP *** [4c Ah 4h]
+Zubin: checks
+mc: bets $8.00
+krafty: folds
+vincent: folds
+Zubin: calls $8.00
+*** TURN *** [4c Ah 4h] [Qh]
+Zubin: checks
+mc: bets $27.00
+Zubin: calls $27.00
+*** RIVER *** [4c Ah 4h Qh] [6h]
+Zubin: checks
+mc: checks
+Zubin: shows [Kh 9h]
+*** SHOW DOWN ***
+Zubin collected $81.00 from pot
+*** SUMMARY ***
+Total pot: $81.00 | Rake 0
+Board [4c Ah 4h Qh 6h]
+Seat 1: Zubin (small blind) showed [Kh 9h] and won ($81.00) with a flush, Ace high
+Seat 2: rampurge (big blind) folded before Flop
+Seat 3: stuckbox folded before Flop (didn't bet)
+Seat 4: mc didn't show and lost
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty folded on the Flop
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: jid folded before Flop (didn't bet)
+Seat 10: vincent (button) folded on the Flop
+
+
+
+PokerStars Hand #16326411772329817960: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:28:23 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($201.76 in chips)
+Seat 2: rampurge ($83.25 in chips)
+Seat 3: stuckbox ($155.50 in chips)
+Seat 4: mc ($171.63 in chips)
+Seat 6: rmikol ($133.00 in chips)
+Seat 7: krafty ($134.72 in chips)
+Seat 8: Lloydering ($406.29 in chips)
+Seat 9: jid ($117.49 in chips)
+Seat 10: vincent ($153.08 in chips)
+rampurge: posts small blind $0.50
+stuckbox: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Tc 4s]
+mc: folds
+rmikol: folds
+krafty: folds
+Lloydering: calls $1.00
+jid: calls $1.00
+vincent: folds
+Zubin: calls $1.00
+rampurge: folds
+stuckbox: checks
+*** FLOP *** [Jh Kc 2s]
+stuckbox: bets $1.00
+Lloydering: calls $1.00
+jid: calls $1.00
+Zubin: folds
+*** TURN *** [Jh Kc 2s] [3c]
+stuckbox: checks
+Lloydering: checks
+jid: checks
+*** RIVER *** [Jh Kc 2s 3c] [Td]
+stuckbox: bets $7.50
+Lloydering: raises $22.50 to $30.00
+jid: folds
+stuckbox: folds
+Uncalled bet ($22.50) returned to Lloydering
+*** SHOW DOWN ***
+Lloydering collected $22.50 from pot
+*** SUMMARY ***
+Total pot: $22.50 | Rake 0
+Board [Jh Kc 2s 3c Td]
+Seat 1: Zubin (button) folded on the Flop
+Seat 2: rampurge (small blind) folded before Flop
+Seat 3: stuckbox (big blind) folded on the River
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet)
+Seat 8: Lloydering collected ($22.50)
+Seat 9: jid folded on the River
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #7663493803099505283: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:31:43 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($197.76 in chips)
+Seat 2: rampurge ($79.75 in chips)
+Seat 3: stuckbox ($142.50 in chips)
+Seat 4: mc ($167.63 in chips)
+Seat 7: krafty ($427.94 in chips)
+Seat 8: Lloydering ($416.29 in chips)
+Seat 9: jid ($109.49 in chips)
+Seat 10: vincent ($15.36 in chips)
+mc: posts small blind $0.50
+krafty: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [4h 7d]
+Lloydering: calls $1.00
+jid: calls $1.00
+vincent: folds
+Zubin: folds
+rampurge: folds
+stuckbox: folds
+mc: folds
+krafty: checks
+*** FLOP *** [6h 4c Jc]
+krafty: checks
+Lloydering: checks
+jid: checks
+*** TURN *** [6h 4c Jc] [Jd]
+krafty: checks
+Lloydering: bets $3.50
+jid: folds
+krafty: folds
+Uncalled bet ($3.50) returned to Lloydering
+*** SHOW DOWN ***
+Lloydering collected $3.50 from pot
+*** SUMMARY ***
+Total pot: $3.50 | Rake 0
+Board [6h 4c Jc Jd]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: stuckbox (button) folded before Flop (didn't bet)
+Seat 4: mc (small blind) folded before Flop
+Seat 7: krafty (big blind) folded on the Turn
+Seat 8: Lloydering collected ($3.50)
+Seat 9: jid folded on the Turn
+Seat 10: vincent folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #11831632193815712734: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:32:46 GMT
+Table 'PNLogConverter' 10-max Seat #4 is the button
+Seat 1: Zubin ($197.76 in chips)
+Seat 2: rampurge ($79.75 in chips)
+Seat 3: stuckbox ($142.50 in chips)
+Seat 4: mc ($167.13 in chips)
+Seat 7: krafty ($426.94 in chips)
+Seat 8: Lloydering ($418.79 in chips)
+Seat 9: jid ($108.49 in chips)
+Seat 10: vincent ($15.36 in chips)
+krafty: posts small blind $0.50
+Lloydering: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2d 2c]
+jid: calls $1.00
+vincent: raises $3.50 to $4.50
+Zubin: calls $4.50
+rampurge: calls $4.50
+stuckbox: folds
+mc: calls $4.50
+krafty: calls $4.00
+Lloydering: folds
+jid: calls $3.50
+*** FLOP *** [Js 3d 3c]
+krafty: checks
+jid: bets $14.00
+vincent: folds
+Zubin: folds
+rampurge: folds
+mc: folds
+krafty: folds
+Uncalled bet ($14.00) returned to jid
+*** SHOW DOWN ***
+jid collected $28.00 from pot
+*** SUMMARY ***
+Total pot: $28.00 | Rake 0
+Board [Js 3d 3c]
+Seat 1: Zubin folded on the Flop
+Seat 2: rampurge folded on the Flop
+Seat 3: stuckbox folded before Flop (didn't bet)
+Seat 4: mc (button) folded on the Flop
+Seat 7: krafty (small blind) folded on the Flop
+Seat 8: Lloydering (big blind) folded before Flop
+Seat 9: jid collected ($28.00)
+Seat 10: vincent folded on the Flop
+
+
+
+PokerStars Hand #6879013222401847078: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:33:46 GMT
+Table 'PNLogConverter' 10-max Seat #7 is the button
+Seat 1: Zubin ($193.26 in chips)
+Seat 2: rampurge ($75.25 in chips)
+Seat 3: stuckbox ($142.50 in chips)
+Seat 4: mc ($162.63 in chips)
+Seat 6: rmikol ($150.00 in chips)
+Seat 7: krafty ($422.44 in chips)
+Seat 8: Lloydering ($417.79 in chips)
+Seat 9: jid ($131.99 in chips)
+Seat 10: vincent ($10.86 in chips)
+Lloydering: posts small blind $0.50
+jid: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [3s Kh]
+vincent: raises $9.86 to $10.86
+Zubin: folds
+rampurge: folds
+stuckbox: raises $11.61 to $22.47
+mc: folds
+rmikol: folds
+krafty: folds
+Lloydering: folds
+jid: folds
+Uncalled bet ($11.61) returned to stuckbox
+stuckbox: shows [Qc Qd]
+vincent: shows [6d 9d]
+*** FLOP *** [2h 3d Jc]
+*** TURN *** [2h 3d Jc] [Jd]
+*** RIVER *** [2h 3d Jc Jd] [Js]
+*** SHOW DOWN ***
+stuckbox collected $23.22 from pot
+Lloydering: shows [Jh Kc]
+*** SUMMARY ***
+Total pot: $23.22 | Rake 0
+Board [2h 3d Jc Jd Js]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: stuckbox showed [Qc Qd] and won ($23.22) with a full house, Jacks full of Queens
+Seat 4: mc folded before Flop (didn't bet)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty (button) folded before Flop (didn't bet)
+Seat 8: Lloydering (small blind) folded before Flop [Jh Kc]
+Seat 9: jid (big blind) folded before Flop
+Seat 10: vincent showed [6d 9d] and lost with three of a kind, Jacks
+
+
+
+PokerStars Hand #6695560358174449390: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:34:51 GMT
+Table 'PNLogConverter' 10-max Seat #8 is the button
+Seat 1: Zubin ($193.26 in chips)
+Seat 2: rampurge ($75.25 in chips)
+Seat 3: stuckbox ($154.86 in chips)
+Seat 4: mc ($162.63 in chips)
+Seat 6: rmikol ($150.00 in chips)
+Seat 7: krafty ($422.44 in chips)
+Seat 8: Lloydering ($417.29 in chips)
+Seat 9: jid ($130.99 in chips)
+jid: posts small blind $0.50
+Zubin: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [Qh 6d]
+rampurge: folds
+stuckbox: folds
+mc: raises $1.50 to $2.50
+rmikol: folds
+krafty: calls $2.50
+Lloydering: folds
+jid: calls $2.00
+Zubin: folds
+*** FLOP *** [6c 5s Ad]
+jid: checks
+mc: bets $4.25
+krafty: folds
+jid: folds
+Uncalled bet ($4.25) returned to mc
+*** SHOW DOWN ***
+mc collected $8.50 from pot
+*** SUMMARY ***
+Total pot: $8.50 | Rake 0
+Board [6c 5s Ad]
+Seat 1: Zubin (big blind) folded before Flop
+Seat 2: rampurge folded before Flop (didn't bet)
+Seat 3: stuckbox folded before Flop (didn't bet)
+Seat 4: mc collected ($8.50)
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty folded on the Flop
+Seat 8: Lloydering (button) folded before Flop (didn't bet)
+Seat 9: jid (small blind) folded on the Flop
+
+
+
+PokerStars Hand #16312700939061891015: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:36:02 GMT
+Table 'PNLogConverter' 10-max Seat #9 is the button
+Seat 1: Zubin ($192.26 in chips)
+Seat 2: rampurge ($75.25 in chips)
+Seat 3: stuckbox ($154.86 in chips)
+Seat 4: mc ($168.63 in chips)
+Seat 6: rmikol ($150.00 in chips)
+Seat 7: krafty ($419.94 in chips)
+Seat 8: Lloydering ($417.29 in chips)
+Seat 9: jid ($128.49 in chips)
+Zubin: posts small blind $0.50
+rampurge: posts big blind $1.00
+*** HOLE CARDS ***
+Dealt to rampurge [2d 2s]
+stuckbox: folds
+mc: raises $1.50 to $2.50
+rmikol: folds
+krafty: folds
+Lloydering: calls $2.50
+jid: calls $2.50
+Zubin: folds
+rampurge: calls $1.50
+*** FLOP *** [6c Tc 2h]
+rampurge: checks
+mc: bets $3.50
+Lloydering: folds
+jid: folds
+rampurge: calls $3.50
+*** TURN *** [6c Tc 2h] [9c]
+rampurge: checks
+mc: bets $12.00
+rampurge: raises $18.75 to $30.75
+mc: calls $18.75
+*** RIVER *** [6c Tc 2h 9c] [8s]
+rampurge: bets $38.50
+mc: calls $38.50
+mc: shows [6h 6s]
+*** SHOW DOWN ***
+mc collected $156.00 from pot
+rampurge: shows [2d 2s]
+krafty: shows [2c Ts]
+*** SUMMARY ***
+Total pot: $156.00 | Rake 0
+Board [6c Tc 2h 9c 8s]
+Seat 1: Zubin (small blind) folded before Flop
+Seat 2: rampurge (big blind) showed [2d 2s] and lost with three of a kind, Deuces
+Seat 3: stuckbox folded before Flop (didn't bet)
+Seat 4: mc showed [6h 6s] and won ($156.00) with three of a kind, Sixes
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty folded before Flop (didn't bet) [2c Ts]
+Seat 8: Lloydering folded on the Flop
+Seat 9: jid (button) folded on the Flop
+
+
+
+PokerStars Hand #12930851903634254618: Hold'em No Limit ($0.00/$1.00 USD) - 2024/05/30 04:37:38 GMT
+Table 'PNLogConverter' 10-max Seat #1 is the button
+Seat 1: Zubin ($191.76 in chips)
+Seat 3: stuckbox ($154.86 in chips)
+Seat 4: mc ($249.38 in chips)
+Seat 7: krafty ($419.94 in chips)
+Seat 8: Lloydering ($414.79 in chips)
+Seat 9: jid ($125.99 in chips)
+stuckbox: posts big blind $1.00
+*** HOLE CARDS ***
+mc: folds
+krafty: calls $1.00
+Lloydering: folds
+jid: folds
+Zubin: folds
+stuckbox: raises $3.00 to $4.00
+krafty: calls $3.00
+*** FLOP *** [6c Jd Qh]
+stuckbox: bets $2.00
+krafty: calls $2.00
+*** TURN *** [6c Jd Qh] [7s]
+stuckbox: bets $4.00
+krafty: calls $4.00
+*** RIVER *** [6c Jd Qh 7s] [5c]
+stuckbox: checks
+krafty: checks
+stuckbox: shows [Ts Td]
+*** SHOW DOWN ***
+stuckbox collected $20.00 from pot
+krafty: shows [7d 9d]
+*** SUMMARY ***
+Total pot: $20.00 | Rake 0
+Board [6c Jd Qh 7s 5c]
+Seat 1: Zubin (button) folded before Flop (didn't bet)
+Seat 3: stuckbox (big blind) showed [Ts Td] and won ($20.00) with a pair of Tens
+Seat 4: mc folded before Flop (didn't bet)
+Seat 7: krafty showed [7d 9d] and lost with a pair of Sevens
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: jid folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #12493856198887098273: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:38:40 GMT
+Table 'PNLogConverter' 10-max Seat #2 is the button
+Seat 1: Zubin ($191.76 in chips)
+Seat 3: stuckbox ($164.86 in chips)
+Seat 4: mc ($249.38 in chips)
+Seat 6: rmikol ($150.00 in chips)
+Seat 7: krafty ($409.94 in chips)
+Seat 8: Lloydering ($414.79 in chips)
+Seat 9: jid ($125.99 in chips)
+stuckbox: posts small blind $0.50
+mc: posts big blind $1.00
+*** HOLE CARDS ***
+rmikol: folds
+krafty: calls $1.00
+Lloydering: folds
+jid: calls $1.00
+Zubin: calls $1.00
+stuckbox: calls $0.50
+mc: raises $6.00 to $7.00
+krafty: calls $6.00
+jid: folds
+Zubin: calls $6.00
+stuckbox: folds
+*** FLOP *** [7s Th Kh]
+mc: bets $8.00
+krafty: folds
+Zubin: calls $8.00
+*** TURN *** [7s Th Kh] [Qs]
+mc: checks
+Zubin: bets $22.00
+mc: folds
+Uncalled bet ($22.00) returned to Zubin
+*** SHOW DOWN ***
+Zubin collected $39.00 from pot
+*** SUMMARY ***
+Total pot: $39.00 | Rake 0
+Board [7s Th Kh Qs]
+Seat 1: Zubin collected ($39.00)
+Seat 3: stuckbox (small blind) folded before Flop
+Seat 4: mc (big blind) folded on the Turn
+Seat 6: rmikol folded before Flop (didn't bet)
+Seat 7: krafty folded on the Flop
+Seat 8: Lloydering folded before Flop (didn't bet)
+Seat 9: jid folded before Flop
+
+
+
+PokerStars Hand #10751397227064296107: Hold'em No Limit ($0.50/$1.00 USD) - 2024/05/30 04:40:00 GMT
+Table 'PNLogConverter' 10-max Seat #3 is the button
+Seat 1: Zubin ($215.76 in chips)
+Seat 3: stuckbox ($163.86 in chips)
+Seat 4: mc ($234.38 in chips)
+Seat 6: rmikol ($150.00 in chips)
+Seat 7: krafty ($402.94 in chips)
+Seat 8: Lloydering ($414.79 in chips)
+Seat 9: jid ($124.99 in chips)
+mc: posts small blind $0.50
+rmikol: posts big blind $1.00
+*** HOLE CARDS ***
+krafty: calls $1.00
+Lloydering: calls $1.00
+jid: calls $1.00
+Zubin: folds
+stuckbox: calls $1.00
+mc: folds
+rmikol: checks
+*** FLOP *** [Ac 8d Ts]
+rmikol: checks
+krafty: checks
+Lloydering: checks
+jid: checks
+stuckbox: checks
+*** TURN *** [Ac 8d Ts] [3d]
+rmikol: checks
+krafty: checks
+Lloydering: bets $2.75
+jid: folds
+stuckbox: calls $2.75
+rmikol: folds
+krafty: calls $2.75
+*** RIVER *** [Ac 8d Ts 3d] [Ks]
+krafty: checks
+Lloydering: checks
+stuckbox: checks
+Lloydering: shows [Th Qd]
+*** SHOW DOWN ***
+Lloydering collected $13.75 from pot
+krafty: shows [9d Qs]
+*** SUMMARY ***
+Total pot: $13.75 | Rake 0
+Board [Ac 8d Ts 3d Ks]
+Seat 1: Zubin folded before Flop (didn't bet)
+Seat 3: stuckbox (button) didn't show and lost
+Seat 4: mc (small blind) folded before Flop
+Seat 6: rmikol (big blind) folded on the Turn
+Seat 7: krafty showed [9d Qs] and lost with high card Ace
+Seat 8: Lloydering showed [Th Qd] and won ($13.75) with a pair of Tens
+Seat 9: jid folded on the Turn
+
+
+
